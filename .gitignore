@@ -1,0 +1,15 @@
+# Raw sources (too large, regenerable from wikisource)
+raw/
+
+# SQLite databases (binary, tracked by taskdb)
+*.db
+*.db-wal
+*.db-shm
+
+# Query outputs (generated)
+wiki/outputs/
+
+# OS
+.DS_Store
+__pycache__/
+*.lock
