@@ -8,7 +8,8 @@
       "孔子",
       "斯文",
       "聖人",
-      "儒家"
+      "儒家",
+      "部:經"
     ],
     "sources": [
       {
@@ -21,6 +22,26 @@
     ]
   },
   {
+    "slug": "一言僨事一人定國",
+    "title": "一言僨事一人定國",
+    "summary": "一人言行，足以傾覆邦國或安定天下。",
+    "tags": [
+      "大學",
+      "儒學",
+      "政治哲學",
+      "成語"
+    ],
+    "sources": [
+      {
+        "chapter": "大學 (證釋本)",
+        "plugin": "wikisource",
+        "title": "禮記 · 大學 (證釋本)",
+        "url": "https://zh.wikisource.org/wiki/禮記/大學 (證釋本)",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "七十里為政於天下",
     "title": "七十里為政於天下",
     "summary": "Mencius cited Tang's rule over all under heaven with only seventy li, showing that benevolent government, not territory, determines legitimate sovereignty.",
@@ -29,7 +50,8 @@
       "仁政",
       "湯",
       "得一民心",
-      "梁惠王下"
+      "梁惠王下",
+      "部:經"
     ],
     "sources": [
       {
@@ -46,9 +68,36 @@
     "title": "三年之喪",
     "summary": "稱情而立文，為至痛極也，孝子送死之定制。",
     "tags": [
-      "禮",
+      "儒學",
       "喪禮",
-      "儒學"
+      "禮",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      },
+      {
+        "chapter": "喪服四制",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪服四制",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪服四制",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "三年之隆",
+    "title": "三年之隆",
+    "summary": "三年以為隆，緦小功以為殺，期九月以為間，隆殺有差。",
+    "tags": [
+      "喪禮",
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -61,19 +110,62 @@
     ]
   },
   {
-    "slug": "三年之隆",
-    "title": "三年之隆",
-    "summary": "三年以為隆，緦小功以為殺，期九月以為間，隆殺有差。",
+    "slug": "三日不生亦不生矣",
+    "title": "三日不生亦不生矣 / Three Days Without Revival Means No Revival",
+    "summary": "喪禮三日而斂，以俟其生；三日而不生則孝子之心亦衰，此聖人制禮之本意。",
     "tags": [
       "喪禮",
-      "儒學"
+      "禮記",
+      "人情",
+      "哀死"
     ],
     "sources": [
       {
-        "chapter": "三年問",
+        "chapter": "問喪",
         "plugin": "wikisource",
-        "title": "禮記 · 三年問",
-        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "title": "禮記 · 問喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/問喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "三日成服",
+    "title": "三日成服",
+    "summary": "奔喪之禮，三日而成服，五哭而事畢。",
+    "tags": [
+      "奔喪",
+      "成服",
+      "哭禮"
+    ],
+    "sources": [
+      {
+        "chapter": "奔喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 奔喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "三無",
+    "title": "三無",
+    "summary": "無聲之樂、無體之禮、無服之喪，至道之所在。",
+    "tags": [
+      "禮樂",
+      "至道",
+      "喪禮",
+      "天道",
+      "治道",
+      "聖人"
+    ],
+    "sources": [
+      {
+        "chapter": "孔子閒居",
+        "plugin": "wikisource",
+        "title": "禮記 · 孔子閒居",
+        "url": "https://zh.wikisource.org/wiki/禮記/孔子閒居",
         "work": "禮記"
       }
     ]
@@ -85,7 +177,8 @@
     "tags": [
       "儒行",
       "修身",
-      "出處"
+      "出處",
+      "部:子"
     ],
     "sources": [
       {
@@ -130,7 +223,7 @@
       "禮",
       "萬章下",
       "賢人",
-      "部:子"
+      "部:經"
     ],
     "sources": [
       {
@@ -197,7 +290,8 @@
     "tags": [
       "儒行",
       "修身",
-      "志節"
+      "志節",
+      "部:史"
     ],
     "sources": [
       {
@@ -316,7 +410,8 @@
       "梁惠王",
       "王道",
       "寓言",
-      "政治哲學"
+      "政治哲學",
+      "部:子"
     ],
     "sources": [
       {
@@ -351,6 +446,44 @@
     ]
   },
   {
+    "slug": "五至",
+    "title": "五至",
+    "summary": "志、詩、禮、樂、哀，五者相至相通，塞乎天地。",
+    "tags": [
+      "禮樂",
+      "心志",
+      "詩教"
+    ],
+    "sources": [
+      {
+        "chapter": "孔子閒居",
+        "plugin": "wikisource",
+        "title": "禮記 · 孔子閒居",
+        "url": "https://zh.wikisource.org/wiki/禮記/孔子閒居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "五起",
+    "title": "五起",
+    "summary": "三無之義有五層漸進，自氣志不違而至施及孫子。",
+    "tags": [
+      "禮樂",
+      "修身",
+      "教化"
+    ],
+    "sources": [
+      {
+        "chapter": "孔子閒居",
+        "plugin": "wikisource",
+        "title": "禮記 · 孔子閒居",
+        "url": "https://zh.wikisource.org/wiki/禮記/孔子閒居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "五霸罪人",
     "title": "五霸罪人",
     "summary": "五霸非王道，乃諸侯之罪人；今之大夫，又諸侯之罪人。 pentarchy as criminals of the Three Kings.",
@@ -379,7 +512,8 @@
       "孟子",
       "人禽之辨",
       "仁義",
-      "性"
+      "性",
+      "部:經"
     ],
     "sources": [
       {
@@ -416,8 +550,9 @@
     "title": "人道之至文",
     "summary": "三年之喪，禮之至文，乃百王古今之所同。",
     "tags": [
+      "儒學",
       "禮",
-      "儒學"
+      "部:子"
     ],
     "sources": [
       {
@@ -425,6 +560,13 @@
         "plugin": "wikisource",
         "title": "禮記 · 三年問",
         "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      },
+      {
+        "chapter": "大傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 大傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/大傳",
         "work": "禮記"
       }
     ]
@@ -449,6 +591,13 @@
         "plugin": "wikisource",
         "title": "禮記 · 仲尼燕居",
         "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      },
+      {
+        "chapter": "哀公問",
+        "plugin": "wikisource",
+        "title": "禮記 · 哀公問",
+        "url": "https://zh.wikisource.org/wiki/禮記/哀公問",
         "work": "禮記"
       }
     ]
@@ -517,7 +666,8 @@
     "tags": [
       "孟子",
       "王道",
-      "善"
+      "善",
+      "部:子"
     ],
     "sources": [
       {
@@ -534,9 +684,9 @@
     "title": "以德行仁者王",
     "summary": "以力假仁者霸，必有大國；以德行仁者王，不待大。霸道非心服，力不贍故；王道心悅誠服，如七十子之服孔子。",
     "tags": [
-      "王霸",
       "仁政",
       "德治",
+      "王霸",
       "部:子"
     ],
     "sources": [
@@ -546,6 +696,13 @@
         "title": "孟子 · 公孫丑上",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
         "work": "孟子"
+      },
+      {
+        "chapter": "喪服四制",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪服四制",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪服四制",
+        "work": "禮記"
       }
     ]
   },
@@ -557,7 +714,8 @@
       "孟子",
       "解經學",
       "文學理論",
-      "儒學"
+      "儒學",
+      "部:史"
     ],
     "sources": [
       {
@@ -627,7 +785,8 @@
       "仁義",
       "利",
       "梁惠王",
-      "政治哲學"
+      "政治哲學",
+      "部:經"
     ],
     "sources": [
       {
@@ -664,9 +823,9 @@
     "title": "修身",
     "summary": "存養心性以正身形，乃齊家治國之本",
     "tags": [
-      "大學",
-      "八條目",
       "修身",
+      "八條目",
+      "大學",
       "治平",
       "部:經"
     ],
@@ -677,6 +836,13 @@
         "title": "大學",
         "url": "https://zh.wikisource.org/wiki/大學",
         "work": "大學"
+      },
+      {
+        "chapter": "哀公問",
+        "plugin": "wikisource",
+        "title": "禮記 · 哀公問",
+        "url": "https://zh.wikisource.org/wiki/禮記/哀公問",
+        "work": "禮記"
       }
     ]
   },
@@ -687,7 +853,8 @@
     "tags": [
       "儒行",
       "修身",
-      "義利"
+      "義利",
+      "部:子"
     ],
     "sources": [
       {
@@ -704,9 +871,9 @@
     "title": "先進後進",
     "summary": "夫子自謂從先進之禮樂，不從後進之溫文。",
     "tags": [
-      "禮樂",
-      "為政",
       "孔子",
+      "為政",
+      "禮樂",
       "部:經"
     ],
     "sources": [
@@ -716,6 +883,53 @@
         "title": "論語 · 先進第十一",
         "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
         "work": "論語"
+      },
+      {
+        "chapter": "坊記",
+        "plugin": "wikisource",
+        "title": "禮記 · 坊記",
+        "url": "https://zh.wikisource.org/wiki/禮記/坊記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "免麻",
+    "title": "免麻",
+    "summary": "齊衰以下之喪，入門哭，免而袒麻，與主人共禮。",
+    "tags": [
+      "奔喪",
+      "免麻",
+      "衰服"
+    ],
+    "sources": [
+      {
+        "chapter": "奔喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 奔喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "內外之分",
+    "title": "內外之分 / The Division of Inner and Outer / 内外の分かれ",
+    "summary": "The Confucian principle of gender-specific spatial division between males (outer/public) and females (inner/private) in household management.",
+    "tags": [
+      "禮記",
+      "儒家",
+      "倫理",
+      "夫婦",
+      "性別角色"
+    ],
+    "sources": [
+      {
+        "chapter": "內則",
+        "plugin": "wikisource",
+        "title": "禮記 · 內則",
+        "url": "https://zh.wikisource.org/wiki/禮記/內則",
+        "work": "禮記"
       }
     ]
   },
@@ -740,13 +954,102 @@
     ]
   },
   {
+    "slug": "其往送也如慕其反也如疑",
+    "title": "其往送也如慕，其反也如疑 / Like Longing in Going, Like Hesitation in Returning",
+    "summary": "送喪之人，往時如子女之慕親，反時如有求而不得，狀孝子之心於送死之際。",
+    "tags": [
+      "喪禮",
+      "孝道",
+      "禮記",
+      "人情"
+    ],
+    "sources": [
+      {
+        "chapter": "問喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 問喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/問喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "再期之喪",
+    "title": "Mourning Periods and Their Classifications / 再期之喪，三年也",
+    "summary": "The systematic classification of mourning periods according to the Three Seasons framework, ranging from one season to three years.",
+    "tags": [
+      "禮學",
+      "喪服",
+      "喪期",
+      "儒學",
+      "制度"
+    ],
+    "sources": [
+      {
+        "chapter": "喪服小記",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪服小記",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪服小記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "凱弟君子",
+    "title": "凱弟君子",
+    "summary": "詩所述和樂近善之君子，堪為民之父母。",
+    "tags": [
+      "詩教",
+      "君子",
+      "禮樂"
+    ],
+    "sources": [
+      {
+        "chapter": "孔子閒居",
+        "plugin": "wikisource",
+        "title": "禮記 · 孔子閒居",
+        "url": "https://zh.wikisource.org/wiki/禮記/孔子閒居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "別子為祖",
+    "title": "Establishment of Collateral Lines / 別子為祖，繼別為宗",
+    "summary": "The foundational principle of Chinese lineage systems where non-heir sons establish new ancestral lines, creating the major and minor lineages.",
+    "tags": [
+      "儒學",
+      "制度",
+      "喪服",
+      "宗法",
+      "禮學"
+    ],
+    "sources": [
+      {
+        "chapter": "喪服小記",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪服小記",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪服小記",
+        "work": "禮記"
+      },
+      {
+        "chapter": "大傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 大傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/大傳",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "制度在禮",
     "title": "制度在禮",
     "summary": "制度在禮，文為在禮；行之，其在人乎？",
     "tags": [
       "禮",
       "制度",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -764,7 +1067,8 @@
     "summary": "父母之恩加隆，故服再期而倍之。",
     "tags": [
       "喪禮",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -803,7 +1107,8 @@
     "tags": [
       "孟子",
       "為學",
-      "博約"
+      "博約",
+      "部:經"
     ],
     "sources": [
       {
@@ -821,7 +1126,8 @@
     "summary": "聖王制禮，厚葬久喪非以為名，乃稱情而立文。",
     "tags": [
       "喪禮",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -842,7 +1148,8 @@
       "交友",
       "儒學",
       "萬章下",
-      "德"
+      "德",
+      "部:子"
     ],
     "sources": [
       {
@@ -862,7 +1169,8 @@
       "孝",
       "鳥獸",
       "情",
-      "儒學"
+      "儒學",
+      "部:其他"
     ],
     "sources": [
       {
@@ -875,13 +1183,35 @@
     ]
   },
   {
+    "slug": "取妻不取同姓",
+    "title": "Prohibition of Same-Surname Marriage / 取妻不取同姓",
+    "summary": "The Confucian principle prohibiting marriage between individuals of the same surname to maintain distinction and prevent incest.",
+    "tags": [
+      "禮記",
+      "婚姻",
+      "儒學",
+      "倫理",
+      "姓氏"
+    ],
+    "sources": [
+      {
+        "chapter": "坊記",
+        "plugin": "wikisource",
+        "title": "禮記 · 坊記",
+        "url": "https://zh.wikisource.org/wiki/禮記/坊記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "取象天地",
     "title": "取象天地",
     "summary": "禮制上象天，下法地，中則人，以成群居之和。",
     "tags": [
       "禮",
       "儒學",
-      "天人"
+      "天人",
+      "部:經"
     ],
     "sources": [
       {
@@ -900,7 +1230,8 @@
     "tags": [
       "儒行",
       "修身",
-      "志節"
+      "志節",
+      "部:史"
     ],
     "sources": [
       {
@@ -919,7 +1250,8 @@
     "tags": [
       "儒行",
       "修身",
-      "朋友"
+      "朋友",
+      "部:史"
     ],
     "sources": [
       {
@@ -939,7 +1271,8 @@
       "孟子",
       "同道",
       "曾子",
-      "子思"
+      "子思",
+      "部:子"
     ],
     "sources": [
       {
@@ -975,7 +1308,9 @@
     "slug": "君子五教",
     "title": "君子五教 / Five Types of Teaching by the Superior Person / 君子五教",
     "summary": "Mencius's classification of five methods by which the junzi imparts teaching,",
-    "tags": [],
+    "tags": [
+      "部:子"
+    ],
     "sources": [
       {
         "chapter": "盡心上",
@@ -1013,7 +1348,8 @@
     "tags": [
       "禮",
       "君子",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -1026,13 +1362,33 @@
     ]
   },
   {
+    "slug": "哀樂相生",
+    "title": "哀樂相生",
+    "summary": "哀與樂相互感發，詩禮樂之至在乎情之流通。",
+    "tags": [
+      "情",
+      "詩教",
+      "樂教"
+    ],
+    "sources": [
+      {
+        "chapter": "孔子閒居",
+        "plugin": "wikisource",
+        "title": "禮記 · 孔子閒居",
+        "url": "https://zh.wikisource.org/wiki/禮記/孔子閒居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "哀痛未盡思慕未忘",
     "title": "哀痛未盡思慕未忘",
     "summary": "二十五月喪畢，哀痛思慕猶存，乃人情之常。",
     "tags": [
-      "情",
+      "儒學",
       "喪禮",
-      "儒學"
+      "情",
+      "部:經"
     ],
     "sources": [
       {
@@ -1040,6 +1396,51 @@
         "plugin": "wikisource",
         "title": "禮記 · 三年問",
         "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      },
+      {
+        "chapter": "問喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 問喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/問喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "哭者為位",
+    "title": "哭者為位",
+    "summary": "凡為位哭者，視親疏遠近而別哭之禮。",
+    "tags": [
+      "奔喪",
+      "為位",
+      "遠近"
+    ],
+    "sources": [
+      {
+        "chapter": "奔喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 奔喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "哭辟市朝",
+    "title": "哭辟市朝",
+    "summary": "奔喪過國，哭於野以避市朝。",
+    "tags": [
+      "奔喪",
+      "哭禮",
+      "辟嫌"
+    ],
+    "sources": [
+      {
+        "chapter": "奔喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 奔喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
         "work": "禮記"
       }
     ]
@@ -1072,6 +1473,98 @@
     ]
   },
   {
+    "slug": "善問者如攻堅木",
+    "title": "善問者如攻堅木",
+    "summary": "善問之方，先易後難，及其久則自然通解。",
+    "tags": [
+      "為學",
+      "教法",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "善學者師逸功倍",
+    "title": "善學者師逸功倍",
+    "summary": "善學者，師不勤而功倍，且歸功於師。",
+    "tags": [
+      "為學",
+      "師道",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "善待問者如撞鐘",
+    "title": "善待問者如撞鐘",
+    "summary": "善答問者，如鐘之待叩，叩小則小鳴，叩大則大鳴。",
+    "tags": [
+      "教法",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "善歌使人繼其聲",
+    "title": "善歌使人繼其聲",
+    "summary": "善教者使人樂於傳承其志，如善歌者使人繼其聲。",
+    "tags": [
+      "教法",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "嚴師難得",
+    "title": "嚴師難得",
+    "summary": "天下之尊師，難得而可貴。",
+    "tags": [
+      "師道",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "四端",
     "title": "四端",
     "summary": "惻隱、羞惡、辭讓、是非之心，乃仁義禮智之端，猶人之有四肢，擴充則可保四海。",
@@ -1088,6 +1581,30 @@
         "title": "孟子 · 公孫丑上",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "四製",
+    "title": "Four Principles of Mourning / 喪服四製",
+    "summary": "The four governing principles of mourning rituals: benevolence, righteousness, propriety, and adaptability.",
+    "tags": [
+      "禮記",
+      "喪服",
+      "儒學",
+      "儀禮",
+      "仁",
+      "義",
+      "禮",
+      "智"
+    ],
+    "sources": [
+      {
+        "chapter": "喪服四制",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪服四制",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪服四制",
+        "work": "禮記"
       }
     ]
   },
@@ -1112,13 +1629,35 @@
     ]
   },
   {
+    "slug": "坊記",
+    "title": "Fang Ji / 坊記",
+    "summary": "A chapter from the Book of Rites (Liji) discussing the preventive function of ritual in governing the people.",
+    "tags": [
+      "禮記",
+      "儒學",
+      "治道",
+      "禮儀",
+      "社會倫理"
+    ],
+    "sources": [
+      {
+        "chapter": "坊記",
+        "plugin": "wikisource",
+        "title": "禮記 · 坊記",
+        "url": "https://zh.wikisource.org/wiki/禮記/坊記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "多文以為富",
     "title": "多文以為富",
     "summary": "儒者不求金玉之積，唯以學問文章為己之財富。",
     "tags": [
       "儒行",
       "修身",
-      "為學"
+      "為學",
+      "部:其他"
     ],
     "sources": [
       {
@@ -1137,7 +1676,8 @@
     "tags": [
       "孟子",
       "理想人格",
-      "儒學"
+      "儒學",
+      "部:子"
     ],
     "sources": [
       {
@@ -1170,6 +1710,26 @@
     ]
   },
   {
+    "slug": "大夫至袒拜成踴",
+    "title": "大夫至袒拜成踴",
+    "summary": "奔喪時大夫至則袒拜成踴而後襲，士至則襲而後拜。",
+    "tags": [
+      "奔喪",
+      "大夫",
+      "士",
+      "禮異"
+    ],
+    "sources": [
+      {
+        "chapter": "奔喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 奔喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "大學",
     "title": "大學",
     "summary": "孔門修身治人之學，以明明德、新民、止於至善為綱，格物致知為本",
@@ -1194,6 +1754,76 @@
         "title": "孟子 · 公孫丑上",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
         "work": "孟子"
+      },
+      {
+        "chapter": "大學 (證釋本)",
+        "plugin": "wikisource",
+        "title": "禮記 · 大學 (證釋本)",
+        "url": "https://zh.wikisource.org/wiki/禮記/大學 (證釋本)",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "大學八條目",
+    "title": "The Eight Steps of the Great Learning / 大學八條目",
+    "summary": "The systematic path from self-cultivation to world peace articulated in the Great Learning.",
+    "tags": [
+      "儒學",
+      "大學",
+      "修身",
+      "治國",
+      "哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "大學",
+        "plugin": "wikisource",
+        "title": "禮記 · 大學",
+        "url": "https://zh.wikisource.org/wiki/禮記/大學",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "大宗小宗",
+    "title": "大宗小宗 / The Great and Small Lineages",
+    "summary": "The dual lineage system in Chinese ancestral organization, distinguishing permanent (great) and transitional (small) clans.",
+    "tags": [
+      "宗法",
+      "禮制",
+      "儒家",
+      "祖先崇拜",
+      "社會制度"
+    ],
+    "sources": [
+      {
+        "chapter": "大傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 大傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/大傳",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "大斂",
+    "title": "大斂 / Major Encoffining",
+    "summary": "The second-stage encoffining ritual placing the body in the coffin, with detailed regulations for different social ranks.",
+    "tags": [
+      "禮記",
+      "喪禮",
+      "斂禮",
+      "儒學",
+      "中國古代禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "喪大記",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪大記",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪大記",
+        "work": "禮記"
       }
     ]
   },
@@ -1224,7 +1854,8 @@
     "tags": [
       "禮",
       "大饗",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -1245,7 +1876,8 @@
       "政治哲學",
       "孟子",
       "離婁上",
-      "齊家治國"
+      "齊家治國",
+      "部:子"
     ],
     "sources": [
       {
@@ -1262,9 +1894,10 @@
     "title": "天下之達喪",
     "summary": "三年之喪，通於上下，為古今一之王制。",
     "tags": [
+      "儒學",
       "喪禮",
       "孔子",
-      "儒學"
+      "部:經"
     ],
     "sources": [
       {
@@ -1272,6 +1905,27 @@
         "plugin": "wikisource",
         "title": "禮記 · 三年問",
         "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      },
+      {
+        "chapter": "喪服四制",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪服四制",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪服四制",
+        "work": "禮記"
+      },
+      {
+        "chapter": "喪服小記",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪服小記",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪服小記",
+        "work": "禮記"
+      },
+      {
+        "chapter": "坊記",
+        "plugin": "wikisource",
+        "title": "禮記 · 坊記",
+        "url": "https://zh.wikisource.org/wiki/禮記/坊記",
         "work": "禮記"
       }
     ]
@@ -1315,6 +1969,86 @@
         "title": "孟子 · 公孫丑下",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "奔喪不及殯",
+    "title": "奔喪不及殯",
+    "summary": "奔喪者不及見殯，則先之墓哭，遂除服而歸。",
+    "tags": [
+      "奔喪",
+      "殯禮",
+      "服製",
+      "除服"
+    ],
+    "sources": [
+      {
+        "chapter": "奔喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 奔喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "奔喪之禮",
+    "title": "奔喪之禮",
+    "summary": "聞親喪則馳歸，日行百里，唯父母喪見星而行。",
+    "tags": [
+      "奔喪",
+      "孝道",
+      "禮制"
+    ],
+    "sources": [
+      {
+        "chapter": "奔喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 奔喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "女子哭泣悲哀擊胸傷心",
+    "title": "女子哭泣悲哀擊胸傷心 / Women Weep and Beat Their Breasts; Men Bow Their Foreheads to the Ground",
+    "summary": "男女哭法不同，各以其儀，女子擊胸以申悲，男子稽顙以盡哀，此喪禮之別也。",
+    "tags": [
+      "喪禮",
+      "男女",
+      "禮記",
+      "禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "問喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 問喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/問喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "子弟教育",
+    "title": "子弟教育 / Education of Children in Confucian Tradition / 子弟教育",
+    "summary": "The age-based curriculum for children's moral and intellectual development from age six through adulthood, as prescribed in the Book of Rites.",
+    "tags": [
+      "禮記",
+      "儒家",
+      "教育",
+      "修身",
+      "蒙學"
+    ],
+    "sources": [
+      {
+        "chapter": "內則",
+        "plugin": "wikisource",
+        "title": "禮記 · 內則",
+        "url": "https://zh.wikisource.org/wiki/禮記/內則",
+        "work": "禮記"
       }
     ]
   },
@@ -1384,9 +2118,9 @@
     "summary": "閔子騫之孝，人無間言，父母兄弟皆稱之。",
     "tags": [
       "孝道",
-      "閔子騫",
       "德行",
-      "部:子"
+      "部:子",
+      "閔子騫"
     ],
     "sources": [
       {
@@ -1395,6 +2129,34 @@
         "title": "論語 · 先進第十一",
         "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
         "work": "論語"
+      },
+      {
+        "chapter": "坊記",
+        "plugin": "wikisource",
+        "title": "禮記 · 坊記",
+        "url": "https://zh.wikisource.org/wiki/禮記/坊記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "孝弟忠順",
+    "title": "孝弟忠順 / Filial Piety, Brotherhood, Loyalty, and Obedience",
+    "summary": "The four cardinal virtues expected of an adult after the capping ceremony, forming the foundation for personal cultivation and social harmony.",
+    "tags": [
+      "冠禮",
+      "儒學",
+      "禮記",
+      "孝道",
+      "四維"
+    ],
+    "sources": [
+      {
+        "chapter": "冠義",
+        "plugin": "wikisource",
+        "title": "禮記 · 冠義",
+        "url": "https://zh.wikisource.org/wiki/禮記/冠義",
+        "work": "禮記"
       }
     ]
   },
@@ -1405,7 +2167,8 @@
     "tags": [
       "儒行",
       "仁",
-      "德目"
+      "德目",
+      "部:子"
     ],
     "sources": [
       {
@@ -1424,7 +2187,8 @@
     "tags": [
       "儒行",
       "仁",
-      "德目"
+      "德目",
+      "部:子"
     ],
     "sources": [
       {
@@ -1432,6 +2196,46 @@
         "plugin": "wikisource",
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "尊師",
+    "title": "尊師",
+    "summary": "師與君同尊，天子詔於師亦北面。",
+    "tags": [
+      "師道",
+      "儒學",
+      "禮制"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "小斂",
+    "title": "小斂 / Minor Encoffining",
+    "summary": "The first-stage encoffining ritual where the body is wrapped in burial garments, documented in the Book of Rites.",
+    "tags": [
+      "禮記",
+      "喪禮",
+      "斂禮",
+      "儒學",
+      "中國古代禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "喪大記",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪大記",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪大記",
         "work": "禮記"
       }
     ]
@@ -1463,7 +2267,8 @@
     "tags": [
       "儒行",
       "修身",
-      "處世"
+      "處世",
+      "部:其他"
     ],
     "sources": [
       {
@@ -1471,6 +2276,24 @@
         "plugin": "wikisource",
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "強而弗抑",
+    "title": "強而弗抑",
+    "summary": "勉勵之而不挫折之，使學者易於自強。",
+    "tags": [
+      "教法",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
         "work": "禮記"
       }
     ]
@@ -1484,7 +2307,8 @@
       "天人關係",
       "修身",
       "儒家哲學",
-      "形體論"
+      "形體論",
+      "部:經"
     ],
     "sources": [
       {
@@ -1518,6 +2342,27 @@
     ]
   },
   {
+    "slug": "復",
+    "title": "復 / Soul-Calling Ritual",
+    "summary": "The ancient Chinese ritual of calling back the soul of the dying or deceased through clothing elevation.",
+    "tags": [
+      "禮記",
+      "喪禮",
+      "儒學",
+      "儀節",
+      "中國古代禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "喪大記",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪大記",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪大記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "德之流行",
     "title": "德之流行",
     "summary": "德之流行，速於置郵而傳命。",
@@ -1545,7 +2390,8 @@
       "孟子",
       "周公",
       "聖人",
-      "治道"
+      "治道",
+      "部:子"
     ],
     "sources": [
       {
@@ -1565,7 +2411,8 @@
       "孟子",
       "心性",
       "儒學",
-      "哲學"
+      "哲學",
+      "部:經"
     ],
     "sources": [
       {
@@ -1585,7 +2432,8 @@
       "孟子",
       "為政",
       "經濟倫理",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -1598,6 +2446,90 @@
     ]
   },
   {
+    "slug": "恩掩義",
+    "title": "Benevolence Obscures Righteousness / 恩掩義",
+    "summary": "The principle that within the family, familial affection takes precedence over strict righteousness in moral governance.",
+    "tags": [
+      "禮記",
+      "儒學",
+      "仁",
+      "義",
+      "門內",
+      "治道",
+      "恩義"
+    ],
+    "sources": [
+      {
+        "chapter": "喪服四制",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪服四制",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪服四制",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "愛人為大",
+    "title": "愛人為大 / Loving People Is Paramount",
+    "summary": "Confucius states that loving people is the greatest principle in governance, with ritual as its standard and reverence as its culmination.",
+    "tags": [
+      "為政",
+      "仁",
+      "孔子",
+      "禮記",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "哀公問",
+        "plugin": "wikisource",
+        "title": "禮記 · 哀公問",
+        "url": "https://zh.wikisource.org/wiki/禮記/哀公問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "成人之道",
+    "title": "成人之道 / The Way of Becoming an Adult",
+    "summary": "The Confucian principle that the capping ceremony marks the transition to adulthood and the attendant responsibilities of filial piety, brotherhood, loyalty, and obedience.",
+    "tags": [
+      "冠禮",
+      "儒學",
+      "禮記",
+      "成人",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "冠義",
+        "plugin": "wikisource",
+        "title": "禮記 · 冠義",
+        "url": "https://zh.wikisource.org/wiki/禮記/冠義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "所識者吊",
+    "title": "所識者吊",
+    "summary": "所相識者喪，先哭其家而後之墓，皆成踴從主人。",
+    "tags": [
+      "奔喪",
+      "吊禮",
+      "所識"
+    ],
+    "sources": [
+      {
+        "chapter": "奔喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 奔喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "推恩",
     "title": "Extending Kindness / 推恩",
     "summary": "孟子謂推恩足以保四海，不推恩無以保妻子，由近及遠，達於天下。",
@@ -1606,7 +2538,8 @@
       "齊宣王",
       "仁政",
       "德治",
-      "修身"
+      "修身",
+      "部:經"
     ],
     "sources": [
       {
@@ -1659,13 +2592,191 @@
     ]
   },
   {
+    "slug": "收族",
+    "title": "收族 / Clan Consolidation",
+    "summary": "The process of gathering and uniting the clan through reverence for the lineage head, forming the social foundation of Confucian order.",
+    "tags": [
+      "宗法",
+      "社會秩序",
+      "禮制",
+      "儒家政治",
+      "宗族"
+    ],
+    "sources": [
+      {
+        "chapter": "大傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 大傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/大傳",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "政者正也",
+    "title": "政者正也 / Governance Is Rectification",
+    "summary": "Confucius defines governance as rectification, arguing that when the ruler is upright, the people will follow.",
+    "tags": [
+      "為政",
+      "修身",
+      "孔子",
+      "禮記",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "哀公問",
+        "plugin": "wikisource",
+        "title": "禮記 · 哀公問",
+        "url": "https://zh.wikisource.org/wiki/禮記/哀公問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "教之六廢",
+    "title": "教之六廢",
+    "summary": "教化所以廢敗者六，君子當戒之。",
+    "tags": [
+      "教育",
+      "教法",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "教之四興",
+    "title": "教之四興",
+    "summary": "預禁、時可、遜施、觀摩，乃教化之所由興。",
+    "tags": [
+      "教育",
+      "教法",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "教之大倫",
+    "title": "教之大倫",
+    "summary": "大學施教之七事，乃教化之正軌。",
+    "tags": [
+      "教育",
+      "大學",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "教學為先",
+    "title": "教學為先",
+    "summary": "建國君民，以教學為首務。",
+    "tags": [
+      "教育",
+      "治國",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "教學相長",
+    "title": "教學相長",
+    "summary": "教與學相互促進，乃教育之正道。",
+    "tags": [
+      "教育",
+      "教法",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "敬孫務時敏",
+    "title": "敬孫務時敏",
+    "summary": "敬慎遜讓，務求及時而疾行，則學之修為乃可至。",
+    "tags": [
+      "為學",
+      "德行",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "敬宗",
+    "title": "敬宗 / Revering the Lineage Head",
+    "summary": "The Confucian virtue of honoring the lineage head as the expression of ancestor veneration, leading to clan consolidation and social order.",
+    "tags": [
+      "宗法",
+      "禮制",
+      "祖先崇拜",
+      "儒家美德",
+      "修身齊家"
+    ],
+    "sources": [
+      {
+        "chapter": "大傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 大傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/大傳",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "敬慎",
     "title": "敬慎者仁之地",
     "summary": "恭敬謹慎，乃仁道之所積聚，溫良之次也。",
     "tags": [
       "儒行",
       "仁",
-      "德目"
+      "德目",
+      "部:子"
     ],
     "sources": [
       {
@@ -1698,6 +2809,27 @@
     ]
   },
   {
+    "slug": "日新之教",
+    "title": "The Teachings of Daily Renewal / 日新之教",
+    "summary": "The Confucian imperative of continuous moral self-renewal, exemplified by the inscription on King Tang's washbasin.",
+    "tags": [
+      "儒學",
+      "大學",
+      "修身",
+      "自新",
+      "湯"
+    ],
+    "sources": [
+      {
+        "chapter": "大學",
+        "plugin": "wikisource",
+        "title": "禮記 · 大學",
+        "url": "https://zh.wikisource.org/wiki/禮記/大學",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "明乎郊社之義",
     "title": "明乎郊社之義",
     "summary": "明乎郊社之義、嘗禘之禮，治國其如指諸掌。",
@@ -1705,7 +2837,8 @@
       "禮",
       "治國",
       "郊社",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -1746,7 +2879,8 @@
       "禮",
       "樂",
       "治國",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -1785,7 +2919,8 @@
     "tags": [
       "孟子",
       "同道",
-      "聖人"
+      "聖人",
+      "部:經"
     ],
     "sources": [
       {
@@ -1822,7 +2957,8 @@
       "孝",
       "鳥獸",
       "情",
-      "儒學"
+      "儒學",
+      "部:其他"
     ],
     "sources": [
       {
@@ -1835,13 +2971,35 @@
     ]
   },
   {
+    "slug": "本末之辨",
+    "title": "Root and Branch Discrimination / 本末之辨",
+    "summary": "The Confucian distinction between virtue as the root and wealth as the branches, central to the Great Learning's teaching on governance.",
+    "tags": [
+      "儒學",
+      "大學",
+      "德治",
+      "義利之辨",
+      "治國"
+    ],
+    "sources": [
+      {
+        "chapter": "大學",
+        "plugin": "wikisource",
+        "title": "禮記 · 大學",
+        "url": "https://zh.wikisource.org/wiki/禮記/大學",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "枉尺直尋",
     "title": "枉尺直尋",
     "summary": "孟子以「枉尺而直尋」之說，反對為求大利而枉屈正道之觀點。",
     "tags": [
       "孟子",
       "修身",
-      "義利之辨"
+      "義利之辨",
+      "部:子"
     ],
     "sources": [
       {
@@ -1881,7 +3039,8 @@
       "孟子",
       "教化",
       "修身",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -1930,6 +3089,13 @@
         "title": "大學",
         "url": "https://zh.wikisource.org/wiki/大學",
         "work": "大學"
+      },
+      {
+        "chapter": "大學 (證釋本)",
+        "plugin": "wikisource",
+        "title": "禮記 · 大學 (證釋本)",
+        "url": "https://zh.wikisource.org/wiki/禮記/大學 (證釋本)",
+        "work": "禮記"
       }
     ]
   },
@@ -1960,7 +3126,8 @@
     "tags": [
       "儒行",
       "修身",
-      "處世"
+      "處世",
+      "部:其他"
     ],
     "sources": [
       {
@@ -1973,6 +3140,25 @@
     ]
   },
   {
+    "slug": "民之父母",
+    "title": "民之父母",
+    "summary": "君子治民若父母保育赤子，先知四方之敗。",
+    "tags": [
+      "仁政",
+      "治道",
+      "禮樂"
+    ],
+    "sources": [
+      {
+        "chapter": "孔子閒居",
+        "plugin": "wikisource",
+        "title": "禮記 · 孔子閒居",
+        "url": "https://zh.wikisource.org/wiki/禮記/孔子閒居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "民事不可緩",
     "title": "民事不可緩 / 民事不可緩",
     "summary": "The principle that governing affairs of the people admits no delay; the foundation of Mencian political philosophy.",
@@ -1980,7 +3166,8 @@
       "孟子",
       "為政",
       "民本",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2018,7 +3205,8 @@
     "summary": "The four forms of destructive royal pleasure-seeking described by Yan Ying: drifting downstream, chasing upstream, endless hunting, and endless drinking.",
     "tags": [
       "孟子",
-      ""
+      "",
+      "部:經"
     ],
     "sources": [
       {
@@ -2057,7 +3245,8 @@
     "tags": [
       "孟子",
       "修身",
-      "為學"
+      "為學",
+      "部:子"
     ],
     "sources": [
       {
@@ -2077,7 +3266,8 @@
       "孟子",
       "比喩",
       "修身",
-      "學"
+      "學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2096,7 +3286,8 @@
     "tags": [
       "儒行",
       "仁",
-      "德目"
+      "德目",
+      "部:子"
     ],
     "sources": [
       {
@@ -2115,7 +3306,8 @@
     "tags": [
       "儒行",
       "修身",
-      "涵養"
+      "涵養",
+      "部:子"
     ],
     "sources": [
       {
@@ -2134,7 +3326,8 @@
     "tags": [
       "喪禮",
       "情",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2147,6 +3340,44 @@
     ]
   },
   {
+    "slug": "無服為位",
+    "title": "無服為位",
+    "summary": "無喪服之親而為位哭者，唯嫂叔及降服之婦。",
+    "tags": [
+      "奔喪",
+      "無服",
+      "為位"
+    ],
+    "sources": [
+      {
+        "chapter": "奔喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 奔喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "父在父主父沒兄弟主",
+    "title": "父在父主父沒兄弟主",
+    "summary": "喪主之禮，父在則父主，父沒則兄弟同居各主其喪。",
+    "tags": [
+      "奔喪",
+      "喪主",
+      "禮制"
+    ],
+    "sources": [
+      {
+        "chapter": "奔喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 奔喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "父母三年",
     "title": "父母三年",
     "summary": "子生三年免於父母懷，故為父母服三年之喪。",
@@ -2154,7 +3385,8 @@
       "孝",
       "喪禮",
       "孔子",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2175,7 +3407,8 @@
       "儒學",
       "心性",
       "良心",
-      "牛山"
+      "牛山",
+      "部:經"
     ],
     "sources": [
       {
@@ -2196,7 +3429,8 @@
       "修身",
       "儒家的出世觀",
       "儒家哲學",
-      "達則兼善天下"
+      "達則兼善天下",
+      "部:經"
     ],
     "sources": [
       {
@@ -2217,7 +3451,8 @@
       "梁惠王",
       "批判",
       "政治倫理",
-      "虐政"
+      "虐政",
+      "部:經"
     ],
     "sources": [
       {
@@ -2283,6 +3518,27 @@
         "title": "孟子 · 公孫丑上",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
         "work": "孟子"
+      },
+      {
+        "chapter": "冠義",
+        "plugin": "wikisource",
+        "title": "禮記 · 冠義",
+        "url": "https://zh.wikisource.org/wiki/禮記/冠義",
+        "work": "禮記"
+      },
+      {
+        "chapter": "哀公問",
+        "plugin": "wikisource",
+        "title": "禮記 · 哀公問",
+        "url": "https://zh.wikisource.org/wiki/禮記/哀公問",
+        "work": "禮記"
+      },
+      {
+        "chapter": "坊記",
+        "plugin": "wikisource",
+        "title": "禮記 · 坊記",
+        "url": "https://zh.wikisource.org/wiki/禮記/坊記",
+        "work": "禮記"
       }
     ]
   },
@@ -2293,7 +3549,8 @@
     "tags": [
       "禮",
       "治亂",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2306,6 +3563,26 @@
     ]
   },
   {
+    "slug": "禮以坊德",
+    "title": "Using Ritual to Dam Up Virtue / 禮以坊德",
+    "summary": "A principle from the Book of Rites advocating ritual propriety as a preventive mechanism against moral decline.",
+    "tags": [
+      "禮記",
+      "儒學",
+      "倫理",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "坊記",
+        "plugin": "wikisource",
+        "title": "禮記 · 坊記",
+        "url": "https://zh.wikisource.org/wiki/禮記/坊記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "禮所以制中",
     "title": "禮所以制中",
     "summary": "禮者，所以節制人情，使其無過不及也。",
@@ -2313,7 +3590,8 @@
       "禮",
       "中",
       "中庸",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2332,7 +3610,8 @@
     "tags": [
       "禮",
       "治國",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2352,7 +3631,8 @@
       "禮",
       "樂",
       "理",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2371,7 +3651,8 @@
     "tags": [
       "禮",
       "仁",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2390,7 +3671,8 @@
     "tags": [
       "禮",
       "情文",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2409,7 +3691,8 @@
     "tags": [
       "禮",
       "中庸",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2417,6 +3700,26 @@
         "plugin": "wikisource",
         "title": "禮記 · 三年問",
         "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "絜矩之道",
+    "title": "絜矩之道",
+    "summary": "治天下者當以己之心度人之心，上下左右無所乖戾。",
+    "tags": [
+      "大學",
+      "儒學",
+      "政治哲學",
+      "恕道"
+    ],
+    "sources": [
+      {
+        "chapter": "大學 (證釋本)",
+        "plugin": "wikisource",
+        "title": "禮記 · 大學 (證釋本)",
+        "url": "https://zh.wikisource.org/wiki/禮記/大學 (證釋本)",
         "work": "禮記"
       }
     ]
@@ -2430,7 +3733,8 @@
       "齊宣王",
       "寓言",
       "政治哲學",
-      "批評"
+      "批評",
+      "部:經"
     ],
     "sources": [
       {
@@ -2468,7 +3772,8 @@
       "聖人",
       "孔子",
       "萬章下",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2504,7 +3809,8 @@
     "tags": [
       "儒行",
       "修身",
-      "朋友"
+      "朋友",
+      "部:其他"
     ],
     "sources": [
       {
@@ -2512,6 +3818,25 @@
         "plugin": "wikisource",
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "聞喪不得奔",
+    "title": "聞喪不得奔",
+    "summary": "不得奔喪而為位哭，與奔喪者禮同。",
+    "tags": [
+      "奔喪",
+      "聞喪",
+      "為位"
+    ],
+    "sources": [
+      {
+        "chapter": "奔喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 奔喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
         "work": "禮記"
       }
     ]
@@ -2537,6 +3862,25 @@
     ]
   },
   {
+    "slug": "聞遠兄弟之喪",
+    "title": "聞遠兄弟之喪",
+    "summary": "遠方兄弟之喪，於除服後乃聞，當免袒成踴。",
+    "tags": [
+      "奔喪",
+      "兄弟",
+      "遠喪"
+    ],
+    "sources": [
+      {
+        "chapter": "奔喪",
+        "plugin": "wikisource",
+        "title": "禮記 · 奔喪",
+        "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "聲聞過情",
     "title": "聲聞過情",
     "summary": "名過乎實，君子恥之。",
@@ -2544,7 +3888,8 @@
       "孟子",
       "名實",
       "修身",
-      "恥"
+      "恥",
+      "部:經"
     ],
     "sources": [
       {
@@ -2553,6 +3898,25 @@
         "title": "孟子 · 離婁下",
         "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "聽語",
+    "title": "聽語",
+    "summary": "記問之學不足為師，必也聽語，俟其不能問而後告之。",
+    "tags": [
+      "師道",
+      "儒學",
+      "教法"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
       }
     ]
   },
@@ -2583,7 +3947,8 @@
     "tags": [
       "孝",
       "情",
-      "儒學"
+      "儒學",
+      "部:其他"
     ],
     "sources": [
       {
@@ -2601,7 +3966,8 @@
     "summary": "至親之喪，以一期為斷，示天地四時已更。",
     "tags": [
       "喪禮",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2629,7 +3995,8 @@
     "tags": [
       "喪禮",
       "孔子",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2669,7 +4036,8 @@
       "孟子",
       "仁政",
       "君民關係",
-      "梁惠王下"
+      "梁惠王下",
+      "部:經"
     ],
     "sources": [
       {
@@ -2690,7 +4058,8 @@
       "儒學",
       "性命",
       "義",
-      "道德哲學"
+      "道德哲學",
+      "部:子"
     ],
     "sources": [
       {
@@ -2703,6 +4072,25 @@
     ]
   },
   {
+    "slug": "良冶學為裘",
+    "title": "良冶學為裘",
+    "summary": "良匠之子必學世業以通其道，教人亦當因其所能而啟之。",
+    "tags": [
+      "教法",
+      "儒學",
+      "傳承"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "萬物皆備於我",
     "title": "萬物皆備於我 / All Things Are Complete Within Me / 萬物皆備於我",
     "summary": "A core Mencian teaching that all virtues and moral capacities are inherently present within every person, requiring only reflective inquiry to realize them.",
@@ -2710,7 +4098,8 @@
       "孟子",
       "修身",
       "儒家哲學",
-      "心性論"
+      "心性論",
+      "部:經"
     ],
     "sources": [
       {
@@ -2719,6 +4108,25 @@
         "title": "孟子 · 盡心上",
         "url": "https://zh.wikisource.org/wiki/孟子/盡心上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "藏焉修焉息焉游焉",
+    "title": "藏焉修焉息焉游焉",
+    "summary": "君子之於學，藏之於心，修之於行，息之於暇，游之於時。",
+    "tags": [
+      "教育",
+      "為學",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
       }
     ]
   },
@@ -2763,13 +4171,35 @@
     ]
   },
   {
+    "slug": "親親以三為五",
+    "title": "Graduated Kinship Mourning / 親親以三為五，以五為九",
+    "summary": "The principle of graduated mourning obligations based on kinship distance, extending from immediate family to the ninth degree.",
+    "tags": [
+      "禮學",
+      "喪服",
+      "宗法",
+      "儒學",
+      "人倫"
+    ],
+    "sources": [
+      {
+        "chapter": "喪服小記",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪服小記",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪服小記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "言而履之禮",
     "title": "言而履之禮",
     "summary": "言而履之謂之禮，行而樂之謂之樂。",
     "tags": [
       "禮",
       "樂",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2827,6 +4257,13 @@
         "title": "大學",
         "url": "https://zh.wikisource.org/wiki/大學",
         "work": "大學"
+      },
+      {
+        "chapter": "大學 (證釋本)",
+        "plugin": "wikisource",
+        "title": "禮記 · 大學 (證釋本)",
+        "url": "https://zh.wikisource.org/wiki/禮記/大學 (證釋本)",
+        "work": "禮記"
       }
     ]
   },
@@ -2839,7 +4276,8 @@
       "大人",
       "士",
       "儒學",
-      "修身"
+      "修身",
+      "部:經"
     ],
     "sources": [
       {
@@ -2898,7 +4336,8 @@
     "tags": [
       "孟子",
       "大人",
-      "心性"
+      "心性",
+      "部:子"
     ],
     "sources": [
       {
@@ -2917,7 +4356,8 @@
     "tags": [
       "儒行",
       "修身",
-      "志節"
+      "志節",
+      "部:史"
     ],
     "sources": [
       {
@@ -2936,7 +4376,8 @@
     "tags": [
       "禮",
       "倫理",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2953,8 +4394,9 @@
     "title": "送死有已復生有節",
     "summary": "送死有節，復生有期，喪期已盡，當復其常。",
     "tags": [
+      "儒學",
       "喪禮",
-      "儒學"
+      "部:經"
     ],
     "sources": [
       {
@@ -2962,6 +4404,13 @@
         "plugin": "wikisource",
         "title": "禮記 · 三年問",
         "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      },
+      {
+        "chapter": "喪服小記",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪服小記",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪服小記",
         "work": "禮記"
       }
     ]
@@ -2973,7 +4422,8 @@
     "tags": [
       "孟子",
       "孝道",
-      "喪禮"
+      "喪禮",
+      "部:經"
     ],
     "sources": [
       {
@@ -3027,6 +4477,61 @@
     ]
   },
   {
+    "slug": "道而弗牽",
+    "title": "道而弗牽",
+    "summary": "教人當引導之而不強拽之，使學者樂於趨道。",
+    "tags": [
+      "教法",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "長善救失",
+    "title": "長善救失",
+    "summary": "教育之本，在於發揚人之善端，救正人之過失。",
+    "tags": [
+      "教法",
+      "儒學",
+      "教育"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "開而弗達",
+    "title": "開而弗達",
+    "summary": "啟發之而不遽告之，使學者深思而自得。",
+    "tags": [
+      "教法",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "學記",
+        "plugin": "wikisource",
+        "title": "禮記 · 學記",
+        "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "閔子侍側",
     "title": "閔子侍側",
     "summary": "閔子、子路、冉有、子貢，各有氣象，夫子樂之。",
@@ -3054,7 +4559,8 @@
       "孟子",
       "修身",
       "廉潔",
-      "批判"
+      "批判",
+      "部:子"
     ],
     "sources": [
       {
@@ -3095,7 +4601,8 @@
       "儒學",
       "人性",
       "普遍性",
-      "四端"
+      "四端",
+      "部:經"
     ],
     "sources": [
       {
@@ -3155,7 +4662,8 @@
       "孟子",
       "舜",
       "安貧樂道",
-      "修身"
+      "修身",
+      "部:子"
     ],
     "sources": [
       {
@@ -3175,7 +4683,8 @@
       "孟子",
       "修身",
       "寡欲",
-      "存心"
+      "存心",
+      "部:經"
     ],
     "sources": [
       {
@@ -3184,6 +4693,27 @@
         "title": "孟子 · 盡心下",
         "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "養老之禮",
+    "title": "養老之禮 / Rites for the Elderly / 养老の礼",
+    "summary": "The comprehensive system of honoring, supporting, and caring for the elderly at various life stages, as codified in classical Confucian texts.",
+    "tags": [
+      "禮記",
+      "儒家",
+      "孝道",
+      "老吾老",
+      "禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "內則",
+        "plugin": "wikisource",
+        "title": "禮記 · 內則",
+        "url": "https://zh.wikisource.org/wiki/禮記/內則",
+        "work": "禮記"
       }
     ]
   },
