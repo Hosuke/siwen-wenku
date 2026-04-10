@@ -1,5 +1,232 @@
 [
   {
+    "slug": "wen-wang-ji-mo",
+    "title": "文王既沒文不在茲乎",
+    "summary": "Confucius's declaration that the cultural tradition resides in him after King Wen's passing, exemplifying his sense of mission to transmit the Way.",
+    "tags": [
+      "論語",
+      "孔子",
+      "斯文",
+      "聖人",
+      "儒家"
+    ],
+    "sources": [
+      {
+        "created": "2026-04-10T11:11:40.689608+00:00",
+        "plugin": "qa",
+        "question": "文王既沒，文不在茲乎？ 何意味？",
+        "title": "文王既沒，文不在茲乎？ 何意味？",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "slug": "七十里為政於天下",
+    "title": "七十里為政於天下",
+    "summary": "Mencius cited Tang's rule over all under heaven with only seventy li, showing that benevolent government, not territory, determines legitimate sovereignty.",
+    "tags": [
+      "孟子",
+      "仁政",
+      "湯",
+      "得一民心",
+      "梁惠王下"
+    ],
+    "sources": [
+      {
+        "chapter": "梁惠王下",
+        "plugin": "wikisource",
+        "title": "孟子 · 梁惠王下",
+        "url": "https://zh.wikisource.org/wiki/孟子/梁惠王下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "三年之喪",
+    "title": "三年之喪",
+    "summary": "稱情而立文，為至痛極也，孝子送死之定制。",
+    "tags": [
+      "禮",
+      "喪禮",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "三年之隆",
+    "title": "三年之隆",
+    "summary": "三年以為隆，緦小功以為殺，期九月以為間，隆殺有差。",
+    "tags": [
+      "喪禮",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "上不臣天子",
+    "title": "上不臣天子下不事諸侯",
+    "summary": "儒者有超然於世功名利祿之外者，雖分國如錙銖，不臣不仕。",
+    "tags": [
+      "儒行",
+      "修身",
+      "出處"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "不動心",
+    "title": "不動心",
+    "summary": "孟子四十不動心，告子先之。其要在持其志而勿暴其氣。",
+    "tags": [
+      "修身",
+      "孟子",
+      "志氣",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "不召之臣",
+    "title": "不召之臣",
+    "summary": "大有為之君，當親就賢臣，不可輕召。",
+    "tags": [
+      "儒學",
+      "君臣",
+      "孟子",
+      "尊賢",
+      "治道",
+      "禮",
+      "萬章下",
+      "賢人",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑下",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑下",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑下",
+        "work": "孟子"
+      },
+      {
+        "chapter": "萬章下",
+        "plugin": "wikisource",
+        "title": "孟子 · 萬章下",
+        "url": "https://zh.wikisource.org/wiki/孟子/萬章下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "不忍人之心",
+    "title": "不忍人之心",
+    "summary": "人皆有怵惕惻隱之心，先王本此心以行不忍人之政，故治天下可運之掌上。",
+    "tags": [
+      "心性",
+      "仁政",
+      "孟子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "不怨天不尤人",
+    "title": "不怨天，不尤人",
+    "summary": "君子之於得失，歸諸天命，不歸咎於人。",
+    "tags": [
+      "修身",
+      "天命",
+      "君子",
+      "孟子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑下",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑下",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "不隕獲於貧賤",
+    "title": "不隕獲於貧賤不充詘於富貴",
+    "summary": "儒者於貧賤不失其守，於富貴不增其傲，終始一節。",
+    "tags": [
+      "儒行",
+      "修身",
+      "志節"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "中庸-概論-之",
+    "title": "中庸-概論-之",
+    "summary": "",
+    "tags": [
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
     "slug": "中庸-概論",
     "title": "中庸",
     "summary": "述天命、性、道、教之旨，明中和、誠明之義，兼論君子修身及聖人之道。",
@@ -21,30 +248,2538 @@
     ]
   },
   {
-    "slug": "擇善而固執之",
-    "title": "擇善而固執之",
-    "summary": "A Confucian concept of steadfastly pursuing goodness through diligent learning and self-cultivation.",
+    "slug": "乘勢待時",
+    "title": "乘勢待時",
+    "summary": "雖有智慧，不如乘勢；雖有鎡基，不如待時。時機既至而行王政，功半古之人必倍之。",
     "tags": [
-      "儒學",
-      "中庸",
-      "修身",
-      "stub"
+      "天時",
+      "孟子",
+      "王道",
+      "部:子"
     ],
-    "sources": []
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "九經",
+    "title": "九經",
+    "summary": "治天下國家之九常法：脩身、尊賢、親親、敬大臣、體群臣、子庶民、來百工、柔遠人、懷諸侯。",
+    "tags": [
+      "治國",
+      "天下",
+      "九經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中庸",
+        "plugin": "wikisource",
+        "title": "禮記/中庸 · 中庸",
+        "url": "https://zh.wikisource.org/wiki/禮記/中庸",
+        "work": "禮記/中庸"
+      }
+    ]
+  },
+  {
+    "slug": "事人與事鬼",
+    "title": "事人與事鬼",
+    "summary": "未能事人，焉能事鬼；未知生，焉知死。",
+    "tags": [
+      "鬼神",
+      "生死",
+      "孔子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "五十步笑百步",
+    "title": "Fifty Steps Mocking One Hundred / 五十步笑百步",
+    "summary": "孟子以五十步笑百步之喻，批評梁惠王移民移粟之政與鄰國無異，皆非王道。",
+    "tags": [
+      "孟子",
+      "梁惠王",
+      "王道",
+      "寓言",
+      "政治哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "梁惠王上",
+        "plugin": "wikisource",
+        "title": "孟子 · 梁惠王上",
+        "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "五百年必有王者興",
+    "title": "五百年必有王者興",
+    "summary": "天命五百年間必有聖王及名世者出，己身適逢其時，當仁不讓。",
+    "tags": [
+      "天命",
+      "王道",
+      "聖人",
+      "歷史觀",
+      "孟子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑下",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑下",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "五霸罪人",
+    "title": "五霸罪人",
+    "summary": "五霸非王道，乃諸侯之罪人；今之大夫，又諸侯之罪人。 pentarchy as criminals of the Three Kings.",
+    "tags": [
+      "孟子",
+      "五霸",
+      "王道",
+      "政治哲學",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "告子下",
+        "plugin": "wikisource",
+        "title": "孟子 · 告子下",
+        "url": "https://zh.wikisource.org/wiki/孟子/告子下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "人之所以異於禽獸者幾希",
+    "title": "人之所以異於禽獸者幾希",
+    "summary": "人禽之別，在於仁義，其分也微。",
+    "tags": [
+      "孟子",
+      "人禽之辨",
+      "仁義",
+      "性"
+    ],
+    "sources": [
+      {
+        "chapter": "離婁下",
+        "plugin": "wikisource",
+        "title": "孟子 · 離婁下",
+        "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "人皆可以為堯舜",
+    "title": "人皆可以為堯舜",
+    "summary": "堯舜之道，非有他也，孝弟而已。",
+    "tags": [
+      "孟子",
+      "堯舜",
+      "修身",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "告子下",
+        "plugin": "wikisource",
+        "title": "孟子 · 告子下",
+        "url": "https://zh.wikisource.org/wiki/孟子/告子下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "人道之至文",
+    "title": "人道之至文",
+    "summary": "三年之喪，禮之至文，乃百王古今之所同。",
+    "tags": [
+      "禮",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "仁-儒學-之",
+    "title": "仁-儒學-之",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      },
+      {
+        "chapter": "仲尼燕居",
+        "plugin": "wikisource",
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "仁者如射",
+    "title": "仁者如射",
+    "summary": "仁者如射，射者正己而後發，發而不中，不怨勝己者，反求諸己而已矣。",
+    "tags": [
+      "修身",
+      "仁",
+      "射",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "今之良臣古之民賊",
+    "title": "今之良臣古之民賊",
+    "summary": "能闢土地充府庫之臣，實古之所謂民賊也。",
+    "tags": [
+      "孟子",
+      "臣道",
+      "批判",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "告子下",
+        "plugin": "wikisource",
+        "title": "孟子 · 告子下",
+        "url": "https://zh.wikisource.org/wiki/孟子/告子下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "仍舊貫",
+    "title": "仍舊貫",
+    "summary": "閔子騫以為仍用舊制，何必改作；夫子稱其言必中。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "以善養人",
+    "title": "以善養人",
+    "summary": "以善服人者未能服人，以善養人者然後能服天下。",
+    "tags": [
+      "孟子",
+      "王道",
+      "善"
+    ],
+    "sources": [
+      {
+        "chapter": "離婁下",
+        "plugin": "wikisource",
+        "title": "孟子 · 離婁下",
+        "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "以德行仁者王",
+    "title": "以德行仁者王",
+    "summary": "以力假仁者霸，必有大國；以德行仁者王，不待大。霸道非心服，力不贍故；王道心悅誠服，如七十子之服孔子。",
+    "tags": [
+      "王霸",
+      "仁政",
+      "德治",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "以意逆志",
+    "title": "以意逆志 / Interpretation Through Intention / 意を以って志を逆らう",
+    "summary": "A hermeneutical principle that one should grasp the author's true intention by intuiting meaning rather than being bound by literal wording.",
+    "tags": [
+      "孟子",
+      "解經學",
+      "文學理論",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "萬章上",
+        "plugin": "wikisource",
+        "title": "孟子 · 萬章上",
+        "url": "https://zh.wikisource.org/wiki/孟子/萬章上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "以燕伐燕",
+    "title": "以燕伐燕",
+    "summary": "誅暴伐無道，必待天吏；若以燕伐燕，是同類相殘，不足為義師。",
+    "tags": [
+      "征伐",
+      "義戰",
+      "天吏",
+      "燕",
+      "孟子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑下",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑下",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "伯夷隘",
+    "title": "伯夷隘",
+    "summary": "伯夷非其君不事，然其心狹隘；柳下惠不羞污君，然其行不恭。隘與不恭，君子不由。",
+    "tags": [
+      "伯夷",
+      "柳下惠",
+      "中行",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      },
+      {
+        "chapter": "告子下",
+        "plugin": "wikisource",
+        "title": "孟子 · 告子下",
+        "url": "https://zh.wikisource.org/wiki/孟子/告子下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "何必曰利",
+    "title": "何必曰利 / On Not Speaking of Profit",
+    "summary": "孟子以利與仁義對舉，謂上下交征利則國危，惟行仁義可以王天下。",
+    "tags": [
+      "孟子",
+      "仁義",
+      "利",
+      "梁惠王",
+      "政治哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "梁惠王上",
+        "plugin": "wikisource",
+        "title": "孟子 · 梁惠王上",
+        "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "侍坐言志",
+    "title": "侍坐言志",
+    "summary": "孔門四子侍坐，各言其志，夫子深許曾皙之沂浴。",
+    "tags": [
+      "曾皙",
+      "志向",
+      "孔子",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "修身",
+    "title": "修身",
+    "summary": "存養心性以正身形，乃齊家治國之本",
+    "tags": [
+      "大學",
+      "八條目",
+      "修身",
+      "治平",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "大學",
+        "url": "https://zh.wikisource.org/wiki/大學",
+        "work": "大學"
+      }
+    ]
+  },
+  {
+    "slug": "先勞而後祿",
+    "title": "先勞而後祿",
+    "summary": "儒者先盡其道而後受其祿，不以祿為先圖。",
+    "tags": [
+      "儒行",
+      "修身",
+      "義利"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "先進後進",
+    "title": "先進後進",
+    "summary": "夫子自謂從先進之禮樂，不從後進之溫文。",
+    "tags": [
+      "禮樂",
+      "為政",
+      "孔子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "內形於外",
+    "title": "內形於外",
+    "summary": "有諸內者，必形諸外；賢否之效，自然而著。",
+    "tags": [
+      "孟子",
+      "觀人",
+      "道德",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "告子下",
+        "plugin": "wikisource",
+        "title": "孟子 · 告子下",
+        "url": "https://zh.wikisource.org/wiki/孟子/告子下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "制度在禮",
+    "title": "制度在禮",
+    "summary": "制度在禮，文為在禮；行之，其在人乎？",
+    "tags": [
+      "禮",
+      "制度",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼燕居",
+        "plugin": "wikisource",
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "加隆倍之",
+    "title": "加隆倍之",
+    "summary": "父母之恩加隆，故服再期而倍之。",
+    "tags": [
+      "喪禮",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "升堂入室",
+    "title": "升堂入室",
+    "summary": "學道由淺入深，如入門升堂以入於室也。",
+    "tags": [
+      "學問",
+      "進境",
+      "修身",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "博學詳說",
+    "title": "博學詳說",
+    "summary": "博學而詳說者，將以反說約也。",
+    "tags": [
+      "孟子",
+      "為學",
+      "博約"
+    ],
+    "sources": [
+      {
+        "chapter": "離婁下",
+        "plugin": "wikisource",
+        "title": "孟子 · 離婁下",
+        "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "厚葬久喪",
+    "title": "厚葬久喪",
+    "summary": "聖王制禮，厚葬久喪非以為名，乃稱情而立文。",
+    "tags": [
+      "喪禮",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "友其德",
+    "title": "友其德 / Friendship Based on Virtue",
+    "summary": "孟子提出交友之道在於「友其德」，強調友誼當以德行相交，不挾長、不挾貴、不挾兄弟，超越地位與權勢。",
+    "tags": [
+      "孟子",
+      "交友",
+      "儒學",
+      "萬章下",
+      "德"
+    ],
+    "sources": [
+      {
+        "chapter": "萬章下",
+        "plugin": "wikisource",
+        "title": "孟子 · 萬章下",
+        "url": "https://zh.wikisource.org/wiki/孟子/萬章下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "反巡故鄉",
+    "title": "反巡故鄉",
+    "summary": "鳥獸失群，猶過故鄉而翔回鳴號，況人於父母之親。",
+    "tags": [
+      "孝",
+      "鳥獸",
+      "情",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "取象天地",
+    "title": "取象天地",
+    "summary": "禮制上象天，下法地，中則人，以成群居之和。",
+    "tags": [
+      "禮",
+      "儒學",
+      "天人"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "可殺不可辱",
+    "title": "可殺而不可辱",
+    "summary": "儒者以人格尊嚴為重，視死亡猶可受，而屈辱則不可受。",
+    "tags": [
+      "儒行",
+      "修身",
+      "志節"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "合志同方",
+    "title": "合志同方營道同術",
+    "summary": "儒者交友，以志同道合為基礎，道不同則相與退。",
+    "tags": [
+      "儒行",
+      "修身",
+      "朋友"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "同道-孟子",
+    "title": "同道",
+    "summary": "賢人同道，師也父兄、臣也微者，皆可以易地皆然。",
+    "tags": [
+      "孟子",
+      "同道",
+      "曾子",
+      "子思"
+    ],
+    "sources": [
+      {
+        "chapter": "離婁下",
+        "plugin": "wikisource",
+        "title": "孟子 · 離婁下",
+        "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "君子不由",
+    "title": "君子不由",
+    "summary": "伯夷隘，柳下惠不恭，隘與不恭，君子不由。言中行之道，介於二者之間者為貴。",
+    "tags": [
+      "中行",
+      "伯夷",
+      "柳下惠",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "君子五教",
+    "title": "君子五教 / Five Types of Teaching by the Superior Person / 君子五教",
+    "summary": "Mencius's classification of five methods by which the junzi imparts teaching,",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "盡心上",
+        "plugin": "wikisource",
+        "title": "孟子 · 盡心上",
+        "url": "https://zh.wikisource.org/wiki/孟子/盡心上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "君子所為",
+    "title": "君子所為",
+    "summary": "君子之行，非眾人所能識；務在其志，不在其跡。",
+    "tags": [
+      "孟子",
+      "君子",
+      "聖人",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "告子下",
+        "plugin": "wikisource",
+        "title": "孟子 · 告子下",
+        "url": "https://zh.wikisource.org/wiki/孟子/告子下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "君子無物而不在禮",
+    "title": "君子無物而不在禮",
+    "summary": "君子動靜語默，皆不離乎禮，無物不在其中。",
+    "tags": [
+      "禮",
+      "君子",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼燕居",
+        "plugin": "wikisource",
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "哀痛未盡思慕未忘",
+    "title": "哀痛未盡思慕未忘",
+    "summary": "二十五月喪畢，哀痛思慕猶存，乃人情之常。",
+    "tags": [
+      "情",
+      "喪禮",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "善人",
+    "title": "善人",
+    "summary": "善人不行聖跡，不能入室；聖人則不然。",
+    "tags": [
+      "善人",
+      "聖人",
+      "踐跡",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      },
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "四端",
+    "title": "四端",
+    "summary": "惻隱、羞惡、辭讓、是非之心，乃仁義禮智之端，猶人之有四肢，擴充則可保四海。",
+    "tags": [
+      "心性",
+      "孟子",
+      "仁義",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "回何敢死",
+    "title": "回何敢死",
+    "summary": "夫子以為顏淵死，顏淵則言子在故不敢死。",
+    "tags": [
+      "顏淵",
+      "師生",
+      "情義",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "多文以為富",
+    "title": "多文以為富",
+    "summary": "儒者不求金玉之積，唯以學問文章為己之財富。",
+    "tags": [
+      "儒行",
+      "修身",
+      "為學"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "大丈夫",
+    "title": "大丈夫 / The True Great Man",
+    "summary": "孟子提出的理想人格標準：居天下廣居，立天下正位，行天下大道，富貴不能淫，貧賤不能移，威武不能屈。",
+    "tags": [
+      "孟子",
+      "理想人格",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "滕文公下",
+        "plugin": "wikisource",
+        "title": "孟子 · 滕文公下",
+        "url": "https://zh.wikisource.org/wiki/孟子/滕文公下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "大勇",
+    "title": "大勇",
+    "summary": "自反而縮，雖千萬人吾往矣，是為大勇。",
+    "tags": [
+      "勇",
+      "孟子",
+      "修身",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "大學",
+    "title": "大學",
+    "summary": "孔門修身治人之學，以明明德、新民、止於至善為綱，格物致知為本",
+    "tags": [
+      "四書",
+      "儒學",
+      "修身",
+      "治平",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "大學",
+        "url": "https://zh.wikisource.org/wiki/大學",
+        "work": "大學"
+      },
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "大臣具臣",
+    "title": "大臣具臣",
+    "summary": "以道事君，不可則止，是之謂大臣；具臣則不然。",
+    "tags": [
+      "大臣",
+      "事君",
+      "孔子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "大饗有四",
+    "title": "大饗有四",
+    "summary": "禮猶有九焉，大饗有四；苟知此矣，雖在畎畝之中事之，聖人已。",
+    "tags": [
+      "禮",
+      "大饗",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼燕居",
+        "plugin": "wikisource",
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "天下之本",
+    "title": "天下之本 / 天子の根本",
+    "summary": "A Confucian political philosophy establishing the hierarchical relationship: the world derives from the state, the state from the family, and the family from the self.",
+    "tags": [
+      "儒家",
+      "政治哲學",
+      "孟子",
+      "離婁上",
+      "齊家治國"
+    ],
+    "sources": [
+      {
+        "chapter": "離婁上",
+        "plugin": "wikisource",
+        "title": "孟子 · 離婁上",
+        "url": "https://zh.wikisource.org/wiki/孟子/離婁上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "天下之達喪",
+    "title": "天下之達喪",
+    "summary": "三年之喪，通於上下，為古今一之王制。",
+    "tags": [
+      "喪禮",
+      "孔子",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "天命之謂性",
+    "title": "天命之謂性",
+    "summary": "言天之所命即為人性，此中庸首章之要旨，明性出於天，人當率性以行道。",
+    "tags": [
+      "天命",
+      "人性",
+      "儒學根原",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中庸",
+        "plugin": "wikisource",
+        "title": "禮記/中庸 · 中庸",
+        "url": "https://zh.wikisource.org/wiki/禮記/中庸",
+        "work": "禮記/中庸"
+      }
+    ]
+  },
+  {
+    "slug": "天時不如地利",
+    "title": "天時不如地利",
+    "summary": "天時地形之便，皆不及人心之和合。",
+    "tags": [
+      "治道",
+      "人和",
+      "天時",
+      "地利",
+      "孟子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑下",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑下",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "子羔為宰",
+    "title": "子羔為宰",
+    "summary": "子路使子羔為費宰，夫子以為賊夫人之子。",
+    "tags": [
+      "子路",
+      "子羔",
+      "為學",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "孔門四科",
+    "title": "孔門四科",
+    "summary": "德行、言語、政事、文學，夫子教人之分科也。",
+    "tags": [
+      "孔門",
+      "教育",
+      "四科",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "孔門四稟",
+    "title": "孔門四稟",
+    "summary": "柴也愚，參也魯，師也辟，由也喭，各稟異也。",
+    "tags": [
+      "孔門",
+      "弟子",
+      "稟性",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "孝哉閔子騫",
+    "title": "孝哉閔子騫",
+    "summary": "閔子騫之孝，人無間言，父母兄弟皆稱之。",
+    "tags": [
+      "孝道",
+      "閔子騫",
+      "德行",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "孫接",
+    "title": "孫接者仁之能",
+    "summary": "遜順交接，乃仁道之能事，成己之後所以合物者也。",
+    "tags": [
+      "儒行",
+      "仁",
+      "德目"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "寬裕",
+    "title": "寬裕者仁之作",
+    "summary": "寬廣從容，乃仁道之運作施為，承上啟下之功。",
+    "tags": [
+      "儒行",
+      "仁",
+      "德目"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "屢空",
+    "title": "屢空",
+    "summary": "顏淵家貧屢空，冉有不受命而貨殖。",
+    "tags": [
+      "顏淵",
+      "冉有",
+      "贫富",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "席上之珍",
+    "title": "席上之珍以待聘",
+    "summary": "儒者懷才待時，備珍寶於坐席之上，以應邦國之聘。",
+    "tags": [
+      "儒行",
+      "修身",
+      "處世"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "形色天性",
+    "title": "形色天性 / Body Form as Heavenly Nature / 形色天性",
+    "summary": "Mencius's doctrine that physical appearance and bodily form are expressions of heavenly nature, making embodied existence the necessary condition for moral cultivation.",
+    "tags": [
+      "孟子",
+      "天人關係",
+      "修身",
+      "儒家哲學",
+      "形體論"
+    ],
+    "sources": [
+      {
+        "chapter": "盡心上",
+        "plugin": "wikisource",
+        "title": "孟子 · 盡心上",
+        "url": "https://zh.wikisource.org/wiki/孟子/盡心上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "得道多助",
+    "title": "得道者多助，失道者寡助",
+    "summary": "行道者天下順之，失道者親戚畔之，君子仗義，戰無不克。",
+    "tags": [
+      "治道",
+      "道義",
+      "得道",
+      "孟子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑下",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑下",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "德之流行",
+    "title": "德之流行",
+    "summary": "德之流行，速於置郵而傳命。",
+    "tags": [
+      "德",
+      "孔子",
+      "詩",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "思兼三王",
+    "title": "思兼三王",
+    "summary": "周公思兼三王，以施四事，仰而思之夜以繼日。",
+    "tags": [
+      "孟子",
+      "周公",
+      "聖人",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "離婁下",
+        "plugin": "wikisource",
+        "title": "孟子 · 離婁下",
+        "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "性善",
+    "title": "性善 / 性善說",
+    "summary": "Mencius's doctrine that human nature is inherently good, rooted in the four sprouts of virtue.",
+    "tags": [
+      "孟子",
+      "心性",
+      "儒學",
+      "哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "滕文公上",
+        "plugin": "wikisource",
+        "title": "孟子 · 滕文公上",
+        "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "恒產恆心",
+    "title": "恒產恆心 / 恒產與恆心",
+    "summary": "Mencius's doctrine that stable property creates stable virtue; the material basis of moral character.",
+    "tags": [
+      "孟子",
+      "為政",
+      "經濟倫理",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "滕文公上",
+        "plugin": "wikisource",
+        "title": "孟子 · 滕文公上",
+        "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "推恩",
+    "title": "Extending Kindness / 推恩",
+    "summary": "孟子謂推恩足以保四海，不推恩無以保妻子，由近及遠，達於天下。",
+    "tags": [
+      "孟子",
+      "齊宣王",
+      "仁政",
+      "德治",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "梁惠王上",
+        "plugin": "wikisource",
+        "title": "孟子 · 梁惠王上",
+        "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "揆之本末",
+    "title": "揆之本末",
+    "summary": "比較二者，當先齊其本末，不可以輕重失衡。",
+    "tags": [
+      "孟子",
+      "論辯",
+      "哲學方法",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "告子下",
+        "plugin": "wikisource",
+        "title": "孟子 · 告子下",
+        "url": "https://zh.wikisource.org/wiki/孟子/告子下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "揠苗助長",
+    "title": "揠苗助長",
+    "summary": "宋人揠苗以助長，非徒無益而又害之。養氣亦然，勿助長也。",
+    "tags": [
+      "寓言",
+      "孟子",
+      "修身",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "敬慎",
+    "title": "敬慎者仁之地",
+    "summary": "恭敬謹慎，乃仁道之所積聚，溫良之次也。",
+    "tags": [
+      "儒行",
+      "仁",
+      "德目"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "新民",
+    "title": "新民",
+    "summary": "使民革故鼎新，同趨於善",
+    "tags": [
+      "大學",
+      "三綱領",
+      "治平",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "大學",
+        "url": "https://zh.wikisource.org/wiki/大學",
+        "work": "大學"
+      }
+    ]
+  },
+  {
+    "slug": "明乎郊社之義",
+    "title": "明乎郊社之義",
+    "summary": "明乎郊社之義、嘗禘之禮，治國其如指諸掌。",
+    "tags": [
+      "禮",
+      "治國",
+      "郊社",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼燕居",
+        "plugin": "wikisource",
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "明善誠身",
+    "title": "明善誠身",
+    "summary": "誠身在於明善，不明乎善則不能誠身，此人道脩身之序，由內而外，自近及遠。",
+    "tags": [
+      "明善",
+      "誠身",
+      "修身",
+      "人道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "中庸",
+        "plugin": "wikisource",
+        "title": "禮記/中庸 · 中庸",
+        "url": "https://zh.wikisource.org/wiki/禮記/中庸",
+        "work": "禮記/中庸"
+      }
+    ]
+  },
+  {
+    "slug": "明於禮樂舉而錯之",
+    "title": "明於禮樂舉而錯之",
+    "summary": "君子明於禮樂，舉而錯之，則天下太平。",
+    "tags": [
+      "禮",
+      "樂",
+      "治國",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼燕居",
+        "plugin": "wikisource",
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "明明德",
+    "title": "明明德",
+    "summary": "顯明固有之善德，使不蔽於私欲",
+    "tags": [
+      "大學",
+      "三綱領",
+      "修身",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "大學",
+        "url": "https://zh.wikisource.org/wiki/大學",
+        "work": "大學"
+      }
+    ]
+  },
+  {
+    "slug": "易地皆然",
+    "title": "易地皆然",
+    "summary": "君子同道，雖易地而準則一也。",
+    "tags": [
+      "孟子",
+      "同道",
+      "聖人"
+    ],
+    "sources": [
+      {
+        "chapter": "離婁下",
+        "plugin": "wikisource",
+        "title": "孟子 · 離婁下",
+        "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "智-儒學-之",
+    "title": "智-儒學-之",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "曾鳥獸之不若",
+    "title": "曾鳥獸之不若",
+    "summary": "鳥獸失群，猶有啁噍之頃；人若朝死夕忘，則不若鳥獸。",
+    "tags": [
+      "孝",
+      "鳥獸",
+      "情",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "枉尺直尋",
+    "title": "枉尺直尋",
+    "summary": "孟子以「枉尺而直尋」之說，反對為求大利而枉屈正道之觀點。",
+    "tags": [
+      "孟子",
+      "修身",
+      "義利之辨"
+    ],
+    "sources": [
+      {
+        "chapter": "滕文公下",
+        "plugin": "wikisource",
+        "title": "孟子 · 滕文公下",
+        "url": "https://zh.wikisource.org/wiki/孟子/滕文公下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "格物致知",
+    "title": "格物致知",
+    "summary": "窮究事物之理，以臻吾心之知",
+    "tags": [
+      "大學",
+      "八條目",
+      "認識論",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "大學",
+        "url": "https://zh.wikisource.org/wiki/大學",
+        "work": "大學"
+      }
+    ]
+  },
+  {
+    "slug": "梓匠規矩",
+    "title": "Craftsman's Rules / 梓匠輪輿能與人規矩",
+    "summary": "Mencius uses the analogy of craftsmen sharing tools but not skill, to illustrate that moral instruction provides principles but cannot transmit virtue.",
+    "tags": [
+      "孟子",
+      "教化",
+      "修身",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "盡心下",
+        "plugin": "wikisource",
+        "title": "孟子 · 盡心下",
+        "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "止於至善",
+    "title": "止於至善",
+    "summary": "居止於至善之地而不遷，此為人道之極致",
+    "tags": [
+      "大學",
+      "三綱領",
+      "修身",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "大學",
+        "url": "https://zh.wikisource.org/wiki/大學",
+        "work": "大學"
+      }
+    ]
+  },
+  {
+    "slug": "正心",
+    "title": "正心",
+    "summary": "去喜怒哀樂之偏，使心有所主而不蔽",
+    "tags": [
+      "大學",
+      "八條目",
+      "修身",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "大學",
+        "url": "https://zh.wikisource.org/wiki/大學",
+        "work": "大學"
+      }
+    ]
+  },
+  {
+    "slug": "殃民",
+    "title": "殃民",
+    "summary": "不教民而用之，謂之殃民，殃民者不容於堯舜之世。",
+    "tags": [
+      "孟子",
+      "治道",
+      "軍事",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "告子下",
+        "plugin": "wikisource",
+        "title": "孟子 · 告子下",
+        "url": "https://zh.wikisource.org/wiki/孟子/告子下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "毀方瓦合",
+    "title": "毀方而瓦合",
+    "summary": "儒者磨去己方之棱角，以與眾合，然内懷方正之心不改。",
+    "tags": [
+      "儒行",
+      "修身",
+      "處世"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "民事不可緩",
+    "title": "民事不可緩 / 民事不可緩",
+    "summary": "The principle that governing affairs of the people admits no delay; the foundation of Mencian political philosophy.",
+    "tags": [
+      "孟子",
+      "為政",
+      "民本",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "滕文公上",
+        "plugin": "wikisource",
+        "title": "孟子 · 滕文公上",
+        "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "沂浴",
+    "title": "沂浴",
+    "summary": "暮春詠歸，曾皙之志，聖人之志也。",
+    "tags": [
+      "曾皙",
+      "志向",
+      "聖人",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "流連荒亡",
+    "title": "流連荒亡",
+    "summary": "The four forms of destructive royal pleasure-seeking described by Yan Ying: drifting downstream, chasing upstream, endless hunting, and endless drinking.",
+    "tags": [
+      "孟子",
+      ""
+    ],
+    "sources": [
+      {
+        "chapter": "梁惠王下",
+        "plugin": "wikisource",
+        "title": "孟子 · 梁惠王下",
+        "url": "https://zh.wikisource.org/wiki/孟子/梁惠王下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "浩然之氣",
+    "title": "浩然之氣",
+    "summary": "至大至剛、塞乎天地之氣，配義與道，集義所生，助長則害之。",
+    "tags": [
+      "氣",
+      "孟子",
+      "修身",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "深造自得",
+    "title": "深造自得",
+    "summary": "君子深造之以道者，欲其自得之也。",
+    "tags": [
+      "孟子",
+      "修身",
+      "為學"
+    ],
+    "sources": [
+      {
+        "chapter": "離婁下",
+        "plugin": "wikisource",
+        "title": "孟子 · 離婁下",
+        "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "源泉混混",
+    "title": "源泉混混",
+    "summary": "喻有本之学，如水有源，滚滚不竭。",
+    "tags": [
+      "孟子",
+      "比喩",
+      "修身",
+      "學"
+    ],
+    "sources": [
+      {
+        "chapter": "離婁下",
+        "plugin": "wikisource",
+        "title": "孟子 · 離婁下",
+        "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "溫良",
+    "title": "溫良者仁之本",
+    "summary": "溫和善良，乃仁道之根本，諸德之所由生。",
+    "tags": [
+      "儒行",
+      "仁",
+      "德目"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "澡身浴德",
+    "title": "澡身而浴德",
+    "summary": "儒者以清水沐浴身體，以道義沐浴心德，滌除尘垢，以待清明。",
+    "tags": [
+      "儒行",
+      "修身",
+      "涵養"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "為至痛極",
+    "title": "為至痛極",
+    "summary": "創深痛甚者日彌久，三年之制，乃為至痛而設。",
+    "tags": [
+      "喪禮",
+      "情",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "父母三年",
+    "title": "父母三年",
+    "summary": "子生三年免於父母懷，故為父母服三年之喪。",
+    "tags": [
+      "孝",
+      "喪禮",
+      "孔子",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "牛山之木",
+    "title": "牛山之木 / The Trees of Niu Mountain",
+    "summary": "Mencius's famous analogy comparing the human heart to the trees on Niu Mountain, which once were beautiful but were stripped bare by axes and grazing.",
+    "tags": [
+      "孟子",
+      "儒學",
+      "心性",
+      "良心",
+      "牛山"
+    ],
+    "sources": [
+      {
+        "chapter": "告子上",
+        "plugin": "wikisource",
+        "title": "孟子 · 告子上",
+        "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "獨善其身",
+    "title": "獨善其身 / Self-Cultivation in Obscurity / 独善其身",
+    "summary": "The Confucian ideal of maintaining personal virtue when unable to serve publicly, contrasted with the ideal of benefiting all when one's talents are realized.",
+    "tags": [
+      "孟子",
+      "修身",
+      "儒家的出世觀",
+      "儒家哲學",
+      "達則兼善天下"
+    ],
+    "sources": [
+      {
+        "chapter": "盡心上",
+        "plugin": "wikisource",
+        "title": "孟子 · 盡心上",
+        "url": "https://zh.wikisource.org/wiki/孟子/盡心上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "率獸食人",
+    "title": "Leading Beasts to Devour People / 率獸食人",
+    "summary": "孟子斥梁惠王之政，謂庖廚肥美而民有饑色，猶率獸以食人，非民之父母所為。",
+    "tags": [
+      "孟子",
+      "梁惠王",
+      "批判",
+      "政治倫理",
+      "虐政"
+    ],
+    "sources": [
+      {
+        "chapter": "梁惠王上",
+        "plugin": "wikisource",
+        "title": "孟子 · 梁惠王上",
+        "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "白圭之誡",
+    "title": "白圭之誡",
+    "summary": "南容誦白圭而謹言，夫子以其慎行妻之。",
+    "tags": [
+      "謹言",
+      "南容",
+      "修身",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "知言",
+    "title": "知言",
+    "summary": "能辨詖、淫、邪、遁之辭，知其所蔽、陷、離、窮，斯可以知聖人矣。",
+    "tags": [
+      "辭命",
+      "孟子",
+      "聖人",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "禮-儒學-之",
+    "title": "禮-儒學-之",
+    "summary": "",
+    "tags": [
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "禮之所興",
+    "title": "禮之所興",
+    "summary": "禮之所興，眾之所治；禮之所廢，眾之所亂。",
+    "tags": [
+      "禮",
+      "治亂",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼燕居",
+        "plugin": "wikisource",
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "禮所以制中",
+    "title": "禮所以制中",
+    "summary": "禮者，所以節制人情，使其無過不及也。",
+    "tags": [
+      "禮",
+      "中",
+      "中庸",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼燕居",
+        "plugin": "wikisource",
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "禮者治之治",
+    "title": "禮者治之治",
+    "summary": "禮者，即事之治也。治國而無禮，則無以相也。",
+    "tags": [
+      "禮",
+      "治國",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼燕居",
+        "plugin": "wikisource",
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "禮者理也",
+    "title": "禮者理也",
+    "summary": "禮者，理也；樂者，節也。無理不動，無節不作。",
+    "tags": [
+      "禮",
+      "樂",
+      "理",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼燕居",
+        "plugin": "wikisource",
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "禮者領惡全好",
+    "title": "禮者領惡全好",
+    "summary": "禮者，領惡而全好，所以仁鬼神、仁昭穆、仁死喪、仁鄉黨、仁賓客。",
+    "tags": [
+      "禮",
+      "仁",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼燕居",
+        "plugin": "wikisource",
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "稱情而立文",
+    "title": "稱情而立文",
+    "summary": "禮文當依人情而立，以飾等威別親疏，不可增減。",
+    "tags": [
+      "禮",
+      "情文",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "立中制節",
+    "title": "立中制節",
+    "summary": "先王立適中之道，以節人情，使文理可成。",
+    "tags": [
+      "禮",
+      "中庸",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "緣木求魚",
+    "title": "Climbing a Tree to Catch Fish / 緣木求魚",
+    "summary": "孟子以緣木求魚喻齊宣王欲闢土地朝秦楚之妄，謂以若所為求若所欲必有災。",
+    "tags": [
+      "孟子",
+      "齊宣王",
+      "寓言",
+      "政治哲學",
+      "批評"
+    ],
+    "sources": [
+      {
+        "chapter": "梁惠王上",
+        "plugin": "wikisource",
+        "title": "孟子 · 梁惠王上",
+        "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "義-儒學-之",
+    "title": "義-儒學-之",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "聖之時者",
+    "title": "聖之時者 / The Sage Who Moves with the Times",
+    "summary": "孔子被孟子稱為「聖之時者」，與伯夷（聖之清者）、伊尹（聖之任者）、柳下惠（聖之和者）並稱，喻其能因時制宜，進退自如。",
+    "tags": [
+      "孟子",
+      "聖人",
+      "孔子",
+      "萬章下",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "萬章下",
+        "plugin": "wikisource",
+        "title": "孟子 · 萬章下",
+        "url": "https://zh.wikisource.org/wiki/孟子/萬章下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "聖人",
+    "title": "聖人",
+    "summary": "自生民以來，未有孔子。伯夷、伊尹、孔子皆古聖人，而孔子集其大成。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "聞善相告",
+    "title": "聞善相告見善相示",
+    "summary": "儒者聞善必相告，見善必相示，患難相死，久相待也。",
+    "tags": [
+      "儒行",
+      "修身",
+      "朋友"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "聞斯行之",
+    "title": "聞斯行之",
+    "summary": "聞義而行，當視人之稟性進退，不可一概而論。",
+    "tags": [
+      "聞行",
+      "進退",
+      "孔子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "聲聞過情",
+    "title": "聲聞過情",
+    "summary": "名過乎實，君子恥之。",
+    "tags": [
+      "孟子",
+      "名實",
+      "修身",
+      "恥"
+    ],
+    "sources": [
+      {
+        "chapter": "離婁下",
+        "plugin": "wikisource",
+        "title": "孟子 · 離婁下",
+        "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "自求多福",
+    "title": "自求多福",
+    "summary": "禍福無不自己求之者，天作孽猶可違，自作孽不可活。",
+    "tags": [
+      "命運",
+      "修身",
+      "尚書",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "至死不窮",
+    "title": "至死不窮",
+    "summary": "血氣之屬莫知於人，故人於其親，哀慕至死而不已。",
+    "tags": [
+      "孝",
+      "情",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "至親以期斷",
+    "title": "至親以期斷",
+    "summary": "至親之喪，以一期為斷，示天地四時已更。",
+    "tags": [
+      "喪禮",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
   },
   {
     "slug": "至誠盡性",
     "title": "Utmost Sincerity and the Fulfillment of Nature / 至誠盡性",
     "summary": "A Confucian doctrine that attaining utmost sincerity enables one to fulfill one's nature, others' natures, and all things' natures, thereby participating in the transforming work of heaven and earth.",
     "tags": [
-      "confucianism",
-      "zhongyong",
-      "doctrine of the mean",
-      "sincerity",
-      "self-cultivation",
-      "stub"
+      "部:其他"
     ],
     "sources": []
+  },
+  {
+    "slug": "致知在格物",
+    "title": "致知在格物",
+    "summary": "天下之達喪，禮之極也，而源於人心自然之情。",
+    "tags": [
+      "喪禮",
+      "孔子",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "與人為善",
+    "title": "與人為善",
+    "summary": "大舜善與人同，樂取於人以為善，君子莫大乎與人為善。",
+    "tags": [
+      "舜",
+      "善",
+      "孟子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "與民同樂",
+    "title": "與民同樂",
+    "summary": "Mencius argued that a true king shares joy and sorrow with his people; ruling together brings happiness, while ruling apart brings suffering.",
+    "tags": [
+      "孟子",
+      "仁政",
+      "君民關係",
+      "梁惠王下"
+    ],
+    "sources": [
+      {
+        "chapter": "梁惠王下",
+        "plugin": "wikisource",
+        "title": "孟子 · 梁惠王下",
+        "url": "https://zh.wikisource.org/wiki/孟子/梁惠王下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "舍生取義",
+    "title": "舍生取義 / Choosing Righteousness over Life",
+    "summary": "A central Mencian doctrine that when life and righteousness cannot both be preserved, one must choose righteousness.",
+    "tags": [
+      "孟子",
+      "儒學",
+      "性命",
+      "義",
+      "道德哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "告子上",
+        "plugin": "wikisource",
+        "title": "孟子 · 告子上",
+        "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "萬物皆備於我",
+    "title": "萬物皆備於我 / All Things Are Complete Within Me / 萬物皆備於我",
+    "summary": "A core Mencian teaching that all virtues and moral capacities are inherently present within every person, requiring only reflective inquiry to realize them.",
+    "tags": [
+      "孟子",
+      "修身",
+      "儒家哲學",
+      "心性論"
+    ],
+    "sources": [
+      {
+        "chapter": "盡心上",
+        "plugin": "wikisource",
+        "title": "孟子 · 盡心上",
+        "url": "https://zh.wikisource.org/wiki/孟子/盡心上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "行一不義殺一不辜",
+    "title": "行一不義殺一不辜",
+    "summary": "得百里之地而君之，皆能朝諸侯有天下；然行一不義、殺一不辜而得天下，皆不為也。",
+    "tags": [
+      "義",
+      "聖人",
+      "孟子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "術不可不慎",
+    "title": "術不可不慎",
+    "summary": "矢人函人之殊，在於術之慎不慎。里仁為美，擇不處仁，不得為智。",
+    "tags": [
+      "修身",
+      "仁",
+      "孟子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑上",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑上",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "言而履之禮",
+    "title": "言而履之禮",
+    "summary": "言而履之謂之禮，行而樂之謂之樂。",
+    "tags": [
+      "禮",
+      "樂",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼燕居",
+        "plugin": "wikisource",
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
   },
   {
     "slug": "誠-儒學",
@@ -71,6 +2806,446 @@
         "question": "何謂誠？儒家以誠為何物？",
         "title": "何謂誠？儒家以誠為何物？",
         "url": ""
+      }
+    ]
+  },
+  {
+    "slug": "誠意",
+    "title": "誠意",
+    "summary": "意念發動之時，直臻真實，不容自欺",
+    "tags": [
+      "大學",
+      "八條目",
+      "修身",
+      "誠",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "大學",
+        "url": "https://zh.wikisource.org/wiki/大學",
+        "work": "大學"
+      }
+    ]
+  },
+  {
+    "slug": "說大人則藐之",
+    "title": "On Speaking to Great Men / 說大人則藐之",
+    "summary": "Mencius advises speaking fearlessly to great ministers by despising their external grandeur and focusing on moral principles, establishing the dignity of the scholar against worldly power.",
+    "tags": [
+      "孟子",
+      "大人",
+      "士",
+      "儒學",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "盡心下",
+        "plugin": "wikisource",
+        "title": "孟子 · 盡心下",
+        "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "論篤色莊",
+    "title": "論篤色莊",
+    "summary": "論議篤實者未必皆君子，色莊者亦未可遽信。",
+    "tags": [
+      "觀人",
+      "言行",
+      "君子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "貉道",
+    "title": "貉道",
+    "summary": "欲輕堯舜之賦者，大貉小貉也；欲重之者，大桀小桀也。",
+    "tags": [
+      "孟子",
+      "經濟",
+      "治道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "告子下",
+        "plugin": "wikisource",
+        "title": "孟子 · 告子下",
+        "url": "https://zh.wikisource.org/wiki/孟子/告子下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "赤子之心",
+    "title": "赤子之心",
+    "summary": "大人之心，純一如赤子，不失其本真。",
+    "tags": [
+      "孟子",
+      "大人",
+      "心性"
+    ],
+    "sources": [
+      {
+        "chapter": "離婁下",
+        "plugin": "wikisource",
+        "title": "孟子 · 離婁下",
+        "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "身可危而志不可奪",
+    "title": "身可危而志不可奪",
+    "summary": "儒者雖陷於危難，身命或有不保，而心志堅定不可動搖。",
+    "tags": [
+      "儒行",
+      "修身",
+      "志節"
+    ],
+    "sources": [
+      {
+        "chapter": "儒行",
+        "plugin": "wikisource",
+        "title": "禮記 · 儒行",
+        "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "辨貴賤長幼",
+    "title": "辨貴賤長幼",
+    "summary": "昔聖帝明王辨貴賤長幼遠近男女內外，皆由此途出。",
+    "tags": [
+      "禮",
+      "倫理",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼燕居",
+        "plugin": "wikisource",
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "送死有已復生有節",
+    "title": "送死有已復生有節",
+    "summary": "送死有節，復生有期，喪期已盡，當復其常。",
+    "tags": [
+      "喪禮",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "三年問",
+        "plugin": "wikisource",
+        "title": "禮記 · 三年問",
+        "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "送死當大事",
+    "title": "送死當大事",
+    "summary": "養生之禮易盡，送死之誠難盡，故送死可以當大事。",
+    "tags": [
+      "孟子",
+      "孝道",
+      "喪禮"
+    ],
+    "sources": [
+      {
+        "chapter": "離婁下",
+        "plugin": "wikisource",
+        "title": "孟子 · 離婁下",
+        "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "過則改之",
+    "title": "過則改之",
+    "summary": "君子有過，如日月之食，人皆見之；及其改也，人皆仰之。",
+    "tags": [
+      "修身",
+      "過失",
+      "君子",
+      "孟子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑下",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑下",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "過猶不及",
+    "title": "過猶不及",
+    "summary": "過與不及，其失相同；中道者，善之美也。",
+    "tags": [
+      "中庸",
+      "過不及",
+      "處世",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "閔子侍側",
+    "title": "閔子侍側",
+    "summary": "閔子、子路、冉有、子貢，各有氣象，夫子樂之。",
+    "tags": [
+      "孔門",
+      "氣象",
+      "弟子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "陳仲子",
+    "title": "陳仲子 / Chen Zhongzi",
+    "summary": "孟子批判陳仲子之「廉」，指出其操守超越常人但不可推廣，如同蚯蚓方能完全踐行其道。",
+    "tags": [
+      "孟子",
+      "修身",
+      "廉潔",
+      "批判"
+    ],
+    "sources": [
+      {
+        "chapter": "滕文公下",
+        "plugin": "wikisource",
+        "title": "孟子 · 滕文公下",
+        "url": "https://zh.wikisource.org/wiki/孟子/滕文公下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "非助我者",
+    "title": "非助我者",
+    "summary": "顏淵於夫子之言無所不悅，非助於教者也。",
+    "tags": [
+      "顏淵",
+      "師生",
+      "教學",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "非獨賢者有是心",
+    "title": "非獨賢者有是心 / Not Only the Worthy Possess This Heart",
+    "summary": "Mencius's assertion that the moral capacity for righteousness is universal to all humans, not a privilege of the sage.",
+    "tags": [
+      "孟子",
+      "儒學",
+      "人性",
+      "普遍性",
+      "四端"
+    ],
+    "sources": [
+      {
+        "chapter": "告子上",
+        "plugin": "wikisource",
+        "title": "孟子 · 告子上",
+        "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "顏淵之葬",
+    "title": "顏淵之葬",
+    "summary": "顏淵死，門人厚葬之，夫子以為非己所能止。",
+    "tags": [
+      "顏淵",
+      "喪葬",
+      "禮",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "顏淵好學短命",
+    "title": "顏淵好學短命",
+    "summary": "顏淵好學而不幸短命，夫子深惜之。",
+    "tags": [
+      "顏淵",
+      "好學",
+      "短命",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "飯糗茹草",
+    "title": "Rice Dumplings and Wild Herbs / 舜之飯糗茹草",
+    "summary": "Mencius illustrates contentment and virtue through the story of Shun eating coarse food and wearing grass clothes before becoming emperor.",
+    "tags": [
+      "孟子",
+      "舜",
+      "安貧樂道",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "盡心下",
+        "plugin": "wikisource",
+        "title": "孟子 · 盡心下",
+        "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "養心寡欲",
+    "title": "Nourishing the Heart Through Few Desires / 養心莫善於寡欲",
+    "summary": "Mencius teaches that cultivating the mind is best achieved by reducing desires, using a vivid quantitative comparison to show the inverse relationship between desire and moral preservation.",
+    "tags": [
+      "孟子",
+      "修身",
+      "寡欲",
+      "存心"
+    ],
+    "sources": [
+      {
+        "chapter": "盡心下",
+        "plugin": "wikisource",
+        "title": "孟子 · 盡心下",
+        "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "鳴鼓而攻",
+    "title": "鳴鼓而攻",
+    "summary": "冉有為季氏聚斂，夫子怒而絕之。",
+    "tags": [
+      "冉有",
+      "季氏",
+      "聚斂",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "先進第十一",
+        "plugin": "wikisource",
+        "title": "論語 · 先進第十一",
+        "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+        "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "齊家",
+    "title": "齊家",
+    "summary": "以德化一家，使父子兄弟各盡其道",
+    "tags": [
+      "大學",
+      "八條目",
+      "治平",
+      "孝",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "大學",
+        "url": "https://zh.wikisource.org/wiki/大學",
+        "work": "大學"
+      }
+    ]
+  },
+  {
+    "slug": "龍斷",
+    "title": "龍斷",
+    "summary": "商人專擅市利，征商之法自此始。",
+    "tags": [
+      "經濟",
+      "商業",
+      "征商",
+      "孟子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "公孫丑下",
+        "plugin": "wikisource",
+        "title": "孟子 · 公孫丑下",
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑下",
+        "work": "孟子"
       }
     ]
   }

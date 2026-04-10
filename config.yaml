@@ -30,3 +30,6 @@ branding:
   name_short: 斯
   tagline: 文言知識庫
   language: wenyan
+
+entities:
+  enabled: true
