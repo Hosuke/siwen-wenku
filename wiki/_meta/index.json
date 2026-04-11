@@ -29,7 +29,8 @@
       "大學",
       "儒學",
       "政治哲學",
-      "成語"
+      "成語",
+      "部:經"
     ],
     "sources": [
       {
@@ -38,6 +39,26 @@
         "title": "禮記 · 大學 (證釋本)",
         "url": "https://zh.wikisource.org/wiki/禮記/大學 (證釋本)",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "一身之迷不足傾",
+    "title": "一身之迷不足傾",
+    "summary": "一人之迷不足害，若天下皆迷，則無由以正之。",
+    "tags": [
+      "列子",
+      "迷惑",
+      "迷罔",
+      "天下"
+    ],
+    "sources": [
+      {
+        "chapter": "周穆王篇",
+        "plugin": "wikisource",
+        "title": "列子 · 周穆王篇",
+        "url": "https://zh.wikisource.org/wiki/列子/周穆王篇",
+        "work": "列子"
       }
     ]
   },
@@ -117,7 +138,8 @@
       "喪禮",
       "禮記",
       "人情",
-      "哀死"
+      "哀死",
+      "部:經"
     ],
     "sources": [
       {
@@ -136,7 +158,8 @@
     "tags": [
       "奔喪",
       "成服",
-      "哭禮"
+      "哭禮",
+      "部:經"
     ],
     "sources": [
       {
@@ -158,7 +181,8 @@
       "喪禮",
       "天道",
       "治道",
-      "聖人"
+      "聖人",
+      "部:經"
     ],
     "sources": [
       {
@@ -300,6 +324,27 @@
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "中山公子牟",
+    "title": "中山公子牟",
+    "summary": "魏國賢公子，好與賢人游，悅公孫龍之學",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "寓言",
+      "公孫龍",
+      "名家"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
       }
     ]
   },
@@ -452,7 +497,8 @@
     "tags": [
       "禮樂",
       "心志",
-      "詩教"
+      "詩教",
+      "部:經"
     ],
     "sources": [
       {
@@ -471,7 +517,8 @@
     "tags": [
       "禮樂",
       "修身",
-      "教化"
+      "教化",
+      "部:經"
     ],
     "sources": [
       {
@@ -900,7 +947,8 @@
     "tags": [
       "奔喪",
       "免麻",
-      "衰服"
+      "衰服",
+      "部:經"
     ],
     "sources": [
       {
@@ -921,7 +969,8 @@
       "儒家",
       "倫理",
       "夫婦",
-      "性別角色"
+      "性別角色",
+      "部:經"
     ],
     "sources": [
       {
@@ -961,7 +1010,8 @@
       "喪禮",
       "孝道",
       "禮記",
-      "人情"
+      "人情",
+      "部:子"
     ],
     "sources": [
       {
@@ -982,7 +1032,8 @@
       "喪服",
       "喪期",
       "儒學",
-      "制度"
+      "制度",
+      "部:經"
     ],
     "sources": [
       {
@@ -1001,7 +1052,8 @@
     "tags": [
       "詩教",
       "君子",
-      "禮樂"
+      "禮樂",
+      "部:子"
     ],
     "sources": [
       {
@@ -1022,7 +1074,8 @@
       "制度",
       "喪服",
       "宗法",
-      "禮學"
+      "禮學",
+      "部:子"
     ],
     "sources": [
       {
@@ -1058,6 +1111,47 @@
         "title": "禮記 · 仲尼燕居",
         "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "力無敵於天下",
+    "title": "力無敵於天下",
+    "summary": "有力不用，力乃真有力；有名出者，違師教而顯能",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "寓言",
+      "力量",
+      "無為"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "力與命之辯",
+    "title": "力與命之辯",
+    "summary": "力自謂能制壽夭貴賤，命則謂莫之制而自運。",
+    "tags": [
+      "命運",
+      "力命",
+      "哲學",
+      "列子"
+    ],
+    "sources": [
+      {
+        "chapter": "力命篇",
+        "plugin": "wikisource",
+        "title": "列子 · 力命篇",
+        "url": "https://zh.wikisource.org/wiki/列子/力命篇",
+        "work": "列子"
       }
     ]
   },
@@ -1117,6 +1211,26 @@
         "title": "孟子 · 離婁下",
         "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "厚德薄命",
+    "title": "厚德薄命",
+    "summary": "德厚於人而行不加焉，命薄於時而福不逮焉。",
+    "tags": [
+      "德命",
+      "窮達",
+      "東郭先生",
+      "列子"
+    ],
+    "sources": [
+      {
+        "chapter": "力命篇",
+        "plugin": "wikisource",
+        "title": "列子 · 力命篇",
+        "url": "https://zh.wikisource.org/wiki/列子/力命篇",
+        "work": "列子"
       }
     ]
   },
@@ -1191,7 +1305,8 @@
       "婚姻",
       "儒學",
       "倫理",
-      "姓氏"
+      "姓氏",
+      "部:經"
     ],
     "sources": [
       {
@@ -1220,6 +1335,26 @@
         "title": "禮記 · 三年問",
         "url": "https://zh.wikisource.org/wiki/禮記/三年問",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "古莽之國",
+    "title": "古莽之國",
+    "summary": "西極之南有國，五旬一覺，以夢為實，以覺為妄，與中土相反也。",
+    "tags": [
+      "列子",
+      "寓言",
+      "古莽",
+      "覺夢"
+    ],
+    "sources": [
+      {
+        "chapter": "周穆王篇",
+        "plugin": "wikisource",
+        "title": "列子 · 周穆王篇",
+        "url": "https://zh.wikisource.org/wiki/列子/周穆王篇",
+        "work": "列子"
       }
     ]
   },
@@ -1368,7 +1503,8 @@
     "tags": [
       "情",
       "詩教",
-      "樂教"
+      "樂教",
+      "部:經"
     ],
     "sources": [
       {
@@ -1414,7 +1550,8 @@
     "tags": [
       "奔喪",
       "為位",
-      "遠近"
+      "遠近",
+      "部:經"
     ],
     "sources": [
       {
@@ -1433,7 +1570,8 @@
     "tags": [
       "奔喪",
       "哭禮",
-      "辟嫌"
+      "辟嫌",
+      "部:經"
     ],
     "sources": [
       {
@@ -1479,7 +1617,8 @@
     "tags": [
       "為學",
       "教法",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -1498,7 +1637,8 @@
     "tags": [
       "為學",
       "師道",
-      "儒學"
+      "儒學",
+      "部:子"
     ],
     "sources": [
       {
@@ -1516,7 +1656,8 @@
     "summary": "善答問者，如鐘之待叩，叩小則小鳴，叩大則大鳴。",
     "tags": [
       "教法",
-      "儒學"
+      "儒學",
+      "部:其他"
     ],
     "sources": [
       {
@@ -1534,7 +1675,8 @@
     "summary": "善教者使人樂於傳承其志，如善歌者使人繼其聲。",
     "tags": [
       "教法",
-      "儒學"
+      "儒學",
+      "部:史"
     ],
     "sources": [
       {
@@ -1552,7 +1694,8 @@
     "summary": "天下之尊師，難得而可貴。",
     "tags": [
       "師道",
-      "儒學"
+      "儒學",
+      "部:子"
     ],
     "sources": [
       {
@@ -1596,7 +1739,8 @@
       "仁",
       "義",
       "禮",
-      "智"
+      "智",
+      "部:經"
     ],
     "sources": [
       {
@@ -1629,6 +1773,26 @@
     ]
   },
   {
+    "slug": "圃澤東里",
+    "title": "圃澤東里",
+    "summary": "圃澤多賢，東里多才",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "寓言",
+      "賢才"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "坊記",
     "title": "Fang Ji / 坊記",
     "summary": "A chapter from the Book of Rites (Liji) discussing the preventive function of ritual in governing the people.",
@@ -1637,7 +1801,8 @@
       "儒學",
       "治道",
       "禮儀",
-      "社會倫理"
+      "社會倫理",
+      "部:經"
     ],
     "sources": [
       {
@@ -1646,6 +1811,49 @@
         "title": "禮記 · 坊記",
         "url": "https://zh.wikisource.org/wiki/禮記/坊記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "堯禪天下",
+    "title": "堯禪天下",
+    "summary": "堯治天下五十年不知治亂，乃微服察謠，知民不知而禪於舜",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "堯",
+      "舜",
+      "政治",
+      "禪讓"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "外游內觀",
+    "title": "外游內觀",
+    "summary": "外游求備於物，內觀取足於身；取足於身，游之至也",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "哲學",
+      "遊觀",
+      "修養"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
       }
     ]
   },
@@ -1666,6 +1874,46 @@
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "夢中為君",
+    "title": "夢中為君",
+    "summary": "役夫晝夜苦逸懸隔，夜夢為君，樂無比；役人之心，冀慕富貴者也。",
+    "tags": [
+      "列子",
+      "夢",
+      "苦逸",
+      "貧富"
+    ],
+    "sources": [
+      {
+        "chapter": "周穆王篇",
+        "plugin": "wikisource",
+        "title": "列子 · 周穆王篇",
+        "url": "https://zh.wikisource.org/wiki/列子/周穆王篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "夢之六候",
+    "title": "夢之六候",
+    "summary": "夢有六端：正夢、蘁夢、思夢、寤夢、喜夢、懼夢，皆神所交也。",
+    "tags": [
+      "列子",
+      "夢",
+      "覺夢",
+      "神"
+    ],
+    "sources": [
+      {
+        "chapter": "周穆王篇",
+        "plugin": "wikisource",
+        "title": "列子 · 周穆王篇",
+        "url": "https://zh.wikisource.org/wiki/列子/周穆王篇",
+        "work": "列子"
       }
     ]
   },
@@ -1717,7 +1965,8 @@
       "奔喪",
       "大夫",
       "士",
-      "禮異"
+      "禮異",
+      "部:經"
     ],
     "sources": [
       {
@@ -1773,7 +2022,8 @@
       "大學",
       "修身",
       "治國",
-      "哲學"
+      "哲學",
+      "部:經"
     ],
     "sources": [
       {
@@ -1794,7 +2044,8 @@
       "禮制",
       "儒家",
       "祖先崇拜",
-      "社會制度"
+      "社會制度",
+      "部:經"
     ],
     "sources": [
       {
@@ -1815,7 +2066,8 @@
       "喪禮",
       "斂禮",
       "儒學",
-      "中國古代禮儀"
+      "中國古代禮儀",
+      "部:經"
     ],
     "sources": [
       {
@@ -1980,7 +2232,8 @@
       "奔喪",
       "殯禮",
       "服製",
-      "除服"
+      "除服",
+      "部:經"
     ],
     "sources": [
       {
@@ -1999,7 +2252,8 @@
     "tags": [
       "奔喪",
       "孝道",
-      "禮制"
+      "禮制",
+      "部:經"
     ],
     "sources": [
       {
@@ -2019,7 +2273,8 @@
       "喪禮",
       "男女",
       "禮記",
-      "禮儀"
+      "禮儀",
+      "部:子"
     ],
     "sources": [
       {
@@ -2040,7 +2295,8 @@
       "儒家",
       "教育",
       "修身",
-      "蒙學"
+      "蒙學",
+      "部:子"
     ],
     "sources": [
       {
@@ -2119,8 +2375,8 @@
     "tags": [
       "孝道",
       "德行",
-      "部:子",
-      "閔子騫"
+      "閔子騫",
+      "部:子"
     ],
     "sources": [
       {
@@ -2148,7 +2404,8 @@
       "儒學",
       "禮記",
       "孝道",
-      "四維"
+      "四維",
+      "部:經"
     ],
     "sources": [
       {
@@ -2207,7 +2464,8 @@
     "tags": [
       "師道",
       "儒學",
-      "禮制"
+      "禮制",
+      "部:子"
     ],
     "sources": [
       {
@@ -2228,7 +2486,8 @@
       "喪禮",
       "斂禮",
       "儒學",
-      "中國古代禮儀"
+      "中國古代禮儀",
+      "部:經"
     ],
     "sources": [
       {
@@ -2286,7 +2545,8 @@
     "summary": "勉勵之而不挫折之，使學者易於自強。",
     "tags": [
       "教法",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2321,6 +2581,27 @@
     ]
   },
   {
+    "slug": "得意者無言",
+    "title": "得意者無言",
+    "summary": "得意者無需言說，言說皆出於不得已",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "哲學",
+      "語言",
+      "認識論"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "得道多助",
     "title": "得道者多助，失道者寡助",
     "summary": "行道者天下順之，失道者親戚畔之，君子仗義，戰無不克。",
@@ -2342,6 +2623,27 @@
     ]
   },
   {
+    "slug": "從心所念更無是非",
+    "title": "從心所念更無是非",
+    "summary": "修道之深境界，心念自然合道",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "哲學",
+      "修道",
+      "境界"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "復",
     "title": "復 / Soul-Calling Ritual",
     "summary": "The ancient Chinese ritual of calling back the soul of the dying or deceased through clothing elevation.",
@@ -2350,7 +2652,8 @@
       "喪禮",
       "儒學",
       "儀節",
-      "中國古代禮儀"
+      "中國古代禮儀",
+      "部:經"
     ],
     "sources": [
       {
@@ -2456,7 +2759,8 @@
       "義",
       "門內",
       "治道",
-      "恩義"
+      "恩義",
+      "部:經"
     ],
     "sources": [
       {
@@ -2477,7 +2781,8 @@
       "仁",
       "孔子",
       "禮記",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2498,7 +2803,8 @@
       "儒學",
       "禮記",
       "成人",
-      "修身"
+      "修身",
+      "部:子"
     ],
     "sources": [
       {
@@ -2517,7 +2823,8 @@
     "tags": [
       "奔喪",
       "吊禮",
-      "所識"
+      "所識",
+      "部:經"
     ],
     "sources": [
       {
@@ -2600,7 +2907,8 @@
       "社會秩序",
       "禮制",
       "儒家政治",
-      "宗族"
+      "宗族",
+      "部:經"
     ],
     "sources": [
       {
@@ -2621,7 +2929,8 @@
       "修身",
       "孔子",
       "禮記",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2640,7 +2949,8 @@
     "tags": [
       "教育",
       "教法",
-      "儒學"
+      "儒學",
+      "部:子"
     ],
     "sources": [
       {
@@ -2659,7 +2969,8 @@
     "tags": [
       "教育",
       "教法",
-      "儒學"
+      "儒學",
+      "部:其他"
     ],
     "sources": [
       {
@@ -2678,7 +2989,8 @@
     "tags": [
       "教育",
       "大學",
-      "儒學"
+      "儒學",
+      "部:經"
     ],
     "sources": [
       {
@@ -2697,7 +3009,8 @@
     "tags": [
       "教育",
       "治國",
-      "儒學"
+      "儒學",
+      "部:其他"
     ],
     "sources": [
       {
@@ -2716,7 +3029,8 @@
     "tags": [
       "教育",
       "教法",
-      "儒學"
+      "儒學",
+      "部:子"
     ],
     "sources": [
       {
@@ -2735,7 +3049,8 @@
     "tags": [
       "為學",
       "德行",
-      "儒學"
+      "儒學",
+      "部:其他"
     ],
     "sources": [
       {
@@ -2756,7 +3071,8 @@
       "禮制",
       "祖先崇拜",
       "儒家美德",
-      "修身齊家"
+      "修身齊家",
+      "部:經"
     ],
     "sources": [
       {
@@ -2809,6 +3125,27 @@
     ]
   },
   {
+    "slug": "方寸之地虛",
+    "title": "方寸之地虛",
+    "summary": "文摯視龍叔之心，方寸之地虛矣，幾聖人",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "哲學",
+      "心",
+      "聖人"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "日新之教",
     "title": "The Teachings of Daily Renewal / 日新之教",
     "summary": "The Confucian imperative of continuous moral self-renewal, exemplified by the inscription on King Tang's washbasin.",
@@ -2817,7 +3154,8 @@
       "大學",
       "修身",
       "自新",
-      "湯"
+      "湯",
+      "部:經"
     ],
     "sources": [
       {
@@ -2979,7 +3317,8 @@
       "大學",
       "德治",
       "義利之辨",
-      "治國"
+      "治國",
+      "部:經"
     ],
     "sources": [
       {
@@ -3049,6 +3388,27 @@
         "title": "孟子 · 盡心下",
         "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "樂天知命",
+    "title": "樂天知命",
+    "summary": "安於天命，無所憂懼之謂也",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "哲學",
+      "天命",
+      "孔子"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
       }
     ]
   },
@@ -3146,7 +3506,8 @@
     "tags": [
       "仁政",
       "治道",
-      "禮樂"
+      "禮樂",
+      "部:子"
     ],
     "sources": [
       {
@@ -3346,7 +3707,8 @@
     "tags": [
       "奔喪",
       "無服",
-      "為位"
+      "為位",
+      "部:其他"
     ],
     "sources": [
       {
@@ -3359,13 +3721,35 @@
     ]
   },
   {
+    "slug": "無樂無知",
+    "title": "無樂無知",
+    "summary": "絕去喜怒嗜欲，復歸本性之真樂真知",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "哲學",
+      "道家",
+      "境界"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "父在父主父沒兄弟主",
     "title": "父在父主父沒兄弟主",
     "summary": "喪主之禮，父在則父主，父沒則兄弟同居各主其喪。",
     "tags": [
       "奔喪",
       "喪主",
-      "禮制"
+      "禮制",
+      "部:經"
     ],
     "sources": [
       {
@@ -3421,6 +3805,27 @@
     ]
   },
   {
+    "slug": "物不至者則不反",
+    "title": "物不至者則不反",
+    "summary": "物未極則不知返，患未至則不知戒",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "哲學",
+      "認識論",
+      "警誡"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "獨善其身",
     "title": "獨善其身 / Self-Cultivation in Obscurity / 独善其身",
     "summary": "The Confucian ideal of maintaining personal virtue when unable to serve publicly, contrasted with the ideal of benefiting all when one's talents are realized.",
@@ -3465,6 +3870,27 @@
     ]
   },
   {
+    "slug": "由生而生",
+    "title": "由生而生",
+    "summary": "生死皆有其道，常與不幸之別也",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "哲學",
+      "生死",
+      "道"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "白圭之誡",
     "title": "白圭之誡",
     "summary": "南容誦白圭而謹言，夫子以其慎行妻之。",
@@ -3485,6 +3911,26 @@
     ]
   },
   {
+    "slug": "知幻化之不異生死",
+    "title": "知幻化之不異生死",
+    "summary": "幻化與生死，本無差異。悟此者，可以學幻矣。",
+    "tags": [
+      "列子",
+      "幻化",
+      "生死",
+      "尹文"
+    ],
+    "sources": [
+      {
+        "chapter": "周穆王篇",
+        "plugin": "wikisource",
+        "title": "列子 · 周穆王篇",
+        "url": "https://zh.wikisource.org/wiki/列子/周穆王篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "知言",
     "title": "知言",
     "summary": "能辨詖、淫、邪、遁之辭，知其所蔽、陷、離、窮，斯可以知聖人矣。",
@@ -3501,6 +3947,26 @@
         "title": "孟子 · 公孫丑上",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "神遊形奚動哉",
+    "title": "神遊形奚動哉",
+    "summary": "精神可遊於異境，形骸不隨之而往。夢中為君，覺亦夢也。",
+    "tags": [
+      "列子",
+      "幻化",
+      "夢覺",
+      "神遊"
+    ],
+    "sources": [
+      {
+        "chapter": "周穆王篇",
+        "plugin": "wikisource",
+        "title": "列子 · 周穆王篇",
+        "url": "https://zh.wikisource.org/wiki/列子/周穆王篇",
+        "work": "列子"
       }
     ]
   },
@@ -3570,7 +4036,8 @@
       "禮記",
       "儒學",
       "倫理",
-      "治道"
+      "治道",
+      "部:經"
     ],
     "sources": [
       {
@@ -3712,7 +4179,8 @@
       "大學",
       "儒學",
       "政治哲學",
-      "恕道"
+      "恕道",
+      "部:子"
     ],
     "sources": [
       {
@@ -3829,7 +4297,8 @@
     "tags": [
       "奔喪",
       "聞喪",
-      "為位"
+      "為位",
+      "部:經"
     ],
     "sources": [
       {
@@ -3868,7 +4337,8 @@
     "tags": [
       "奔喪",
       "兄弟",
-      "遠喪"
+      "遠喪",
+      "部:其他"
     ],
     "sources": [
       {
@@ -3908,7 +4378,8 @@
     "tags": [
       "師道",
       "儒學",
-      "教法"
+      "教法",
+      "部:子"
     ],
     "sources": [
       {
@@ -3917,6 +4388,27 @@
         "title": "禮記 · 學記",
         "url": "https://zh.wikisource.org/wiki/禮記/學記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "能仁而不能反",
+    "title": "能仁而不能反",
+    "summary": "各有所長亦各有所短，兼四子之有以易吾，吾弗許",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "孔子",
+      "人格",
+      "哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
       }
     ]
   },
@@ -3937,6 +4429,26 @@
         "title": "孟子 · 公孫丑上",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "自生自死",
+    "title": "自生自死",
+    "summary": "生死厚薄，非由外鑠，皆自為之。",
+    "tags": [
+      "生死",
+      "命",
+      "自化",
+      "列子"
+    ],
+    "sources": [
+      {
+        "chapter": "力命篇",
+        "plugin": "wikisource",
+        "title": "列子 · 力命篇",
+        "url": "https://zh.wikisource.org/wiki/列子/力命篇",
+        "work": "列子"
       }
     ]
   },
@@ -4078,7 +4590,8 @@
     "tags": [
       "教法",
       "儒學",
-      "傳承"
+      "傳承",
+      "部:子"
     ],
     "sources": [
       {
@@ -4087,6 +4600,26 @@
         "title": "禮記 · 學記",
         "url": "https://zh.wikisource.org/wiki/禮記/學記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "苦逸之復數之常",
+    "title": "苦逸之復數之常",
+    "summary": "苦者夢逸、逸者夢苦，迭為消長，理之常也。",
+    "tags": [
+      "列子",
+      "夢",
+      "苦樂",
+      "陰陽"
+    ],
+    "sources": [
+      {
+        "chapter": "周穆王篇",
+        "plugin": "wikisource",
+        "title": "列子 · 周穆王篇",
+        "url": "https://zh.wikisource.org/wiki/列子/周穆王篇",
+        "work": "列子"
       }
     ]
   },
@@ -4118,7 +4651,8 @@
     "tags": [
       "教育",
       "為學",
-      "儒學"
+      "儒學",
+      "部:子"
     ],
     "sources": [
       {
@@ -4171,6 +4705,27 @@
     ]
   },
   {
+    "slug": "西方有聖",
+    "title": "西方有聖",
+    "summary": "孔子稱道西方之聖，不治而不亂",
+    "tags": [
+      "列子",
+      "仲尼篇",
+      "孔子",
+      "聖人",
+      "哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "仲尼篇",
+        "plugin": "wikisource",
+        "title": "列子 · 仲尼篇",
+        "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "親親以三為五",
     "title": "Graduated Kinship Mourning / 親親以三為五，以五為九",
     "summary": "The principle of graduated mourning obligations based on kinship distance, extending from immediate family to the ninth degree.",
@@ -4179,7 +4734,8 @@
       "喪服",
       "宗法",
       "儒學",
-      "人倫"
+      "人倫",
+      "部:經"
     ],
     "sources": [
       {
@@ -4482,7 +5038,8 @@
     "summary": "教人當引導之而不強拽之，使學者樂於趨道。",
     "tags": [
       "教法",
-      "儒學"
+      "儒學",
+      "部:子"
     ],
     "sources": [
       {
@@ -4501,7 +5058,8 @@
     "tags": [
       "教法",
       "儒學",
-      "教育"
+      "教育",
+      "部:其他"
     ],
     "sources": [
       {
@@ -4519,7 +5077,8 @@
     "summary": "啟發之而不遽告之，使學者深思而自得。",
     "tags": [
       "教法",
-      "儒學"
+      "儒學",
+      "部:其他"
     ],
     "sources": [
       {
@@ -4569,6 +5128,26 @@
         "title": "孟子 · 滕文公下",
         "url": "https://zh.wikisource.org/wiki/孟子/滕文公下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "陽里華子病忘",
+    "title": "陽里華子病忘",
+    "summary": "華子中年病忘，忘則無憂；及其痊愈，反以記憶為苦。忘之與記，孰得失耶？",
+    "tags": [
+      "列子",
+      "病忘",
+      "記憶",
+      "寓言"
+    ],
+    "sources": [
+      {
+        "chapter": "周穆王篇",
+        "plugin": "wikisource",
+        "title": "列子 · 周穆王篇",
+        "url": "https://zh.wikisource.org/wiki/列子/周穆王篇",
+        "work": "列子"
       }
     ]
   },
@@ -4705,7 +5284,8 @@
       "儒家",
       "孝道",
       "老吾老",
-      "禮儀"
+      "禮儀",
+      "部:子"
     ],
     "sources": [
       {
