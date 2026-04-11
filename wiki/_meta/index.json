@@ -22,6 +22,27 @@
     ]
   },
   {
+    "slug": "一獻質三獻文五獻察七獻神",
+    "title": "一獻質三獻文五獻察七獻神 / Seven Offerings: The Hierarchy of Ritual Refinement",
+    "summary": "The graduated progression of seven ritual offerings from simple (質) to spiritual (神).",
+    "tags": [
+      "禮記",
+      "祭祀",
+      "禮儀",
+      "儒學",
+      "禮器"
+    ],
+    "sources": [
+      {
+        "chapter": "禮器",
+        "plugin": "wikisource",
+        "title": "禮記 · 禮器",
+        "url": "https://zh.wikisource.org/wiki/禮記/禮器",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "一言僨事一人定國",
     "title": "一言僨事一人定國",
     "summary": "一人言行，足以傾覆邦國或安定天下。",
@@ -50,7 +71,8 @@
       "列子",
       "迷惑",
       "迷罔",
-      "天下"
+      "天下",
+      "部:子"
     ],
     "sources": [
       {
@@ -81,6 +103,94 @@
         "title": "孟子 · 梁惠王下",
         "url": "https://zh.wikisource.org/wiki/孟子/梁惠王下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "七廟",
+    "title": "Seven Halls System / 七廟",
+    "summary": "The hierarchical ancestral temple system for kings, featuring five immediate ancestor halls and two distant ancestor shrines, with regulations for offering frequency and the progression from hall to altar to spirit.",
+    "tags": [
+      "祭祀",
+      "禮記",
+      "廟制",
+      "周禮",
+      "宗法",
+      "祖先崇拜"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "七患",
+    "title": "國有七患",
+    "summary": "治國當察七患，防患於未然。",
+    "tags": [
+      "墨子",
+      "國政",
+      "治道",
+      "患害"
+    ],
+    "sources": [
+      {
+        "chapter": "七患",
+        "plugin": "wikisource",
+        "title": "墨子 · 七患",
+        "url": "https://zh.wikisource.org/wiki/墨子/七患",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "三代治道",
+    "title": "夏道尊命殷人尊神周人尊禮 / Governance of the Three Dynasties: Xia Honored Mandates, Shang Honored Spirits, Zhou Honored Ritual",
+    "summary": "比較夏、商、周三代政治文化之特徵，揭示三代治道之差異及其民風影響。",
+    "tags": [
+      "政治哲學",
+      "歷史哲學",
+      "三代",
+      "夏道",
+      "殷禮",
+      "周禮",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "表記",
+        "plugin": "wikisource",
+        "title": "禮記 · 表記",
+        "url": "https://zh.wikisource.org/wiki/禮記/表記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "三刺",
+    "title": "三刺 / Triple Investigation in Judicial Process",
+    "summary": "The threefold inquiry procedure in ancient Chinese judicial administration.",
+    "tags": [
+      "儒家制度",
+      "刑罰",
+      "司法",
+      "司法制度",
+      "周代制度",
+      "王制",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "王制",
+        "plugin": "wikisource",
+        "title": "禮記 · 王制",
+        "url": "https://zh.wikisource.org/wiki/禮記/王制",
+        "work": "禮記"
       }
     ]
   },
@@ -215,6 +325,90 @@
     ]
   },
   {
+    "slug": "上易事下易知",
+    "title": "上易事下易知 / Easy Governance Through Uprightness",
+    "summary": "The principle that when rulers are straightforward, governance becomes easy and people become intelligent.",
+    "tags": [
+      "治國",
+      "為政",
+      "君臣",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "緇衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 緇衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "上義",
+    "title": "Superior Righteousness / 上義",
+    "summary": "文子論上義之道，治國家、理境內、行仁義、布德施惠，霸王之治的最高境界。",
+    "tags": [
+      "義",
+      "治國",
+      "霸王",
+      "文子",
+      "儒道思想"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十一",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十一",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十一",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "下齊如權衡",
+    "title": "下齊如權衡 / The Hem Balanced Like a Scale",
+    "summary": "深衣裾下平齊如秤錘天秤，以象公平之心、持平之政。",
+    "tags": [
+      "禮記",
+      "深衣",
+      "儒學",
+      "公正",
+      "象徵"
+    ],
+    "sources": [
+      {
+        "chapter": "深衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 深衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/深衣",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "不以辭盡人",
+    "title": "不以辭盡人 / Not Judging by Words Alone / 辭を以て人を尽くすこと勿れ",
+    "summary": "The Confucian principle that a truly exemplary person should not be judged solely by their words, as words may be embellished while actions reveal true character.",
+    "tags": [
+      "君子",
+      "言行",
+      "誠信",
+      "禮記",
+      "儒學",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "表記",
+        "plugin": "wikisource",
+        "title": "禮記 · 表記",
+        "url": "https://zh.wikisource.org/wiki/禮記/表記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "不動心",
     "title": "不動心",
     "summary": "孟子四十不動心，告子先之。其要在持其志而勿暴其氣。",
@@ -267,6 +461,27 @@
     ]
   },
   {
+    "slug": "不奪人之喪亦不可奪喪",
+    "title": "Not Depriving Others of Mourning, Nor Being Deprived / 不奪人之喪亦不可奪喪",
+    "summary": "The ritual principle that mourning obligations must not be imposed upon others nor be arbitrarily taken away.",
+    "tags": [
+      "禮記",
+      "服問",
+      "喪服",
+      "禮儀",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "服問",
+        "plugin": "wikisource",
+        "title": "禮記 · 服問",
+        "url": "https://zh.wikisource.org/wiki/禮記/服問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "不忍人之心",
     "title": "不忍人之心",
     "summary": "人皆有怵惕惻隱之心，先王本此心以行不忍人之政，故治天下可運之掌上。",
@@ -308,6 +523,27 @@
     ]
   },
   {
+    "slug": "不言之教",
+    "title": "不言之教 / 不言之教 / Teaching Through Non-Speech",
+    "summary": "Wenzi's doctrine that true governance and teaching operate through silent, effortless influence rather than verbal instruction.",
+    "tags": [
+      "道家",
+      "政治哲學",
+      "文子",
+      "無為而治",
+      "教化"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "文子 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/文子/卷二",
+        "work": "文子"
+      }
+    ]
+  },
+  {
     "slug": "不隕獲於貧賤",
     "title": "不隕獲於貧賤不充詘於富貴",
     "summary": "儒者於貧賤不失其守，於富貴不增其傲，終始一節。",
@@ -328,6 +564,75 @@
     ]
   },
   {
+    "slug": "不食嗟來之食",
+    "title": "Refusing Contemptuous Charity / 不食嗟來之食",
+    "summary": "The story of a starving man who would rather die than accept food offered with disdain, and the Confucian discussion of when dignity requires acceptance or rejection.",
+    "tags": [
+      "倫理",
+      "儒家",
+      "喪禮",
+      "嗟來",
+      "嗟來之食",
+      "尊嚴",
+      "檀弓",
+      "禮儀",
+      "禮義",
+      "禮記",
+      "餓者",
+      "黔敖"
+    ],
+    "sources": [
+      {
+        "chapter": "檀弓下",
+        "plugin": "wikisource",
+        "title": "禮記 · 檀弓下",
+        "url": "https://zh.wikisource.org/wiki/禮記/檀弓下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "世子之記",
+    "title": "世子之記 / The Heir Prince's Daily Code",
+    "summary": "A detailed record of the heir prince's daily conduct, including morning inquiries, meals, and care during illness.",
+    "tags": [
+      "禮記",
+      "世子",
+      "日常修養",
+      "文王世子"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "世子齒學",
+    "title": "世子齒學 / Heir Apparent Studying by Age",
+    "summary": "世子與國人齒讓，以明父子、長幼之道。",
+    "tags": [
+      "儒學",
+      "禮記",
+      "教育",
+      "世子",
+      "齒讓"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "中山公子牟",
     "title": "中山公子牟",
     "summary": "魏國賢公子，好與賢人游，悅公孫龍之學",
@@ -336,7 +641,8 @@
       "仲尼篇",
       "寓言",
       "公孫龍",
-      "名家"
+      "名家",
+      "部:子"
     ],
     "sources": [
       {
@@ -407,6 +713,27 @@
     ]
   },
   {
+    "slug": "九方皋相馬",
+    "title": "Jiǔ Fāng Gāo Examines a Horse / 九方皋相馬",
+    "summary": "The story of the horse expert who grasps the essential while ignoring the superficial.",
+    "tags": [
+      "認識論",
+      "寓言",
+      "道家",
+      "列子",
+      "表象與本質"
+    ],
+    "sources": [
+      {
+        "chapter": "說符篇",
+        "plugin": "wikisource",
+        "title": "列子 · 說符篇",
+        "url": "https://zh.wikisource.org/wiki/列子/說符篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "九經",
     "title": "九經",
     "summary": "治天下國家之九常法：脩身、尊賢、親親、敬大臣、體群臣、子庶民、來百工、柔遠人、懷諸侯。",
@@ -443,6 +770,88 @@
         "title": "論語 · 先進第十一",
         "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "事君欲諫不欲陳",
+    "title": "事君欲諫不欲陳 / Serving the Ruler: Advise, Do Not Boast",
+    "summary": "Confucian teaching on the proper manner of serving rulers: one should offer sincere remonstrance but never publicize one's loyalty or good service.",
+    "tags": [
+      "事君",
+      "儒學",
+      "禮記",
+      "忠"
+    ],
+    "sources": [
+      {
+        "chapter": "表記",
+        "plugin": "wikisource",
+        "title": "禮記 · 表記",
+        "url": "https://zh.wikisource.org/wiki/禮記/表記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "事君者量而後入",
+    "title": "Rulers Should Measure Before Entering / 事君者量而後入",
+    "summary": "The Confucian principle that those serving rulers must first measure circumstances before entering into affairs.",
+    "tags": [
+      "儒學",
+      "治國",
+      "修身",
+      "少儀",
+      "君臣"
+    ],
+    "sources": [
+      {
+        "chapter": "少仪",
+        "plugin": "wikisource",
+        "title": "禮記 · 少仪",
+        "url": "https://zh.wikisource.org/wiki/禮記/少仪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "五人",
+    "title": "五等之人 / The Five Ranks of People",
+    "summary": "A hierarchical taxonomy of twenty-five human types classified into five ranks, from divine transcendence to servile dependence.",
+    "tags": [
+      "人性",
+      "分類",
+      "道家",
+      "中黃子",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "卷七",
+        "plugin": "wikisource",
+        "title": "文子 · 卷七",
+        "url": "https://zh.wikisource.org/wiki/文子/卷七",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "五兵",
+    "title": "五兵 / The Five Types of Military Action",
+    "summary": "A Daoist classification of military campaigns into five ethical categories: righteous, responsive, wrathful, greedy, and arrogant.",
+    "tags": [
+      "道家哲學",
+      "兵道",
+      "義兵",
+      "軍事倫理"
+    ],
+    "sources": [
+      {
+        "chapter": "卷五",
+        "plugin": "wikisource",
+        "title": "文子 · 卷五",
+        "url": "https://zh.wikisource.org/wiki/文子/卷五",
+        "work": "文子"
       }
     ]
   },
@@ -487,6 +896,46 @@
         "title": "孟子 · 公孫丑下",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "五祀",
+    "title": "The Five Sacrifices / 五祀",
+    "summary": "The five categories of domestic and neighborhood sacrifices performed by rulers and officials according to rank.",
+    "tags": [
+      "祭祀",
+      "禮制",
+      "官制",
+      "五祀"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "五穀",
+    "title": "五穀為民食所仰",
+    "summary": "食為民天，農為國本。",
+    "tags": [
+      "墨子",
+      "農事",
+      "食貨",
+      "民本"
+    ],
+    "sources": [
+      {
+        "chapter": "七患",
+        "plugin": "wikisource",
+        "title": "墨子 · 七患",
+        "url": "https://zh.wikisource.org/wiki/墨子/七患",
+        "work": "墨子"
       }
     ]
   },
@@ -573,6 +1022,48 @@
     ]
   },
   {
+    "slug": "人情",
+    "title": "人情 / Human Emotions and Desires",
+    "summary": "The seven human emotions and desires that form the basis of social order and ritual according to the Yunyun chapter.",
+    "tags": [
+      "儒學",
+      "禮記",
+      "情",
+      "禮運",
+      "人性"
+    ],
+    "sources": [
+      {
+        "chapter": "禮運",
+        "plugin": "wikisource",
+        "title": "禮記 · 禮運",
+        "url": "https://zh.wikisource.org/wiki/禮記/禮運",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "人生百年",
+    "title": "The Hundred-Year Life Stages / 人生百年",
+    "summary": "The Confucian framework of life stages from age ten to one hundred, each with its proper name and appropriate conduct.",
+    "tags": [
+      "曲禮",
+      "禮記",
+      "人生階段",
+      "修身",
+      "倫理"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮上",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮上",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "人皆可以為堯舜",
     "title": "人皆可以為堯舜",
     "summary": "堯舜之道，非有他也，孝弟而已。",
@@ -619,6 +1110,26 @@
     ]
   },
   {
+    "slug": "什長亭尉",
+    "title": "什長亭尉",
+    "summary": "城上十人一什長，屬一吏士、一亭尉，以嚴守備之制。",
+    "tags": [
+      "墨子",
+      "城守",
+      "兵制",
+      "什伍"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
     "slug": "仁-儒學-之",
     "title": "仁-儒學-之",
     "summary": "",
@@ -646,6 +1157,40 @@
         "title": "禮記 · 哀公問",
         "url": "https://zh.wikisource.org/wiki/禮記/哀公問",
         "work": "禮記"
+      },
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      },
+      {
+        "chapter": "表記",
+        "plugin": "wikisource",
+        "title": "禮記 · 表記",
+        "url": "https://zh.wikisource.org/wiki/禮記/表記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "仁之難成",
+    "title": "仁之難成 / The Difficulty of Perfecting Benevolence",
+    "summary": "Confucius's lament that true benevolence is rare and difficult to achieve, yet remains the highest human virtue worth pursuing throughout one's life.",
+    "tags": [
+      "仁",
+      "儒學",
+      "修身",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "表記",
+        "plugin": "wikisource",
+        "title": "禮記 · 表記",
+        "url": "https://zh.wikisource.org/wiki/禮記/表記",
+        "work": "禮記"
       }
     ]
   },
@@ -654,8 +1199,8 @@
     "title": "仁者如射",
     "summary": "仁者如射，射者正己而後發，發而不中，不怨勝己者，反求諸己而已矣。",
     "tags": [
-      "修身",
       "仁",
+      "修身",
       "射",
       "部:其他"
     ],
@@ -666,6 +1211,13 @@
         "title": "孟子 · 公孫丑上",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
         "work": "孟子"
+      },
+      {
+        "chapter": "射義",
+        "plugin": "wikisource",
+        "title": "禮記 · 射義",
+        "url": "https://zh.wikisource.org/wiki/禮記/射義",
+        "work": "禮記"
       }
     ]
   },
@@ -727,6 +1279,26 @@
     ]
   },
   {
+    "slug": "以德報怨",
+    "title": "以德報怨 / Repaying Wrongdoing with Virtue",
+    "summary": "A Confucian ethical principle advocating the response of virtue to resentment, balancing retributive justice with benevolent forgiveness.",
+    "tags": [
+      "仁",
+      "儒學",
+      "倫理",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "表記",
+        "plugin": "wikisource",
+        "title": "禮記 · 表記",
+        "url": "https://zh.wikisource.org/wiki/禮記/表記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "以德行仁者王",
     "title": "以德行仁者王",
     "summary": "以力假仁者霸，必有大國；以德行仁者王，不待大。霸道非心服，力不贍故；王道心悅誠服，如七十子之服孔子。",
@@ -771,6 +1343,27 @@
         "title": "孟子 · 萬章上",
         "url": "https://zh.wikisource.org/wiki/孟子/萬章上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "以政治國以奇用兵",
+    "title": "以政治國以奇用兵 / Govern the State with Rectitude, Fight with Surprise",
+    "summary": "The fundamental Daoist military-political principle of governing through proper order and waging war through strategic deception.",
+    "tags": [
+      "道家",
+      "兵法",
+      "治道",
+      "文子",
+      "權謀"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十二",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十二",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十二",
+        "work": "文子"
       }
     ]
   },
@@ -846,6 +1439,49 @@
     ]
   },
   {
+    "slug": "佩玉",
+    "title": "Wearing Jade / 佩玉",
+    "summary": "The Confucian practice of wearing jade as a symbol of virtue and moral cultivation, with specific regulations governing its use by rank.",
+    "tags": [
+      "君子",
+      "德行",
+      "玉佩",
+      "禮儀",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "玉藻",
+        "plugin": "wikisource",
+        "title": "禮記 · 玉藻",
+        "url": "https://zh.wikisource.org/wiki/禮記/玉藻",
+        "work": "禮記"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "使民養生送死無憾",
+    "title": "使民養生送死無憾",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "祭義",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭義",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "侍坐言志",
     "title": "侍坐言志",
     "summary": "孔門四子侍坐，各言其志，夫子深許曾皙之沂浴。",
@@ -890,6 +1526,94 @@
         "title": "禮記 · 哀公問",
         "url": "https://zh.wikisource.org/wiki/禮記/哀公問",
         "work": "禮記"
+      },
+      {
+        "chapter": "修身",
+        "plugin": "wikisource",
+        "title": "墨子 · 修身",
+        "url": "https://zh.wikisource.org/wiki/墨子/修身",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "偃師造人",
+    "title": "偃師造人 / 偃師、偶人を作る",
+    "summary": "The story of craftsman Yan Shi who created an artificial puppet so lifelike that King Mu mistook it for a real person, exploring the boundary between art and life.",
+    "tags": [
+      "列子",
+      "湯問",
+      "偃師",
+      "機巧",
+      "藝術",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "湯問篇",
+        "plugin": "wikisource",
+        "title": "列子 · 湯問篇",
+        "url": "https://zh.wikisource.org/wiki/列子/湯問篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "備城門",
+    "title": "備城門",
+    "summary": "《墨子》篇名，述守城之法，兼及攻城十二術及城守之十四者。",
+    "tags": [
+      "墨子",
+      "備城門",
+      "城守",
+      "兵法"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "備梯",
+    "title": "備梯",
+    "summary": "禦雲梯攻城之法。",
+    "tags": [
+      "墨子",
+      "城守",
+      "攻城器械",
+      "兵法"
+    ],
+    "sources": [
+      {
+        "chapter": "備梯",
+        "plugin": "wikisource",
+        "title": "墨子 · 備梯",
+        "url": "https://zh.wikisource.org/wiki/墨子/備梯",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "備者國之重",
+    "title": "備者國之重也",
+    "summary": "備乃治國之要，無備則亡。",
+    "tags": [
+      "墨子",
+      "備患",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "七患",
+        "plugin": "wikisource",
+        "title": "墨子 · 七患",
+        "url": "https://zh.wikisource.org/wiki/墨子/七患",
+        "work": "墨子"
       }
     ]
   },
@@ -945,8 +1669,8 @@
     "title": "免麻",
     "summary": "齊衰以下之喪，入門哭，免而袒麻，與主人共禮。",
     "tags": [
-      "奔喪",
       "免麻",
+      "奔喪",
       "衰服",
       "部:經"
     ],
@@ -956,6 +1680,13 @@
         "plugin": "wikisource",
         "title": "禮記 · 奔喪",
         "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      },
+      {
+        "chapter": "服問",
+        "plugin": "wikisource",
+        "title": "禮記 · 服問",
+        "url": "https://zh.wikisource.org/wiki/禮記/服問",
         "work": "禮記"
       }
     ]
@@ -999,6 +1730,179 @@
         "title": "孟子 · 告子下",
         "url": "https://zh.wikisource.org/wiki/孟子/告子下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "兩小兒辯日",
+    "title": "兩小兒辯日 / 二子の日の辯論",
+    "summary": "A famous anecdote about two children debating whether the sun is closer in the morning or at noon, illustrating the limits of human knowledge.",
+    "tags": [
+      "列子",
+      "湯問",
+      "認識論",
+      "孔子",
+      "寓言"
+    ],
+    "sources": [
+      {
+        "chapter": "湯問篇",
+        "plugin": "wikisource",
+        "title": "列子 · 湯問篇",
+        "url": "https://zh.wikisource.org/wiki/列子/湯問篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "八州八伯",
+    "title": "八州八伯 / Eight Provinces and Eight Regional Lords / 八州八伯",
+    "summary": "八州八伯 describes the territorial division of the Zhou realm into eight provinces each governed by a regional lord.",
+    "tags": [
+      "禮記",
+      "王制",
+      "周代地理",
+      "封建制度",
+      "行政區劃"
+    ],
+    "sources": [
+      {
+        "chapter": "王制",
+        "plugin": "wikisource",
+        "title": "禮記 · 王制",
+        "url": "https://zh.wikisource.org/wiki/禮記/王制",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "公族之刑",
+    "title": "公族之刑 / Criminal Justice for the Ducal Clan",
+    "summary": "公族犯死罪，雖親不以犯有司，正術也。",
+    "tags": [
+      "儒學",
+      "禮記",
+      "刑法",
+      "公族",
+      "貴族"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "公門有稅齊衰",
+    "title": "Exemption at the Duke's Gate / 公門有稅齊衰",
+    "summary": "The principle that one need not remove mourning garments at the duke's gate, unlike at other official settings.",
+    "tags": [
+      "禮記",
+      "喪服",
+      "齊衰",
+      "儒學",
+      "服問",
+      "公門",
+      "稅齊衰"
+    ],
+    "sources": [
+      {
+        "chapter": "服問",
+        "plugin": "wikisource",
+        "title": "禮記 · 服問",
+        "url": "https://zh.wikisource.org/wiki/禮記/服問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "六失",
+    "title": "The Six Failings / 六失",
+    "summary": "The potential moral distortions that arise when each of the Six Classics is improperly understood or applied.",
+    "tags": [
+      "儒學",
+      "六經",
+      "教育",
+      "性情",
+      "過失"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "六教",
+    "title": "The Six Teachings / 六教",
+    "summary": "The Confucian doctrine that each of the Six Classics cultivates a specific moral disposition in those who study it.",
+    "tags": [
+      "儒學",
+      "六經",
+      "教育",
+      "性情"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "六經之教",
+    "title": "六經之教 / The Six Classics and Their Educational Functions",
+    "summary": "Confucius's teaching that each of the six classics cultivates specific virtues while carrying inherent risks of excess.",
+    "tags": [
+      "六經",
+      "詩",
+      "書",
+      "樂",
+      "易",
+      "禮",
+      "春秋",
+      "教育",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "共牢而食",
+    "title": "共牢而食 / Eating from the Same Offering / 同じ牢で食す",
+    "summary": "昏禮中夫婦同食一牲之禮，表夫婦同尊卑之恩義。",
+    "tags": [
+      "昏禮",
+      "儒學",
+      "婚俗",
+      "夫婦",
+      "禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -1050,9 +1954,9 @@
     "title": "凱弟君子",
     "summary": "詩所述和樂近善之君子，堪為民之父母。",
     "tags": [
-      "詩教",
       "君子",
       "禮樂",
+      "詩教",
       "部:子"
     ],
     "sources": [
@@ -1061,6 +1965,13 @@
         "plugin": "wikisource",
         "title": "禮記 · 孔子閒居",
         "url": "https://zh.wikisource.org/wiki/禮記/孔子閒居",
+        "work": "禮記"
+      },
+      {
+        "chapter": "表記",
+        "plugin": "wikisource",
+        "title": "禮記 · 表記",
+        "url": "https://zh.wikisource.org/wiki/禮記/表記",
         "work": "禮記"
       }
     ]
@@ -1115,6 +2026,26 @@
     ]
   },
   {
+    "slug": "制祭祀",
+    "title": "Regulations for Sacrifice / 制祭祀",
+    "summary": "The sage-kings' criteria for establishing sacrificial systems based on service to the people.",
+    "tags": [
+      "祭祀",
+      "禮制",
+      "聖王",
+      "功烈"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "力無敵於天下",
     "title": "力無敵於天下",
     "summary": "有力不用，力乃真有力；有名出者，違師教而顯能",
@@ -1123,7 +2054,8 @@
       "仲尼篇",
       "寓言",
       "力量",
-      "無為"
+      "無為",
+      "部:子"
     ],
     "sources": [
       {
@@ -1143,7 +2075,8 @@
       "命運",
       "力命",
       "哲學",
-      "列子"
+      "列子",
+      "部:子"
     ],
     "sources": [
       {
@@ -1152,6 +2085,26 @@
         "title": "列子 · 力命篇",
         "url": "https://zh.wikisource.org/wiki/列子/力命篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "功遂身退",
+    "title": "功遂身退 / Accomplishment Achieved, Withdraw the Self",
+    "summary": "The Daoist principle that one should retire after achieving success, following natural heavenly order.",
+    "tags": [
+      "道家哲學",
+      "無為",
+      "功成身退",
+      "天道"
+    ],
+    "sources": [
+      {
+        "chapter": "卷五",
+        "plugin": "wikisource",
+        "title": "文子 · 卷五",
+        "url": "https://zh.wikisource.org/wiki/文子/卷五",
+        "work": "文子"
       }
     ]
   },
@@ -1170,6 +2123,27 @@
         "plugin": "wikisource",
         "title": "禮記 · 三年問",
         "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "十倫",
+    "title": "The Ten Principles of Sacrifice / 十倫",
+    "summary": "The \"Ji Tong\" chapter outlines ten ethical principles embodied in sacrificial ritual, ranging from one's relationship with spirits to social hierarchies.",
+    "tags": [
+      "禮記",
+      "祭統",
+      "祭祀哲學",
+      "儒學倫理",
+      "社會秩序"
+    ],
+    "sources": [
+      {
+        "chapter": "祭統",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭統",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭統",
         "work": "禮記"
       }
     ]
@@ -1215,6 +2189,54 @@
     ]
   },
   {
+    "slug": "卜筮之問",
+    "title": "The Divination Question: Righteousness or Intention? / 卜筮之問",
+    "summary": "The formal ritual question \"Is it righteous? Is it from intention?\" used in divination contexts.",
+    "tags": [
+      "儒學",
+      "卜筮",
+      "少儀",
+      "禮學",
+      "義"
+    ],
+    "sources": [
+      {
+        "chapter": "少仪",
+        "plugin": "wikisource",
+        "title": "禮記 · 少仪",
+        "url": "https://zh.wikisource.org/wiki/禮記/少仪",
+        "work": "禮記"
+      },
+      {
+        "chapter": "表記",
+        "plugin": "wikisource",
+        "title": "禮記 · 表記",
+        "url": "https://zh.wikisource.org/wiki/禮記/表記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "厚作斂於百姓",
+    "title": "厚作斂於百姓",
+    "summary": "橫徵暴斂，乃民苦之根。",
+    "tags": [
+      "墨子",
+      "橫徵",
+      "暴斂",
+      "民生"
+    ],
+    "sources": [
+      {
+        "chapter": "七患",
+        "plugin": "wikisource",
+        "title": "墨子 · 七患",
+        "url": "https://zh.wikisource.org/wiki/墨子/七患",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
     "slug": "厚德薄命",
     "title": "厚德薄命",
     "summary": "德厚於人而行不加焉，命薄於時而福不逮焉。",
@@ -1222,7 +2244,8 @@
       "德命",
       "窮達",
       "東郭先生",
-      "列子"
+      "列子",
+      "部:子"
     ],
     "sources": [
       {
@@ -1297,6 +2320,26 @@
     ]
   },
   {
+    "slug": "反者道之動",
+    "title": "Reversal as the Movement of the Dao / 反者道之動",
+    "summary": "The Daoist principle that reversal (反) is the fundamental movement of the Dao, whereby things return to their source.",
+    "tags": [
+      "Daoism",
+      "Wenzi",
+      "dialectics",
+      "cosmological principle"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "文子 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/文子/卷一",
+        "work": "文子"
+      }
+    ]
+  },
+  {
     "slug": "取妻不取同姓",
     "title": "Prohibition of Same-Surname Marriage / 取妻不取同姓",
     "summary": "The Confucian principle prohibiting marriage between individuals of the same surname to maintain distinction and prevent incest.",
@@ -1339,6 +2382,28 @@
     ]
   },
   {
+    "slug": "口惠而實不至",
+    "title": "口惠而實不至 / Promises Without Fulfillment / 口惠みして實際に至らざること",
+    "summary": "The Confucian warning that verbal kindness without material substance invites resentment, and that fulfilling promises宁可招怨 is preferable to false诺言.",
+    "tags": [
+      "誠信",
+      "君子",
+      "怨言",
+      "禮記",
+      "儒學",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "表記",
+        "plugin": "wikisource",
+        "title": "禮記 · 表記",
+        "url": "https://zh.wikisource.org/wiki/禮記/表記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "古莽之國",
     "title": "古莽之國",
     "summary": "西極之南有國，五旬一覺，以夢為實，以覺為妄，與中土相反也。",
@@ -1346,7 +2411,8 @@
       "列子",
       "寓言",
       "古莽",
-      "覺夢"
+      "覺夢",
+      "部:子"
     ],
     "sources": [
       {
@@ -1374,6 +2440,48 @@
         "plugin": "wikisource",
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "司射",
+    "title": "司射 / Director of Archery (Shooting Officer)",
+    "summary": "The ritual official who oversees the Pitch-Pot game, responsible for measuring the vessel placement, directing throws, counting scores, and managing the flow of the ceremony.",
+    "tags": [
+      "禮記",
+      "官制",
+      "投壺",
+      "射禮",
+      "儒家禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "投壺",
+        "plugin": "wikisource",
+        "title": "禮記 · 投壺",
+        "url": "https://zh.wikisource.org/wiki/禮記/投壺",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "合巹而酳",
+    "title": "合巹而酳 / The Shared Cup Ceremony / 婚禮の儀礼",
+    "summary": "昏禮中夫婦共用一瓠瓜剖分之酒杯飲酒的儀式，象徵合為一體。",
+    "tags": [
+      "昏禮",
+      "儒學",
+      "婚俗",
+      "夫婦",
+      "禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
         "work": "禮記"
       }
     ]
@@ -1416,6 +2524,48 @@
         "title": "孟子 · 離婁下",
         "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "名可強立",
+    "title": "名可強立 / Fame Can Be Forcibly Established / 名は強いて立つ可し",
+    "summary": "Wenzi's assertion that fame and achievement can be actively pursued and established through earnest effort, exemplified by Nanrong Chou.",
+    "tags": [
+      "道家",
+      "修身",
+      "功名",
+      "文子",
+      "南榮疇"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "文子 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/文子/卷二",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "君以民為體",
+    "title": "君以民為體 / The Ruler as Body, the People as Heart",
+    "summary": "The ruler and people are interdependent like body and heart; damage to one affects the other, requiring mutual care and preservation.",
+    "tags": [
+      "君民",
+      "民本",
+      "治國",
+      "禮記",
+      "心身"
+    ],
+    "sources": [
+      {
+        "chapter": "緇衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 緇衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
+        "work": "禮記"
       }
     ]
   },
@@ -1477,6 +2627,33 @@
     ]
   },
   {
+    "slug": "君子比德於玉",
+    "title": "The Gentleman Compares Virtue to Jade / 君子比德於玉",
+    "summary": "Confucius's famous metaphor comparing the gentleman's virtues to the qualities of jade, enumerating eleven attributes of jade as models for moral cultivation.",
+    "tags": [
+      "仁",
+      "修身",
+      "倫理學",
+      "儒學",
+      "孔子",
+      "智",
+      "比德",
+      "玉德",
+      "禮",
+      "禮記",
+      "義"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "君子無物而不在禮",
     "title": "君子無物而不在禮",
     "summary": "君子動靜語默，皆不離乎禮，無物不在其中。",
@@ -1493,6 +2670,86 @@
         "title": "禮記 · 仲尼燕居",
         "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "含者",
+    "title": "含者",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "杂记上",
+        "plugin": "wikisource",
+        "title": "禮記 · 杂记上",
+        "url": "https://zh.wikisource.org/wiki/禮記/杂记上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "周公致政",
+    "title": "周公致政 / The Duke of Zhou's Return of Authority",
+    "summary": "記周公攝政七年還政於成王之事，以周公有勳勞於天下故也。",
+    "tags": [
+      "周公",
+      "成王",
+      "致政",
+      "周禮",
+      "攝政"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "周公踐位",
+    "title": "周公踐位 / The Duke of Zhou Assumed the Ruler's Position",
+    "summary": "The Duke of Zhou's assumption of the Son of Heaven's position during the minority of King Cheng and his subsequent contributions to ritual establishment.",
+    "tags": [
+      "周公",
+      "成王",
+      "踐位",
+      "制禮作樂",
+      "禮記",
+      "西周",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "和者陰陽調",
+    "title": "和者陰陽調 / Harmony: Yin and Yang in Balance",
+    "summary": "The Daoist principle that harmony (和) is the greatest force between heaven and earth, achieved through the balance of yin and yang.",
+    "tags": [
+      "道家",
+      "和",
+      "陰陽",
+      "修身",
+      "文子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十",
+        "work": "文子"
       }
     ]
   },
@@ -1564,6 +2821,26 @@
     ]
   },
   {
+    "slug": "哭踊有節",
+    "title": "哭踊有節 / Regulation of Mourning Crying and Foot-Stamping / 哭踊有節",
+    "summary": "The principle that mourning rituals require measured crying and foot-stamping with proper节制.",
+    "tags": [
+      "禮記",
+      "喪禮",
+      "儀節",
+      "檀弓"
+    ],
+    "sources": [
+      {
+        "chapter": "檀弓上",
+        "plugin": "wikisource",
+        "title": "禮記 · 檀弓上",
+        "url": "https://zh.wikisource.org/wiki/禮記/檀弓上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "哭辟市朝",
     "title": "哭辟市朝",
     "summary": "奔喪過國，哭於野以避市朝。",
@@ -1579,6 +2856,47 @@
         "plugin": "wikisource",
         "title": "禮記 · 奔喪",
         "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "商祝",
+    "title": "The Shang Sacrificial Officer / 商祝",
+    "summary": "The ritual specialist who performs the principal mourning rites for the deceased, distinct from other ceremonial officers.",
+    "tags": [
+      "禮儀",
+      "喪禮",
+      "職人",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "杂记上",
+        "plugin": "wikisource",
+        "title": "禮記 · 杂记上",
+        "url": "https://zh.wikisource.org/wiki/禮記/杂记上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "問卜筮",
+    "title": "問卜筮 / On Inquiring About Divination",
+    "summary": "Ritual guidelines for asking about divination, distinguishing between righteousness and personal will.",
+    "tags": [
+      "禮記",
+      "少儀",
+      "卜筮",
+      "禮儀",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "少儀",
+        "plugin": "wikisource",
+        "title": "禮記 · 少儀",
+        "url": "https://zh.wikisource.org/wiki/禮記/少儀",
         "work": "禮記"
       }
     ]
@@ -1674,8 +2992,8 @@
     "title": "善歌使人繼其聲",
     "summary": "善教者使人樂於傳承其志，如善歌者使人繼其聲。",
     "tags": [
-      "教法",
       "儒學",
+      "教法",
       "部:史"
     ],
     "sources": [
@@ -1684,6 +3002,13 @@
         "plugin": "wikisource",
         "title": "禮記 · 學記",
         "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      },
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
         "work": "禮記"
       }
     ]
@@ -1708,13 +3033,79 @@
     ]
   },
   {
+    "slug": "四代器服",
+    "title": "四代器服 / Ritual Vessels and Garments Across the Four Dynasties",
+    "summary": "記有虞、夏后氏、殷、周四代所用禮器、祭服之異同，以見聖人因時損益之意。",
+    "tags": [
+      "四代",
+      "禮器",
+      "祭服",
+      "夏商周",
+      "禮制"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "四始之說",
+    "title": "The Theory of the Four Origins / 四始之說",
+    "summary": "列子's cosmological doctrine describing the four stages of creation from non-breath (太易) through primordial substance (太素), culminating in the separation of heaven and earth.",
+    "tags": [
+      "列子",
+      "天瑞篇",
+      "宇宙論",
+      "太易",
+      "太初",
+      "太始",
+      "太素"
+    ],
+    "sources": [
+      {
+        "chapter": "天瑞篇",
+        "plugin": "wikisource",
+        "title": "列子 · 天瑞篇",
+        "url": "https://zh.wikisource.org/wiki/列子/天瑞篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "四時之祭",
+    "title": "The Four Seasonal Sacrifices / 四時之祭",
+    "summary": "The four seasonal sacrificial rites — Yue, Di, Shang, and Zheng — embody the balance of yin and yang throughout the year.",
+    "tags": [
+      "禮記",
+      "祭統",
+      "祭祀",
+      "四時",
+      "陰陽",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "祭統",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭統",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭統",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "四端",
     "title": "四端",
     "summary": "惻隱、羞惡、辭讓、是非之心，乃仁義禮智之端，猶人之有四肢，擴充則可保四海。",
     "tags": [
-      "心性",
-      "孟子",
       "仁義",
+      "孟子",
+      "心性",
       "部:經"
     ],
     "sources": [
@@ -1724,6 +3115,13 @@
         "title": "孟子 · 公孫丑上",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
         "work": "孟子"
+      },
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
       }
     ]
   },
@@ -1748,6 +3146,42 @@
         "plugin": "wikisource",
         "title": "禮記 · 喪服四制",
         "url": "https://zh.wikisource.org/wiki/禮記/喪服四制",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "四輔",
+    "title": "四輔",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "四靈",
+    "title": "四靈 / The Four Spiritual Creatures / 四霊",
+    "summary": "The four spiritual animals (unicorn, phoenix, turtle, dragon) that serve as tokens of good governance and cosmic harmony in Confucian tradition.",
+    "tags": [
+      "禮記",
+      "祥瑞",
+      "政治哲學",
+      "儒學",
+      "宇宙論"
+    ],
+    "sources": [
+      {
+        "chapter": "禮運",
+        "plugin": "wikisource",
+        "title": "禮記 · 禮運",
+        "url": "https://zh.wikisource.org/wiki/禮記/禮運",
         "work": "禮記"
       }
     ]
@@ -1780,7 +3214,8 @@
       "列子",
       "仲尼篇",
       "寓言",
-      "賢才"
+      "賢才",
+      "部:子"
     ],
     "sources": [
       {
@@ -1789,6 +3224,46 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "國無三年之食",
+    "title": "國無三年之食者國非其國",
+    "summary": "備荒儲粟，國家存亡之要務。",
+    "tags": [
+      "墨子",
+      "備荒",
+      "食貨",
+      "國政"
+    ],
+    "sources": [
+      {
+        "chapter": "七患",
+        "plugin": "wikisource",
+        "title": "墨子 · 七患",
+        "url": "https://zh.wikisource.org/wiki/墨子/七患",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "地道迎穴",
+    "title": "地道迎穴",
+    "summary": "敵為穴以入，我亟遣穴師迎而穴之，內弩以待。",
+    "tags": [
+      "墨子",
+      "城守",
+      "地道",
+      "穴戰"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
       }
     ]
   },
@@ -1815,6 +3290,154 @@
     ]
   },
   {
+    "slug": "城上之備",
+    "title": "城上之備",
+    "summary": "城上守具之名：渠譫、藉車、行棧、行樓、頡皋、連梃、長斧、長椎、長茲、距、飛衝、縣𠊱。",
+    "tags": [
+      "墨子",
+      "城守",
+      "器械",
+      "武器"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "城上備渠譫",
+    "title": "城上備渠譫",
+    "summary": "城上之渠、譫，乃防敵攻城之要具。",
+    "tags": [
+      "墨子",
+      "城守",
+      "渠",
+      "防禦工事"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "城上持出必操填章",
+    "title": "城上持出必操填章",
+    "summary": "城中之人持物出城，必持符印為驗，否則禁止。",
+    "tags": [
+      "墨子",
+      "城守",
+      "禁令",
+      "符節"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "城上火備",
+    "title": "城上火備",
+    "summary": "城上置火之具，蓄水、薪、突火，以防火攻並拒敵人。",
+    "tags": [
+      "墨子",
+      "城守",
+      "火攻",
+      "防火"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "城上禁挾兵仗",
+    "title": "城上禁挾兵仗",
+    "summary": "守城之人，皆無得挾帶兵器，以防姦宄。",
+    "tags": [
+      "墨子",
+      "城守",
+      "禁令",
+      "姦宄"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "執燭抱燋",
+    "title": "執燭抱燋 / On Carrying Torches in Ritual",
+    "summary": "Guidelines for the proper handling and presentation of torches during nighttime rituals.",
+    "tags": [
+      "禮記",
+      "少儀",
+      "禮儀",
+      "照明",
+      "祭祀"
+    ],
+    "sources": [
+      {
+        "chapter": "少儀",
+        "plugin": "wikisource",
+        "title": "禮記 · 少儀",
+        "url": "https://zh.wikisource.org/wiki/禮記/少儀",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "執虛如執盈",
+    "title": "Holding Emptiness as Fullness / 執虛如執盈，入虛如有人",
+    "summary": "The principle of maintaining proper reverence and decorum even when the situation appears empty or informal.",
+    "tags": [
+      "修身",
+      "儒學",
+      "少儀",
+      "禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "少儀",
+        "plugin": "wikisource",
+        "title": "禮記 · 少儀",
+        "url": "https://zh.wikisource.org/wiki/禮記/少儀",
+        "work": "禮記"
+      },
+      {
+        "chapter": "緇衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 緇衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "堯禪天下",
     "title": "堯禪天下",
     "summary": "堯治天下五十年不知治亂，乃微服察謠，知民不知而禪於舜",
@@ -1824,7 +3447,8 @@
       "堯",
       "舜",
       "政治",
-      "禪讓"
+      "禪讓",
+      "部:子"
     ],
     "sources": [
       {
@@ -1837,6 +3461,51 @@
     ]
   },
   {
+    "slug": "士依於德游於藝",
+    "title": "The Scholar's Foundation: Virtue and Art / 士依於德，游於藝",
+    "summary": "The Confucian ideal of the scholar who bases life upon virtue while cultivating the arts.",
+    "tags": [
+      "儒學",
+      "士",
+      "德",
+      "藝",
+      "少儀"
+    ],
+    "sources": [
+      {
+        "chapter": "少儀",
+        "plugin": "wikisource",
+        "title": "禮記 · 少儀",
+        "url": "https://zh.wikisource.org/wiki/禮記/少儀",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "夏道殷道周道",
+    "title": "夏道殷道周道 / The Three Dynasties' Governing Principles / 夏道・殷道・周道",
+    "summary": "A comparative analysis of the governance approaches of the Xia, Shang, and Zhou dynasties, showing how each emphasized different values and produced different civilian character.",
+    "tags": [
+      "夏道",
+      "殷道",
+      "周道",
+      "三代",
+      "治國",
+      "禮記",
+      "儒學",
+      "政治哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "表記",
+        "plugin": "wikisource",
+        "title": "禮記 · 表記",
+        "url": "https://zh.wikisource.org/wiki/禮記/表記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "外游內觀",
     "title": "外游內觀",
     "summary": "外游求備於物，內觀取足於身；取足於身，游之至也",
@@ -1845,7 +3514,8 @@
       "仲尼篇",
       "哲學",
       "遊觀",
-      "修養"
+      "修養",
+      "部:子"
     ],
     "sources": [
       {
@@ -1878,6 +3548,47 @@
     ]
   },
   {
+    "slug": "多歧亡羊",
+    "title": "Many Forks Cause the Loss of the Sheep / 多歧亡羊",
+    "summary": "The story of a shepherd losing his sheep at a crossroads, illustrating how excessive options lead to perdition.",
+    "tags": [
+      "寓言",
+      "方法論",
+      "列子",
+      "認知",
+      "道的迷失"
+    ],
+    "sources": [
+      {
+        "chapter": "說符篇",
+        "plugin": "wikisource",
+        "title": "列子 · 說符篇",
+        "url": "https://zh.wikisource.org/wiki/列子/說符篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "夜半鼓噪",
+    "title": "夜半鼓噪",
+    "summary": "夜半四面鼓譟以破敵之法。",
+    "tags": [
+      "墨子",
+      "城守",
+      "夜戰",
+      "兵法"
+    ],
+    "sources": [
+      {
+        "chapter": "備梯",
+        "plugin": "wikisource",
+        "title": "墨子 · 備梯",
+        "url": "https://zh.wikisource.org/wiki/墨子/備梯",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
     "slug": "夢中為君",
     "title": "夢中為君",
     "summary": "役夫晝夜苦逸懸隔，夜夢為君，樂無比；役人之心，冀慕富貴者也。",
@@ -1885,7 +3596,8 @@
       "列子",
       "夢",
       "苦逸",
-      "貧富"
+      "貧富",
+      "部:子"
     ],
     "sources": [
       {
@@ -1905,7 +3617,8 @@
       "列子",
       "夢",
       "覺夢",
-      "神"
+      "神",
+      "部:子"
     ],
     "sources": [
       {
@@ -1958,13 +3671,57 @@
     ]
   },
   {
+    "slug": "大同",
+    "title": "大同 / The Great Unity / 天下为公の世",
+    "summary": "The supreme ideal of the Book of Rites where the world belongs to all, with virtue and ability governing society.",
+    "tags": [
+      "儒學",
+      "天下為公",
+      "政治哲學",
+      "理想社會",
+      "禮記",
+      "禮運"
+    ],
+    "sources": [
+      {
+        "chapter": "禮運",
+        "plugin": "wikisource",
+        "title": "禮記 · 禮運",
+        "url": "https://zh.wikisource.org/wiki/禮記/禮運",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "大夫卜宅葬日",
+    "title": "大夫卜宅葬日 / Divination for Burial Sites and Dates / 大夫の卜宅葬日",
+    "summary": "The ritual of divination to determine burial sites and dates for ministers, as recorded in the Book of Rites, including the dress code and officials involved.",
+    "tags": [
+      "禮記",
+      "喪禮",
+      "卜筮",
+      "葬禮",
+      "儒學",
+      "大夫"
+    ],
+    "sources": [
+      {
+        "chapter": "杂记上",
+        "plugin": "wikisource",
+        "title": "禮記 · 杂记上",
+        "url": "https://zh.wikisource.org/wiki/禮記/杂记上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "大夫至袒拜成踴",
     "title": "大夫至袒拜成踴",
     "summary": "奔喪時大夫至則袒拜成踴而後襲，士至則襲而後拜。",
     "tags": [
-      "奔喪",
-      "大夫",
       "士",
+      "大夫",
+      "奔喪",
       "禮異",
       "部:經"
     ],
@@ -1974,6 +3731,13 @@
         "plugin": "wikisource",
         "title": "禮記 · 奔喪",
         "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      },
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
         "work": "禮記"
       }
     ]
@@ -2100,6 +3864,27 @@
     ]
   },
   {
+    "slug": "大順",
+    "title": "大順 / Great Harmony",
+    "summary": "The ultimate state of social harmony achieved through ritual propriety, cultivation, and alignment with the natural order.",
+    "tags": [
+      "儒學",
+      "禮記",
+      "禮運",
+      "和",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "禮運",
+        "plugin": "wikisource",
+        "title": "禮記 · 禮運",
+        "url": "https://zh.wikisource.org/wiki/禮記/禮運",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "大饗有四",
     "title": "大饗有四",
     "summary": "禮猶有九焉，大饗有四；苟知此矣，雖在畎畝之中事之，聖人已。",
@@ -2179,6 +3964,13 @@
         "title": "禮記 · 坊記",
         "url": "https://zh.wikisource.org/wiki/禮記/坊記",
         "work": "禮記"
+      },
+      {
+        "chapter": "服問",
+        "plugin": "wikisource",
+        "title": "禮記 · 服問",
+        "url": "https://zh.wikisource.org/wiki/禮記/服問",
+        "work": "禮記"
       }
     ]
   },
@@ -2207,11 +3999,11 @@
     "title": "天時不如地利",
     "summary": "天時地形之便，皆不及人心之和合。",
     "tags": [
-      "治道",
       "人和",
-      "天時",
       "地利",
+      "天時",
       "孟子",
+      "治道",
       "部:子"
     ],
     "sources": [
@@ -2221,6 +4013,13 @@
         "title": "孟子 · 公孫丑下",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑下",
         "work": "孟子"
+      },
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "文子 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/文子/卷二",
+        "work": "文子"
       }
     ]
   },
@@ -2287,14 +4086,55 @@
     ]
   },
   {
+    "slug": "始死之奠",
+    "title": "Offerings at the Moment of Death / 始死之奠",
+    "summary": "The ritual offering made immediately upon death, using remaining food from the pantry shelf.",
+    "tags": [
+      "mourning",
+      "ritual",
+      "offering",
+      "禮記",
+      "檀弓"
+    ],
+    "sources": [
+      {
+        "chapter": "檀弓上",
+        "plugin": "wikisource",
+        "title": "禮記 · 檀弓上",
+        "url": "https://zh.wikisource.org/wiki/禮記/檀弓上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "始見君子",
+    "title": "First Audience with a Superior / 始見君子",
+    "summary": "Proper etiquette for one's first formal introduction to a person of higher status.",
+    "tags": [
+      "禮儀",
+      "少儀",
+      "儒學",
+      "倫常"
+    ],
+    "sources": [
+      {
+        "chapter": "少儀",
+        "plugin": "wikisource",
+        "title": "禮記 · 少儀",
+        "url": "https://zh.wikisource.org/wiki/禮記/少儀",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "子弟教育",
     "title": "子弟教育 / Education of Children in Confucian Tradition / 子弟教育",
     "summary": "The age-based curriculum for children's moral and intellectual development from age six through adulthood, as prescribed in the Book of Rites.",
     "tags": [
-      "禮記",
+      "修身",
       "儒家",
       "教育",
-      "修身",
+      "禮記",
       "蒙學",
       "部:子"
     ],
@@ -2304,6 +4144,13 @@
         "plugin": "wikisource",
         "title": "禮記 · 內則",
         "url": "https://zh.wikisource.org/wiki/禮記/內則",
+        "work": "禮記"
+      },
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
         "work": "禮記"
       }
     ]
@@ -2325,6 +4172,27 @@
         "title": "論語 · 先進第十一",
         "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "孔子射於矍相之圃",
+    "title": "Confucius's Archery at Juexiang Garden / 孔子射於矍相之圃",
+    "summary": "The famous account of Confucius conducting an archery demonstration, with observers forming a wall, as recorded in the Book of Rites.",
+    "tags": [
+      "孔子",
+      "射禮",
+      "禮記",
+      "儒學",
+      "觀者如堵牆"
+    ],
+    "sources": [
+      {
+        "chapter": "射義",
+        "plugin": "wikisource",
+        "title": "禮記 · 射義",
+        "url": "https://zh.wikisource.org/wiki/禮記/射義",
+        "work": "禮記"
       }
     ]
   },
@@ -2400,11 +4268,11 @@
     "title": "孝弟忠順 / Filial Piety, Brotherhood, Loyalty, and Obedience",
     "summary": "The four cardinal virtues expected of an adult after the capping ceremony, forming the foundation for personal cultivation and social harmony.",
     "tags": [
-      "冠禮",
       "儒學",
-      "禮記",
-      "孝道",
+      "冠禮",
       "四維",
+      "孝道",
+      "禮記",
       "部:經"
     ],
     "sources": [
@@ -2413,6 +4281,32 @@
         "plugin": "wikisource",
         "title": "禮記 · 冠義",
         "url": "https://zh.wikisource.org/wiki/禮記/冠義",
+        "work": "禮記"
+      },
+      {
+        "chapter": "祭義",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭義",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "孝有三",
+    "title": "孝有三",
+    "summary": "",
+    "tags": [
+      "儒學",
+      "孝道",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "祭義",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭義",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭義",
         "work": "禮記"
       }
     ]
@@ -2438,6 +4332,193 @@
     ]
   },
   {
+    "slug": "守分循理",
+    "title": "守分循理 / Keeping One's Station and Following Principle",
+    "summary": "The virtue of contentment in one's proper place while adhering to righteous principles.",
+    "tags": [
+      "道家哲學",
+      "安分",
+      "循理",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "卷五",
+        "plugin": "wikisource",
+        "title": "文子 · 卷五",
+        "url": "https://zh.wikisource.org/wiki/文子/卷五",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "守城之十四者",
+    "title": "守城之十四者",
+    "summary": "具十四者城可守，失之則不能守。",
+    "tags": [
+      "墨子",
+      "城守",
+      "防務",
+      "兵法"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "守法五十步四十人",
+    "title": "守法五十步四十人",
+    "summary": "守城之人數配置，五十步需丈夫十人、丁女二十人、老小十人。",
+    "tags": [
+      "墨子",
+      "城守",
+      "人數",
+      "兵制"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "守者必善而君尊用之",
+    "title": "守者必善而君尊用之",
+    "summary": "守城之道，在守者善守、君能尊用，二者皆備，乃可言守。",
+    "tags": [
+      "墨子",
+      "城守",
+      "君臣"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "守道虛無",
+    "title": "Guarding the Way and Emptiness / 守道虛無",
+    "summary": "A Daoist spiritual practice of maintaining inner emptiness and vacuity while following natural principles, central to Wenzi's teachings on sage governance.",
+    "tags": [
+      "道家",
+      "心靈修養",
+      "文子",
+      "虛無",
+      "精神修養"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "文子 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/文子/卷三",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "宮商角徵羽",
+    "title": "宮商角徵羽 / The Five Notes and Social Order",
+    "summary": "The Confucian theory correlating the five musical pitches with social roles, establishing music as a mirror of political order.",
+    "tags": [
+      "樂記",
+      "禮記",
+      "儒學",
+      "音律",
+      "五音",
+      "政治哲學",
+      "陰陽"
+    ],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "宰夫",
+    "title": "宰夫 / Chief Steward (宰夫)",
+    "summary": "掌君之膳羞飲食及燕禮中為獻主之官，以臣代君行禮。",
+    "tags": [
+      "禮記",
+      "官制",
+      "膳夫",
+      "燕禮",
+      "獻主",
+      "禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "燕義",
+        "plugin": "wikisource",
+        "title": "禮記 · 燕義",
+        "url": "https://zh.wikisource.org/wiki/禮記/燕義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "容儀",
+    "title": "Ceremonial Demeanor / 容儀",
+    "summary": "The Confucian system of proper physical bearing, expression, and conduct in various ritual and social contexts, with detailed prescriptions for posture, gaze, and movement.",
+    "tags": [
+      "禮記",
+      "容儀",
+      "禮儀",
+      "修身",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "玉藻",
+        "plugin": "wikisource",
+        "title": "禮記 · 玉藻",
+        "url": "https://zh.wikisource.org/wiki/禮記/玉藻",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "實名僞名",
+    "title": "實名與僞名 / Real Name and False Name",
+    "summary": "A Liezi Yang Zhu doctrine contrasting true reputation grounded in virtue versus false reputation obtained through pretense.",
+    "tags": [
+      "楊朱",
+      "名實",
+      "先秦哲學",
+      "列子",
+      "名利"
+    ],
+    "sources": [
+      {
+        "chapter": "楊朱篇",
+        "plugin": "wikisource",
+        "title": "列子 · 楊朱篇",
+        "url": "https://zh.wikisource.org/wiki/列子/楊朱篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "寬裕",
     "title": "寬裕者仁之作",
     "summary": "寬廣從容，乃仁道之運作施為，承上啟下之功。",
@@ -2458,6 +4539,26 @@
     ]
   },
   {
+    "slug": "射侯",
+    "title": "射侯 / The Archery Target Rite / 射侯",
+    "summary": "天子大射之禮，射以選諸侯，觀德行而定賞罰。",
+    "tags": [
+      "禮記",
+      "射禮",
+      "儒學",
+      "選士"
+    ],
+    "sources": [
+      {
+        "chapter": "射義",
+        "plugin": "wikisource",
+        "title": "禮記 · 射義",
+        "url": "https://zh.wikisource.org/wiki/禮記/射義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "尊師",
     "title": "尊師",
     "summary": "師與君同尊，天子詔於師亦北面。",
@@ -2473,6 +4574,29 @@
         "plugin": "wikisource",
         "title": "禮記 · 學記",
         "url": "https://zh.wikisource.org/wiki/禮記/學記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "小康",
+    "title": "小康 / The Lesser Peace / 小康の世",
+    "summary": "The moderate social order that emerges after the Great Way declines, governed by ritual and righteousness rather than universal virtue.",
+    "tags": [
+      "三代",
+      "儒學",
+      "政治哲學",
+      "理想社會",
+      "禮",
+      "禮義",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "禮運",
+        "plugin": "wikisource",
+        "title": "禮記 · 禮運",
+        "url": "https://zh.wikisource.org/wiki/禮記/禮運",
         "work": "禮記"
       }
     ]
@@ -2500,6 +4624,31 @@
     ]
   },
   {
+    "slug": "尚齒",
+    "title": "尚齒 / Veneration of Age",
+    "summary": "先王治天下尚齒，敬老養老，齒於朝廷，行乎道路，達乎州巷，放乎獀狩，修乎軍旅。",
+    "tags": [
+      "儒學",
+      "儒家",
+      "敬老",
+      "社會秩序",
+      "祭義",
+      "禮制",
+      "禮記",
+      "等級",
+      "長幼有序"
+    ],
+    "sources": [
+      {
+        "chapter": "祭義",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭義",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "屢空",
     "title": "屢空",
     "summary": "顏淵家貧屢空，冉有不受命而貨殖。",
@@ -2516,6 +4665,64 @@
         "title": "論語 · 先進第十一",
         "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "崩薨卒不祿",
+    "title": "Death Terminology by Rank / 崩薨卒不祿死——等級死亡稱謂",
+    "summary": "The hierarchical system of death terminology in ancient Chinese protocol, distinguishing ranks through specific nomenclature.",
+    "tags": [
+      "禮學",
+      "稱謂",
+      "等級制度",
+      "曲禮",
+      "死亡禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "巡守",
+    "title": "巡守 / Royal Inspection Tours",
+    "summary": "The ancient Chinese system of royal tours to inspect the feudal domains.",
+    "tags": [
+      "禮記",
+      "王制",
+      "巡守",
+      "天子",
+      "封建",
+      "儒家制度"
+    ],
+    "sources": [
+      {
+        "chapter": "王制",
+        "plugin": "wikisource",
+        "title": "禮記 · 王制",
+        "url": "https://zh.wikisource.org/wiki/禮記/王制",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "師保",
+    "title": "師保",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
       }
     ]
   },
@@ -2540,6 +4747,71 @@
     ]
   },
   {
+    "slug": "庶子官",
+    "title": "庶子官 / Officer of Younger Sons (庶子官)",
+    "summary": "周代掌理諸侯卿大夫士庶子之戒令教治及其軍政之事者。",
+    "tags": [
+      "禮記",
+      "官制",
+      "周禮",
+      "庶子",
+      "軍政",
+      "教育"
+    ],
+    "sources": [
+      {
+        "chapter": "燕義",
+        "plugin": "wikisource",
+        "title": "禮記 · 燕義",
+        "url": "https://zh.wikisource.org/wiki/禮記/燕義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "延陵季子葬其子",
+    "title": "Yanling Jizi's Burial of His Son / 延陵季子葬其子",
+    "summary": "A detailed account of Ji Zha of Wu's proper funeral observance for his eldest son, including grave dimensions, ritual clothing, and mourning procedures, praised by Confucius.",
+    "tags": [
+      "延陵季子",
+      "葬禮",
+      "儒家",
+      "禮記",
+      "檀弓",
+      "吳國"
+    ],
+    "sources": [
+      {
+        "chapter": "檀弓下",
+        "plugin": "wikisource",
+        "title": "禮記 · 檀弓下",
+        "url": "https://zh.wikisource.org/wiki/禮記/檀弓下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "延陵季子葬子",
+    "title": "Yanjing Jizi's Son's Funeral / 延陵季子葬子",
+    "summary": "The exemplary funeral rites performed by Wu Taibo's descendant for his eldest son, demonstrating proper ritual propriety and philosophical acceptance of death.",
+    "tags": [
+      "禮記",
+      "檀弓",
+      "葬禮",
+      "季札",
+      "吳國"
+    ],
+    "sources": [
+      {
+        "chapter": "檀弓下",
+        "plugin": "wikisource",
+        "title": "禮記 · 檀弓下",
+        "url": "https://zh.wikisource.org/wiki/禮記/檀弓下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "強而弗抑",
     "title": "強而弗抑",
     "summary": "勉勵之而不挫折之，使學者易於自強。",
@@ -2555,6 +4827,27 @@
         "title": "禮記 · 學記",
         "url": "https://zh.wikisource.org/wiki/禮記/學記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "形者生之舍",
+    "title": "Body as Dwelling Place / 形者生之舍",
+    "summary": "Wenzi's philosophical framework on the tripartite relationship between form (body), qi (vital breath), and spirit, where the body houses life, breath is its source, and spirit governs.",
+    "tags": [
+      "道家",
+      "形氣神",
+      "人體哲學",
+      "文子",
+      "精神修養"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "文子 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/文子/卷三",
+        "work": "文子"
       }
     ]
   },
@@ -2589,7 +4882,8 @@
       "仲尼篇",
       "哲學",
       "語言",
-      "認識論"
+      "認識論",
+      "部:子"
     ],
     "sources": [
       {
@@ -2631,7 +4925,8 @@
       "仲尼篇",
       "哲學",
       "修道",
-      "境界"
+      "境界",
+      "部:子"
     ],
     "sources": [
       {
@@ -2640,6 +4935,27 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "從輕而重",
+    "title": "Graduated Mourning Escalation / 從輕而重",
+    "summary": "The principle that mourning obligations may escalate when family relationships intensify.",
+    "tags": [
+      "禮記",
+      "喪服",
+      "喪禮",
+      "儒學",
+      "服問"
+    ],
+    "sources": [
+      {
+        "chapter": "服問",
+        "plugin": "wikisource",
+        "title": "禮記 · 服問",
+        "url": "https://zh.wikisource.org/wiki/禮記/服問",
+        "work": "禮記"
       }
     ]
   },
@@ -2682,6 +4998,50 @@
         "title": "孟子 · 公孫丑上",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "德音與溺音",
+    "title": "德音與溺音 / Virtuous Music and Corrupting Music",
+    "summary": "The Confucian distinction between virtuous music that cultivates moral character and excessive music that leads to moral decay.",
+    "tags": [
+      "樂記",
+      "禮記",
+      "儒學",
+      "音樂哲學",
+      "德音",
+      "溺音",
+      "鄭衛之音"
+    ],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "心小志大智圓行方能多事少",
+    "title": "心小志大智圓行方能多事少 / The Sixfold Cultivation",
+    "summary": "A Daoist ethical framework of six paradoxes: small desire with great ambition, round wisdom with square conduct, many abilities with few affairs.",
+    "tags": [
+      "修身",
+      "道家",
+      "方法論",
+      "中黃子",
+      "理想人格"
+    ],
+    "sources": [
+      {
+        "chapter": "卷七",
+        "plugin": "wikisource",
+        "title": "文子 · 卷七",
+        "url": "https://zh.wikisource.org/wiki/文子/卷七",
+        "work": "文子"
       }
     ]
   },
@@ -2773,6 +5133,21 @@
     ]
   },
   {
+    "slug": "愚公移山",
+    "title": "愚公移山",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "湯問篇",
+        "plugin": "wikisource",
+        "title": "列子 · 湯問篇",
+        "url": "https://zh.wikisource.org/wiki/列子/湯問篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "愛人為大",
     "title": "愛人為大 / Loving People Is Paramount",
     "summary": "Confucius states that loving people is the greatest principle in governance, with ritual as its standard and reverence as its culmination.",
@@ -2832,6 +5207,48 @@
         "plugin": "wikisource",
         "title": "禮記 · 奔喪",
         "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "投壺",
+    "title": "投壺之禮 / Pitch-Pot Ritual (投壺)",
+    "summary": "A ceremonial game from the Book of Rites where arrows are thrown into a designated vessel, with detailed rules for scoring, toasting, and musical accompaniment.",
+    "tags": [
+      "禮記",
+      "儒家禮儀",
+      "投壺",
+      "射禮",
+      "古禮"
+    ],
+    "sources": [
+      {
+        "chapter": "投壺",
+        "plugin": "wikisource",
+        "title": "禮記 · 投壺",
+        "url": "https://zh.wikisource.org/wiki/禮記/投壺",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "抗世子法",
+    "title": "抗世子法",
+    "summary": "",
+    "tags": [
+      "世子教育",
+      "伯禽",
+      "周公",
+      "周朝",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
         "work": "禮記"
       }
     ]
@@ -2899,6 +5316,27 @@
     ]
   },
   {
+    "slug": "攫金而去",
+    "title": "Seizing Gold and Departing / 攫金而去",
+    "summary": "The parable of the Qí man who, seeing only gold, failed to see the people around him.",
+    "tags": [
+      "寓言",
+      "認知心理",
+      "列子",
+      "貪欲",
+      "見與不見"
+    ],
+    "sources": [
+      {
+        "chapter": "說符篇",
+        "plugin": "wikisource",
+        "title": "列子 · 說符篇",
+        "url": "https://zh.wikisource.org/wiki/列子/說符篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "收族",
     "title": "收族 / Clan Consolidation",
     "summary": "The process of gathering and uniting the clan through reverence for the lineage head, forming the social foundation of Confucian order.",
@@ -2921,15 +5359,35 @@
     ]
   },
   {
+    "slug": "攻城十二術",
+    "title": "攻城十二術",
+    "summary": "攻城之十二法，曰臨、鉤、衝、梯、堙、水、穴、突、空洞、蟻傅、轒轀、軒車。",
+    "tags": [
+      "墨子",
+      "攻城",
+      "兵法",
+      "十二術"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
     "slug": "政者正也",
     "title": "政者正也 / Governance Is Rectification",
     "summary": "Confucius defines governance as rectification, arguing that when the ruler is upright, the people will follow.",
     "tags": [
-      "為政",
       "修身",
-      "孔子",
-      "禮記",
       "儒學",
+      "孔子",
+      "為政",
+      "禮記",
       "部:經"
     ],
     "sources": [
@@ -2938,6 +5396,75 @@
         "plugin": "wikisource",
         "title": "禮記 · 哀公問",
         "url": "https://zh.wikisource.org/wiki/禮記/哀公問",
+        "work": "禮記"
+      },
+      {
+        "chapter": "緇衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 緇衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "敖不可長",
+    "title": "Arrogance Must Not Grow / 敖不可長",
+    "summary": "The Confucian principle that arrogance must never be allowed to grow or develop.",
+    "tags": [
+      "修身",
+      "曲禮",
+      "禮記",
+      "自我修養",
+      "品德"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮上",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮上",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "敖不可長欲不可從",
+    "title": "敖不可長，欲不可從 / Arrogance Must Not Be Fostered, Desires Must Not Be Indulged",
+    "summary": "A Confucian principle from the Book of Rites teaching that arrogance and desires must be restrained, along with related exhortations for self-mastery.",
+    "tags": [
+      "修身",
+      "儒學",
+      "曲禮",
+      "德行修養"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮上",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮上",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "敖不可長欲不可從志不可滿樂不可極",
+    "title": "敖不可長，欲不可從，志不可滿，樂不可極 / The Fourfold Caution Against Excess",
+    "summary": "The complete Confucian admonition against arrogance, desires, satisfaction, and extreme pleasure, forming a foundational teaching on self-restraint from the Book of Rites.",
+    "tags": [
+      "修身",
+      "儒學",
+      "曲禮",
+      "中庸",
+      "德行修養"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮上",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮上",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮上",
         "work": "禮記"
       }
     ]
@@ -3067,11 +5594,11 @@
     "title": "敬宗 / Revering the Lineage Head",
     "summary": "The Confucian virtue of honoring the lineage head as the expression of ancestor veneration, leading to clan consolidation and social order.",
     "tags": [
-      "宗法",
-      "禮制",
-      "祖先崇拜",
-      "儒家美德",
       "修身齊家",
+      "儒家美德",
+      "宗法",
+      "祖先崇拜",
+      "禮制",
       "部:經"
     ],
     "sources": [
@@ -3080,6 +5607,13 @@
         "plugin": "wikisource",
         "title": "禮記 · 大傳",
         "url": "https://zh.wikisource.org/wiki/禮記/大傳",
+        "work": "禮記"
+      },
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
         "work": "禮記"
       }
     ]
@@ -3125,6 +5659,30 @@
     ]
   },
   {
+    "slug": "方伯",
+    "title": "Regional Lords / 方伯",
+    "summary": "The highest regional administrators appointed by the Son of Heaven to oversee groups of vassal states.",
+    "tags": [
+      "九州",
+      "周代官制",
+      "地方治理",
+      "地方行政",
+      "封建制度",
+      "王制",
+      "礼记",
+      "禮制"
+    ],
+    "sources": [
+      {
+        "chapter": "王制",
+        "plugin": "wikisource",
+        "title": "禮記 · 王制",
+        "url": "https://zh.wikisource.org/wiki/禮記/王制",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "方寸之地虛",
     "title": "方寸之地虛",
     "summary": "文摯視龍叔之心，方寸之地虛矣，幾聖人",
@@ -3133,7 +5691,8 @@
       "仲尼篇",
       "哲學",
       "心",
-      "聖人"
+      "聖人",
+      "部:子"
     ],
     "sources": [
       {
@@ -3172,10 +5731,10 @@
     "title": "明乎郊社之義",
     "summary": "明乎郊社之義、嘗禘之禮，治國其如指諸掌。",
     "tags": [
-      "禮",
-      "治國",
-      "郊社",
       "儒學",
+      "治國",
+      "禮",
+      "郊社",
       "部:經"
     ],
     "sources": [
@@ -3184,6 +5743,13 @@
         "plugin": "wikisource",
         "title": "禮記 · 仲尼燕居",
         "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      },
+      {
+        "chapter": "郊特牲",
+        "plugin": "wikisource",
+        "title": "禮記 · 郊特牲",
+        "url": "https://zh.wikisource.org/wiki/禮記/郊特牲",
         "work": "禮記"
       }
     ]
@@ -3206,6 +5772,50 @@
         "title": "禮記/中庸 · 中庸",
         "url": "https://zh.wikisource.org/wiki/禮記/中庸",
         "work": "禮記/中庸"
+      }
+    ]
+  },
+  {
+    "slug": "明器",
+    "title": "明器 / Mingqi: Spirit Vessels / 明器（めいき）",
+    "summary": "Tomb vessels and objects placed with the dead, representing the transition from spirit objects to ritual vessels across the Three Dynasties.",
+    "tags": [
+      "禮記",
+      "喪禮",
+      "明器",
+      "三代禮制",
+      "檀弓"
+    ],
+    "sources": [
+      {
+        "chapter": "檀弓上",
+        "plugin": "wikisource",
+        "title": "禮記 · 檀弓上",
+        "url": "https://zh.wikisource.org/wiki/禮記/檀弓上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "明堂之位",
+    "title": "明堂之位 / The Ritual Positions at the Bright Hall",
+    "summary": "The hierarchical arrangement of lords and foreign rulers at the Bright Hall audience conducted by the Duke of Zhou.",
+    "tags": [
+      "禮記",
+      "明堂",
+      "周公",
+      "朝聘",
+      "方位",
+      "夷狄",
+      "封建"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
+        "work": "禮記"
       }
     ]
   },
@@ -3247,6 +5857,69 @@
         "title": "大學",
         "url": "https://zh.wikisource.org/wiki/大學",
         "work": "大學"
+      }
+    ]
+  },
+  {
+    "slug": "明發不寐",
+    "title": "Sleepless Vigil / 明發不寐",
+    "summary": "The ritual practice of staying awake through the night after a sacrifice to honor deceased parents, as exemplified by King Wen.",
+    "tags": [
+      "祭義",
+      "禮記",
+      "孝道",
+      "祭祀",
+      "文王"
+    ],
+    "sources": [
+      {
+        "chapter": "祭義",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭義",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "昏禮",
+    "title": "昏禮者禮之本 / The Wedding Ceremony as the Foundation of Ritual",
+    "summary": "The wedding ceremony (昏禮) is the fundamental ritual from which social order derives.",
+    "tags": [
+      "禮記",
+      "昏禮",
+      "儒家",
+      "婚禮",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "昏禮者禮之本也",
+    "title": "昏禮者禮之本也 / The Wedding Ceremony as the Root of Rites / 婚禮は礼の根本なり",
+    "summary": "昏禮為禮之本，乃人倫之始、夫婦之義、天下治道之所由出。",
+    "tags": [
+      "昏禮",
+      "儒學",
+      "禮本",
+      "人倫",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -3309,6 +5982,27 @@
     ]
   },
   {
+    "slug": "月令",
+    "title": "Monthly Ordinances / 月令",
+    "summary": "The classical Chinese system of governmental, ritual, and agricultural directives organized by month and season.",
+    "tags": [
+      "禮記",
+      "儒學",
+      "時令",
+      "政事",
+      "農業"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "本末之辨",
     "title": "Root and Branch Discrimination / 本末之辨",
     "summary": "The Confucian distinction between virtue as the root and wealth as the branches, central to the Great Learning's teaching on governance.",
@@ -3327,6 +6021,27 @@
         "title": "禮記 · 大學",
         "url": "https://zh.wikisource.org/wiki/禮記/大學",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "杞人憂天",
+    "title": "The Man of Qi Who Worried About Heaven / 杞人之憂",
+    "summary": "The famous anecdote of a man who feared the collapse of heaven, illustrating the Daoist insight that excessive worry about the ultimate nature of things is misguided, as both the affirmation and negation of cosmic destruction are equally beyond human knowledge.",
+    "tags": [
+      "列子",
+      "天瑞篇",
+      "寓言",
+      "天道",
+      "認識論"
+    ],
+    "sources": [
+      {
+        "chapter": "天瑞篇",
+        "plugin": "wikisource",
+        "title": "列子 · 天瑞篇",
+        "url": "https://zh.wikisource.org/wiki/列子/天瑞篇",
+        "work": "列子"
       }
     ]
   },
@@ -3351,6 +6066,26 @@
     ]
   },
   {
+    "slug": "柔弱者生之幹",
+    "title": "Softness and Weakness as the Stem of Life / 柔弱者生之幹",
+    "summary": "The Daoist teaching that soft and weak things are the stem/trunk of life, while the hard and strong are destined for death.",
+    "tags": [
+      "Daoism",
+      "Wenzi",
+      "life philosophy",
+      "strength through weakness"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "文子 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/文子/卷一",
+        "work": "文子"
+      }
+    ]
+  },
+  {
     "slug": "格物致知",
     "title": "格物致知",
     "summary": "窮究事物之理，以臻吾心之知",
@@ -3367,6 +6102,27 @@
         "title": "大學",
         "url": "https://zh.wikisource.org/wiki/大學",
         "work": "大學"
+      }
+    ]
+  },
+  {
+    "slug": "桑弧蓬矢",
+    "title": "The Six Arrows of Mulberry and Fleece / 桑弧蓬矢",
+    "summary": "The ancient ritual of presenting six arrows to a newborn son, symbolizing the six directions and the male's responsibilities to heaven, earth, and the four directions.",
+    "tags": [
+      "射禮",
+      "出生禮",
+      "禮記",
+      "儒學",
+      "男子之事"
+    ],
+    "sources": [
+      {
+        "chapter": "射義",
+        "plugin": "wikisource",
+        "title": "禮記 · 射義",
+        "url": "https://zh.wikisource.org/wiki/禮記/射義",
+        "work": "禮記"
       }
     ]
   },
@@ -3392,6 +6148,26 @@
     ]
   },
   {
+    "slug": "極則反",
+    "title": "天地之道極則反 / The Principle of Reversal at Extremes",
+    "summary": "The cosmic law that all things reverse when they reach their extreme limit, fundamental to Daoist governance philosophy.",
+    "tags": [
+      "道家",
+      "治道",
+      "宇宙論",
+      "文子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十二",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十二",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十二",
+        "work": "文子"
+      }
+    ]
+  },
+  {
     "slug": "樂天知命",
     "title": "樂天知命",
     "summary": "安於天命，無所憂懼之謂也",
@@ -3400,7 +6176,8 @@
       "仲尼篇",
       "哲學",
       "天命",
-      "孔子"
+      "孔子",
+      "部:子"
     ],
     "sources": [
       {
@@ -3409,6 +6186,71 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "樂者樂也",
+    "title": "樂者樂也 / Music Is Joy",
+    "summary": "The philosophical principle that music fundamentally expresses and induces joy, distinguishing proper music from mere sound.",
+    "tags": [
+      "樂記",
+      "禮記",
+      "儒學",
+      "音樂哲學",
+      "性情"
+    ],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "樂與天地同和",
+    "title": "樂與天地同和 / Music Harmonizes with Heaven and Earth",
+    "summary": "The Confucian cosmological principle that music mirrors and participates in the harmony of the natural world, linking human music to cosmic order.",
+    "tags": [
+      "樂記",
+      "禮記",
+      "儒學",
+      "宇宙論",
+      "音樂哲學",
+      "天地",
+      "和"
+    ],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "欲不可從",
+    "title": "Desires Must Not Be Followed / 欲不可從",
+    "summary": "The Confucian principle that base desires should not be blindly followed.",
+    "tags": [
+      "修身",
+      "曲禮",
+      "禮記",
+      "節欲",
+      "品德"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮上",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮上",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮上",
+        "work": "禮記"
       }
     ]
   },
@@ -3460,6 +6302,107 @@
     ]
   },
   {
+    "slug": "正氣與邪氣",
+    "title": "Upright Qi and Crooked Qi / 正氣與邪氣",
+    "summary": "The opposition between upright qi arising from principle and corrupt qi arising from desire, with the sage cultivating the former through self-governance.",
+    "tags": [
+      "正氣",
+      "邪氣",
+      "心術",
+      "道家哲學",
+      "文子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "文子 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/文子/卷四",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "歲時田獵",
+    "title": "Seasonal Hunting / 歲時田獵",
+    "summary": "Seasonal hunting rituals performed three times yearly, serving as military training and strict observance of ecological timing.",
+    "tags": [
+      "田獵",
+      "禮制",
+      "歲時",
+      "周禮"
+    ],
+    "sources": [
+      {
+        "chapter": "王制",
+        "plugin": "wikisource",
+        "title": "禮記 · 王制",
+        "url": "https://zh.wikisource.org/wiki/禮記/王制",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "歲饉",
+    "title": "五穀不收之歲",
+    "summary": "歲有五等之饑，各有其象。",
+    "tags": [
+      "墨子",
+      "荒政",
+      "歲時",
+      "農業"
+    ],
+    "sources": [
+      {
+        "chapter": "七患",
+        "plugin": "wikisource",
+        "title": "墨子 · 七患",
+        "url": "https://zh.wikisource.org/wiki/墨子/七患",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "死士賁士",
+    "title": "死士賁士",
+    "summary": "出穴擊敵及主將出戰之兵。",
+    "tags": [
+      "墨子",
+      "城守",
+      "武士",
+      "兵法"
+    ],
+    "sources": [
+      {
+        "chapter": "備梯",
+        "plugin": "wikisource",
+        "title": "墨子 · 備梯",
+        "url": "https://zh.wikisource.org/wiki/墨子/備梯",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "死而不弔者三",
+    "title": "死而不弔者三 / Three Cases Where Condolences Should Not Be Offered / 死而不弔三",
+    "summary": "Three circumstances (畏、厭、溺) where mourning rituals should not be performed according to Confucian doctrine.",
+    "tags": [
+      "禮記",
+      "喪禮",
+      "禁忌",
+      "檀弓"
+    ],
+    "sources": [
+      {
+        "chapter": "檀弓上",
+        "plugin": "wikisource",
+        "title": "禮記 · 檀弓上",
+        "url": "https://zh.wikisource.org/wiki/禮記/檀弓上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "殃民",
     "title": "殃民",
     "summary": "不教民而用之，謂之殃民，殃民者不容於堯舜之世。",
@@ -3495,6 +6438,28 @@
         "plugin": "wikisource",
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "母出與繼母之黨",
+    "title": "Mother's Departure and Stepmother's Kin: Mourning Obligations / 母出與繼母之黨服",
+    "summary": "The distinction between mourning obligations for a mother who has left the family versus the kin of a stepmother.",
+    "tags": [
+      "禮記",
+      "服問",
+      "喪服",
+      "繼母",
+      "母黨",
+      "禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "服問",
+        "plugin": "wikisource",
+        "title": "禮記 · 服問",
+        "url": "https://zh.wikisource.org/wiki/禮記/服問",
         "work": "禮記"
       }
     ]
@@ -3541,6 +6506,47 @@
     ]
   },
   {
+    "slug": "民以君為心君以民為體",
+    "title": "The People Are the Heart of the Ruler; The Ruler Is the Body of the People / 民以君為心，君以民為體",
+    "summary": "A Confucian metaphor expressing the interdependence of ruler and people, where the ruler's heart governs the people's body, and the people's body sustains the ruler's life.",
+    "tags": [
+      "政治哲學",
+      "君民關係",
+      "禮記",
+      "儒家",
+      "緇衣"
+    ],
+    "sources": [
+      {
+        "chapter": "緇衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 緇衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "水為道也",
+    "title": "Water as the Way / 水為道也",
+    "summary": "A Daoist metaphor asserting that water, despite being the softest substance, embodies the supreme virtue of the Dao.",
+    "tags": [
+      "Daoism",
+      "Wenzi",
+      "metaphor",
+      "natural philosophy"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "文子 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/文子/卷一",
+        "work": "文子"
+      }
+    ]
+  },
+  {
     "slug": "沂浴",
     "title": "沂浴",
     "summary": "暮春詠歸，曾皙之志，聖人之志也。",
@@ -3557,6 +6563,110 @@
         "title": "論語 · 先進第十一",
         "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "治之綱紀",
+    "title": "The Essentials of Governance / 治之綱紀",
+    "summary": "A comprehensive framework of governance encompassing rites, music, justice, and human relationships derived from cosmic principles.",
+    "tags": [
+      "governance",
+      "statecraft",
+      "principles",
+      "Wenzi"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十二",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十二",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十二",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "治國有常",
+    "title": "Constant Principles of Governance / 治國有常",
+    "summary": "文子提出治國之常道，利民為本，不必法古，聖人法與時變、禮與俗化。",
+    "tags": [
+      "治國",
+      "變法",
+      "時變",
+      "文子",
+      "政治哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十一",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十一",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十一",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "法施於民則祀之",
+    "title": "Those Who Governed Well Deserve Sacrifice / 法施於民則祀之",
+    "summary": "The Confucian principle that those who benefited the people through governance, service, or virtue should be honored with sacrificial offerings.",
+    "tags": [
+      "祭祀",
+      "儒學",
+      "禮記",
+      "功德崇拜",
+      "政治哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "法非從天下",
+    "title": "Law Does Not Come from Heaven / 法非從天下",
+    "summary": "文子論法之源，謂法生於義、義生於眾適，非從天降、非從地出，發乎人間、反己自正。",
+    "tags": [
+      "法",
+      "義",
+      "文子",
+      "法律哲學",
+      "治國"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十一",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十一",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十一",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "泰山其頹",
+    "title": "Confucius's Death Song / 泰山其頹",
+    "summary": "Confucius sang of the collapse of mountains and great men upon sensing his imminent death.",
+    "tags": [
+      "confucius",
+      "death",
+      "prophecy",
+      "禮記",
+      "檀弓"
+    ],
+    "sources": [
+      {
+        "chapter": "檀弓上",
+        "plugin": "wikisource",
+        "title": "禮記 · 檀弓上",
+        "url": "https://zh.wikisource.org/wiki/禮記/檀弓上",
+        "work": "禮記"
       }
     ]
   },
@@ -3600,6 +6710,27 @@
     ]
   },
   {
+    "slug": "深衣",
+    "title": "深衣 / The Deep Robe",
+    "summary": "The Shen Yi (Deep Robe) is a classical Chinese garment described in the Book of Rites, distinguished by its twelve panels symbolizing twelve months, with construction governed by the principles of compass, square, plumb line, weight, and balance.",
+    "tags": [
+      "禮記",
+      "服制",
+      "儒家",
+      "古禮",
+      "冠服"
+    ],
+    "sources": [
+      {
+        "chapter": "深衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 深衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/深衣",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "深造自得",
     "title": "深造自得",
     "summary": "君子深造之以道者，欲其自得之也。",
@@ -3616,6 +6747,47 @@
         "title": "孟子 · 離婁下",
         "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "淳樸散而禮樂飾",
+    "title": "淳樸散而禮樂飾 / Simplicity Scatters, Ritual and Music Adorn",
+    "summary": "The philosophical concept describing the historical degeneration from natural simplicity to artificial civilization.",
+    "tags": [
+      "道家",
+      "文明論",
+      "禮樂",
+      "文子",
+      "社会退化論"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十二",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十二",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十二",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "清靜之治",
+    "title": "清靜之治 / Quietist Governance",
+    "summary": "A Daoist governance principle emphasizing that the ruler's internal stillness and freedom from desire naturally brings harmony to the realm.",
+    "tags": [
+      "道家",
+      "治國",
+      "無為",
+      "文子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷九",
+        "plugin": "wikisource",
+        "title": "文子 · 卷九",
+        "url": "https://zh.wikisource.org/wiki/文子/卷九",
+        "work": "文子"
       }
     ]
   },
@@ -3661,6 +6833,27 @@
     ]
   },
   {
+    "slug": "溺於水君子溺於口大人溺於民",
+    "title": "溺於水君子溺於口大人溺於民 / Threefold Drowning — Water, Speech, People",
+    "summary": "The three perils of drowning: water drowns the common person, words drown the gentleman, the people drown the great person.",
+    "tags": [
+      "修身",
+      "言語",
+      "民本",
+      "禮記",
+      "警戒"
+    ],
+    "sources": [
+      {
+        "chapter": "緇衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 緇衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "澡身浴德",
     "title": "澡身而浴德",
     "summary": "儒者以清水沐浴身體，以道義沐浴心德，滌除尘垢，以待清明。",
@@ -3677,6 +6870,76 @@
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "為人臣下者",
+    "title": "The Minister's Code / 為人臣下者",
+    "summary": "The Confucian code of conduct for ministers serving their lords, emphasizing remonstrance without slander and loyalty.",
+    "tags": [
+      "修身",
+      "儒學",
+      "君臣",
+      "少儀",
+      "諫諍"
+    ],
+    "sources": [
+      {
+        "chapter": "少儀",
+        "plugin": "wikisource",
+        "title": "禮記 · 少儀",
+        "url": "https://zh.wikisource.org/wiki/禮記/少儀",
+        "work": "禮記"
+      },
+      {
+        "chapter": "表記",
+        "plugin": "wikisource",
+        "title": "禮記 · 表記",
+        "url": "https://zh.wikisource.org/wiki/禮記/表記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "為天下容",
+    "title": "為天下容 / Containing the World: The Virtues of the Ruler",
+    "summary": "A famous passage describing the nine qualities necessary for a ruler to \"contain\" or properly govern the world.",
+    "tags": [
+      "道家",
+      "治國",
+      "修身",
+      "聖人",
+      "文子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "為禮者雕琢人性",
+    "title": "Ritual as Carving Human Nature / 為禮者雕琢人性",
+    "summary": "Wenzi's critique of ritual as an artificial constraint on natural human nature that prevents fulfillment.",
+    "tags": [
+      "ritual",
+      "human nature",
+      "Wenzi",
+      "critique",
+      "Daoism"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十二",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十二",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十二",
+        "work": "文子"
       }
     ]
   },
@@ -3729,7 +6992,8 @@
       "仲尼篇",
       "哲學",
       "道家",
-      "境界"
+      "境界",
+      "部:子"
     ],
     "sources": [
       {
@@ -3738,6 +7002,68 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "無為而治",
+    "title": "無為而治",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "文子 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/文子/卷二",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "燕禮",
+    "title": "燕禮 / The Banquet Ritual (燕禮)",
+    "summary": "諸侯朝聘之後與群臣共食之禮，以明君臣之義、辨貴賤之分。",
+    "tags": [
+      "禮記",
+      "燕禮",
+      "儀禮",
+      "君臣",
+      "貴賤",
+      "諸侯",
+      "卿大夫",
+      "士"
+    ],
+    "sources": [
+      {
+        "chapter": "燕義",
+        "plugin": "wikisource",
+        "title": "禮記 · 燕義",
+        "url": "https://zh.wikisource.org/wiki/禮記/燕義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "燕義",
+    "title": "燕義 / The Meaning of the Banquet Ritual / 燕義",
+    "summary": "A chapter of the Book of Rites explaining the ritual principles and political significance of the state banquet.",
+    "tags": [
+      "儀禮",
+      "儒學",
+      "君臣之義",
+      "周代禮制",
+      "政治哲學",
+      "燕禮",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "燕義",
+        "plugin": "wikisource",
+        "title": "禮記 · 燕義",
+        "url": "https://zh.wikisource.org/wiki/禮記/燕義",
+        "work": "禮記"
       }
     ]
   },
@@ -3813,7 +7139,8 @@
       "仲尼篇",
       "哲學",
       "認識論",
-      "警誡"
+      "警誡",
+      "部:子"
     ],
     "sources": [
       {
@@ -3822,6 +7149,27 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "狸首",
+    "title": "狸首 / Li Shou (Fox-Head Melody)",
+    "summary": "The ceremonial music piece played during the Pitch-Pot ritual, referenced in the Book of Rites as the accompaniment for archery-related ceremonies.",
+    "tags": [
+      "禮記",
+      "音樂",
+      "投壺",
+      "射禮",
+      "古樂"
+    ],
+    "sources": [
+      {
+        "chapter": "投壺",
+        "plugin": "wikisource",
+        "title": "禮記 · 投壺",
+        "url": "https://zh.wikisource.org/wiki/禮記/投壺",
+        "work": "禮記"
       }
     ]
   },
@@ -3848,6 +7196,27 @@
     ]
   },
   {
+    "slug": "玄道",
+    "title": "The Way of Mystery / 玄道",
+    "summary": "The eternal mystery that is the origin of nature and the foundation of all existence, accessible only to those who attain inner understanding.",
+    "tags": [
+      "道家",
+      "玄學",
+      "抱朴子",
+      "宇宙論",
+      "修仙"
+    ],
+    "sources": [
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷01",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "率獸食人",
     "title": "Leading Beasts to Devour People / 率獸食人",
     "summary": "孟子斥梁惠王之政，謂庖廚肥美而民有饑色，猶率獸以食人，非民之父母所為。",
@@ -3870,6 +7239,93 @@
     ]
   },
   {
+    "slug": "玉藻",
+    "title": "Jade Ornaments of the Son of Heaven / 天子玉藻",
+    "summary": "The jade ornaments worn by the Son of Heaven, symbolizing virtue and the cosmic order, with twelve tasseled strands representing the twelve months.",
+    "tags": [
+      "冕服",
+      "周禮",
+      "天子",
+      "服飾",
+      "朝儀",
+      "玉器",
+      "玉藻",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "玉藻",
+        "plugin": "wikisource",
+        "title": "禮記 · 玉藻",
+        "url": "https://zh.wikisource.org/wiki/禮記/玉藻",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "王言如絲其出如綸",
+    "title": "A King's Words Begin Like Silk Thread, End Like a Ribbon / 王言如絲，其出如綸",
+    "summary": "A Confucian maxim warning that the ruler's words, though small in origin, grow immensely in influence as they spread, urging rulers to exercise utmost caution in speech.",
+    "tags": [
+      "政治語言",
+      "君德",
+      "禮記",
+      "言行",
+      "緇衣"
+    ],
+    "sources": [
+      {
+        "chapter": "緇衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 緇衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "生化之說",
+    "title": "The Theory of Self-Generation and Self-Transformation / 生化之說",
+    "summary": "列子's doctrine that all things generate and transform themselves without external intervention, rooted in the principle that the ungenerated generates and the untransformed transforms.",
+    "tags": [
+      "列子",
+      "天瑞篇",
+      "道家哲學",
+      "自生",
+      "萬物生成"
+    ],
+    "sources": [
+      {
+        "chapter": "天瑞篇",
+        "plugin": "wikisource",
+        "title": "列子 · 天瑞篇",
+        "url": "https://zh.wikisource.org/wiki/列子/天瑞篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "生相憐死相捐",
+    "title": "生相憐，死相捐 / Compassionate in Life, Releasing in Death",
+    "summary": "A Liezi Yang Zhu maxim on proper conduct toward the living (providing care and comfort) versus the dead (free release without display).",
+    "tags": [
+      "楊朱",
+      "生死",
+      "喪葬",
+      "先秦哲學",
+      "列子"
+    ],
+    "sources": [
+      {
+        "chapter": "楊朱篇",
+        "plugin": "wikisource",
+        "title": "列子 · 楊朱篇",
+        "url": "https://zh.wikisource.org/wiki/列子/楊朱篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "由生而生",
     "title": "由生而生",
     "summary": "生死皆有其道，常與不幸之別也",
@@ -3878,7 +7334,8 @@
       "仲尼篇",
       "哲學",
       "生死",
-      "道"
+      "道",
+      "部:子"
     ],
     "sources": [
       {
@@ -3887,6 +7344,88 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "男女有別",
+    "title": "男女有別 / Gender Distinction as the Basis of Social Order",
+    "summary": "The distinction between male and female is the foundation from which conjugal duty, filial affection, and proper governance all derive.",
+    "tags": [
+      "禮記",
+      "儒家",
+      "昏禮",
+      "儒學",
+      "社會秩序"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "痀僂承蜩",
+    "title": "The Hunchback Catching Cicadas / 痀僂承蜩",
+    "summary": "痀僂者以五月之法累丸二而不墜，專志凝神，終以捕蟬如拾取。孔子稱其「用志不分，乃疑於神」。",
+    "tags": [
+      "列子",
+      "痀僂",
+      "承蜩",
+      "專志",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "黃帝篇",
+        "plugin": "wikisource",
+        "title": "列子 · 黃帝篇",
+        "url": "https://zh.wikisource.org/wiki/列子/黃帝篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "發梁擒敵",
+    "title": "發梁擒敵",
+    "summary": "城外塹中施發梁機，敵渡則引機發梁以擒之。",
+    "tags": [
+      "墨子",
+      "城守",
+      "陷阱",
+      "發梁"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "發而不中反求諸己",
+    "title": "發而不中反求諸己 / Archery Failure Calls for Self-Examination / 射而不中、反って己を求む",
+    "summary": "射而不中，不怨勝己者，當反求諸己，此射道之要義，亦修身之通理。",
+    "tags": [
+      "射禮",
+      "修身",
+      "儒學",
+      "反求諸己"
+    ],
+    "sources": [
+      {
+        "chapter": "射義",
+        "plugin": "wikisource",
+        "title": "禮記 · 射義",
+        "url": "https://zh.wikisource.org/wiki/禮記/射義",
+        "work": "禮記"
       }
     ]
   },
@@ -3911,6 +7450,40 @@
     ]
   },
   {
+    "slug": "真人",
+    "title": "The True Person / 真人",
+    "summary": "The Daoist ideal of the \"true person\" (真人) who has achieved unity with the Dao through emptiness, tranquility, and pure simplicity.",
+    "tags": [
+      "Daoism",
+      "Wenzi",
+      "self-cultivation",
+      "spiritual ideal"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "文子 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/文子/卷一",
+        "work": "文子"
+      },
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "文子 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/文子/卷二",
+        "work": "文子"
+      },
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷01",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "知幻化之不異生死",
     "title": "知幻化之不異生死",
     "summary": "幻化與生死，本無差異。悟此者，可以學幻矣。",
@@ -3918,7 +7491,8 @@
       "列子",
       "幻化",
       "生死",
-      "尹文"
+      "尹文",
+      "部:子"
     ],
     "sources": [
       {
@@ -3951,6 +7525,26 @@
     ]
   },
   {
+    "slug": "社稷",
+    "title": "The She and Ji Altars / 社稷",
+    "summary": "The altars to the soil deity and grain spirit representing the foundation of the state.",
+    "tags": [
+      "祭祀",
+      "禮制",
+      "國家",
+      "社稷"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "神遊形奚動哉",
     "title": "神遊形奚動哉",
     "summary": "精神可遊於異境，形骸不隨之而往。夢中為君，覺亦夢也。",
@@ -3958,7 +7552,8 @@
       "列子",
       "幻化",
       "夢覺",
-      "神遊"
+      "神遊",
+      "部:子"
     ],
     "sources": [
       {
@@ -3967,6 +7562,199 @@
         "title": "列子 · 周穆王篇",
         "url": "https://zh.wikisource.org/wiki/列子/周穆王篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "神鬼之辨",
+    "title": "Distinction Between Spirits and Ghosts / 神鬼之辨",
+    "summary": "The classical Chinese philosophical distinction between \"神\" (spirits/divinities) and \"鬼\" (ghosts), based on their beneficial or non-beneficial nature to humanity.",
+    "tags": [
+      "儒學",
+      "祭祀",
+      "哲學",
+      "禮記",
+      "鬼神",
+      "天人關係"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祭不欲數",
+    "title": "祭不欲數疏 / Moderation in Sacrifice: Neither Too Frequent Nor Too Rare",
+    "summary": "祭有常節，數則煩，疏則怠，君子合諸天道，春禘秋嘗。",
+    "tags": [
+      "中庸",
+      "儒學",
+      "儒家",
+      "天道",
+      "祭祀",
+      "祭義",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "祭義",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭義",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祭有十倫",
+    "title": "The Ten Categories of Sacrifice / 祭有十倫",
+    "summary": "The ten principles or meanings embodied in proper sacrificial ritual, including relationships with spirits, rulers, family, and social hierarchy.",
+    "tags": [
+      "祭",
+      "禮記",
+      "十倫",
+      "儒學",
+      "社會倫理",
+      "祭祀哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "祭統",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭統",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭統",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祭有四時",
+    "title": "Seasonal Sacrifices / 祭有四時：礿禘嘗烝",
+    "summary": "The four seasonal sacrifice ceremonies—Yue, Di, Chang, and Zheng—and their cosmological significance.",
+    "tags": [
+      "祭祀",
+      "禮記",
+      "四時",
+      "禮學",
+      "陰陽"
+    ],
+    "sources": [
+      {
+        "chapter": "祭統",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭統",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭統",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祭法",
+    "title": "Laws of Sacrifice / 祭法",
+    "summary": "The sacrificial laws and principles from the Book of Rites covering ancestral worship, spirit veneration, and the criteria for who deserves sacrifice.",
+    "tags": [
+      "禮記",
+      "祭祀",
+      "宗廟",
+      "祭禮",
+      "儒家",
+      "鬼神"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祭百神",
+    "title": "Sacrificing to the Hundred Spirits / 祭百神",
+    "summary": "The doctrine that rulers of all-under-heaven should offer sacrifices to the hundred spirits according to their domain.",
+    "tags": [
+      "祭祀",
+      "禮制",
+      "鬼神",
+      "祭法"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祭者孝之本",
+    "title": "Sacrifice as the Root of Filial Piety / 祭者孝之本",
+    "summary": "The \"Record of Rites\" declares that sacrifice is the foundation of filial piety, linking ritual practice to the cultivation of virtue.",
+    "tags": [
+      "禮記",
+      "祭統",
+      "孝道",
+      "祭祀哲學",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "祭統",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭統",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭統",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祭者非物自外至者",
+    "title": "Sacrifice Originates from the Heart / 祭者非物自外至者，自中出於心也",
+    "summary": "The doctrine that ritual sacrifice springs from inner moral feeling rather than external obligation.",
+    "tags": [
+      "祭祀",
+      "禮記",
+      "儒學",
+      "心性",
+      "禮學"
+    ],
+    "sources": [
+      {
+        "chapter": "祭統",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭統",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭統",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祭者非自外至",
+    "title": "Sacrifice Arises from the Heart / 祭者非自外至",
+    "summary": "The philosophical principle that sacrifice originates internally from genuine heartfelt reverence rather than from external obligations.",
+    "tags": [
+      "祭",
+      "禮記",
+      "儒學",
+      "心性",
+      "祭祀哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "祭統",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭統",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭統",
+        "work": "禮記"
       }
     ]
   },
@@ -4005,6 +7793,43 @@
         "title": "禮記 · 坊記",
         "url": "https://zh.wikisource.org/wiki/禮記/坊記",
         "work": "禮記"
+      },
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
+        "work": "禮記"
+      },
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "禮之五用",
+    "title": "禮之五用 / The Five Functions of Ritual: Clarifying Social Relations",
+    "summary": "The five ritual occasions—court audiences, diplomatic visits, mourning, village assemblies, and marriage—clarify the essential relationships of society.",
+    "tags": [
+      "禮",
+      "朝覲",
+      "聘問",
+      "喪祭",
+      "鄉飲酒",
+      "昏姻",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
       }
     ]
   },
@@ -4024,6 +7849,28 @@
         "plugin": "wikisource",
         "title": "禮記 · 仲尼燕居",
         "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "禮之教化也微",
+    "title": "The Subtle Transforming Power of Ritual / 禮之教化也微",
+    "summary": "The Confucian doctrine that proper ritual education transforms people imperceptibly, leading them toward goodness without their conscious awareness.",
+    "tags": [
+      "禮",
+      "教化",
+      "儒學",
+      "修身",
+      "君子",
+      "預防性教育"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
         "work": "禮記"
       }
     ]
@@ -4050,6 +7897,71 @@
     ]
   },
   {
+    "slug": "禮器",
+    "title": "禮器與盛德 / Ritual Vessels and Abundant Virtue",
+    "summary": "The concept that proper ritual vessels express and embody moral virtue, making completeness possible.",
+    "tags": [
+      "禮記",
+      "禮器",
+      "盛德",
+      "儒學",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "禮器",
+        "plugin": "wikisource",
+        "title": "禮記 · 禮器",
+        "url": "https://zh.wikisource.org/wiki/禮記/禮器",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "禮坊止水",
+    "title": "禮坊止水 / Ritual as a Dam: Preventing Social Disorder Before It Arises",
+    "summary": "Confucius compares ritual to a dam that prevents the flood of chaos, warning against abandoning traditional rites.",
+    "tags": [
+      "禮",
+      "坊",
+      "預防",
+      "亂",
+      "儒學",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "禮尚往來",
+    "title": "Reciprocity in Ritual / 禮尚往來",
+    "summary": "The Confucian principle that courtesy should be reciprocated—giving without receiving, or receiving without giving, violates ritual propriety.",
+    "tags": [
+      "儒學",
+      "曲禮",
+      "社會倫理",
+      "禮",
+      "禮儀",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮上",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮上",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "禮所以制中",
     "title": "禮所以制中",
     "summary": "禮者，所以節制人情，使其無過不及也。",
@@ -4066,6 +7978,49 @@
         "plugin": "wikisource",
         "title": "禮記 · 仲尼燕居",
         "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "禮樂不可斯須去身",
+    "title": "禮樂不可斯須去身 / Ritual and Music Cannot Be Absent Even for a Moment / 禮楽は斯くの間も身を離るべからず",
+    "summary": "The Confucian principle that ritual propriety and music must be constantly present in one's person as essential means of moral cultivation.",
+    "tags": [
+      "樂記",
+      "儒學",
+      "禮樂",
+      "修身",
+      "教化"
+    ],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "禮禁亂之所由生",
+    "title": "Ritual Prevents Chaos at Its Source / 禮禁亂之所由生",
+    "summary": "The doctrine that ritual (li) functions to prevent social disorder by addressing its origins, comparing it to a dam against flooding.",
+    "tags": [
+      "禮",
+      "禁亂",
+      "儒學",
+      "治國",
+      "禮儀",
+      "社會秩序"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
         "work": "禮記"
       }
     ]
@@ -4132,6 +8087,27 @@
     ]
   },
   {
+    "slug": "禮記月令",
+    "title": "The Monthly Ordinances of the Book of Rites / 禮記月令",
+    "summary": "A classical Chinese text describing the seasonal governmental duties and rituals for each month of the year.",
+    "tags": [
+      "禮記",
+      "時令",
+      "節令",
+      "天人合一",
+      "治國"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "稱情而立文",
     "title": "稱情而立文",
     "summary": "禮文當依人情而立，以飾等威別親疏，不可增減。",
@@ -4172,6 +8148,68 @@
     ]
   },
   {
+    "slug": "笏",
+    "title": "Ceremonial Tablet / 朝笏之制",
+    "summary": "The ceremonial tablet (笏) held by officials in court, with specifications varying by rank from jade for the Son of Heaven to bamboo for scholars.",
+    "tags": [
+      "禮器",
+      "朝儀",
+      "服飾",
+      "周禮"
+    ],
+    "sources": [
+      {
+        "chapter": "玉藻",
+        "plugin": "wikisource",
+        "title": "禮記 · 玉藻",
+        "url": "https://zh.wikisource.org/wiki/禮記/玉藻",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "籍田禮",
+    "title": "Ritual Ploughing / 籍田禮",
+    "summary": "The ancient Chinese ceremony in which the Son of Heaven personally ploughed a sacred field to symbolize imperial concern for agriculture.",
+    "tags": [
+      "禮儀",
+      "農業",
+      "天子",
+      "祭祀",
+      "農事"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "精誠",
+    "title": "精誠 / Sincerity and Spiritual Power / 精誠",
+    "summary": "The doctrine that inner sincerity (精誠) generates external transformative power, manifesting cosmic responses to moral governance.",
+    "tags": [
+      "道家",
+      "政治哲學",
+      "誠",
+      "文子",
+      "天人感應"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "文子 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/文子/卷二",
+        "work": "文子"
+      }
+    ]
+  },
+  {
     "slug": "絜矩之道",
     "title": "絜矩之道",
     "summary": "治天下者當以己之心度人之心，上下左右無所乖戾。",
@@ -4188,6 +8226,27 @@
         "plugin": "wikisource",
         "title": "禮記 · 大學 (證釋本)",
         "url": "https://zh.wikisource.org/wiki/禮記/大學 (證釋本)",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "緇衣",
+    "title": "緇衣 / The Black Robe",
+    "summary": "《禮記》篇名，以「好賢如緇衣」為發端，論述君臣、君子之交及治國之道。",
+    "tags": [
+      "禮記",
+      "儒家",
+      "治國",
+      "君臣之道",
+      "德治"
+    ],
+    "sources": [
+      {
+        "chapter": "緇衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 緇衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
         "work": "禮記"
       }
     ]
@@ -4215,6 +8274,26 @@
     ]
   },
   {
+    "slug": "縣火",
+    "title": "縣火",
+    "summary": "懸火以禦敵入之術。",
+    "tags": [
+      "墨子",
+      "城守",
+      "火攻",
+      "兵法"
+    ],
+    "sources": [
+      {
+        "chapter": "備梯",
+        "plugin": "wikisource",
+        "title": "墨子 · 備梯",
+        "url": "https://zh.wikisource.org/wiki/墨子/備梯",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
     "slug": "義-儒學-之",
     "title": "義-儒學-之",
     "summary": "",
@@ -4228,6 +8307,29 @@
         "title": "孟子 · 公孫丑上",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "義與信和與仁",
+    "title": "義與信和與仁 / Righteousness, Trust, Harmony, and Benevolence: The Four Virtues of Governance",
+    "summary": "The four political virtues—harmony, benevolence, trust, and righteousness—constitute the essential instruments of hegemon-kings.",
+    "tags": [
+      "義",
+      "信",
+      "和",
+      "仁",
+      "霸王",
+      "政治哲學",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
       }
     ]
   },
@@ -4267,6 +8369,85 @@
         "title": "孟子 · 公孫丑上",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
         "work": "孟子"
+      },
+      {
+        "chapter": "卷五",
+        "plugin": "wikisource",
+        "title": "文子 · 卷五",
+        "url": "https://zh.wikisource.org/wiki/文子/卷五",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "聖王不為樂",
+    "title": "聖王不為樂",
+    "summary": "墨子答程繁之問，謂古之聖王有其樂而簡，故不以此治天下；樂繁則治寡，非所以為治也。",
+    "tags": [
+      "墨子",
+      "音樂",
+      "治道",
+      "三辯"
+    ],
+    "sources": [
+      {
+        "chapter": "三辯",
+        "plugin": "wikisource",
+        "title": "墨子 · 三辯",
+        "url": "https://zh.wikisource.org/wiki/墨子/三辯",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "聘問",
+    "title": "聘問 / Inter-State Diplomatic Missions",
+    "summary": "The ancient Chinese system of diplomatic visits between the Son of Heaven and feudal lords.",
+    "tags": [
+      "儒家制度",
+      "外交",
+      "封建",
+      "王制",
+      "禮記",
+      "聘問"
+    ],
+    "sources": [
+      {
+        "chapter": "王制",
+        "plugin": "wikisource",
+        "title": "禮記 · 王制",
+        "url": "https://zh.wikisource.org/wiki/禮記/王制",
+        "work": "禮記"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "聘義",
+    "title": "Meaning of Diplomatic Missions / 聘義",
+    "summary": "A chapter of the Book of Rites explaining the philosophical foundations of inter-state diplomatic missions and the virtue of respect-yielding.",
+    "tags": [
+      "儒學",
+      "儒家",
+      "外交禮儀",
+      "敬讓",
+      "玉文化",
+      "禮記",
+      "聘禮"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -4296,8 +8477,8 @@
     "summary": "不得奔喪而為位哭，與奔喪者禮同。",
     "tags": [
       "奔喪",
-      "聞喪",
       "為位",
+      "聞喪",
       "部:經"
     ],
     "sources": [
@@ -4306,6 +8487,13 @@
         "plugin": "wikisource",
         "title": "禮記 · 奔喪",
         "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
+        "work": "禮記"
+      },
+      {
+        "chapter": "服問",
+        "plugin": "wikisource",
+        "title": "禮記 · 服問",
+        "url": "https://zh.wikisource.org/wiki/禮記/服問",
         "work": "禮記"
       }
     ]
@@ -4372,6 +8560,69 @@
     ]
   },
   {
+    "slug": "聲音之道與政通",
+    "title": "The Way of Sound and Music Reflects Governance / 聲音之道與政通",
+    "summary": "The classical doctrine that musical expression is inseparable from political order and moral condition.",
+    "tags": [
+      "禮記",
+      "樂記",
+      "音樂哲學",
+      "政治哲學",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "聽天下之內治",
+    "title": "聽天下之內治 / Governing the Internal Affairs / 天下の内部を治める",
+    "summary": "后率六宮以治天下之內治，乃昏禮申著代之意所延伸之王化原理。",
+    "tags": [
+      "昏禮",
+      "儒學",
+      "后妃",
+      "六宮",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "聽天下之外治",
+    "title": "聽天下之外治 / Governing the External Affairs / 天下の外部を治める",
+    "summary": "天子立六官以聽天下之外治，與后治內治相須而成治道。",
+    "tags": [
+      "儒學",
+      "天子",
+      "六官",
+      "治道",
+      "陰陽"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "聽語",
     "title": "聽語",
     "summary": "記問之學不足為師，必也聽語，俟其不能問而後告之。",
@@ -4392,6 +8643,29 @@
     ]
   },
   {
+    "slug": "肆之而已勿壅勿閼",
+    "title": "肆之而已，勿壅勿閼 / Abandon All Restraint, Block Nothing",
+    "summary": "Guan Yiwu's doctrine of life-nourishment taught to Yan Ying, prescribing complete release of sensory and desire-based restraints.",
+    "tags": [
+      "楊朱",
+      "養生",
+      "管夷吾",
+      "晏平仲",
+      "先秦哲學",
+      "列子",
+      "情欲"
+    ],
+    "sources": [
+      {
+        "chapter": "楊朱篇",
+        "plugin": "wikisource",
+        "title": "列子 · 楊朱篇",
+        "url": "https://zh.wikisource.org/wiki/列子/楊朱篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
     "slug": "能仁而不能反",
     "title": "能仁而不能反",
     "summary": "各有所長亦各有所短，兼四子之有以易吾，吾弗許",
@@ -4400,7 +8674,8 @@
       "仲尼篇",
       "孔子",
       "人格",
-      "哲學"
+      "哲學",
+      "部:子"
     ],
     "sources": [
       {
@@ -4409,6 +8684,27 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "自卑尊人",
+    "title": "Humbling Oneself and Honoring Others / 自卑而尊人",
+    "summary": "The principle that ritual requires lowering oneself while honoring others.",
+    "tags": [
+      "修身",
+      "曲禮",
+      "禮記",
+      "謙遜",
+      "禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮上",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮上",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮上",
+        "work": "禮記"
       }
     ]
   },
@@ -4437,10 +8733,11 @@
     "title": "自生自死",
     "summary": "生死厚薄，非由外鑠，皆自為之。",
     "tags": [
-      "生死",
+      "列子",
       "命",
+      "生死",
       "自化",
-      "列子"
+      "部:子"
     ],
     "sources": [
       {
@@ -4449,6 +8746,34 @@
         "title": "列子 · 力命篇",
         "url": "https://zh.wikisource.org/wiki/列子/力命篇",
         "work": "列子"
+      },
+      {
+        "chapter": "天瑞篇",
+        "plugin": "wikisource",
+        "title": "列子 · 天瑞篇",
+        "url": "https://zh.wikisource.org/wiki/列子/天瑞篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "至人",
+    "title": "The Supreme Person / 至人",
+    "summary": "The transcendent person who has realized the Way, dwells beyond worldly honor and shame, and moves freely between the mundane and the divine.",
+    "tags": [
+      "道家",
+      "抱朴子",
+      "真人",
+      "修仙",
+      "理想人格"
+    ],
+    "sources": [
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷01",
+        "work": "抱朴子"
       }
     ]
   },
@@ -4499,6 +8824,76 @@
       "部:其他"
     ],
     "sources": []
+  },
+  {
+    "slug": "致愛則存",
+    "title": "致愛則存",
+    "summary": "",
+    "tags": [
+      "儒學",
+      "孝道",
+      "祭義",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "祭義",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭義",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "致愛則存致愨則著",
+    "title": "Reverence Persists and Manifests / 致愛則存，致愨則著",
+    "summary": "Deep love preserves the beloved in memory; sincere reverence makes the deceased manifest—both ensure that neither is forgotten.",
+    "tags": [
+      "祭義",
+      "祭祀",
+      "孝道",
+      "誠敬",
+      "禮記",
+      "儒家"
+    ],
+    "sources": [
+      {
+        "chapter": "祭義",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭義",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "致樂以治心",
+    "title": "致樂以治心 / Using Music to Cultivate the Heart / 楽以心を治める",
+    "summary": "The Confucian doctrine that thorough application of music serves as a primary means of cultivating and governing the human heart-mind.",
+    "tags": [
+      "修身",
+      "儒學",
+      "心性",
+      "樂記",
+      "禮樂"
+    ],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      },
+      {
+        "chapter": "祭義",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭義",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭義",
+        "work": "禮記"
+      }
+    ]
   },
   {
     "slug": "致知在格物",
@@ -4604,6 +8999,47 @@
     ]
   },
   {
+    "slug": "苛政猛於虎",
+    "title": "Tyranny Is Fiercer Than Tigers / 苛政猛於虎",
+    "summary": "A parable about a woman who refuses to leave an area where tigers have killed multiple family members, because even worse than tigers is harsh government.",
+    "tags": [
+      "苛政",
+      "儒家",
+      "禮記",
+      "政治哲學",
+      "檀弓"
+    ],
+    "sources": [
+      {
+        "chapter": "檀弓下",
+        "plugin": "wikisource",
+        "title": "禮記 · 檀弓下",
+        "url": "https://zh.wikisource.org/wiki/禮記/檀弓下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "苟有車必見其軾",
+    "title": "苟有車必見其軾 / Words and Actions Are Inseparable",
+    "summary": "The principle that speech and action are inherently linked, like a cart and its crossbar, cannot be separated.",
+    "tags": [
+      "言行",
+      "修身",
+      "禮記",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "緇衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 緇衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "苦逸之復數之常",
     "title": "苦逸之復數之常",
     "summary": "苦者夢逸、逸者夢苦，迭為消長，理之常也。",
@@ -4611,7 +9047,8 @@
       "列子",
       "夢",
       "苦樂",
-      "陰陽"
+      "陰陽",
+      "部:子"
     ],
     "sources": [
       {
@@ -4619,6 +9056,69 @@
         "plugin": "wikisource",
         "title": "列子 · 周穆王篇",
         "url": "https://zh.wikisource.org/wiki/列子/周穆王篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "英俊豪傑",
+    "title": "Four Grades of Talent / 英俊豪傑",
+    "summary": "A Daoist classification of talented individuals into four grades based on their virtues and capabilities.",
+    "tags": [
+      "talent",
+      "governance",
+      "Wenzi",
+      "hierarchy",
+      "virtue"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十二",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十二",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十二",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "莊敬日強",
+    "title": "莊敬日強 / Dignified Respect Strengthens Daily / 莊敬は日を強くす",
+    "summary": "The principle that dignified respect and solemnity lead to daily moral strengthening, while complacency leads to decline.",
+    "tags": [
+      "修身",
+      "君子",
+      "恭敬",
+      "禮記",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "表記",
+        "plugin": "wikisource",
+        "title": "禮記 · 表記",
+        "url": "https://zh.wikisource.org/wiki/禮記/表記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "華胥之夢",
+    "title": "The Yellow Emperor's Dream of Huaxu / 華胥之夢",
+    "summary": "黃帝齋心三月，夢遊華胥氏之國，乃悟至道不可以情求，遂致天下大治。",
+    "tags": [
+      "列子",
+      "黃帝",
+      "無為而治",
+      "寓言",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "黃帝篇",
+        "plugin": "wikisource",
+        "title": "列子 · 黃帝篇",
+        "url": "https://zh.wikisource.org/wiki/列子/黃帝篇",
         "work": "列子"
       }
     ]
@@ -4645,6 +9145,48 @@
     ]
   },
   {
+    "slug": "萬物皆出於機",
+    "title": "All Things Emerge from the Mechanism / 萬物皆出於機",
+    "summary": "The doctrine that all things in the universe emerge from and return to a primordial mechanism or pivot, illustrated through an elaborate chain of transformations from plants to animals to humans.",
+    "tags": [
+      "列子",
+      "天瑞篇",
+      "宇宙論",
+      "萬物",
+      "機",
+      "轉化"
+    ],
+    "sources": [
+      {
+        "chapter": "天瑞篇",
+        "plugin": "wikisource",
+        "title": "列子 · 天瑞篇",
+        "url": "https://zh.wikisource.org/wiki/列子/天瑞篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "薪柴杜外",
+    "title": "薪柴杜外",
+    "summary": "城外薪木柴搏，廣厚足以任城，以堵禦敵人之攻城器械。",
+    "tags": [
+      "墨子",
+      "城守",
+      "薪柴",
+      "城防工事"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
     "slug": "藏焉修焉息焉游焉",
     "title": "藏焉修焉息焉游焉",
     "summary": "君子之於學，藏之於心，修之於行，息之於暇，游之於時。",
@@ -4661,6 +9203,46 @@
         "title": "禮記 · 學記",
         "url": "https://zh.wikisource.org/wiki/禮記/學記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "虛無恬淡",
+    "title": "Emptiness and Tranquility / 虛無恬淡",
+    "summary": "The Daoist state of inner emptiness and tranquility as the foundation for wisdom and proper action.",
+    "tags": [
+      "Daoism",
+      "Wenzi",
+      "meditation",
+      "inner cultivation"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "文子 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/文子/卷一",
+        "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "蛾傅",
+    "title": "蛾傅",
+    "summary": "蛾傅，敵人蟻聚攻城之術，廣五百步、上術三千人。",
+    "tags": [
+      "墨子",
+      "攻城",
+      "兵法",
+      "蛾傅"
+    ],
+    "sources": [
+      {
+        "chapter": "備城門",
+        "plugin": "wikisource",
+        "title": "墨子 · 備城門",
+        "url": "https://zh.wikisource.org/wiki/墨子/備城門",
+        "work": "墨子"
       }
     ]
   },
@@ -4685,6 +9267,41 @@
     ]
   },
   {
+    "slug": "行城法",
+    "title": "行城法",
+    "summary": "為行城以禦攻之術。",
+    "tags": [
+      "墨子",
+      "城守",
+      "防禦工事",
+      "兵法"
+    ],
+    "sources": [
+      {
+        "chapter": "備梯",
+        "plugin": "wikisource",
+        "title": "墨子 · 備梯",
+        "url": "https://zh.wikisource.org/wiki/墨子/備梯",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "行容",
+    "title": "行容",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "玉藻",
+        "plugin": "wikisource",
+        "title": "禮記 · 玉藻",
+        "url": "https://zh.wikisource.org/wiki/禮記/玉藻",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "術不可不慎",
     "title": "術不可不慎",
     "summary": "矢人函人之殊，在於術之慎不慎。里仁為美，擇不處仁，不得為智。",
@@ -4705,6 +9322,27 @@
     ]
   },
   {
+    "slug": "襚者",
+    "title": "襚者 / The Garment-Presenter in Funeral Rites / 襚者（さいしゃ）",
+    "summary": "The ritual specialist who presents burial garments to the deceased, a key figure in ancient Chinese funeral ceremonies recorded in the Book of Rites.",
+    "tags": [
+      "禮記",
+      "喪禮",
+      "襚",
+      "儀式",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "杂记上",
+        "plugin": "wikisource",
+        "title": "禮記 · 杂记上",
+        "url": "https://zh.wikisource.org/wiki/禮記/杂记上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "西方有聖",
     "title": "西方有聖",
     "summary": "孔子稱道西方之聖，不治而不亂",
@@ -4713,7 +9351,8 @@
       "仲尼篇",
       "孔子",
       "聖人",
-      "哲學"
+      "哲學",
+      "部:子"
     ],
     "sources": [
       {
@@ -4722,6 +9361,56 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "規矩繩權衡",
+    "title": "規矩繩權衡 / Compass, Square, Cord, Weight, and Balance",
+    "summary": "深衣之製所象徵之五器，以應規、矩、繩、權、衡，取其無私、直、平之義。",
+    "tags": [
+      "倫理",
+      "儒學",
+      "深衣",
+      "禮記",
+      "符號學"
+    ],
+    "sources": [
+      {
+        "chapter": "深衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 深衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/深衣",
+        "work": "禮記"
+      },
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "視學",
+    "title": "視學 / Royal Inspection of Education",
+    "summary": "天子視學，大昕鼓徵，祭先師先聖，遂設三老五更之席位。",
+    "tags": [
+      "儒學",
+      "禮記",
+      "教育",
+      "天子",
+      "養老",
+      "禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
       }
     ]
   },
@@ -4748,6 +9437,27 @@
     ]
   },
   {
+    "slug": "言從而行之行從而言之",
+    "title": "When Speech Follows Action, Words Cannot Be Concealed; When Action Follows Speech, Deeds Cannot Be Hidden / 言從而行之，則言不可飾也；行從而言之，則行不可飾也",
+    "summary": "A Confucian principle that one's words reveal one's actions, and one's actions reveal one's words, demanding congruence between speech and conduct for moral authority.",
+    "tags": [
+      "言行",
+      "修身",
+      "君子",
+      "禮記",
+      "緇衣"
+    ],
+    "sources": [
+      {
+        "chapter": "緇衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 緇衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "言而履之禮",
     "title": "言而履之禮",
     "summary": "言而履之謂之禮，行而樂之謂之樂。",
@@ -4763,6 +9473,34 @@
         "plugin": "wikisource",
         "title": "禮記 · 仲尼燕居",
         "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "言語之美",
+    "title": "The Beauty of Ceremonial Expressions / 言語之美",
+    "summary": "The aesthetic standards for different ritual contexts described in the \"Minor Rules of Deportment.\"",
+    "tags": [
+      "儒學",
+      "少儀",
+      "禮儀",
+      "禮學",
+      "美學"
+    ],
+    "sources": [
+      {
+        "chapter": "少仪",
+        "plugin": "wikisource",
+        "title": "禮記 · 少仪",
+        "url": "https://zh.wikisource.org/wiki/禮記/少仪",
+        "work": "禮記"
+      },
+      {
+        "chapter": "少儀",
+        "plugin": "wikisource",
+        "title": "禮記 · 少儀",
+        "url": "https://zh.wikisource.org/wiki/禮記/少儀",
         "work": "禮記"
       }
     ]
@@ -4886,6 +9624,89 @@
     ]
   },
   {
+    "slug": "負繩及踝",
+    "title": "負繩及踝 / Back Cord Reaching the Ankle",
+    "summary": "深衣背縫下垂至踝，取象繩墨之直，以象正道直行無邪。",
+    "tags": [
+      "禮記",
+      "深衣",
+      "儒學",
+      "象徵",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "深衣",
+        "plugin": "wikisource",
+        "title": "禮記 · 深衣",
+        "url": "https://zh.wikisource.org/wiki/禮記/深衣",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "財不足則反之時",
+    "title": "財不足則反之時，食不足則反之用",
+    "summary": "理財之道，在乎審時節用。",
+    "tags": [
+      "墨子",
+      "理財",
+      "節用",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "七患",
+        "plugin": "wikisource",
+        "title": "墨子 · 七患",
+        "url": "https://zh.wikisource.org/wiki/墨子/七患",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "賞行罰",
+    "title": "賞行罰",
+    "summary": "賞罰以靜爲故從之以急之法。",
+    "tags": [
+      "墨子",
+      "城守",
+      "賞罰",
+      "兵法"
+    ],
+    "sources": [
+      {
+        "chapter": "備梯",
+        "plugin": "wikisource",
+        "title": "墨子 · 備梯",
+        "url": "https://zh.wikisource.org/wiki/墨子/備梯",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "赗",
+    "title": "赗 / Funeral Carriage Gifts / 賵（ほう）",
+    "summary": "The ritual of presenting carriages and horses as condolence gifts in ancient Chinese funerals, documented in the Book of Rites.",
+    "tags": [
+      "禮記",
+      "喪禮",
+      "赗",
+      "儀式",
+      "儒學",
+      "車馬"
+    ],
+    "sources": [
+      {
+        "chapter": "杂记上",
+        "plugin": "wikisource",
+        "title": "禮記 · 杂记上",
+        "url": "https://zh.wikisource.org/wiki/禮記/杂记上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "赤子之心",
     "title": "赤子之心",
     "summary": "大人之心，純一如赤子，不失其本真。",
@@ -4926,6 +9747,70 @@
     ]
   },
   {
+    "slug": "躬耕",
+    "title": "Imperial Ploughing Ceremony / 躬耕帝藉",
+    "summary": "The ritual in which the emperor personally ploughed the sacred fields to demonstrate reverence for agriculture and to urge the people to cultivate the land.",
+    "tags": [
+      "躬耕",
+      "籍田",
+      "孟春",
+      "農業",
+      "天子"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "車馬之美",
+    "title": "The Beauty of Speech, Court, Sacrifice, and Horses / 穆穆皇皇之美",
+    "summary": "The fourfold beauty described in the Book of Rites encompassing elegant speech, orderly court, solemn sacrifice, and majestic horses.",
+    "tags": [
+      "禮儀",
+      "美學",
+      "儒學",
+      "車馬",
+      "祭祀"
+    ],
+    "sources": [
+      {
+        "chapter": "少仪",
+        "plugin": "wikisource",
+        "title": "禮記 · 少仪",
+        "url": "https://zh.wikisource.org/wiki/禮記/少仪",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "輕財重禮",
+    "title": "Valuing Ritual Over Wealth / 輕財重禮",
+    "summary": "The Confucian principle that ritual propriety should be valued above material wealth, with implications for both personal conduct and interstate relations.",
+    "tags": [
+      "禮義",
+      "財",
+      "聘禮",
+      "諸侯",
+      "讓",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "辨貴賤長幼",
     "title": "辨貴賤長幼",
     "summary": "昔聖帝明王辨貴賤長幼遠近男女內外，皆由此途出。",
@@ -4941,6 +9826,48 @@
         "plugin": "wikisource",
         "title": "禮記 · 仲尼燕居",
         "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "迎春",
+    "title": "The Spring Welcoming Ceremony / 迎春之禮",
+    "summary": "A seasonal ritual in which the emperor welcomed spring at the eastern suburb, embodying the unity of heaven and human governance.",
+    "tags": [
+      "時令",
+      "祭祀",
+      "天子",
+      "東郊",
+      "孟春"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "迎氣",
+    "title": "Seasonal Welcoming Rituals / 迎氣",
+    "summary": "The ancient Chinese court ritual of welcoming the seasonal qi at the four directional suburbs.",
+    "tags": [
+      "禮儀",
+      "祭祀",
+      "四時",
+      "天子",
+      "郊祀"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
         "work": "禮記"
       }
     ]
@@ -4988,6 +9915,48 @@
         "title": "孟子 · 離婁下",
         "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "造父學御",
+    "title": "造父學御 / 造父が御を嗜む",
+    "summary": "A parable about mastering chariot driving through concentration, proper posture, and harmony between driver and horse.",
+    "tags": [
+      "列子",
+      "湯問",
+      "技藝",
+      "修身",
+      "心術"
+    ],
+    "sources": [
+      {
+        "chapter": "湯問篇",
+        "plugin": "wikisource",
+        "title": "列子 · 湯問篇",
+        "url": "https://zh.wikisource.org/wiki/列子/湯問篇",
+        "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "遇會聘誓盟",
+    "title": "Diplomatic Meeting Categories / 遇會聘誓盟——諸侯外交會見之制",
+    "summary": "The five categories of inter-state diplomatic engagements in Zhou ritual protocol: ad hoc meetings, scheduled assemblies, envoys, oaths, and covenants.",
+    "tags": [
+      "外交",
+      "禮學",
+      "周禮",
+      "諸侯",
+      "盟誓"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
+        "work": "禮記"
       }
     ]
   },
@@ -5052,6 +10021,52 @@
     ]
   },
   {
+    "slug": "錫衰",
+    "title": "Hemp Mourning Garments for Officials / 錫衰",
+    "summary": "The hemp mourning attire prescribed for rulers and ministers during official duties and mourning periods.",
+    "tags": [
+      "禮記",
+      "服問",
+      "喪服",
+      "錫衰",
+      "大夫",
+      "諸侯",
+      "禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "服問",
+        "plugin": "wikisource",
+        "title": "禮記 · 服問",
+        "url": "https://zh.wikisource.org/wiki/禮記/服問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "錫衰以居",
+    "title": "Mourning Attire for Officials / 錫衰以居",
+    "summary": "Regulations governing hair-cloth mourning garments for ministers and officials during official duties.",
+    "tags": [
+      "禮記",
+      "喪服",
+      "錫衰",
+      "儒學",
+      "服問",
+      "大夫",
+      "卿大夫"
+    ],
+    "sources": [
+      {
+        "chapter": "服問",
+        "plugin": "wikisource",
+        "title": "禮記 · 服問",
+        "url": "https://zh.wikisource.org/wiki/禮記/服問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "長善救失",
     "title": "長善救失",
     "summary": "教育之本，在於發揚人之善端，救正人之過失。",
@@ -5111,6 +10126,28 @@
     ]
   },
   {
+    "slug": "附庸",
+    "title": "附庸 / Vassal States and Subordinate Territories",
+    "summary": "The feudal hierarchy of minor states attached to greater lords in ancient China.",
+    "tags": [
+      "禮記",
+      "王制",
+      "封建",
+      "諸侯",
+      "附庸",
+      "儒家制度"
+    ],
+    "sources": [
+      {
+        "chapter": "王制",
+        "plugin": "wikisource",
+        "title": "禮記 · 王制",
+        "url": "https://zh.wikisource.org/wiki/禮記/王制",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "陳仲子",
     "title": "陳仲子 / Chen Zhongzi",
     "summary": "孟子批判陳仲子之「廉」，指出其操守超越常人但不可推廣，如同蚯蚓方能完全踐行其道。",
@@ -5139,7 +10176,8 @@
       "列子",
       "病忘",
       "記憶",
-      "寓言"
+      "寓言",
+      "部:子"
     ],
     "sources": [
       {
@@ -5148,6 +10186,117 @@
         "title": "列子 · 周穆王篇",
         "url": "https://zh.wikisource.org/wiki/列子/周穆王篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "隊其子於井中",
+    "title": "負子汲井之喻",
+    "summary": "見死不救，悖於人情。",
+    "tags": [
+      "墨子",
+      "寓言",
+      "人情"
+    ],
+    "sources": [
+      {
+        "chapter": "七患",
+        "plugin": "wikisource",
+        "title": "墨子 · 七患",
+        "url": "https://zh.wikisource.org/wiki/墨子/七患",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "雲梯之守",
+    "title": "雲梯之守",
+    "summary": "禦雲梯攻城之總術。",
+    "tags": [
+      "墨子",
+      "城守",
+      "攻城器械",
+      "兵法"
+    ],
+    "sources": [
+      {
+        "chapter": "備梯",
+        "plugin": "wikisource",
+        "title": "墨子 · 備梯",
+        "url": "https://zh.wikisource.org/wiki/墨子/備梯",
+        "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "霸王之器",
+    "title": "Instruments of Hegemon-Kings / 霸王之器",
+    "summary": "The doctrine that righteousness, trust, harmony, and benevolence are the essential \"vessels\" for hegemons and true kings to govern.",
+    "tags": [
+      "霸王",
+      "義",
+      "信",
+      "和",
+      "仁",
+      "治國",
+      "儒學",
+      "政治哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "霸王之道",
+    "title": "The Way of Hegemon-Kings / 霸王之道",
+    "summary": "文子論霸道之要義，以謀略輔義，非圖自存，乃救亡平亂、除暴安民。",
+    "tags": [
+      "兵法",
+      "文子",
+      "治國",
+      "義兵",
+      "霸道"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十一",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十一",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十一",
+        "work": "文子"
+      },
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "靜以脩身",
+    "title": "靜以脩身 / Self-Cultivation Through Stillness",
+    "summary": "A Daoist principle advocating stillness (靜) as the foundation for personal cultivation and governmental harmony.",
+    "tags": [
+      "道家",
+      "修身",
+      "治國",
+      "文子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十",
+        "work": "文子"
       }
     ]
   },
@@ -5234,6 +10383,27 @@
     ]
   },
   {
+    "slug": "食者人之本",
+    "title": "食者人之本 / Food: The Root of the People",
+    "summary": "The principle that food is the foundation of the people, and agriculture the basis of governance, advocating sustainable resource management.",
+    "tags": [
+      "道家",
+      "治國",
+      "農業",
+      "民本",
+      "文子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十",
+        "plugin": "wikisource",
+        "title": "文子 · 卷十",
+        "url": "https://zh.wikisource.org/wiki/文子/卷十",
+        "work": "文子"
+      }
+    ]
+  },
+  {
     "slug": "飯糗茹草",
     "title": "Rice Dumplings and Wild Herbs / 舜之飯糗茹草",
     "summary": "Mencius illustrates contentment and virtue through the story of Shun eating coarse food and wearing grass clothes before becoming emperor.",
@@ -5280,11 +10450,11 @@
     "title": "養老之禮 / Rites for the Elderly / 养老の礼",
     "summary": "The comprehensive system of honoring, supporting, and caring for the elderly at various life stages, as codified in classical Confucian texts.",
     "tags": [
-      "禮記",
       "儒家",
       "孝道",
-      "老吾老",
       "禮儀",
+      "禮記",
+      "老吾老",
       "部:子"
     ],
     "sources": [
@@ -5293,6 +10463,97 @@
         "plugin": "wikisource",
         "title": "禮記 · 內則",
         "url": "https://zh.wikisource.org/wiki/禮記/內則",
+        "work": "禮記"
+      },
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "餕",
+    "title": "The Post-Sacrifice Feast (Jun) / 餕",
+    "summary": "The \"Jun\" feast, eaten after the sacrificial ceremony, represents the final and democratic phase of the ritual, distributing blessings to all participants regardless of rank.",
+    "tags": [
+      "儒學",
+      "社會倫理",
+      "祭",
+      "祭祀",
+      "祭祀制度",
+      "祭統",
+      "禮儀",
+      "禮記"
+    ],
+    "sources": [
+      {
+        "chapter": "祭統",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭統",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭統",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "餕者",
+    "title": "餕者",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "祭統",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭統",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭統",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "魯兼用四代",
+    "title": "魯兼用四代 / Lu's Comprehensive Adoption of the Four Dynasties",
+    "summary": "The state of Lu's unique synthesis of ritual vessels, music, officials, and institutions from the Four Dynasties—、有虞氏、夏、殷、周.",
+    "tags": [
+      "魯國",
+      "四代",
+      "禮制",
+      "儒學",
+      "周公",
+      "禮器",
+      "樂器",
+      "官制"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "魯用天子禮樂",
+    "title": "魯用天子禮樂 / Lu State's Use of Son of Heaven's Rituals",
+    "summary": "記魯國受命用天子禮樂祀周公，乃殊榮也，以見禮制之隆。",
+    "tags": [
+      "魯國",
+      "周公",
+      "天子禮樂",
+      "禮制",
+      "祭祀"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
         "work": "禮記"
       }
     ]
@@ -5314,6 +10575,51 @@
         "title": "論語 · 先進第十一",
         "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "麻之有本",
+    "title": "Hemp with Root: Transformation of Mourning Attire / 麻之有本與三年之葛",
+    "summary": "The doctrine that hemp cloth with its root intact transforms three-year mourning garments, marking transitions between mourning periods.",
+    "tags": [
+      "禮記",
+      "服問",
+      "喪服",
+      "麻",
+      "三年之喪",
+      "禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "服問",
+        "plugin": "wikisource",
+        "title": "禮記 · 服問",
+        "url": "https://zh.wikisource.org/wiki/禮記/服問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "鼎銘",
+    "title": "Inscriptions on Ritual Vessels / 鼎銘",
+    "summary": "The Confucian practice of inscribing bronze vessels with records of ancestors' virtue and achievements, serving as a means of moral education and familial remembrance.",
+    "tags": [
+      "祭",
+      "禮記",
+      "儒學",
+      "青銅器",
+      "銘文",
+      "孝道",
+      "歷史記憶"
+    ],
+    "sources": [
+      {
+        "chapter": "祭統",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭統",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭統",
+        "work": "禮記"
       }
     ]
   },
