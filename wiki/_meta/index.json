@@ -22,33 +22,6 @@
     ]
   },
   {
-    "slug": "一是而一非",
-    "title": "一是而一非 / One True and One False: Inconsistent Logical Results",
-    "summary": "「一是而一非」為《小取》所論論理式之一，謂一事而正誤參半。",
-    "tags": [
-      "墨學",
-      "小取",
-      "論理學",
-      "辯論"
-    ],
-    "sources": [
-      {
-        "chapter": "小取",
-        "plugin": "wikisource",
-        "title": "墨子 · 小取",
-        "url": "https://zh.wikisource.org/wiki/墨子/小取",
-        "work": "墨子"
-      },
-      {
-        "chapter": "經說上",
-        "plugin": "wikisource",
-        "title": "墨子 · 經說上",
-        "url": "https://zh.wikisource.org/wiki/墨子/經說上",
-        "work": "墨子"
-      }
-    ]
-  },
-  {
     "slug": "一獻質三獻文五獻察七獻神",
     "title": "一獻質三獻文五獻察七獻神 / Seven Offerings: The Hierarchy of Ritual Refinement",
     "summary": "The graduated progression of seven ritual offerings from simple (質) to spiritual (神).",
@@ -78,7 +51,8 @@
       "墨學",
       "政治哲學",
       "納諫",
-      "兼聽"
+      "兼聽",
+      "部:子"
     ],
     "sources": [
       {
@@ -209,7 +183,8 @@
       "地仙",
       "尸解仙",
       "分類",
-      "葛洪"
+      "葛洪",
+      "部:子"
     ],
     "sources": [
       {
@@ -258,7 +233,8 @@
       "暴王",
       "歷史哲學",
       "治國",
-      "聖王"
+      "聖王",
+      "部:子"
     ],
     "sources": [
       {
@@ -316,25 +292,6 @@
     ]
   },
   {
-    "slug": "三官之蝨",
-    "title": "三官之蝨",
-    "summary": "農商官三官所生之六蝨",
-    "tags": [
-      "法家",
-      "商君書",
-      "國病"
-    ],
-    "sources": [
-      {
-        "chapter": "卷一",
-        "plugin": "wikisource",
-        "title": "商君書 · 卷一",
-        "url": "https://zh.wikisource.org/wiki/商君書/卷一",
-        "work": "商君書"
-      }
-    ]
-  },
-  {
     "slug": "三屍",
     "title": "三屍神 / The Three Corpses / 三屍",
     "summary": "Malevolent spiritual entities residing in the human body that report sins to heaven and seek the practitioner's death.",
@@ -343,7 +300,8 @@
       "修煉",
       "魂魄",
       "抱朴子",
-      "身中神"
+      "身中神",
+      "部:子"
     ],
     "sources": [
       {
@@ -416,7 +374,8 @@
       "墨學",
       "民本",
       "政治哲學",
-      "非樂"
+      "非樂",
+      "部:子"
     ],
     "sources": [
       {
@@ -481,7 +440,8 @@
       "官制",
       "尚賢",
       "政治哲學",
-      "治國"
+      "治國",
+      "部:子"
     ],
     "sources": [
       {
@@ -527,7 +487,8 @@
       "湯",
       "武王",
       "非攻",
-      "征伐"
+      "征伐",
+      "部:子"
     ],
     "sources": [
       {
@@ -547,7 +508,8 @@
       "墨學",
       "方法論",
       "認識論",
-      "非命"
+      "非命",
+      "部:子"
     ],
     "sources": [
       {
@@ -568,7 +530,8 @@
       "禮讓",
       "陰陽",
       "禮記",
-      "三光"
+      "三光",
+      "部:經"
     ],
     "sources": [
       {
@@ -588,7 +551,8 @@
       "墨學",
       "治國",
       "尚同",
-      "上下通達"
+      "上下通達",
+      "部:子"
     ],
     "sources": [
       {
@@ -670,7 +634,8 @@
     "tags": [
       "商君書",
       "歷史觀",
-      "治道"
+      "治道",
+      "部:經"
     ],
     "sources": [
       {
@@ -761,7 +726,8 @@
     "tags": [
       "吳子",
       "料敵",
-      "戰機"
+      "戰機",
+      "部:子"
     ],
     "sources": [
       {
@@ -877,7 +843,8 @@
       "公共責任",
       "君子",
       "墨學",
-      "言論"
+      "言論",
+      "部:子"
     ],
     "sources": [
       {
@@ -903,7 +870,8 @@
     "tags": [
       "兼愛",
       "墨學",
-      "病因學"
+      "病因學",
+      "部:子"
     ],
     "sources": [
       {
@@ -1008,7 +976,8 @@
       "墨學",
       "世俗",
       "君子",
-      "義"
+      "義",
+      "部:子"
     ],
     "sources": [
       {
@@ -1088,7 +1057,7 @@
   {
     "slug": "中庸-概論-之",
     "title": "中庸-概論-之",
-    "summary": "",
+    "summary": "The user asks: \"Write a one-line summary for this article: # 中庸-概論-之\n\n《孟子·公孫丑上》云「伯夷隘，柳下惠不恭」，隘與不恭皆失中，君子不由。是明中行之道，當介於過與不及之間。\" So they want a one-line summary for an article that apparently discusses the concept of \"Zhong Yong\" (Doctrine of the Mean). The article quotes Mencius (specifically \"Gongsun Chou I\"): \"Bo Yi was narrow-minded, Liu Xia Hui was disrespectful; both lack the middle (zhong). The gentleman does not follow such.\" It says that this demonstrates the way of \"zhongxing\" (balanced conduct) lies between excess and deficiency.\n\nSo we need a one-line summary. Must summarize the main point: The article emphasizes the importance of the \"Doctrine of the Mean,\" that balanced conduct avoids extremes (as illustrated by Bo Yi and Liu Xia Hui). It says the article discusses the principle that the proper way is between excess and deficiency.\n\nThus we can produce: \"The article explains that the golden mean (zhongyong) requires avoiding extremes, as illustrated by Bo Yi’s narrowness and Liu Xia Hui’s disrespect",
     "tags": [
       "部:經"
     ],
@@ -1132,7 +1101,8 @@
       "方位",
       "陰陽",
       "仁德",
-      "鄉飲酒"
+      "鄉飲酒",
+      "部:經"
     ],
     "sources": [
       {
@@ -1173,7 +1143,8 @@
       "alchemy",
       "immortality",
       "九丹",
-      "Daoist eschatology"
+      "Daoist eschatology",
+      "部:子"
     ],
     "sources": [
       {
@@ -1299,7 +1270,8 @@
       "仙山",
       "抱朴子",
       "煉丹",
-      "黃精"
+      "黃精",
+      "部:子"
     ],
     "sources": [
       {
@@ -1346,9 +1318,9 @@
       "軍事",
       "軍事倫理",
       "道家哲學",
-      "部:子",
       "吳子",
-      "圖國"
+      "圖國",
+      "部:子"
     ],
     "sources": [
       {
@@ -1391,8 +1363,10 @@
   {
     "slug": "五刑",
     "title": "五刑",
-    "summary": "",
-    "tags": [],
+    "summary": "墨子以「絲縷之紀、罔罟之綱」比喻五刑，�",
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "尚同上",
@@ -1432,7 +1406,8 @@
     "tags": [
       "商君書",
       "治民",
-      "職業"
+      "職業",
+      "部:經"
     ],
     "sources": [
       {
@@ -1585,7 +1560,8 @@
       "信號",
       "鼓旗",
       "墨學",
-      "軍事"
+      "軍事",
+      "部:子"
     ],
     "sources": [
       {
@@ -1739,7 +1715,7 @@
   {
     "slug": "仁-儒學-之",
     "title": "仁-儒學-之",
-    "summary": "",
+    "summary": "The user requests: \"Write a one-line summary for this article:\n\n# 仁-儒學-之\n\n《孟子·公孫丑上》亦明仁為天之尊爵、人之安宅：「夫仁，天之尊爵也，人之安宅也。莫之御而不仁，是不智也。」又以惻隱為仁之端：「惻隱之心，仁之端也。」並言仁者如射，當反求諸己。\n\n---\n\n又有以禮為仁之具者。《仲尼燕居》記子游問「禮也者，領惡而全好者與」，孔子然\"\n\nWe need to produce a one-line summary.\n\nWe need to capture main points: Chinese classical texts describing ren (benevolence) as a heavenly title and human refuge; also the feeling of compassion (惻隱) is the beginning of ren; the analogy that the benevolent act like shooting an arrow, should reflect upon oneself; also the role of li (ritual) as a tool for ren; reference to Confucius' teaching about ritual guiding the avoidance of evil and preservation of good.\n\nThus a one-line summary: \"The article explains that in Confucian thought, ren (benevolence) is",
     "tags": [
       "部:其他"
     ],
@@ -1871,9 +1847,11 @@
     "title": "以刑去刑",
     "summary": "峻刑以止刑，達於無刑",
     "tags": [
-      "法家",
+      "刑罰",
       "商君書",
-      "刑罰"
+      "國病",
+      "法家",
+      "部:經"
     ],
     "sources": [
       {
@@ -2017,7 +1995,8 @@
     "tags": [
       "法家",
       "商君書",
-      "變法"
+      "變法",
+      "部:經"
     ],
     "sources": [
       {
@@ -2058,7 +2037,8 @@
     "tags": [
       "商君書",
       "賞罰",
-      "治道"
+      "治道",
+      "部:經"
     ],
     "sources": [
       {
@@ -2085,7 +2065,8 @@
       "墨學",
       "邏輯",
       "論辯",
-      "名實"
+      "名實",
+      "部:子"
     ],
     "sources": [
       {
@@ -2105,7 +2086,8 @@
       "抱朴子",
       "孔子",
       "老子",
-      "仙道"
+      "仙道",
+      "部:子"
     ],
     "sources": [
       {
@@ -2124,7 +2106,8 @@
     "tags": [
       "商君書",
       "農業",
-      "土地"
+      "土地",
+      "部:經"
     ],
     "sources": [
       {
@@ -2150,7 +2133,8 @@
     "tags": [
       "商君書",
       "治民",
-      "任譽"
+      "任譽",
+      "部:經"
     ],
     "sources": [
       {
@@ -2172,7 +2156,8 @@
       "吳國",
       "越國",
       "會稽",
-      "興亡"
+      "興亡",
+      "部:子"
     ],
     "sources": [
       {
@@ -2242,7 +2227,8 @@
       "音樂哲學",
       "辯論",
       "墨子",
-      "儒墨之爭"
+      "儒墨之爭",
+      "部:子"
     ],
     "sources": [
       {
@@ -2261,7 +2247,8 @@
     "tags": [
       "商君書",
       "治民",
-      "耕作"
+      "耕作",
+      "部:經"
     ],
     "sources": [
       {
@@ -2280,7 +2267,8 @@
     "tags": [
       "法家",
       "商君書",
-      "治法"
+      "治法",
+      "部:經"
     ],
     "sources": [
       {
@@ -2328,7 +2316,8 @@
     "tags": [
       "法家",
       "商君書",
-      "抑商"
+      "抑商",
+      "部:經"
     ],
     "sources": [
       {
@@ -2347,7 +2336,8 @@
     "tags": [
       "法家",
       "商君書",
-      "戶籍"
+      "戶籍",
+      "部:經"
     ],
     "sources": [
       {
@@ -2362,7 +2352,7 @@
   {
     "slug": "使民養生送死無憾",
     "title": "使民養生送死無憾",
-    "summary": "",
+    "summary": "The user wants: \"Write a one-line summary for this article:\n\n# 使民養生送死無憾\n\nslug: 使民養生送死無憾\ntitle\"\n\nThus, they have provided a title (likely Chinese) and slug. They want a one-line summary for the article.\n\nWe need to parse the content. The title \"使民養生送死無憾\" translates to \"Enabling the people to live healthily and die without regrets\"? Actually \"使民\" means \"to make the people\", \"養生\" means \"to nurture life/health\", \"送死\" could be \"to send off death\"? It's a classical phrase? Might be a Chinese philosophical or political article about how to govern so that people can live well and die without regrets.\n\nThe slug is the same as the title. The article content is not provided. So we need to guess the summary.\n\nPossibly the article discusses the concept that a good government should enable citizens to live in health and comfort, and also ensure that they can face death without regrets, perhaps through proper preparation, welfare, spiritual guidance, etc.\n\nThus we can propose a one-line summary: \"The article argues that a benevolent government must provide the conditions for citizens to live healthily",
     "tags": [
       "部:其他"
     ],
@@ -2405,7 +2395,8 @@
       "義-儒學-之",
       "批判",
       "喪葬",
-      "禮俗"
+      "禮俗",
+      "部:經"
     ],
     "sources": [
       {
@@ -2426,7 +2417,8 @@
       "治國",
       "尚同",
       "信",
-      "政治哲學"
+      "政治哲學",
+      "部:子"
     ],
     "sources": [
       {
@@ -2448,7 +2440,8 @@
       "法",
       "信",
       "權",
-      "公私之交"
+      "公私之交",
+      "部:經"
     ],
     "sources": [
       {
@@ -2526,7 +2519,8 @@
       "儒學",
       "德行",
       "祭祀",
-      "禮記"
+      "禮記",
+      "部:經"
     ],
     "sources": [
       {
@@ -2604,7 +2598,8 @@
       "墨子",
       "水利",
       "軍事",
-      "防守"
+      "防守",
+      "部:子"
     ],
     "sources": [
       {
@@ -2627,7 +2622,8 @@
       "城市防衛",
       "城池守備",
       "墨子",
-      "軍事防禦"
+      "軍事防禦",
+      "部:子"
     ],
     "sources": [
       {
@@ -2650,7 +2646,8 @@
       "城防",
       "墨子",
       "守城法",
-      "軍事技術"
+      "軍事技術",
+      "部:子"
     ],
     "sources": [
       {
@@ -2698,7 +2695,8 @@
       "防禦戰術",
       "城防",
       "蛾傅",
-      "攻城"
+      "攻城",
+      "部:子"
     ],
     "sources": [
       {
@@ -2719,7 +2717,8 @@
       "墨學",
       "守城",
       "攻城術",
-      "軍事"
+      "軍事",
+      "部:子"
     ],
     "sources": [
       {
@@ -2732,6 +2731,33 @@
     ]
   },
   {
+    "slug": "儉節",
+    "title": "Jiǎnjié (Frugality and Restraint) / 儉節",
+    "summary": "A Mohist virtue of moderation and economical self-restraint, contrasted with淫佚.",
+    "tags": [
+      "mozi",
+      "mohist ethics",
+      "virtue",
+      "moderation",
+      "chinese philosophy",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "儒-儒學-之",
+    "title": "儒學 / 儒-儒學-之",
+    "summary": "儒家之學，以修身為本，崇禮儀而重內在工夫，與道家相對而言。",
+    "tags": [
+      "儒學",
+      "修身",
+      "儒家",
+      "道家",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "儒之道足以喪天下者四政",
     "title": "儒之道足以喪天下者四政 / Mozi's Four Criticisms of Confucianism",
     "summary": "墨子批判儒學有四蔽：不明鬼神、厚葬久喪、弦歌聲樂、以命為有，皆足以喪天下。",
@@ -2740,7 +2766,8 @@
       "墨子",
       "墨學",
       "宗教觀",
-      "社會批評"
+      "社會批評",
+      "部:子"
     ],
     "sources": [
       {
@@ -2768,7 +2795,8 @@
       "昏禮",
       "儒學批判",
       "夫婦之道",
-      "迎親"
+      "迎親",
+      "部:子"
     ],
     "sources": [
       {
@@ -2788,7 +2816,8 @@
       "抱朴子",
       "儒道",
       "修道",
-      "修養"
+      "修養",
+      "部:子"
     ],
     "sources": [
       {
@@ -2830,7 +2859,8 @@
       "grain spirit",
       "禮記",
       "郊特牲",
-      "ritual"
+      "ritual",
+      "部:經"
     ],
     "sources": [
       {
@@ -2849,7 +2879,8 @@
     "tags": [
       "吳子",
       "料敵",
-      "治國"
+      "治國",
+      "部:子"
     ],
     "sources": [
       {
@@ -2870,7 +2901,8 @@
       "禮儀",
       "義利之辨",
       "教化",
-      "鄉飲酒"
+      "鄉飲酒",
+      "部:經"
     ],
     "sources": [
       {
@@ -2917,7 +2949,8 @@
       "墨學",
       "光學",
       "物理學",
-      "經說下"
+      "經說下",
+      "部:經"
     ],
     "sources": [
       {
@@ -3138,7 +3171,8 @@
     "tags": [
       "商君書",
       "治民",
-      "姦邪"
+      "姦邪",
+      "部:經"
     ],
     "sources": [
       {
@@ -3214,7 +3248,8 @@
       "兵守",
       "守戰",
       "四戰之國",
-      "三軍"
+      "三軍",
+      "部:經"
     ],
     "sources": [
       {
@@ -3256,7 +3291,8 @@
       "兼愛",
       "墨學",
       "天志",
-      "治國"
+      "治國",
+      "部:子"
     ],
     "sources": [
       {
@@ -3283,7 +3319,8 @@
       "倫理學",
       "兼愛",
       "墨學",
-      "治道"
+      "治道",
+      "部:子"
     ],
     "sources": [
       {
@@ -3339,7 +3376,8 @@
       "天志",
       "兼愛",
       "哲學概念",
-      "治國"
+      "治國",
+      "部:史"
     ],
     "sources": [
       {
@@ -3382,7 +3420,8 @@
       "capping ceremony",
       "coming-of-age",
       "ritual",
-      "冠義"
+      "冠義",
+      "部:經"
     ],
     "sources": [
       {
@@ -3435,7 +3474,8 @@
     "tags": [
       "法家",
       "商君書",
-      "賞罰"
+      "賞罰",
+      "部:經"
     ],
     "sources": [
       {
@@ -3468,7 +3508,8 @@
     "tags": [
       "商君書",
       "刑罰",
-      "官爵"
+      "官爵",
+      "部:子"
     ],
     "sources": [
       {
@@ -3487,7 +3528,8 @@
     "tags": [
       "商君書",
       "刑罰",
-      "賞罰"
+      "賞罰",
+      "部:經"
     ],
     "sources": [
       {
@@ -3506,7 +3548,8 @@
     "tags": [
       "商君書",
       "治民",
-      "賞罰"
+      "賞罰",
+      "部:經"
     ],
     "sources": [
       {
@@ -3532,7 +3575,8 @@
     "tags": [
       "兼愛",
       "墨學",
-      "天志"
+      "天志",
+      "部:史"
     ],
     "sources": [
       {
@@ -3628,7 +3672,8 @@
     "tags": [
       "商君書",
       "治道",
-      "德刑"
+      "德刑",
+      "部:經"
     ],
     "sources": [
       {
@@ -3676,7 +3721,8 @@
     "tags": [
       "商君書",
       "刑罰",
-      "國力"
+      "國力",
+      "部:經"
     ],
     "sources": [
       {
@@ -3793,7 +3839,8 @@
       "善惡觀",
       "賞罰",
       "教化",
-      "倫理"
+      "倫理",
+      "部:子"
     ],
     "sources": [
       {
@@ -3834,7 +3881,8 @@
     "tags": [
       "墨學",
       "治國",
-      "兼愛"
+      "兼愛",
+      "部:子"
     ],
     "sources": [
       {
@@ -3990,7 +4038,8 @@
     "tags": [
       "法家",
       "商君書",
-      "聖人之治"
+      "聖人之治",
+      "部:經"
     ],
     "sources": [
       {
@@ -4023,6 +4072,19 @@
         "work": "孟子"
       }
     ]
+  },
+  {
+    "slug": "反天之意",
+    "title": "反天之意 / 反天之意",
+    "summary": "The Mozi concept of opposing Heaven's will, resulting in 天賊 and 別.",
+    "tags": [
+      "墨學",
+      "天志",
+      "兼別",
+      "哲學",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "反巡故鄉",
@@ -4140,7 +4202,8 @@
       "言行",
       "修身",
       "誠信",
-      "墨學"
+      "墨學",
+      "部:子"
     ],
     "sources": [
       {
@@ -4224,7 +4287,8 @@
       "天罰",
       "報應",
       "抱朴子",
-      "罪罰"
+      "罪罰",
+      "部:子"
     ],
     "sources": [
       {
@@ -4235,6 +4299,19 @@
         "work": "抱朴子"
       }
     ]
+  },
+  {
+    "slug": "司馬",
+    "title": "Sima / 司馬",
+    "summary": "The ancient Chinese minister of war and director of military affairs.",
+    "tags": [
+      "official",
+      "zhou-dynasty",
+      "military",
+      "six-ministers",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "合巹而酳",
@@ -4456,7 +4533,8 @@
       "君臣",
       "法制",
       "賞罰",
-      "商鞅思想"
+      "商鞅思想",
+      "部:其他"
     ],
     "sources": [
       {
@@ -4471,7 +4549,7 @@
   {
     "slug": "含者",
     "title": "含者",
-    "summary": "",
+    "summary": "The user asks: \"Write a one-line summary for this article: # 含者 ... etc.\" The article is in Chinese about \"含者\" (the person who performs the \"han\" ceremony, placing jade in the mouth of the deceased). They want a one-line summary. So I need to produce a concise one-line summary that captures the essence: the role of \"含者\" in ancient Chinese funeral rites, specifically the ceremonial offering of a jade piece to the deceased's mouth, its origin and ritual details. So something like: \"含者 (Han-zhe) was an ancient Chinese funeral official who placed a jade piece in the deceased's mouth, a key ritual symbolizing the soul's reliance on the object, with detailed procedures described in the Li Ji.\" Or \"The article describes the ancient Chinese ritual role of the 含者, who places a jade (含玉) in the mouth of the deceased during the funeral, outlining its ceremony and significance.\" So I will produce a concise one-line summary in Chinese likely, but user wrote in Chinese, so I'll respond in Chinese.\n\nGiven the article is about \"含者\" with details. So a one-line summary: \"含者是古代丧礼中负责将玉器置于亡者口中的仪式",
     "tags": [
       "部:其他"
     ],
@@ -4494,7 +4572,8 @@
       "軍事",
       "歷史",
       "興亡",
-      "吳國"
+      "吳國",
+      "部:子"
     ],
     "sources": [
       {
@@ -4513,7 +4592,8 @@
     "tags": [
       "吳子",
       "兵略",
-      "治國"
+      "治國",
+      "部:子"
     ],
     "sources": [
       {
@@ -4532,7 +4612,8 @@
     "tags": [
       "吳子",
       "應變",
-      "將略"
+      "將略",
+      "部:子"
     ],
     "sources": [
       {
@@ -4551,7 +4632,8 @@
     "tags": [
       "吳子",
       "治兵",
-      "軍制"
+      "軍制",
+      "部:子"
     ],
     "sources": [
       {
@@ -4572,7 +4654,8 @@
       "義",
       "教化",
       "躬耕",
-      "聖人之道"
+      "聖人之道",
+      "部:子"
     ],
     "sources": [
       {
@@ -4591,7 +4674,8 @@
     "tags": [
       "吳子",
       "勵士",
-      "治軍"
+      "治軍",
+      "部:子"
     ],
     "sources": [
       {
@@ -4610,7 +4694,8 @@
     "tags": [
       "吳子",
       "料敵",
-      "將略"
+      "將略",
+      "部:子"
     ],
     "sources": [
       {
@@ -4629,7 +4714,8 @@
     "tags": [
       "吳子",
       "論將",
-      "將略"
+      "將略",
+      "部:子"
     ],
     "sources": [
       {
@@ -4651,7 +4737,8 @@
       "吳國",
       "伍子胥",
       "訓練",
-      "楚國"
+      "楚國",
+      "部:子"
     ],
     "sources": [
       {
@@ -4717,7 +4804,8 @@
       "抱朴子",
       "命運",
       "仙道",
-      "天文"
+      "天文",
+      "部:子"
     ],
     "sources": [
       {
@@ -4737,7 +4825,8 @@
       "抱朴子",
       "寓言",
       "和氏璧",
-      "識寶"
+      "識寶",
+      "部:子"
     ],
     "sources": [
       {
@@ -4888,7 +4977,8 @@
       "義利",
       "商人",
       "批判",
-      "貴義"
+      "貴義",
+      "部:子"
     ],
     "sources": [
       {
@@ -4908,7 +4998,8 @@
       "墨學",
       "言行",
       "貴義",
-      "商人"
+      "商人",
+      "部:子"
     ],
     "sources": [
       {
@@ -5083,7 +5174,8 @@
       "商君書",
       "治民",
       "善",
-      "姦"
+      "姦",
+      "部:經"
     ],
     "sources": [
       {
@@ -5128,7 +5220,8 @@
     "tags": [
       "吳子",
       "圖國",
-      "治軍"
+      "治軍",
+      "部:子"
     ],
     "sources": [
       {
@@ -5264,7 +5357,7 @@
   {
     "slug": "四輔",
     "title": "四輔",
-    "summary": "",
+    "summary": "四辅（师、保、疑、丞）是中国古代设官辅导太子，教授其德行与君臣父子之道的制度。",
     "tags": [
       "部:其他"
     ],
@@ -5369,7 +5462,8 @@
     "tags": [
       "法家",
       "商君書",
-      "治國"
+      "治國",
+      "部:經"
     ],
     "sources": [
       {
@@ -5544,7 +5638,8 @@
       "墨學",
       "城守",
       "粮秣",
-      "兵法"
+      "兵法",
+      "部:子"
     ],
     "sources": [
       {
@@ -5565,7 +5660,8 @@
       "城守",
       "軍事編制",
       "尊卑",
-      "旗幟"
+      "旗幟",
+      "部:子"
     ],
     "sources": [
       {
@@ -5659,7 +5755,8 @@
       "堯舜禹湯",
       "歷史例證",
       "尚賢",
-      "禪讓"
+      "禪讓",
+      "部:子"
     ],
     "sources": [
       {
@@ -5674,8 +5771,10 @@
   {
     "slug": "堯舜禹湯文武之道",
     "title": "堯舜禹湯文武之道",
-    "summary": "",
-    "tags": [],
+    "summary": "We need to write a one-line summary for the article titled \"堯舜禹湯文武之道\". The article is in Chinese and Japanese, describing the concept in Mozi (墨子) about \"尚賢\" (respecting the worthy) and the way of Yao, Shun, Yu, Tang, Wen, Wu. The article emphasizes that Yao, Shun, etc., valued worthy ministers; they appointed them not because of blood relation, wealth, or looks, but because they could benefit heaven, ghosts, and people through their counsel and actions. It also mentions three examples: Shun plowing in Lishan, Yi Yin being a teacher, Fu Yue building in Fuyan; all were appointed as ministers. It says the \"尚賢\" and \"聖王之道\" are not two separate things. The article is likely an analysis of Mozi's \"Shang Xian\" chapter discussing the meritocratic governance of ancient sage kings and their appointment of worthy ministers.\n\nWe need to produce a one-line summary: something like \"The article explains Mozi's argument that the sage kings Yao, Shun, Yu, Tang, Wen, and Wu valued and appointed worthy ministers based on merit, not blood, wealth, or appearance, demonstrating that",
+    "tags": [
+      "部:子"
+    ],
     "sources": [
       {
         "chapter": "尚賢下",
@@ -5695,7 +5794,8 @@
       "ritual principles",
       "禮記",
       "ancestor worship",
-      "郊特牲"
+      "郊特牲",
+      "部:經"
     ],
     "sources": [
       {
@@ -5715,7 +5815,8 @@
       "軍制",
       "爵賞",
       "什伍",
-      "商鞅思想"
+      "商鞅思想",
+      "部:其他"
     ],
     "sources": [
       {
@@ -5736,7 +5837,8 @@
       "工巧",
       "功利",
       "仁術",
-      "技藝"
+      "技藝",
+      "部:子"
     ],
     "sources": [
       {
@@ -5759,7 +5861,8 @@
       "守城",
       "旗幟",
       "軍事",
-      "防守"
+      "防守",
+      "部:子"
     ],
     "sources": [
       {
@@ -5781,7 +5884,8 @@
       "城防",
       "墨子",
       "墨學",
-      "非攻"
+      "非攻",
+      "部:子"
     ],
     "sources": [
       {
@@ -5849,7 +5953,8 @@
     "tags": [
       "商君書",
       "農業",
-      "治國"
+      "治國",
+      "部:經"
     ],
     "sources": [
       {
@@ -5891,7 +5996,8 @@
       "墨學",
       "治道",
       "政事",
-      "統一"
+      "統一",
+      "部:子"
     ],
     "sources": [
       {
@@ -5910,7 +6016,8 @@
     "tags": [
       "法家",
       "商君書",
-      "經濟"
+      "經濟",
+      "部:經"
     ],
     "sources": [
       {
@@ -5930,7 +6037,8 @@
       "商君書",
       "治國",
       "壹民",
-      "摶力"
+      "摶力",
+      "部:經"
     ],
     "sources": [
       {
@@ -5974,7 +6082,8 @@
     "tags": [
       "耕戰",
       "治國",
-      "商鞅思想"
+      "商鞅思想",
+      "部:其他"
     ],
     "sources": [
       {
@@ -6357,7 +6466,8 @@
       "sacrifice",
       "禮記",
       "agricultural rites",
-      "year-end ceremony"
+      "year-end ceremony",
+      "部:經"
     ],
     "sources": [
       {
@@ -6441,7 +6551,8 @@
       "墨學",
       "治國",
       "尚同",
-      "階層"
+      "階層",
+      "部:子"
     ],
     "sources": [
       {
@@ -6461,7 +6572,8 @@
       "墨學",
       "義",
       "良寶",
-      "兼愛"
+      "兼愛",
+      "部:子"
     ],
     "sources": [
       {
@@ -6529,7 +6641,8 @@
       "墨學",
       "天志",
       "治國",
-      "倫理學"
+      "倫理學",
+      "部:子"
     ],
     "sources": [
       {
@@ -6550,7 +6663,8 @@
       "天命",
       "墨學",
       "聖王",
-      "祥瑞"
+      "祥瑞",
+      "部:史"
     ],
     "sources": [
       {
@@ -6571,7 +6685,8 @@
       "天志",
       "賞罰",
       "災異",
-      "尚同"
+      "尚同",
+      "部:史"
     ],
     "sources": [
       {
@@ -6604,6 +6719,19 @@
     ]
   },
   {
+    "slug": "天德",
+    "title": "天德 / 天德",
+    "summary": "The virtue attained by following Heaven's will, the opposite of 天賊.",
+    "tags": [
+      "墨學",
+      "天志",
+      "兼愛",
+      "順天之意",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "天德與天賊",
     "title": "天德與天賊 / The Heavenly Virtue and the Heavenly Outcast",
     "summary": "Mozi's contrast between those who follow Heaven's will (天德) and those who rebel against it (天賊).",
@@ -6611,7 +6739,8 @@
       "兼愛",
       "墨學",
       "天志",
-      "治國"
+      "治國",
+      "部:史"
     ],
     "sources": [
       {
@@ -6639,7 +6768,8 @@
       "天志",
       "賞罰",
       "因果",
-      "墨學"
+      "墨學",
+      "部:子"
     ],
     "sources": [
       {
@@ -6659,7 +6789,8 @@
       "墨學",
       "天道",
       "政治哲學",
-      "賞罰"
+      "賞罰",
+      "部:史"
     ],
     "sources": [
       {
@@ -6723,7 +6854,8 @@
       "天志",
       "兼愛",
       "相愛相利",
-      "墨學"
+      "墨學",
+      "部:子"
     ],
     "sources": [
       {
@@ -6736,6 +6868,19 @@
     ]
   },
   {
+    "slug": "天賊",
+    "title": "Tianzei (Heavenly Outcast) / 天賊",
+    "summary": "A Mozi concept denoting those who oppose Heaven's will and practice discrimination, resulting in Heaven's punishment.",
+    "tags": [
+      "墨學",
+      "天志",
+      "兼別",
+      "墨子",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "天賞天罰",
     "title": "天賞天罰 / Heavenly Reward and Punishment / 天賞と天罰",
     "summary": "天之行賞罰，以天子之善暴為準，愛人利人者得天賞，憎人賊人者得天罰。",
@@ -6744,7 +6889,8 @@
       "天志",
       "賞罰",
       "義",
-      "天道"
+      "天道",
+      "部:子"
     ],
     "sources": [
       {
@@ -6765,7 +6911,8 @@
       "天志",
       "天罰",
       "尚同",
-      "鬼神"
+      "鬼神",
+      "部:史"
     ],
     "sources": [
       {
@@ -6800,7 +6947,8 @@
       "三表",
       "天志",
       "兼愛",
-      "標準"
+      "標準",
+      "部:史"
     ],
     "sources": [
       {
@@ -6820,7 +6968,8 @@
       "墨學",
       "人才",
       "危險",
-      "賢才"
+      "賢才",
+      "部:子"
     ],
     "sources": [
       {
@@ -6831,6 +6980,19 @@
         "work": "墨子"
       }
     ]
+  },
+  {
+    "slug": "夫婦",
+    "title": "Husband and Wife / 夫婦",
+    "summary": "The fundamental social relationship in Confucian ethics defining complementary roles between husband and wife.",
+    "tags": [
+      "confucian ethics",
+      "family",
+      "social relationships",
+      "rites",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "奔喪不及殯",
@@ -6903,7 +7065,8 @@
       "商君書",
       "國策",
       "國力",
-      "攻戰"
+      "攻戰",
+      "部:經"
     ],
     "sources": [
       {
@@ -6929,7 +7092,8 @@
     "tags": [
       "墨學",
       "勇",
-      "墨子"
+      "墨子",
+      "部:子"
     ],
     "sources": [
       {
@@ -6991,7 +7155,8 @@
     "tags": [
       "法家",
       "商君書",
-      "治民"
+      "治民",
+      "部:經"
     ],
     "sources": [
       {
@@ -7012,7 +7177,8 @@
       "軍事",
       "城防",
       "姦細",
-      "賞罰"
+      "賞罰",
+      "部:子"
     ],
     "sources": [
       {
@@ -7032,7 +7198,8 @@
       "墨學",
       "人口",
       "嫁娶",
-      "治國"
+      "治國",
+      "部:子"
     ],
     "sources": [
       {
@@ -7092,6 +7259,32 @@
         "work": "論語"
       }
     ]
+  },
+  {
+    "slug": "子路",
+    "title": "子路 / 子路",
+    "summary": "A disciple of Confucius who assisted in the archery ceremony at Juexiang Garden.",
+    "tags": [
+      "confucius disciples",
+      "rites of zhou",
+      "spring and autumn period",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "孔子",
+    "title": "孔子 / 孔子",
+    "summary": "儒家之聖人，萬世師表，其言行見於《論語》諸經。",
+    "tags": [
+      "儒家",
+      "聖人",
+      "魯國",
+      "春秋",
+      "射禮",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "孔子射於矍相之圃",
@@ -7214,7 +7407,7 @@
   {
     "slug": "孝有三",
     "title": "孝有三",
-    "summary": "",
+    "summary": "Confucian scholar Zengzi outlines three hierarchical degrees of filial piety: the highest is bringing honor to one's parents, the middle is avoiding bringing shame upon them, and the lowest is simply providing material support.",
     "tags": [
       "儒學",
       "孝道",
@@ -7261,7 +7454,8 @@
       "服食",
       "葛洪",
       "辟穀",
-      "養生"
+      "養生",
+      "部:子"
     ],
     "sources": [
       {
@@ -7310,7 +7504,8 @@
       "城守",
       "墨子",
       "軍事",
-      "防守"
+      "防守",
+      "部:子"
     ],
     "sources": [
       {
@@ -7373,7 +7568,8 @@
       "城防",
       "軍事",
       "兵法",
-      "墨子"
+      "墨子",
+      "部:子"
     ],
     "sources": [
       {
@@ -7393,7 +7589,8 @@
       "墨學",
       "城守",
       "兵法",
-      "形勢"
+      "形勢",
+      "部:子"
     ],
     "sources": [
       {
@@ -7419,7 +7616,8 @@
       "後勤",
       "物資",
       "物資儲備",
-      "防守"
+      "防守",
+      "部:子"
     ],
     "sources": [
       {
@@ -7488,7 +7686,8 @@
       "內丹",
       "抱朴子",
       "煉形",
-      "仙術"
+      "仙術",
+      "部:子"
     ],
     "sources": [
       {
@@ -7530,7 +7729,8 @@
       "名分",
       "法制",
       "法令",
-      "商鞅思想"
+      "商鞅思想",
+      "部:其他"
     ],
     "sources": [
       {
@@ -7574,7 +7774,8 @@
       "墨學",
       "宮室",
       "治國",
-      "節用"
+      "節用",
+      "部:子"
     ],
     "sources": [
       {
@@ -7646,7 +7847,8 @@
       "墨學",
       "治國",
       "批判",
-      "人口"
+      "人口",
+      "部:子"
     ],
     "sources": [
       {
@@ -7728,7 +7930,8 @@
     "tags": [
       "墨子",
       "城守",
-      "射藝"
+      "射藝",
+      "部:子"
     ],
     "sources": [
       {
@@ -7769,7 +7972,8 @@
       "修身",
       "禮儀",
       "德行",
-      "鄉飲酒"
+      "鄉飲酒",
+      "部:子"
     ],
     "sources": [
       {
@@ -7789,7 +7993,8 @@
       "名實",
       "墨學",
       "論辯",
-      "邏輯"
+      "邏輯",
+      "部:子"
     ],
     "sources": [
       {
@@ -7862,7 +8067,8 @@
       "墨學",
       "尚同",
       "政論",
-      "治道"
+      "治道",
+      "部:子"
     ],
     "sources": [
       {
@@ -7897,7 +8103,8 @@
       "墨學",
       "尚賢",
       "政治哲學",
-      "賢能政治"
+      "賢能政治",
+      "部:子"
     ],
     "sources": [
       {
@@ -7936,8 +8143,8 @@
       "禮制",
       "禮記",
       "等級",
-      "部:子",
-      "長幼有序"
+      "長幼有序",
+      "部:子"
     ],
     "sources": [
       {
@@ -8030,7 +8237,8 @@
       "迷信",
       "卜筮",
       "實踐",
-      "貴義"
+      "貴義",
+      "部:子"
     ],
     "sources": [
       {
@@ -8045,7 +8253,7 @@
   {
     "slug": "師保",
     "title": "師保",
-    "summary": "",
+    "summary": "The user asks: \"Write a one-line summary for this article: # 師保 ...\"\n\nWe need to summarize the content of the article. It's about \"師保\" (Shi Bao), referencing the Book of Rites (Li Ji), describing the meanings of teacher and guardian, and the ancient institutions of the \"四輔及三公\" for raising the heir. The article explains that the teacher (師) conveys virtue, the guardian (保) leads to the way, both complement each other internally and externally to shape the heir's virtue.\n\nWe need to produce a one-line summary in presumably Chinese, given the article is Chinese. The summary must be concise, covering the essence: \"The roles of teacher and guardian (師、保) in ancient Chinese education of the heir, with teacher embodying moral instruction and guardian enforcing discipline to guide the heir toward virtue and the Dao.\" So we can propose something like: \"師、保是古代教育太子的兩大角色，前者以德喻道，後者以身輔翼，二者相輔相成，共同培養世子之德。\" That's a one-line summary. Or \"師、保二職在古代教育世子中互補，師喻德，保歸道，共同成就世子",
     "tags": [
       "部:其他"
     ],
@@ -8086,7 +8294,8 @@
     "tags": [
       "商君書",
       "人性",
-      "治國"
+      "治國",
+      "部:經"
     ],
     "sources": [
       {
@@ -8180,7 +8389,8 @@
     "tags": [
       "墨學",
       "臣道",
-      "治國"
+      "治國",
+      "部:子"
     ],
     "sources": [
       {
@@ -8199,7 +8409,8 @@
     "tags": [
       "治國",
       "商鞅思想",
-      "弱民強國"
+      "弱民強國",
+      "部:史"
     ],
     "sources": [
       {
@@ -8237,7 +8448,8 @@
     "tags": [
       "法家",
       "商君書",
-      "治國"
+      "治國",
+      "部:經"
     ],
     "sources": [
       {
@@ -8309,7 +8521,8 @@
       "修仙",
       "長生",
       "彭祖",
-      "老子"
+      "老子",
+      "部:子"
     ],
     "sources": [
       {
@@ -8414,7 +8627,8 @@
     "summary": "此篇已亡，内容無考",
     "tags": [
       "商鞅思想",
-      "篇目"
+      "篇目",
+      "部:其他"
     ],
     "sources": [
       {
@@ -8523,7 +8737,8 @@
       "修身",
       "六辟",
       "聖人",
-      "仁義"
+      "仁義",
+      "部:子"
     ],
     "sources": [
       {
@@ -8584,7 +8799,8 @@
     "tags": [
       "法家",
       "商君書",
-      "治民"
+      "治民",
+      "部:經"
     ],
     "sources": [
       {
@@ -8644,7 +8860,7 @@
   {
     "slug": "愚公移山",
     "title": "愚公移山",
-    "summary": "",
+    "summary": "The user wants a one-line summary for the article \"愚公移山\". This article includes Chinese and Japanese translations/interpretations. The user asks: \"Write a one-line summary for this article\". So I need to produce a concise one-line summary that captures the main story: an old man named Yu Gong (愚公) decides to move two mountains that block his village, despite being told it's impossible; he persists, mobilizing his descendants, and eventually the gods intervene to move the mountains. The summary should reflect the Chinese and Japanese versions. One line.\n\nThus: \"Yu Gong, an elderly man, resolves to move two huge mountains blocking his village, and through perseverance and the help of his descendants and divine intervention, succeeds, illustrating the power of determination.\" Something like that.\n\nMake sure it's a single sentence. Provide a summary. Might mention the moral: perseverance can overcome obstacles.\n\nUser's request is straightforward. No disallowed content. So produce answer.\n\nBut let's ensure it's succinct and one-line: \"愚公率子孙艰苦挖山，以坚持不懈感动天帝，最终山被搬走，寓意坚持能移山。\" That's Chinese. Or English? The user wrote Chinese and Japanese content, but they want a one-line summary. We can give Chinese",
     "tags": [
       "部:其他"
     ],
@@ -8667,7 +8883,8 @@
       "天賞天罰",
       "福報",
       "天志",
-      "墨學"
+      "墨學",
+      "部:子"
     ],
     "sources": [
       {
@@ -8709,7 +8926,8 @@
       "墨學",
       "治國",
       "仁愛",
-      "為政"
+      "為政",
+      "部:子"
     ],
     "sources": [
       {
@@ -8728,7 +8946,8 @@
     "tags": [
       "商君書",
       "治民",
-      "慈仁"
+      "慈仁",
+      "部:經"
     ],
     "sources": [
       {
@@ -8748,7 +8967,8 @@
       "法制",
       "耕戰",
       "治國",
-      "商鞅思想"
+      "商鞅思想",
+      "部:其他"
     ],
     "sources": [
       {
@@ -8790,7 +9010,8 @@
       "墨學",
       "邏輯",
       "論辯",
-      "定義"
+      "定義",
+      "部:子"
     ],
     "sources": [
       {
@@ -8811,7 +9032,8 @@
       "戰法",
       "政勝",
       "勇戰",
-      "兵法"
+      "兵法",
+      "部:經"
     ],
     "sources": [
       {
@@ -8832,7 +9054,8 @@
       "修身",
       "交友",
       "治國",
-      "墨子"
+      "墨子",
+      "部:子"
     ],
     "sources": [
       {
@@ -8889,7 +9112,7 @@
   {
     "slug": "抗世子法",
     "title": "抗世子法",
-    "summary": "",
+    "summary": "The Duke of Zhou taught young King Cheng principles of rulership through \"抗世子法,\" a method where the king learned filial piety, ministerial loyalty, and governance by living alongside his tutor Bo Qin and observing vicarious corrections—a revolutionary pedagogical approach emphasizing learning through direct proximity to exemplary conduct.",
     "tags": [
       "世子教育",
       "伯禽",
@@ -9054,7 +9277,8 @@
       "鼓",
       "攻城",
       "城防",
-      "防守"
+      "防守",
+      "部:子"
     ],
     "sources": [
       {
@@ -9075,7 +9299,8 @@
       "非攻",
       "天志",
       "征伐",
-      "聖王"
+      "聖王",
+      "部:史"
     ],
     "sources": [
       {
@@ -9125,7 +9350,8 @@
       "邏輯",
       "因果",
       "認識論",
-      "墨子"
+      "墨子",
+      "部:子"
     ],
     "sources": [
       {
@@ -9695,9 +9921,10 @@
     "summary": "「是而不然」為《小取》所論論理式之一，謂前提雖是而結論不然。",
     "tags": [
       "墨學",
-      "辯論",
+      "小取",
       "論理學",
-      "小取"
+      "辯論",
+      "部:子"
     ],
     "sources": [
       {
@@ -9717,7 +9944,8 @@
       "墨學",
       "小取",
       "論理學",
-      "辯論"
+      "辯論",
+      "部:子"
     ],
     "sources": [
       {
@@ -9745,7 +9973,8 @@
       "孔子",
       "墨學",
       "齊景公",
-      "非儒"
+      "非儒",
+      "部:子"
     ],
     "sources": [
       {
@@ -9760,7 +9989,7 @@
   {
     "slug": "智-儒學-之",
     "title": "智-儒學-之",
-    "summary": "",
+    "summary": "The user asks: \"Write a one-line summary for this article: # 智-儒學-之 ...\" The article is about the concept of \"智\" (wisdom) in Confucianism, referencing Mencius, discussing the concept of是非之心 (sense of right and wrong) as the \"端\" (beginning) of wisdom, referencing Zai Wo, Zigong, You Ruo, who \"智足以知聖人\"; also \"術不可不慎\",\"選擇不處仁，焉得智\", clarifying that wisdom and benevolent practice (仁) are interdependent. So need to summarize in one line.\n\nThe content: \"In Mencius, wisdom originates from the moral sense of right and wrong, and wise individuals such as Zai Wo, Zigong, and You Ruo demonstrate that wisdom and benevolence are mutually reinforcing.\"\n\nOne-line summary: \"Mencius defines wisdom as the moral sense of right and wrong, and illustrates that true wisdom requires the cultivation of benevolence, as exemplified by the insights of Zai Wo, Zigong, and You Ruo.\"\n\nWe must output just that line. Provide concise but accurate. It's Chinese article, but they ask in English presumably. But can also be Chinese. They wrote article in",
     "tags": [
       "部:其他"
     ],
@@ -9825,7 +10054,8 @@
       "墨學",
       "任人唯賢",
       "階級",
-      "人才選拔"
+      "人才選拔",
+      "部:子"
     ],
     "sources": [
       {
@@ -9846,7 +10076,8 @@
       "三代",
       "殷人尚聲",
       "周人尚臭",
-      "祭祀之義"
+      "祭祀之義",
+      "部:其他"
     ],
     "sources": [
       {
@@ -9867,7 +10098,8 @@
       "修仙",
       "丹藥",
       "守一",
-      "胎息"
+      "胎息",
+      "部:子"
     ],
     "sources": [
       {
@@ -9888,7 +10120,8 @@
       "占候",
       "墨學",
       "城防",
-      "氣"
+      "氣",
+      "部:子"
     ],
     "sources": [
       {
@@ -9929,7 +10162,8 @@
     "tags": [
       "墨子",
       "兵制",
-      "軍事倫理"
+      "軍事倫理",
+      "部:子"
     ],
     "sources": [
       {
@@ -9992,7 +10226,8 @@
       "染",
       "環境影響",
       "交友之道",
-      "墨子"
+      "墨子",
+      "部:子"
     ],
     "sources": [
       {
@@ -10012,7 +10247,8 @@
       "墨學",
       "比喻",
       "染",
-      "墨子"
+      "墨子",
+      "部:子"
     ],
     "sources": [
       {
@@ -10207,7 +10443,8 @@
       "城市防衛",
       "墨子",
       "煙攻",
-      "軍事技術"
+      "軍事技術",
+      "部:子"
     ],
     "sources": [
       {
@@ -10276,7 +10513,8 @@
       "墨學",
       "邏輯學",
       "名實論",
-      "經說下"
+      "經說下",
+      "部:經"
     ],
     "sources": [
       {
@@ -10340,8 +10578,10 @@
   {
     "slug": "武王伐紂",
     "title": "武王伐紂",
-    "summary": "",
-    "tags": [],
+    "summary": "The user asks: \"Write a one-line summary for this article: # 武王伐紂 ...\". The article is about the story of King Wu's campaign against Zhou (the overthrow of the Shang dynasty, King Zhou?), and includes references to the Mozi (墨子) and the concept of \"诛\" (just war) vs \"攻\" (attack). The article describes omens, the dream of Wu, the final overthrow, etc. They want a one-line summary. So we need to condense the key points: The article discusses the historical account of King Wu's overthrow of the Shang dynasty, presented in Mozi as an example of righteous \"诛\" (punitive war) rather than mere aggression \"攻\", supported by celestial omens and divine endorsement, thus establishing the moral distinction between the \"three sage kings\" and ordinary warfare.\n\nThus a possible summary: \"The article recounts how King Wu's overthrow of Shang Zhou, framed by Mozi as a justified '诛' (punitive war) supported by divine omens, exemplifies the moral distinction between righteous '诛' and ordinary '攻' among the three sage kings.\"\n\nWe need a concise one-liner. Something like: \"Using Mozi's account of celestial omens",
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "非攻下",
@@ -10401,7 +10641,8 @@
     "tags": [
       "墨學",
       "尚賢",
-      "治國"
+      "治國",
+      "部:子"
     ],
     "sources": [
       {
@@ -10505,7 +10746,8 @@
       "城防",
       "防守器械",
       "軍事技術",
-      "蛾傅"
+      "蛾傅",
+      "部:子"
     ],
     "sources": [
       {
@@ -10630,7 +10872,8 @@
     "tags": [
       "商君書",
       "治道",
-      "歷史觀"
+      "歷史觀",
+      "部:經"
     ],
     "sources": [
       {
@@ -10671,7 +10914,8 @@
       "兼愛",
       "墨學",
       "尚賢",
-      "治國"
+      "治國",
+      "部:子"
     ],
     "sources": [
       {
@@ -10717,7 +10961,8 @@
     "tags": [
       "法家",
       "商君書",
-      "治道"
+      "治道",
+      "部:子"
     ],
     "sources": [
       {
@@ -10780,7 +11025,8 @@
       "墨學",
       "治國",
       "尚同",
-      "政治哲學"
+      "政治哲學",
+      "部:子"
     ],
     "sources": [
       {
@@ -10800,7 +11046,8 @@
       "墨學",
       "政治哲學",
       "治國",
-      "尚同"
+      "尚同",
+      "部:子"
     ],
     "sources": [
       {
@@ -10820,7 +11067,8 @@
       "墨學",
       "功成不居",
       "神明",
-      "無名之功"
+      "無名之功",
+      "部:子"
     ],
     "sources": [
       {
@@ -10843,7 +11091,8 @@
       "標準",
       "治國",
       "法儀",
-      "法家"
+      "法家",
+      "部:子"
     ],
     "sources": [
       {
@@ -10864,7 +11113,8 @@
       "法天",
       "天志",
       "墨學",
-      "治國"
+      "治國",
+      "部:子"
     ],
     "sources": [
       {
@@ -10989,7 +11239,8 @@
       "墨學",
       "倫理學",
       "節用",
-      "德行"
+      "德行",
+      "部:子"
     ],
     "sources": [
       {
@@ -11089,8 +11340,10 @@
   {
     "slug": "湯禪天下",
     "title": "湯禪天下",
-    "summary": "",
-    "tags": [],
+    "summary": "The user asks: \"Write a one-line summary for this article: ...\"\n\nThe article is in Chinese, about \"湯禪天下\" (Tang's Rule over All Under Heaven?) and \"湯伐桀\" (Tang's campaign against Jie). The content describes the historical account from Mozi about the \"Tang's Campaign against Jie\", showing it as a \"punishment\" (诛) not an \"attack\". It describes the chaotic omens, the heavenly mandate, and Tang's campaign, concluding that Mozi used this to illustrate that Tang's war against Jie was a just punishment according to heaven's will, not a mere invasion.\n\nThus we need a one-line summary: Something like \"Tang’s overthrow of Xia’s tyrant Jie, depicted by Mozi as a heaven-sanctioned punitive campaign rather than an aggressive war.\" Or \"In the Mozi, Tang’s conquest of Jie is presented as a divinely ordained punishment, not a mere military aggression.\"\n\nWe need to provide a one-line summary in Chinese likely, because the article is in Chinese. The user wrote Chinese text; a one-line summary in Chinese would be appropriate.\n\nThus we can output: \"墨子《非攻下》記載湯伐夏桀之事，",
+    "tags": [
+      "部:子"
+    ],
     "sources": [
       {
         "chapter": "非攻下",
@@ -11193,7 +11446,8 @@
       "火攻",
       "防守器械",
       "城防",
-      "軍事技術"
+      "軍事技術",
+      "部:子"
     ],
     "sources": [
       {
@@ -11307,7 +11561,8 @@
       "城守",
       "軍事",
       "信號",
-      "烽火"
+      "烽火",
+      "部:子"
     ],
     "sources": [
       {
@@ -11329,7 +11584,8 @@
       "墨子",
       "墨學",
       "烽燧",
-      "軍事"
+      "軍事",
+      "部:子"
     ],
     "sources": [
       {
@@ -11355,7 +11611,8 @@
     "tags": [
       "法家",
       "商君書",
-      "吏治"
+      "吏治",
+      "部:經"
     ],
     "sources": [
       {
@@ -11412,7 +11669,7 @@
   {
     "slug": "無為而治",
     "title": "無為而治",
-    "summary": "",
+    "summary": "本文阐明“无为而治”并非无所作为，而是",
     "tags": [
       "部:其他"
     ],
@@ -11502,7 +11759,8 @@
     "tags": [
       "吳子",
       "治兵",
-      "軍令"
+      "軍令",
+      "部:子"
     ],
     "sources": [
       {
@@ -11588,7 +11846,8 @@
       "變化",
       "神仙",
       "自然觀",
-      "葛洪"
+      "葛洪",
+      "部:子"
     ],
     "sources": [
       {
@@ -11786,7 +12045,8 @@
     "tags": [
       "吳子",
       "治兵",
-      "將略"
+      "將略",
+      "部:子"
     ],
     "sources": [
       {
@@ -11807,7 +12067,8 @@
       "孔子",
       "晏子",
       "齊國",
-      "內亂"
+      "內亂",
+      "部:子"
     ],
     "sources": [
       {
@@ -11871,7 +12132,8 @@
       "墨學",
       "尚賢",
       "治國",
-      "批判"
+      "批判",
+      "部:子"
     ],
     "sources": [
       {
@@ -11974,7 +12236,8 @@
     "tags": [
       "法家",
       "商君書",
-      "吏治"
+      "吏治",
+      "部:經"
     ],
     "sources": [
       {
@@ -12043,7 +12306,8 @@
       "墨學",
       "認識論",
       "辯說",
-      "貴義"
+      "貴義",
+      "部:子"
     ],
     "sources": [
       {
@@ -12085,7 +12349,8 @@
       "墨子",
       "認知",
       "義",
-      "辯論"
+      "辯論",
+      "部:子"
     ],
     "sources": [
       {
@@ -12154,7 +12419,8 @@
       "神仙",
       "長生",
       "修仙",
-      "葛洪"
+      "葛洪",
+      "部:子"
     ],
     "sources": [
       {
@@ -12197,8 +12463,8 @@
       "天人關係",
       "祭祀",
       "禮記",
-      "部:經",
-      "鬼神"
+      "鬼神",
+      "部:經"
     ],
     "sources": [
       {
@@ -12338,7 +12604,8 @@
       "禮記",
       "祭祀",
       "儒學",
-      "儀禮"
+      "儀禮",
+      "部:經"
     ],
     "sources": [
       {
@@ -12424,7 +12691,8 @@
       "賞罰",
       "勢數",
       "治術",
-      "商鞅思想"
+      "商鞅思想",
+      "部:其他"
     ],
     "sources": [
       {
@@ -12445,7 +12713,8 @@
       "exorcism",
       "qigong",
       "抱朴子",
-      "禁呪"
+      "禁呪",
+      "部:子"
     ],
     "sources": [
       {
@@ -12460,7 +12729,7 @@
   {
     "slug": "禮-儒學-之",
     "title": "禮-儒學-之",
-    "summary": "",
+    "summary": "We have a request: \"Write a one-line summary for this article:\" followed by a Chinese article with Chinese text (and a Japanese translation). The article appears to be about Chinese rites (礼) and Confucianism (儒学) and is titled \"禮-儒學-之\". The article includes sections: Chinese text describing the concept of li (礼) in the context of rites, focusing on the passage from Mencius (《孟子·公孫丑上》) and the Book of Rites (《曲禮下》) discussing sacrificial rites (祭祀) and the hierarchy of sacrificial rights (天、诸侯、大夫、士), the prohibition of \"淫祀\", the naming of sacrificial items (cattle, pigs, etc.) with special terms.\n\nThe Japanese part gives translation, but the core is the same.\n\nThus the user wants a one-line summary (likely in English or Chinese?) The article is in Chinese and Japanese, but presumably the summary can be in English. The request is ambiguous, but probably a one-sentence summary that captures the main point: explaining the Confucian concept of li (礼) as manifested in sacrificial rites, including the hierarchical order, the prohibition of improper sacrifices, and the special naming of sacrificial offerings.\n\nThus a concise one",
     "tags": [
       "部:經"
     ],
@@ -12843,7 +13112,8 @@
       "城防",
       "城市建築",
       "軍事設施",
-      "守城法"
+      "守城法",
+      "部:子"
     ],
     "sources": [
       {
@@ -12878,8 +13148,10 @@
   {
     "slug": "立功為上",
     "title": "立功為上",
-    "summary": "",
-    "tags": [],
+    "summary": "Ge Hong's *Baopuzi* teaches that establishing merit through救人危免禍、護人疾病 is the supreme path to immortality, requiring 300-1,200 good deeds for Earth/Heavenly Immortals respectively, with even a single misdeed erasing all accumulated virtue.",
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷03",
@@ -12899,7 +13171,8 @@
       "立本",
       "錯法",
       "俗成",
-      "治彊之道"
+      "治彊之道",
+      "部:經"
     ],
     "sources": [
       {
@@ -12919,7 +13192,8 @@
       "抱朴子",
       "寓言",
       "禮儀",
-      "道術"
+      "道術",
+      "部:子"
     ],
     "sources": [
       {
@@ -12960,7 +13234,8 @@
       "墨學",
       "實用",
       "治國",
-      "節儉"
+      "節儉",
+      "部:子"
     ],
     "sources": [
       {
@@ -13125,7 +13400,8 @@
       "防禦術",
       "火攻",
       "城防",
-      "兵法"
+      "兵法",
+      "部:子"
     ],
     "sources": [
       {
@@ -13146,7 +13422,8 @@
       "防禦器械",
       "城防",
       "墨子",
-      "攻城"
+      "攻城",
+      "部:子"
     ],
     "sources": [
       {
@@ -13169,7 +13446,8 @@
       "墨學",
       "守城",
       "攻城術",
-      "軍事"
+      "軍事",
+      "部:子"
     ],
     "sources": [
       {
@@ -13184,7 +13462,7 @@
   {
     "slug": "義-儒學-之",
     "title": "義-儒學-之",
-    "summary": "",
+    "summary": "The user asks: \"Write a one-line summary for this article:\" The article is about the concept of \"義\" (righteousness) in Confucian and Mohist thought, with excerpts from Mencius and Mozi, discussing how righteousness is more valuable than everything else, referencing the significance of the word \"義\" and its role in moral conduct and governance, and how the Mohist view includes \"兼愛\" (impartial care). The article includes Chinese and Japanese translations.\n\nWe need to produce a one-line summary (i.e., a succinct sentence that captures the gist). Should be short but comprehensive. The article compares Confucian and Mohist perspectives on righteousness, highlighting its supreme value, and emphasizing that acting for the greater good and for the sake of the world is the highest ideal.\n\nWe need to be mindful that the user is speaking Chinese, the article is in Chinese with some Japanese. Likely the answer should be in Chinese, or could be bilingual. The user wrote the article in Chinese and Japanese. We should produce a concise one-sentence summary in Chinese.\n\nThus: \"Both Confucian and Mohist thinkers regard righteousness (義) as the supreme virtue, outweighing personal gain and even life, and they emphasize that pursuing righteousness for the benefit of the world",
     "tags": [
       "部:其他"
     ],
@@ -13228,7 +13506,8 @@
       "天志",
       "義",
       "順天之意",
-      "方法論"
+      "方法論",
+      "部:史"
     ],
     "sources": [
       {
@@ -13248,7 +13527,8 @@
       "墨學",
       "政治哲學",
       "治道",
-      "天志"
+      "天志",
+      "部:子"
     ],
     "sources": [
       {
@@ -13268,7 +13548,8 @@
       "墨學",
       "治道",
       "兼愛",
-      "天志"
+      "天志",
+      "部:子"
     ],
     "sources": [
       {
@@ -13291,8 +13572,8 @@
       "和",
       "政治哲學",
       "義",
-      "部:其他",
-      "霸王"
+      "霸王",
+      "部:其他"
     ],
     "sources": [
       {
@@ -13314,8 +13595,10 @@
   {
     "slug": "耕戰-之",
     "title": "耕戰-之",
-    "summary": "",
-    "tags": [],
+    "summary": "We need to produce a one-line summary for this article.\n\nThe article is titled \"耕戰-之\". It includes an excerpt from \"商君書·卷五\" (Shangjun Shu, Book 5). The excerpt discusses the importance of agricultural and military (farmer-soldier) policies: \"In ruling a country, border benefits go to the soldiers, market profits go to the farmers; border benefits to soldiers makes the country strong; market profits to farmers makes the country wealthy; so a state where the army is strong and the people are rich can become a king.\" Also a piece from \"君臣\" (ruler and ministers) that says modern rulers do not follow the law, rely on personal knowledge, ignore achievements, leading to soldiers not fighting and farmers migrating; people leaving farming and war, leading to fewer farming-war citizens, more idle people, causing national disorder and loss of territory, weak army,卑微.\n\nThus the summary should capture that the article discusses the ancient Chinese legalist perspective that the state must focus on agricultural and military strength, linking border and market profits to soldier and farmer welfare, and warns against abandoning legal methods and rewarding merit, leading to decline.\n\nOne line summary: \"The article emphasizes that a nation's strength and",
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷五",
@@ -13335,7 +13618,8 @@
       "治國",
       "政治哲學",
       "尚同",
-      "感知"
+      "感知",
+      "部:子"
     ],
     "sources": [
       {
@@ -13401,7 +13685,8 @@
       "治國",
       "墨學",
       "聖人",
-      "實用主義"
+      "實用主義",
+      "部:子"
     ],
     "sources": [
       {
@@ -13420,7 +13705,8 @@
     "tags": [
       "法家",
       "商君書",
-      "變法"
+      "變法",
+      "部:經"
     ],
     "sources": [
       {
@@ -13440,8 +13726,8 @@
       "三辯",
       "墨子",
       "治道",
-      "部:子",
-      "音樂"
+      "音樂",
+      "部:子"
     ],
     "sources": [
       {
@@ -13469,7 +13755,8 @@
       "葬禮",
       "聖王",
       "節葬",
-      "先王之道"
+      "先王之道",
+      "部:子"
     ],
     "sources": [
       {
@@ -13629,7 +13916,8 @@
     "tags": [
       "法家",
       "商君書",
-      "風俗"
+      "風俗",
+      "部:經"
     ],
     "sources": [
       {
@@ -13737,7 +14025,8 @@
       "軍事技術",
       "聲學探測",
       "城市防衛",
-      "先秦兵法"
+      "先秦兵法",
+      "部:子"
     ],
     "sources": [
       {
@@ -13822,7 +14111,8 @@
     "tags": [
       "墨子",
       "水戰",
-      "攻城"
+      "攻城",
+      "部:子"
     ],
     "sources": [
       {
@@ -13977,7 +14267,7 @@
   {
     "slug": "致愛則存",
     "title": "致愛則存",
-    "summary": "",
+    "summary": "This article explains the Confucian concept from the *Liji* that through sincere love (愛) in ritual, parents' virtue is preserved in the heart, and through reverent respect (愨), their presence becomes vividly manifest—together forming the psychological foundation of filial piety.",
     "tags": [
       "儒學",
       "孝道",
@@ -14111,12 +14401,13 @@
   {
     "slug": "興利除害",
     "title": "興利除害",
-    "summary": "",
+    "summary": "The user wants me to write a one-line summary for this article about \"興利除害\" (Promoting Benefit and Eliminating Harm) from Mozi's philosophy.\n\nLet me identify the key points:\n1. It's from Mozi's ethical framework, specifically from《兼愛中》\n2. It's the fundamental purpose of the \"仁人\" (benevolent person)\n3. It involves two aspects: promoting benefits (興利) and eliminating harms (除害)\n4. Benefits come from 兼愛 (mutual love), harms come from 不相愛 (self-interested action)\n5. It connects to broader political philosophy including the rule of the 聖王\n6. It's both proactive and preventive\n7. It serves as a criterion for evaluating policies and rulers\n\nFor a one-line summary, I should capture the essence concisely. Let me write something in English that captures this:\n\n\"興利除害\" is Mozi's guiding principle for the benevolent person—actively promoting what benefits the world (like mutual love and good governance) while eliminating what harms it (like warfare and exploitation)—serving as both the complete mission of the sage-ruler and the practical criterion for evaluating all policies.\n\nThat's a good one-line summary that captures",
     "tags": [
       "墨學",
       "天下之利",
       "治道",
-      "聖王"
+      "聖王",
+      "部:子"
     ],
     "sources": [
       {
@@ -14143,7 +14434,8 @@
       "墨學",
       "兼愛",
       "止戰",
-      "論辯"
+      "論辯",
+      "部:子"
     ],
     "sources": [
       {
@@ -14205,7 +14497,8 @@
       "墨學",
       "人才",
       "治國",
-      "賢才"
+      "賢才",
+      "部:子"
     ],
     "sources": [
       {
@@ -14334,7 +14627,8 @@
       "天",
       "治法",
       "墨學",
-      "政治哲學"
+      "政治哲學",
+      "部:子"
     ],
     "sources": [
       {
@@ -14376,7 +14670,8 @@
       "墨學",
       "義",
       "貴義",
-      "墨子"
+      "墨子",
+      "部:子"
     ],
     "sources": [
       {
@@ -14441,7 +14736,8 @@
       "軍事",
       "城防",
       "保安",
-      "號令"
+      "號令",
+      "部:子"
     ],
     "sources": [
       {
@@ -14461,7 +14757,8 @@
       "墨學",
       "為政",
       "葉公子高",
-      "仲尼"
+      "仲尼",
+      "部:子"
     ],
     "sources": [
       {
@@ -14482,7 +14779,8 @@
       "葬禮",
       "節用",
       "中庸",
-      "喪葬禮制"
+      "喪葬禮制",
+      "部:經"
     ],
     "sources": [
       {
@@ -14502,7 +14800,8 @@
       "墨學",
       "政治哲學",
       "婚姻",
-      "人口"
+      "人口",
+      "部:子"
     ],
     "sources": [
       {
@@ -14523,7 +14822,8 @@
       "城防",
       "防守器械",
       "軍事技術",
-      "蛾傅"
+      "蛾傅",
+      "部:子"
     ],
     "sources": [
       {
@@ -14606,7 +14906,8 @@
       "軍事",
       "城防",
       "號令",
-      "賞罰"
+      "賞罰",
+      "部:子"
     ],
     "sources": [
       {
@@ -14626,7 +14927,8 @@
       "墨學",
       "正義",
       "兼愛",
-      "倫理"
+      "倫理",
+      "部:子"
     ],
     "sources": [
       {
@@ -14733,7 +15035,8 @@
       "防禦術",
       "城防建築",
       "器械",
-      "兵法"
+      "兵法",
+      "部:子"
     ],
     "sources": [
       {
@@ -14748,7 +15051,7 @@
   {
     "slug": "行容",
     "title": "行容",
-    "summary": "",
+    "summary": "The user asks: \"Write a one-line summary for this article: # 行容 ...\"\n\nThe article is about \"行容\" (Xing Rong) and specifically \"附：玉藻行容之制\" (the rules of Xing Rong in \"Yu Zao\", a chapter of the Book of Rites). It discusses entry etiquette (entering a door, with certain positions for ruler, officials, etc.) and gait etiquette (slow, medium, fast steps). It appears to be a description of a classical Chinese text about proper conduct for officials and rites.\n\nThe user wants a one-line summary. The answer must be a concise one-line summary of the article.\n\nThus I need to summarize: It describes the etiquette rules for entering gates and walking (stepping) for different ranks (ruler, officials, guests) as detailed in the \"Yu Zao\" chapter of the Book of Rites, specifying positions and speeds.\n\nOne line: \"The article outlines the classical Chinese rites of entry and walking for different social ranks, detailing the precise positions for officials and guests at gates and the three-tiered walking pace for the ruler, ministers, and scholars.\"\n\nAlternatively: \"This passage explains the ceremonial protocols for entering a gate and the gait rules for the ruler",
     "tags": [
       "部:其他"
     ],
@@ -14771,7 +15074,8 @@
       "qigong",
       "immortality",
       "抱朴子",
-      "內丹"
+      "內丹",
+      "部:子"
     ],
     "sources": [
       {
@@ -14811,7 +15115,8 @@
       "墨學",
       "力學",
       "物理學",
-      "經說下"
+      "經說下",
+      "部:經"
     ],
     "sources": [
       {
@@ -14832,7 +15137,8 @@
       "孔子",
       "儒學批判",
       "陳蔡之厄",
-      "操行"
+      "操行",
+      "部:子"
     ],
     "sources": [
       {
@@ -14920,8 +15226,10 @@
   {
     "slug": "視人如己",
     "title": "視人如己",
-    "summary": "",
-    "tags": [],
+    "summary": "A Mozi principle advocating that one should treat others' nations, families, and bodies with the same care and respect as one's own—not through emotional empathy, but through practical, behavioral equality that forms the methodological foundation for Universal Love and a critique of harmful actions like warfare and theft.",
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "兼愛中",
@@ -15007,7 +15315,8 @@
       "墨學",
       "方法論",
       "言論",
-      "邏輯"
+      "邏輯",
+      "部:子"
     ],
     "sources": [
       {
@@ -15034,7 +15343,8 @@
       "墨學",
       "論證方法",
       "邏輯學",
-      "非命"
+      "非命",
+      "部:子"
     ],
     "sources": [
       {
@@ -15076,8 +15386,10 @@
   {
     "slug": "言行相詭",
     "title": "言行相詭",
-    "summary": "",
-    "tags": [],
+    "summary": "Mozi’s key principle is that true character judgment requires examining **both intention (志) and result (功) together**, often summarized as “合志功而觀” (unify purpose and accomplishment).",
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "魯問",
@@ -15126,7 +15438,8 @@
       "言",
       "行",
       "言行",
-      "貴義"
+      "貴義",
+      "部:子"
     ],
     "sources": [
       {
@@ -15145,7 +15458,8 @@
     "tags": [
       "法家",
       "商君書",
-      "賦稅"
+      "賦稅",
+      "部:經"
     ],
     "sources": [
       {
@@ -15165,7 +15479,8 @@
       "墨學",
       "非攻",
       "戰爭倫理",
-      "中國哲學"
+      "中國哲學",
+      "部:子"
     ],
     "sources": [
       {
@@ -15187,7 +15502,8 @@
       "軍事",
       "誓師",
       "墨子",
-      "兵陰陽"
+      "兵陰陽",
+      "部:經"
     ],
     "sources": [
       {
@@ -15264,7 +15580,8 @@
       "認識論",
       "邏輯",
       "辯論",
-      "墨子"
+      "墨子",
+      "部:子"
     ],
     "sources": [
       {
@@ -15305,7 +15622,8 @@
     "tags": [
       "商君書",
       "治民",
-      "法治"
+      "法治",
+      "部:經"
     ],
     "sources": [
       {
@@ -15416,7 +15734,8 @@
       "社稷",
       "賞罰",
       "禮制",
-      "墨學"
+      "墨學",
+      "部:經"
     ],
     "sources": [
       {
@@ -15436,7 +15755,8 @@
       "墨學",
       "賞罰",
       "尚賢",
-      "政治哲學"
+      "政治哲學",
+      "部:子"
     ],
     "sources": [
       {
@@ -15451,8 +15771,10 @@
   {
     "slug": "賞罰-之",
     "title": "賞罰-之",
-    "summary": "",
-    "tags": [],
+    "summary": "We need to write a one-line summary for the article given. The article is about \"賞罰-之\". The text references the \"商君書\" (Shang Jun Shu), Chapter 5, sections \"禁使\" (Jìn shǐ) and \"君臣\". It's about the importance of rewards and punishments (賞罰) for rulers: rewards according to merit, punishments according to crime, ensuring clear evaluation of achievements and crimes; also about governing according to law and rewarding merit; about using law and numbers to control, preventing false praising or defamation.\n\nWe need a one-line summary that captures the essence: The article discusses the concept of reward and punishment in governance according to Shang Jun Shu, emphasizing that rewards should be based on merit, punishments based on crime, and that law and clear standards ensure fairness and prevent corruption.\n\nWe need to write it succinctly, maybe: \"The passage stresses that rulers must enforce clear reward‑and‑punishment systems based on merit and crime, using law and quantitative measures to maintain order and prevent misconduct.\" That's a single line.\n\nBut we need to produce a one-line summary.\n\nCheck if we need to incorporate the article's title: \"賞罰-之\". It is probably about \"Rewards and punishments -",
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷五",
@@ -15471,7 +15793,8 @@
       "墨學",
       "政治哲學",
       "賞罰",
-      "治國"
+      "治國",
+      "部:子"
     ],
     "sources": [
       {
@@ -15492,7 +15815,8 @@
       "治國",
       "賞罰",
       "尚同",
-      "政治哲學"
+      "政治哲學",
+      "部:子"
     ],
     "sources": [
       {
@@ -15577,7 +15901,8 @@
       "墨學",
       "尚同",
       "政治哲學",
-      "賞罰"
+      "賞罰",
+      "部:子"
     ],
     "sources": [
       {
@@ -15740,7 +16065,8 @@
     "tags": [
       "墨子",
       "攻城器械",
-      "兵法"
+      "兵法",
+      "部:子"
     ],
     "sources": [
       {
@@ -15763,7 +16089,8 @@
       "論理學",
       "論辯方法",
       "辯論",
-      "邏輯"
+      "邏輯",
+      "部:子"
     ],
     "sources": [
       {
@@ -15803,7 +16130,8 @@
       "墨學",
       "節用",
       "政治哲學",
-      "先秦哲學"
+      "先秦哲學",
+      "部:子"
     ],
     "sources": [
       {
@@ -15822,7 +16150,8 @@
     "tags": [
       "商君書",
       "治民",
-      "辯慧"
+      "辯慧",
+      "部:經"
     ],
     "sources": [
       {
@@ -15850,7 +16179,8 @@
       "義",
       "非攻",
       "倫理判斷",
-      "墨子"
+      "墨子",
+      "部:子"
     ],
     "sources": [
       {
@@ -15869,7 +16199,8 @@
     "tags": [
       "法家",
       "商君書",
-      "國本"
+      "國本",
+      "部:經"
     ],
     "sources": [
       {
@@ -15904,7 +16235,8 @@
       "城防",
       "祭祀",
       "兵陰陽",
-      "墨子"
+      "墨子",
+      "部:子"
     ],
     "sources": [
       {
@@ -16037,7 +16369,8 @@
       "軍事技術",
       "守城器械",
       "墨子",
-      "五兵"
+      "五兵",
+      "部:子"
     ],
     "sources": [
       {
@@ -16062,7 +16395,8 @@
       "攻城術",
       "軍事技術",
       "連弩",
-      "防守器械"
+      "防守器械",
+      "部:子"
     ],
     "sources": [
       {
@@ -16082,7 +16416,8 @@
       "人事制度",
       "墨學",
       "尚賢",
-      "治國"
+      "治國",
+      "部:子"
     ],
     "sources": [
       {
@@ -16165,6 +16500,18 @@
     ]
   },
   {
+    "slug": "道-道家-之",
+    "title": "道家 / 道家",
+    "summary": "道家，古代中國哲學流派，主張無為而治、順其自然，與儒家並稱顯學。",
+    "tags": [
+      "先秦哲學",
+      "道家",
+      "無為而治",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "道而弗牽",
     "title": "道而弗牽",
     "summary": "教人當引導之而不強拽之，使學者樂於趨道。",
@@ -16194,7 +16541,8 @@
       "宇宙論",
       "王道",
       "禮記",
-      "鄉飲酒"
+      "鄉飲酒",
+      "部:子"
     ],
     "sources": [
       {
@@ -16213,7 +16561,8 @@
     "tags": [
       "法家",
       "商君書",
-      "刑罰"
+      "刑罰",
+      "部:經"
     ],
     "sources": [
       {
@@ -16232,7 +16581,8 @@
     "tags": [
       "法家",
       "商君書",
-      "賞罰"
+      "賞罰",
+      "部:經"
     ],
     "sources": [
       {
@@ -16265,7 +16615,8 @@
     "tags": [
       "商君書",
       "刑罰",
-      "治民"
+      "治民",
+      "部:經"
     ],
     "sources": [
       {
@@ -16284,7 +16635,8 @@
     "tags": [
       "法家",
       "商君書",
-      "經濟"
+      "經濟",
+      "部:經"
     ],
     "sources": [
       {
@@ -16305,7 +16657,8 @@
       "兼愛",
       "非攻",
       "軍事器械",
-      "辯論"
+      "辯論",
+      "部:子"
     ],
     "sources": [
       {
@@ -16374,7 +16727,8 @@
       "錯法",
       "爵祿",
       "賞罰",
-      "治法"
+      "治法",
+      "部:經"
     ],
     "sources": [
       {
@@ -16434,7 +16788,8 @@
       "喪禮",
       "五服",
       "儒家",
-      "三禮"
+      "三禮",
+      "部:經"
     ],
     "sources": [
       {
@@ -16581,7 +16936,8 @@
       "器械",
       "墨家",
       "攻城戰",
-      "防禦術"
+      "防禦術",
+      "部:子"
     ],
     "sources": [
       {
@@ -16711,7 +17067,8 @@
       "墨學",
       "戰爭",
       "正義",
-      "非攻"
+      "非攻",
+      "部:子"
     ],
     "sources": [
       {
@@ -16739,7 +17096,8 @@
       "非攻",
       "義",
       "戰爭倫理",
-      "墨子"
+      "墨子",
+      "部:子"
     ],
     "sources": [
       {
@@ -16760,7 +17118,8 @@
       "非樂",
       "節用",
       "兼愛",
-      "政治哲學"
+      "政治哲學",
+      "部:子"
     ],
     "sources": [
       {
@@ -16803,7 +17162,8 @@
       "靳令",
       "六蝨",
       "重刑",
-      "利出一空"
+      "利出一空",
+      "部:經"
     ],
     "sources": [
       {
@@ -16824,7 +17184,8 @@
       "墨學",
       "天志",
       "治國",
-      "治道"
+      "治道",
+      "部:子"
     ],
     "sources": [
       {
@@ -16852,7 +17213,8 @@
       "軍事器械",
       "攻城器械",
       "地道戰",
-      "先秦兵法"
+      "先秦兵法",
+      "部:子"
     ],
     "sources": [
       {
@@ -17025,7 +17387,7 @@
   {
     "slug": "餕者",
     "title": "餕者",
-    "summary": "",
+    "summary": "The user wants a one-line summary for the article titled \"餕者\". They have also provided \"slug: 餕者\". Probably they want a one-line summary in Chinese (since the title is Chinese characters) or English? The user didn't specify language, but the article title is Chinese. They want a summary. The article title \"餕者\" is a Chinese word meaning \"a person who eats a lot, a glutton\"? Let's check. \"餕\" (jù) means \"to eat, to drink\"? Actually \"餕\" is a character meaning \"to eat\" (Chinese). But \"餕者\" could be a phrase meaning \"the glutton\". Could also refer to \"Sichuan cuisine\"? Let's think. \"餕\" (jù) is defined in Chinese dictionary: \"to eat; to drink; to enjoy\" or \"to feed, to eat\" as verb; \"餕者\" maybe a person who eats a lot. But let's verify. In Chinese, \"餕\" appears in old literature: \"餕食\" = \"to eat\". Also \"餕者\" may mean \"the one who is eating\"? But what does the article discuss? We need to",
     "tags": [
       "部:其他"
     ],
@@ -17048,7 +17410,8 @@
       "本體論",
       "兼愛",
       "哲學範疇",
-      "墨子"
+      "墨子",
+      "部:子"
     ],
     "sources": [
       {
@@ -17069,7 +17432,8 @@
       "鬼神",
       "賞罰",
       "道德",
-      "明鬼"
+      "明鬼",
+      "部:子"
     ],
     "sources": [
       {
@@ -17090,7 +17454,8 @@
       "鬼神觀",
       "賞罰",
       "明鬼",
-      "天志"
+      "天志",
+      "部:史"
     ],
     "sources": [
       {
@@ -17179,7 +17544,8 @@
       "田常",
       "子貢",
       "陰謀",
-      "非儒"
+      "非儒",
+      "部:子"
     ],
     "sources": [
       {
