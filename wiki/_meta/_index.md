@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-12T09:36:54.421166+00:00
+updated: 2026-04-12T09:41:08.620675+00:00
 ---
 
 # Knowledge Base Index
@@ -262,8 +262,11 @@ updated: 2026-04-12T09:36:54.421166+00:00
 
 ## Uncategorized
 
-- [[吳子使札來聘|吳子使札來聘]] — 
-- [[季子之遏惡|季子之遏惡]] — 
+- [[文公修內政納襄王|文公修內政納襄王]] — 文公元年修政行法，納襄王於成周，定功於郟。
+- [[文公迎王定周|文公迎王定周]] — 文公帥師迎王入成周，定之于郟，饗醴命胙。
+- [[董因迎公於河|董因迎公於河]] — 董因引星象占卜，言公必濟而成霸。
+- [[重耳親筮得晉國-之|重耳親筮得晉國-之]] — 
+- [[高子來盟|高子來盟]] — 齊高子受命來魯，定亂立僖公。
 
 ## Virtue
 
@@ -600,6 +603,10 @@ updated: 2026-04-12T09:36:54.421166+00:00
 
 - [[染絲之喻|The Silk Dyeing Metaphor / 染絲之喻]] — 墨子以染絲為喻，闡明人受師友影響之理。
 
+## 享禮
+
+- [[重耳受享以報楚王|重耳受享以報楚王]] — 楚成王享重耳九獻，重耳許以避舍三舍。
+
 ## 亳社
 
 - [[亡國之社以為廟屏|亡國之社以為廟屏]] — 亳社之屋所以蔽之，使不得上達，非以受享也。
@@ -869,6 +876,10 @@ updated: 2026-04-12T09:36:54.421166+00:00
 ## 仲嬰齊
 
 - [[仲嬰齊|仲嬰齊]] — 公孫嬰齊以兄後而立嗣，故稱仲嬰齊。
+
+## 仲孫
+
+- [[仲孫來|仲孫來]] — 齊仲孫來聘，魯因以定。
 
 ## 仲尼
 
@@ -1264,6 +1275,10 @@ updated: 2026-04-12T09:36:54.421166+00:00
 - [[卜郊非禮|卜郊非禮]] — 卜郊非古，魯郊亦非禮。
 - [[唇亡則齒寒|唇亡則齒寒]] — 虞虢相救，乃唇齒相依之喻；一亡則俱亡。
 - [[歸之于|歸之于]] — 歸于者罪未定，歸之于者罪已定。
+
+## 僖負羈
+
+- [[僖負羈言於曹伯|僖負羈言於曹伯]] — 僖負羈以禮義勸曹共公禮遇重耳，不聽。
 
 ## 僭越
 
@@ -1694,6 +1709,10 @@ updated: 2026-04-12T09:36:54.421166+00:00
 
 - [[公子鱄辭約|公子鱄辭約]] — 衛公子鱄以約言為信，不肯從其君以殺甯喜。
 
+## 公孫固
+
+- [[公孫固言於宋襄公|公孫固言於宋襄公]] — 公孫固贊重耳之美，宋襄公贈馬以厚之。
+
 ## 公孫枝
 
 - [[以歸要成|以歸要成]] — 歸而質之，以要晉國之成
@@ -1717,16 +1736,21 @@ updated: 2026-04-12T09:36:54.421166+00:00
 ## 公羊傳
 
 - [[以成宋亂|以成宋亂]] — 會于稷以成宋亂，取鼎納廟，公羊傳深譏之。
+- [[仲孫來|仲孫來]] — 齊仲孫來聘，魯因以定。
 - [[伯莒之戰|伯莒之戰]] — 吳子以蔡師及楚人戰于伯莒，楚師敗績，遂入郢。
 - [[來戰于郎|來戰于郎]] — 齊衛鄭伯來戰，三國稱來，見魯無罪。
+- [[公子慶父出奔莒|公子慶父出奔莒]] — 慶父弒君之賊，懼誅而出奔。
 - [[公子鱄辭約|公子鱄辭約]] — 衛公子鱄以約言為信，不肯從其君以殺甯喜。
 - [[公與夫人姜氏遂如齊|公與夫人姜氏遂如齊]] — 桓公與夫人如齊，卒薨于齊，故書「遂」。
 - [[公薨于齊|公薨于齊]] — 桓公薨于齊，魯臣迎喪至自齊。
 - [[取郜大鼎于宋|取郜大鼎于宋]] — 取亡國之器，公羊傳以為成宋亂之一端。
+- [[吉禘于莊公|吉禘于莊公]] — 閔公禘祭於莊公，吉而不譏。
 - [[大水|大水]] — 秋水氾溢為災，戒在位者恤民。
 - [[大閱|大閱]] — 八月壬午，大閱，簡車馬也。
 - [[天王崩|天王崩]] — 天子曰崩，諸侯曰薨，禮有等差。
+- [[夫人姜氏孫于邾婁|夫人姜氏孫于邾婁]] — 哀姜出奔，慶父之亂成矣。
 - [[子同生|子同生]] — 桓公嫡子生，逾年定為太子。
+- [[季子來歸|季子來歸]] — 季子歸魯，公羊微言以著賢者之懿。
 - [[宋人及楚人平|宋人及楚人平]] — 司馬子反與華元各以誠實相告，遂罷楚圍。公羊傳美之，以為大夫能平其國。
 - [[宋督弒其君與夷|宋督弒其君與夷]] — 宋督弒殺殤公，公羊傳以其惡及大夫孔父。
 - [[御廩災|御廩災]] — 御廩失火，祭在而災，天戒也。
@@ -1741,6 +1765,7 @@ updated: 2026-04-12T09:36:54.421166+00:00
 - [[烝|烝]] — 冬祭曰烝，天子諸侯孟冬之祭。
 - [[焚咸丘|焚咸丘]] — 焚燒咸丘，內諱弗道，其義在禁。
 - [[無冰|無冰]] — 周春無冰，時令失節，災異之象。
+- [[狄入衛|狄入衛]] — 狄人滅衛，唇亡齒寒，邢幾不保。
 - [[祭仲知權|祭仲知權]] — 賢相祭仲權衡存鄭，釋君與國之義。
 - [[祭公來遂逆王后于紀|祭公來遂逆王后于紀]] — 周使祭公迎后，兼行二事，書遂以見非禮。
 - [[突歸于鄭|突歸于鄭]] — 鄭厲公篡位歸國，公羊傳以為忽讓位之義。
@@ -2005,6 +2030,11 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 
 - [[聖人與凡人無異者多|聖人與凡人無異者多]] — 聖人吃飯則饑，不食則渴，與凡人無殊。
 
+## 出奔
+
+- [[公子慶父出奔莒|公子慶父出奔莒]] — 慶父弒君之賊，懼誅而出奔。
+- [[夫人姜氏孫于邾婁|夫人姜氏孫于邾婁]] — 哀姜出奔，慶父之亂成矣。
+
 ## 出生禮
 
 - [[桑弧蓬矢|The Six Arrows of Mulberry and Fleece / 桑弧蓬矢]] — The ancient ritual of presenting six arrows to a newborn son, symbolizing the six directions and the male's responsibilities to heaven, earth, and the four directions.
@@ -2190,6 +2220,10 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 
 - [[制祭祀|Regulations for Sacrifice / 制祭祀]] — The sage-kings' criteria for establishing sacrificial systems based on service to the people.
 
+## 勃鞮
+
+- [[勃鞮求見文公|勃鞮求見文公]] — 勃鞮以臣道釋蒲城之怨，文公悟而用之。
+
 ## 勇
 
 - [[大勇|大勇]] — 自反而縮，雖千萬人吾往矣，是為大勇。
@@ -2344,6 +2378,10 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 ## 叔術
 
 - [[黑弓以濫來奔|黑弓以濫來奔]] — 賢者子孫宜有地，公羊傳因而通濫。
+
+## 叔詹
+
+- [[叔詹諫鄭文公|叔詹諫鄭文公]] — 叔詹以天啟四祥勸鄭文公禮遇重耳，不聽。
 
 ## 取物以時
 
@@ -2755,6 +2793,10 @@ Given the article is about "含者" with details. So a one-line summary: "含者
 
 - [[蒲社災|蒲社災]] — 蒲社為天子之社，其災乃記異也。
 
+## 哀姜
+
+- [[夫人姜氏孫于邾婁|夫人姜氏孫于邾婁]] — 哀姜出奔，慶父之亂成矣。
+
 ## 哀死
 
 - [[三日不生亦不生矣|三日不生亦不生矣 / Three Days Without Revival Means No Revival]] — 喪禮三日而斂，以俟其生；三日而不生則孝子之心亦衰，此聖人制禮之本意。
@@ -2923,6 +2965,7 @@ Given the article is about "含者" with details. So a one-line summary: "含者
 
 ## 喪祭
 
+- [[吉禘于莊公|吉禘于莊公]] — 閔公禘祭於莊公，吉而不譏。
 - [[禮之五用|禮之五用 / The Five Functions of Ritual: Clarifying Social Relations]] — The five ritual occasions—court audiences, diplomatic visits, mourning, village assemblies, and marriage—clarify the essential relationships of society.
 
 ## 喪禮
@@ -3347,6 +3390,10 @@ Given the article is about "含者" with details. So a one-line summary: "含者
 
 - [[司過之神|司過之神 / Heavenly Officers of Transgression / 司過之神]] — Celestial deities who record human sins and deduct lifespan accordingly.
 
+## 報施
+
+- [[重耳受享以報楚王|重耳受享以報楚王]] — 楚成王享重耳九獻，重耳許以避舍三舍。
+
 ## 境界
 
 - [[從心所念更無是非|從心所念更無是非]] — 修道之深境界，心念自然合道
@@ -3656,6 +3703,7 @@ That's a good one-line summary that captures
 ## 外交
 
 - [[事大未必有實|事大未必有實]] — 附强事大者獻圖效璽，未得實利，先受其害；從衡之策皆非持國之道。
+- [[仲孫來|仲孫來]] — 齊仲孫來聘，魯因以定。
 - [[叔孫穆子聘於晉|叔孫穆子聘於晉論樂]] — 叔孫豹聘晉，以樂見禮，明《鹿鳴》之義，述「懷和」「諏謀度詢」之旨。
 - [[唇亡則齒寒|唇亡則齒寒]] — 虞虢相救，乃唇齒相依之喻；一亡則俱亡。
 - [[單靖公敬儉讓|單靖公敬儉讓]] — 晉羊舌肸聘周，見單靖公享禮儉敬、賓禮放上而行，論其德足以應成王之詩。
@@ -3687,6 +3735,10 @@ That's a good one-line summary that captures
 ## 外患
 
 - [[富辰諫伐狄|富辰諫伐狄及納狄女]] — 富辰以兄弟之誼、婚姻之階諫襄王，勿以狄伐鄭，勿納狄女為后，王弗聽，卒召敗亡之禍。
+
+## 外族入侵
+
+- [[狄入衛|狄入衛]] — 狄人滅衛，唇亡齒寒，邢幾不保。
 
 ## 外辭
 
@@ -3845,6 +3897,10 @@ That's a good one-line summary that captures
 - [[天命之謂性|天命之謂性]] — 言天之所命即為人性，此中庸首章之要旨，明性出於天，人當率性以行道。
 - [[樂天知命|樂天知命]] — 安於天命，無所憂懼之謂也
 - [[武乙射天|武乙射天]] — 武乙無道，為偶人象天神而射之，暴雷震死。
+
+## 天啟
+
+- [[叔詹諫鄭文公|叔詹諫鄭文公]] — 叔詹以天啟四祥勸鄭文公禮遇重耳，不聽。
 
 ## 天地
 
@@ -4199,6 +4255,10 @@ That's a good one-line summary that captures
 
 - [[子服惠伯從季平子如晉|子服惠伯從季平子如晉]] — 晉執季平子，子服惠伯為魯請命，以晉為盟主當主信，不可以蠻夷棄兄弟。
 
+## 子犯
+
+- [[齊姜與子犯謀遣重耳|齊姜與子犯謀遣重耳]] — 姜與子犯共謀，醉遣重耳，重耳醒而逐之。
+
 ## 子罕
 
 - [[子罕劫宋君|子罕劫宋君]] — 子罕請專刑罰之柄，宋君失柄而見劫
@@ -4381,6 +4441,10 @@ That's a good one-line summary that captures
 
 - [[行權有道|行權有道]] — 權道在於自貶損以行權，不害人以行權。
 
+## 季子
+
+- [[季子來歸|季子來歸]] — 季子歸魯，公羊微言以著賢者之懿。
+
 ## 季孫
 
 - [[平丘之會|平丘之會]] — 晉會諸侯于平丘，魯君不與盟，晉人執季孫隱如。
@@ -4496,6 +4560,7 @@ That's a good one-line summary that captures
 ## 宋襄公
 
 - [[不鼓不成列|不鼓不成列]] — 君子不鼓不成列，臨大事不忘大禮。
+- [[公孫固言於宋襄公|公孫固言於宋襄公]] — 公孫固贊重耳之美，宋襄公贈馬以厚之。
 
 ## 宗廟
 
@@ -4577,6 +4642,10 @@ That's a good one-line summary that captures
 
 - [[宰周公論晉侯將死|宰周公論晉侯將死]] — 宰周公論晉侯不度諸侯之勢，失其民心，斷其必死，君子失心鮮不夭昏。
 - [[宰周公論齊侯好示|宰周公論齊侯好示]] — 宰周公言齊侯務施與力而不務德，輕致諸侯而重遣之，不可與會。
+
+## 宴禮
+
+- [[秦伯賦詩宴重耳|秦伯賦詩宴重耳]] — 秦伯享重耳以國君之禮，賦詩明志，子餘相賓。
 
 ## 容儀
 
@@ -4904,6 +4973,7 @@ That's a good one-line summary that captures
 
 ## 弒君
 
+- [[公子慶父出奔莒|公子慶父出奔莒]] — 慶父弒君之賊，懼誅而出奔。
 - [[吳弒其君僚|吳弒其君僚]] — 吳公子光使專諸弒王僚，吳國之亂也。
 - [[宋督弒其君與夷|宋督弒其君與夷]] — 宋督弒殺殤公，公羊傳以其惡及大夫孔父。
 - [[晉趙盾弒君|晉趙盾弒君]] — 靈公無道，盾不能討賊，史以其弒君書之。公羊傳明不討賊之義。
@@ -5008,6 +5078,10 @@ That's a good one-line summary that captures
 ## 從祀
 
 - [[從祀先公貴復正|從祀先公]] — 定公自昭公以來久闕祖祭，至是從祀先公，貴復其正。
+
+## 從者
+
+- [[文公遽見豎頭須|文公遽見豎頭須]] — 頭須自陳留守之功，文公悟而接之。
 
 ## 復讎
 
@@ -5292,6 +5366,10 @@ That's a good one-line summary that captures
 
 - [[天道惡之|天道惡之]] — 兵者不祥之器，天道所厭，必不得已而後用。
 
+## 慶父
+
+- [[公子慶父出奔莒|公子慶父出奔莒]] — 慶父弒君之賊，懼誅而出奔。
+
 ## 慶鄭
 
 - [[惠公斬慶鄭|惠公斬慶鄭]] — 慶鄭以誤國獲罪，終被行刑
@@ -5303,6 +5381,10 @@ That's a good one-line summary that captures
 ## 應變
 
 - [[吳子應變|吳子應變]] — 據敵之情，隨變而制，或擊或避，各有其道。
+
+## 懷安
+
+- [[齊姜勸重耳勿懷安|齊姜勸重耳勿懷安]] — 齊姜引詩書勸重耳勿懷安，申言天時將至。
 
 ## 戎狄
 
@@ -5832,6 +5914,8 @@ That's a good one-line summary that captures
 
 ## 文公
 
+- [[勃鞮求見文公|勃鞮求見文公]] — 勃鞮以臣道釋蒲城之怨，文公悟而用之。
+- [[文公遽見豎頭須|文公遽見豎頭須]] — 頭須自陳留守之功，文公悟而接之。
 - [[晉亟亂而後定|晉亟亂而後定]] — 惠公殺里克、丕鄭、慶鄭，卒以失國；文公起而晉定
 
 ## 文子
@@ -6037,12 +6121,15 @@ Thus we can output: "墨子《非攻下》記載湯伐夏桀之事，
 
 - [[以地正國|以地正國]] — 叛臣以地歸還，可貴其悔過之心，然仍以無君命而入，故書叛。
 - [[仲嬰齊|仲嬰齊]] — 公孫嬰齊以兄後而立嗣，故稱仲嬰齊。
+- [[仲孫來|仲孫來]] — 齊仲孫來聘，魯因以定。
 - [[伯莒之戰|伯莒之戰]] — 吳子以蔡師及楚人戰于伯莒，楚師敗績，遂入郢。
+- [[公子慶父出奔莒|公子慶父出奔莒]] — 慶父弒君之賊，懼誅而出奔。
 - [[公子鱄辭約|公子鱄辭約]] — 衛公子鱄以約言為信，不肯從其君以殺甯喜。
 - [[公孫于齊|公孫于齊]] — 昭公見弒季氏不勝，出奔，公孫于齊。
 - [[六經之教|六經之教 / The Six Classics and Their Educational Functions]] — Confucius's teaching that each of the six classics cultivates specific virtues while carrying inherent risks of excess.
 - [[初稅畝|初稅畝]] — 魯國始改籍田之法，按畝而稅，井田制由是漸壞。
 - [[取運|取運]] — 魯取運田，昭公居之以終。
+- [[吉禘于莊公|吉禘于莊公]] — 閔公禘祭於莊公，吉而不譏。
 - [[吳入楚|吳入楚]] — 吳入楚而不言滅，欲存楚也；乃狄之而已，非取其國。
 - [[吳弒其君僚|吳弒其君僚]] — 吳公子光使專諸弒王僚，吳國之亂也。
 - [[吳敗雞父|吳敗雞父]] — 吳敗頓、胡、沈、蔡、陳、許之師于雞父，荊蠻之勢浸盛。
@@ -6053,9 +6140,11 @@ Thus we can output: "墨子《非攻下》記載湯伐夏桀之事，
 - [[囊瓦求裘|囊瓦求裘]] — 囊瓦求美裘於蔡昭公而不予，因拘之于南郢，終致楚蔡之隙。
 - [[城中小城|城中城]] — 鄭人圍許而城中城，修內以備外患。
 - [[城成周|城成周]] — 魯與列國城成周，尊王室之義。
+- [[夫人姜氏孫于邾婁|夫人姜氏孫于邾婁]] — 哀姜出奔，慶父之亂成矣。
 - [[夾谷之會|夾谷之會]] — 孔子相魯定公與齊侯會於夾谷，折齊人之妄，歸還侵田。
 - [[子胥之諫|子胥之諫]] — 伍子胥以事君猶事父，不可以虧君之義而復父之讎。
 - [[孔子|孔子 / 孔子]] — 儒家之聖人，萬世師表，其言行見於《論語》諸經。
+- [[季子來歸|季子來歸]] — 季子歸魯，公羊微言以著賢者之懿。
 - [[孰君而無稱|孰君而無稱]] — 國君無分尊卑，皆有君之實。
 - [[宋人及楚人平|宋人及楚人平]] — 司馬子反與華元各以誠實相告，遂罷楚圍。公羊傳美之，以為大夫能平其國。
 - [[宋華亥向甯華定畔|宋華亥向甯華定畔]] — 宋華亥等自宋南里以畔，入于陳，又出奔楚。
@@ -6073,6 +6162,7 @@ Thus we can output: "墨子《非攻下》記載湯伐夏桀之事，
 - [[楚公子比弒君|楚公子比弒君]] — 公子比自晉歸楚，弒其君虔于乾溪，楚國之變也。
 - [[楚子虔誘蔡侯般|楚子虔誘蔡侯般]] — 楚子虔誘殺蔡侯般于申，蔡遂為楚所圍。
 - [[楚師滅陳|楚師滅陳]] — 陳世子偃師見殺，陳公子留出奔，楚遂滅陳。
+- [[狄入衛|狄入衛]] — 狄人滅衛，唇亡齒寒，邢幾不保。
 - [[王室亂|王室亂]] — 景王崩後，王子猛與王子朝迭起，天子之位再亂。
 - [[盜殺衛侯之兄輒|盜殺衛侯之兄輒]] — 盜殺衛侯之兄，記弒兄之變。
 - [[石尚歸脤|石尚歸脤]] — 天子使士歸肉於魯，欲使魯復行禮於天下。
@@ -6324,6 +6414,10 @@ Thus we can output: "墨子《非攻下》記載湯伐夏桀之事，
 - [[該之變而道之|該之變而道之]] — 郊牛有變，則記者該貫其變，而以正道引導之。
 - [[隕石于宋|隕石于宋]] — 隕石，先隕而後石，經先數而後物。
 
+## 曹共公
+
+- [[僖負羈言於曹伯|僖負羈言於曹伯]] — 僖負羈以禮義勸曹共公禮遇重耳，不聽。
+
 ## 曹劌
 
 - [[曹劌問戰|曹劌問戰]] — 論治國之本在施惠於民，不在牲玉之供奉。
@@ -6539,6 +6633,10 @@ Thus we can output: "墨子《非攻下》記載湯伐夏桀之事，
 - [[吳闔閭教七年|吳闔閭教七年 / King Helü's Seven-Year Military Training / 呉王闔閭の七年訓練]] — The account of Wu Zixu's seven-year military training under King Helü of Wu before the campaign against Chu.
 - [[囊瓦求裘|囊瓦求裘]] — 囊瓦求美裘於蔡昭公而不予，因拘之于南郢，終致楚蔡之隙。
 - [[襄公如楚|襄公如楚及漢聞康王卒欲還]] — 魯襄公如楚，聞康王卒欲還，大夫皆欲還，唯叔仲昭伯以為當因其喪以示畏名從眾。
+
+## 楚成王
+
+- [[重耳受享以報楚王|重耳受享以報楚王]] — 楚成王享重耳九獻，重耳許以避舍三舍。
 
 ## 榮夷公
 
@@ -7595,10 +7693,16 @@ Thus we can output: "墨子《非攻下》記載湯伐夏桀之事，
 ## 狄
 
 - [[晉荀吳帥師敗狄于大原|晉荀吳帥師敗狄于大原]] — 晉大夫敗狄于大原，華夏攘夷之功。
+- [[狄入衛|狄入衛]] — 狄人滅衛，唇亡齒寒，邢幾不保。
+- [[重耳自狄適齊|重耳自狄適齊]] — 狐偃勸重耳去狄適齊，蓄力遠圖。
 
 ## 狄女
 
 - [[富辰諫伐狄|富辰諫伐狄及納狄女]] — 富辰以兄弟之誼、婚姻之階諫襄王，勿以狄伐鄭，勿納狄女為后，王弗聽，卒召敗亡之禍。
+
+## 狐偃
+
+- [[重耳自狄適齊|重耳自狄適齊]] — 狐偃勸重耳去狄適齊，蓄力遠圖。
 
 ## 狐突
 
@@ -7761,6 +7865,10 @@ Thus we can output: "墨子《非攻下》記載湯伐夏桀之事，
 
 - [[公子鱄辭約|公子鱄辭約]] — 衛公子鱄以約言為信，不肯從其君以殺甯喜。
 
+## 甯莊子
+
+- [[甯莊子言於衛君|甯莊子言於衛君]] — 甯莊子告衛文公當禮重耳，晉將昌。
+
 ## 田制
 
 - [[初稅畝|初稅畝]] — 魯國始改籍田之法，按畝而稅，井田制由是漸壞。
@@ -7808,6 +7916,10 @@ Thus we can output: "墨子《非攻下》記載湯伐夏桀之事，
 ## 畔
 
 - [[宋華亥向甯華定畔|宋華亥向甯華定畔]] — 宋華亥等自宋南里以畔，入于陳，又出奔楚。
+
+## 留守
+
+- [[文公遽見豎頭須|文公遽見豎頭須]] — 頭須自陳留守之功，文公悟而接之。
 
 ## 異象
 
@@ -8182,6 +8294,10 @@ Thus we can output: "墨子《非攻下》記載湯伐夏桀之事，
 - [[傷賢者殃及三世|傷賢者殃及三世]] — 傷賢者殃及後代，蔽賢嫉賢進賢各有所報；國當急於進賢。
 - [[愛人利人天必福之|愛人利人者天必福之 / Those Who Love and Benefit Others Are Blessed by Heaven / 愛人利人者は天必ず之を福す]] — 墨子提出愛人利人者天必福之，惡人賊人者天必禍之，以此構建天賞天罰之因果報應說。
 
+## 禘祭
+
+- [[吉禘于莊公|吉禘于莊公]] — 閔公禘祭於莊公，吉而不譏。
+
 ## 禦寒
 
 - [[不寒不熱之道|不寒不熱之道]] — 述御寒避暑諸方。
@@ -8203,6 +8319,7 @@ Thus we can output: "墨子《非攻下》記載湯伐夏桀之事，
 - [[不召之臣|不召之臣]] — 大有為之君，當親就賢臣，不可輕召。
 - [[五者一體|道、德、仁、義、禮，五者一體]] — 道也、德也、仁也、義也、禮也，五者相須為用，不可闕一。
 - [[人道之至文|人道之至文]] — 三年之喪，禮之至文，乃百王古今之所同。
+- [[僖負羈言於曹伯|僖負羈言於曹伯]] — 僖負羈以禮義勸曹共公禮遇重耳，不聽。
 - [[六經之教|六經之教 / The Six Classics and Their Educational Functions]] — Confucius's teaching that each of the six classics cultivates specific virtues while carrying inherent risks of excess.
 - [[制度在禮|制度在禮]] — 制度在禮，文為在禮；行之，其在人乎？
 - [[取象天地|取象天地]] — 禮制上象天，下法地，中則人，以成群居之和。
@@ -8219,6 +8336,7 @@ Given the article is about "含者" with details. So a one-line summary: "含者
 - [[明於禮樂舉而錯之|明於禮樂舉而錯之]] — 君子明於禮樂，舉而錯之，則天下太平。
 - [[暢臼杵|暢臼杵]] — 葬儀所用舂具各有其材，畢用桑，率帶有等。
 - [[死于館|死于館]] — 諸侯、大夫、士行於外而死，各有復與殯奠之儀。
+- [[甯莊子言於衛君|甯莊子言於衛君]] — 甯莊子告衛文公當禮重耳，晉將昌。
 - [[石尚歸脤|石尚歸脤]] — 天子使士歸肉於魯，欲使魯復行禮於天下。
 - [[禮之五用|禮之五用 / The Five Functions of Ritual: Clarifying Social Relations]] — The five ritual occasions—court audiences, diplomatic visits, mourning, village assemblies, and marriage—clarify the essential relationships of society.
 - [[禮之所興|禮之所興]] — 禮之所興，眾之所治；禮之所廢，眾之所亂。
@@ -8543,6 +8661,10 @@ Given the article is about "含者" with details. So a one-line summary: "含者
 - [[晉不和|晉不和]] — 小人欲報秦，君子欲事秦，故不和
 - [[秦侵晉止惠公於秦|秦侵晉止惠公於秦]] — 秦師侵晉，惠公被擒，晉師潰於韓
 - [[秦受賞晉饑晉不予秦糴|秦受賞晉饑晉不予秦糴]] — 秦施恩於晉饑，晉不予報，後秦饑而晉亦不與
+
+## 秦伯
+
+- [[秦伯賦詩宴重耳|秦伯賦詩宴重耳]] — 秦伯享重耳以國君之禮，賦詩明志，子餘相賓。
 
 ## 秦師
 
@@ -9161,6 +9283,7 @@ That's a good one-line summary that captures
 - [[不厚其棟不能任重|不厚其棟不能任重]] — 任重者當先厚其德，無德而據高位，必不能久。
 - [[今之良臣古之民賊|今之良臣古之民賊]] — 能闢土地充府庫之臣，實古之所謂民賊也。
 - [[八姦|八姦]] — 人臣為姦之道有八，明主所當察也。
+- [[勃鞮求見文公|勃鞮求見文公]] — 勃鞮以臣道釋蒲城之怨，文公悟而用之。
 - [[君之過也|君之過也]] — 臣殺其君，實君有以致之；失威縱姦，是自取滅亡。
 - [[報生以死|報生以死]] — 臣報君之恩，當以死殉之，乃人臣之道。
 - [[弗弗之臣|The Upright Remonstrating Ministers / 弗弗之臣]] — Mozi emphasizes that rulers must have frank, remonstrating subordinates who dare to oppose them for the preservation of the state.
@@ -9300,6 +9423,14 @@ That's a good one-line summary that captures
 
 - [[不以陽生君荼|不以陽生君荼]] — 陽生立而荼弒，不以國君之稱加之於荼。
 
+## 莊公
+
+- [[吉禘于莊公|吉禘于莊公]] — 閔公禘祭於莊公，吉而不譏。
+
+## 莒
+
+- [[公子慶父出奔莒|公子慶父出奔莒]] — 慶父弒君之賊，懼誅而出奔。
+
 ## 菌芝
 
 - [[菌芝|菌芝]] — 菌芝生於深山大木泉側，狀如宮室龍虎，服之昇仙。
@@ -9368,6 +9499,10 @@ That's a good one-line summary that captures
 ## 蒯瞆
 
 - [[內其君而外弒者|內其君而外弒者]] — 錄納衛世子蒯瞆，以父命為內，以王父命為外。
+
+## 蒲城
+
+- [[勃鞮求見文公|勃鞮求見文公]] — 勃鞮以臣道釋蒲城之怨，文公悟而用之。
 
 ## 蔡
 
@@ -9501,11 +9636,16 @@ That's a good one-line summary that captures
 - [[內其君而外弒者|內其君而外弒者]] — 錄納衛世子蒯瞆，以父命為內，以王父命為外。
 - [[公子鱄辭約|公子鱄辭約]] — 衛公子鱄以約言為信，不肯從其君以殺甯喜。
 - [[子不圍父|子不圍父]] — 齊國夏圍戚，是子圍父而不名，以其為衛事也。
+- [[狄入衛|狄入衛]] — 狄人滅衛，唇亡齒寒，邢幾不保。
 
 ## 衛成公
 
 - [[外臣之言不越境|外臣之言不越境]] — 受命於君則不敢以私情干預鄰國之政。
 - [[襄王拒殺衛成公|襄王拒殺衛成公]] — 晉人執衛成公，請殺之，襄王以政自上下、君臣無獄之理拒之。
+
+## 衛文公
+
+- [[甯莊子言於衛君|甯莊子言於衛君]] — 甯莊子告衛文公當禮重耳，晉將昌。
 
 ## 衛生
 
@@ -9664,6 +9804,8 @@ That's a good one-line summary that captures
 
 - [[六經之教|六經之教 / The Six Classics and Their Educational Functions]] — Confucius's teaching that each of the six classics cultivates specific virtues while carrying inherent risks of excess.
 - [[德之流行|德之流行]] — 德之流行，速於置郵而傳命。
+- [[秦伯賦詩宴重耳|秦伯賦詩宴重耳]] — 秦伯享重耳以國君之禮，賦詩明志，子餘相賓。
+- [[齊姜勸重耳勿懷安|齊姜勸重耳勿懷安]] — 齊姜引詩書勸重耳勿懷安，申言天時將至。
 
 ## 詩教
 
@@ -10011,6 +10153,7 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 
 ## 賢者
 
+- [[季子來歸|季子來歸]] — 季子歸魯，公羊微言以著賢者之懿。
 - [[賢者急病而讓夷|賢者急病而讓夷]] — 賢者急於赴國難而讓居安，位高者當恤民之患。
 
 ## 賢能
@@ -10033,6 +10176,10 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 ## 質子
 
 - [[以歸要成|以歸要成]] — 歸而質之，以要晉國之成
+
+## 贈馬
+
+- [[公孫固言於宋襄公|公孫固言於宋襄公]] — 公孫固贊重耳之美，宋襄公贈馬以厚之。
 
 ## 贫富
 
@@ -10569,6 +10716,7 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 
 ## 邾婁
 
+- [[夫人姜氏孫于邾婁|夫人姜氏孫于邾婁]] — 哀姜出奔，慶父之亂成矣。
 - [[納者何|納者何]] — 納，入辭也。大夫不得專廢置君。
 - [[黑弓以濫來奔|黑弓以濫來奔]] — 賢者子孫宜有地，公羊傳因而通濫。
 
@@ -10622,6 +10770,7 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 
 ## 部:其他
 
+- [[七輿大夫|七輿大夫]] — 惠公所殺七大夫之總名
 - [[上賢|上賢]] — 上賢去不肖，然有六賊七害不可不辨。
 - [[丹楹刻桷令德替矣|丹楹刻桷令德替矣]] — 先君儉而後君奢，是替前之令德也。
 - [[九侯鄂侯西伯|九侯鄂侯西伯]] — 紂用炮格之刑，醢九侯，脯鄂侯，囚西伯。
@@ -10634,6 +10783,7 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 - [[仙藥-之|仙藥-之]] — 
 - [[仙非稟異氣|仙非稟異氣]] — 仙人皆由學以得之，非稟異氣而然。
 - [[以師兵為營衞|以師兵為營衞]] — 黃帝遷徙無常，以師兵為營衞，行止皆有武備。
+- [[任大惡三|任大惡三]] — 不信、不智、無勇為三大罪
 - [[使怨治怨|使怨治怨]] — 以怨治怨，禍不可救；治民當平，平當以清。
 - [[使民養生送死無憾|使民養生送死無憾]] — The user wants: "Write a one-line summary for this article:
 
@@ -10655,12 +10805,14 @@ Thus we can propose a one-line summary: "The article argues that a benevolent go
 - [[信人則制於人|信人則制於人]] — 人主信人，必受制於人，此亡國之根也。
 - [[儉節|Jiǎnjié (Frugality and Restraint) / 儉節]] — A Mohist virtue of moderation and economical self-restraint, contrasted with淫佚.
 - [[六甲秘祝|六甲秘祝]] — 述入山密祝之辭與寶日義日之義。
+- [[冀芮答秦穆公問|冀芮答秦穆公問]] — 冀芮言夷吾少不好弄，怒不及色，出亡無怨於國，眾安之，故可用。
 - [[冲風枯柯|冲風枯柯]] — 冲風赴林而枯柯先摧，喻邪侵正體因其本先傷。
 - [[凝水銀為金|凝水銀為金]] — 丹沙可為金，河車可作銀，立則可成，成則為真。
 - [[務舉賢而不能用|務舉賢而不能用]] — 舉賢而不用，是有賢名而無賢實；好用世俗之所譽者，非真知賢者也。
 - [[勤求明師-之|勤求明師-之]] — 
 - [[北逐葷粥|北逐葷粥]] — 黃帝北逐葷粥，合符釜山，逐匈奴於塞外。
 - [[匹馬隻輪無反|匹馬隻輪無反]] — 師敗殆盡，無一騎返。
+- [[卜偃言攻虢|獻公問卜偃攻虢何月]] — 卜偃引童謠以占，謂攻虢當在九月十月之交。
 - [[反巡故鄉|反巡故鄉]] — 鳥獸失群，猶過故鄉而翔回鳴號，況人於父母之親。
 - [[司馬|Sima / 司馬]] — The ancient Chinese minister of war and director of military affairs.
 - [[合符釜山|合符釜山]] — 黃帝北逐葷粥，與諸侯合符於釜山。
@@ -10668,6 +10820,7 @@ Thus we can propose a one-line summary: "The article argues that a benevolent go
 - [[同姓而異國號|同姓而異國號]] — 五帝皆同姓而異其國號，以章明德。
 - [[君臣|君臣]] — 君尊令行、法制明則民畏；緣法賞功則軍士死節
 - [[吳伐陳|吳伐陳]] — 吳伐陳而救之，楚欲滅陳，吳出兵救護。
+- [[呂甥逆惠公於秦|呂甥逆惠公於秦]] — 呂甥定計安晉，說秦以成和
 - [[善人|善人]] — 善人不行聖跡，不能入室；聖人則不然。
 - [[善待問者如撞鐘|善待問者如撞鐘]] — 善答問者，如鐘之待叩，叩小則小鳴，叩大則大鳴。
 - [[善有章雖賤賞也|善有章雖賤賞也]] — 賞善罰惡，當及時而果斷，不以賤人而廢賞。
@@ -10685,6 +10838,7 @@ Thus we can propose a one-line summary: "The article argues that a benevolent go
 - [[太戊修德|太戊修德]] — 祥桑共生於朝，太戊懼而修德，殷由是復興。
 - [[太甲反正|太甲反正]] — 太甲暴虐失德，伊尹放之桐宮，三年悔過，伊尹迎歸授政。
 - [[夫婦|Husband and Wife / 夫婦]] — The fundamental social relationship in Confucian ethics defining complementary roles between husband and wife.
+- [[失人失天|失人失天]] — 背信忘義，既失人心又失天佑
 - [[始為為疾|始為為疾]] — 人以覺病之日始作為疾，猶以氣絕之日為身喪之候。
 - [[姦臣得乘以成私|姦臣得乘以成私]] — 姦臣借人主之信，乘其親屬以成私慾，危莫大焉。
 - [[嫘祖|嫘祖]] — 西陵氏之女，黃帝正妃，養蠶繅絲之祖。
@@ -10712,12 +10866,18 @@ Thus we can propose a one-line summary: "The article argues that a benevolent go
 - [[御盜|御盜]] — 此篇已亡，内容無考
 - [[徭役少則民安|徭役少則民安]] — 徭役繁重則民苦，民苦則權勢起，權勢滅則德在上。
 - [[恃先王之命|恃先王之命]] — 齊師伐魯，展禽使乙喜以成王之命辭卻之，齊師遂退。
+- [[惠公入而背外內之賂|惠公入而背外內之賂]] — 惠公背約失信，輿人誦以為戒
+- [[惠公悔殺里克|惠公悔殺里克]] — 殺功臣而後悔，失謀與不祥也
+- [[惠公斬慶鄭|惠公斬慶鄭]] — 慶鄭以誤國獲罪，終被行刑
+- [[惠公殺丕鄭|惠公殺丕鄭]] — 殺大夫絕忠良，黨與半國而國危
 - [[惠於父而遠於死|惠於父而遠於死，惠於眾而利社稷]] — 申生以為，若能惠君以福、免死於狄，乃可言圖。
 - [[慎法|慎法]] — 破任譽之私，依法而治；耕戰二者，力本而霸王畢
+- [[慶鄭之待刑|慶鄭之待刑]] — 臣誤君則待刑以成君政
 - [[成湯祝網|成湯祝網]] — 湯出見野張網，祝去三面而止，是德及禽獸之始。
 - [[教之四興|教之四興]] — 預禁、時可、遜施、觀摩，乃教化之所由興。
 - [[教學為先|教學為先]] — 建國君民，以教學為首務。
 - [[敬孫務時敏|敬孫務時敏]] — 敬慎遜讓，務求及時而疾行，則學之修為乃可至。
+- [[晉亟亂而後定|晉亟亂而後定]] — 惠公殺里克、丕鄭、慶鄭，卒以失國；文公起而晉定
 - [[智-儒學-之|智-儒學-之]] — The user asks: "Write a one-line summary for this article: # 智-儒學-之 ..." The article is about the concept of "智" (wisdom) in Confucianism, referencing Mencius, discussing the concept of是非之心 (sense of right and wrong) as the "端" (beginning) of wisdom, referencing Zai Wo, Zigong, You Ruo, who "智足以知聖人"; also "術不可不慎","選擇不處仁，焉得智", clarifying that wisdom and benevolent practice (仁) are interdependent. So need to summarize in one line.
 
 The content: "In Mencius, wisdom originates from the moral sense of right and wrong, and wise individuals such as Zai Wo, Zigong, and You Ruo demonstrate that wisdom and benevolence are mutually reinforcing."
@@ -10732,6 +10892,7 @@ We must output just that line. Provide concise but accurate. It's Chinese articl
 - [[服銀|服銀]] — 銀可以為地仙，服法如彈丸。
 - [[木芝|木芝]] — 木芝生於松柏之木，以威喜芝、飛節芝為要，服之數千歲。
 - [[柔弱者生之幹|Softness and Weakness as the Stem of Life / 柔弱者生之幹]] — The Daoist teaching that soft and weak things are the stem/trunk of life, while the hard and strong are destined for death.
+- [[梁由靡之諫不赦慶鄭|梁由靡之諫不赦慶鄭]] — 失刑亂政不威，不可赦
 - [[武丁祭成湯|武丁祭成湯]] — 武丁祭成湯，有飛雉登鼎耳，祖己戒以修政。
 - [[歸之于|歸之于]] — 歸于者罪未定，歸之于者罪已定。
 - [[死愛死怒|死愛死怒]] — 軍中五死，皆以義激，非賞罰所能強。
@@ -10753,11 +10914,16 @@ We must output just that line. Provide concise but accurate. It's Chinese articl
 - [[皋陶卒禹任益|皋陶卒禹任益]] — 禹舉皐陶而授政焉，皐陶卒，禹任益以為主黝。
 - [[真人|The True Person / 真人]] — The Daoist ideal of the "true person" (真人) who has achieved unity with the Dao through emptiness, tranquility, and pure simplicity.
 - [[真珠|真珠]] — 真珠徑一寸以上服之可以長久，絕穀則不死而長生。
+- [[眾口禍福之門|眾口禍福之門]] — 輿人之誦乃禍福之兆
 - [[祀非其族不在典|祀非其族不在典]] — 祭祀有國之常典，非有功烈於民者，不得濫祀。
 - [[神仙不死-之|神仙不死-之]] — 
 - [[禁使|禁使]] — 賞罰須恃勢任數，明主貴勢不貴智
+- [[秦侵晉止惠公於秦|秦侵晉止惠公於秦]] — 秦師侵晉，惠公被擒，晉師潰於韓
+- [[秦受賞晉饑晉不予秦糴|秦受賞晉饑晉不予秦糴]] — 秦施恩於晉饑，晉不予報，後秦饑而晉亦不與
+- [[穆公許重耳而不納|穆公許重耳而不納]] — 穆公知重耳之仁而不納，留惠公以為質
 - [[立功為上|立功為上]] — Ge Hong's *Baopuzi* teaches that establishing merit through救人危免禍、護人疾病 is the supreme path to immortality, requiring 300-1,200 good deeds for Earth/Heavenly Immortals respectively, with even a single misdeed erasing all accumulated virtue.
 - [[節用水火材物|節用水火材物]] — 黃帝教民節用水火材物，愛物惜用也。
+- [[納而不遂廢而不起|納而不遂廢而不起]] — 納之而不能遂其功，廢之而不能起而報，是為以德為怨
 - [[絕地天通|絕地天通]] — 舜令禹征有苗，修文教以來遠人，不以武力為先。
 - [[羅其英雄|羅其英雄]] — 網羅英雄，則敵國窮困。英雄為國之幹，得之則政行無怨。
 - [[羅其英雄則敵國窮|羅其英雄則敵國窮]] — 網羅英雄，則敵國困窘；英雄為國之幹，庶民為國之本。
@@ -10776,6 +10942,7 @@ Thus: "Both Confucian and Mohist thinkers regard righteousness (義) as the supr
 - [[至誠盡性|Utmost Sincerity and the Fulfillment of Nature / 至誠盡性]] — A Confucian doctrine that attaining utmost sincerity enables one to fulfill one's nature, others' natures, and all things' natures, thereby participating in the transforming work of heaven and earth.
 - [[舜命十二牧|舜命十二牧]] — 舜命十二牧論帝德，行厚德，遠佞人，則蠻夷率服。
 - [[舜誅四辠|舜誅四辠]] — 舜流共工于幽陵，放驩兜於崇山，遷三苗於三危，殛鯀於羽山。
+- [[舟之僑適晉|虢將亡舟之僑以其族適晉]] — 舟之僑見虢公驕矜，預知國將亡，遂率族適晉，六年而虢亡。
 - [[英俊豪傑|Four Grades of Talent / 英俊豪傑]] — A Daoist classification of talented individuals into four grades based on their virtues and capabilities.
 - [[荒服者王|荒服者王]] — 荒服之諸侯一世朝王一次
 - [[菊花延年|菊花延年]] — 菊花得甘谷水之氣，居谷者無不壽考。
@@ -10799,9 +10966,11 @@ Alternatively: "This passage explains the ceremonial protocols for entering a ga
 - [[言之大甘其中必苦|言之大甘其中必苦]] — 甘言之中必含苦味，不可輕信。
 - [[象刑|象刑]] — 堯舜象以典刑，流宥五刑，鞭扑贖刑各有差。
 - [[賞信罰必|賞信罰必]] — 賞當其功、罰當其罪，且必信必行，方能勸善懲惡。
+- [[赦慶鄭以報于秦|赦慶鄭以報于秦]] — 赦之以報秦，不可殺之
 - [[趙瞿服松脂|趙瞿服松脂]] — 趙瞿於穴中遇仙人，服松脂而愈，且得長生不死之法。
 - [[躋僖公逆祀|躋僖公逆祀]] — 躋僖公於閔公之上，是逆祀也；昭穆紊亂，必遭殃咎。
 - [[輕重相節|輕重相節]] — 戰以相輕重為權，輕重失當則敗。
+- [[轅田|轅田]] — 賞以悅眾之作法
 - [[辟沙虱射工|辟沙虱射工]] — 述江南山谷間沙蝨、射工、短狐之害及辟治之法。
 - [[辟虎狼禁|辟虎狼禁]] — 述入山辟虎狼之禁術。
 - [[辟蛇蝮|辟蛇蝮]] — 述入山辟蛇及救蛇傷之方。
@@ -10867,6 +11036,7 @@ Alternatively: "This passage explains the ceremonial protocols for entering a ga
 - [[御廩災|御廩災]] — 御廩失火，祭在而災，天戒也。
 - [[德厚者流光|德厚者流光]] — 德厚者廟祀遠播，德薄者廟祀淺近。
 - [[心小志大智圓行方能多事少|心小志大智圓行方能多事少 / The Sixfold Cultivation]] — A Daoist ethical framework of six paradoxes: small desire with great ambition, round wisdom with square conduct, many abilities with few affairs.
+- [[慶鄭之不救惠公|慶鄭之不救惠公]] — 君犯而臣失志，不肯救也
 - [[所見異辭所聞異辭所傳聞異辭|所見異辭，所聞異辭，所傳聞異辭]] — 《春秋》記事遠近之辭異，乃祖之所逮聞也。
 - [[攻與誅之辨|Distinction Between Attack and Punishment / 攻與誅之辨]] — Mozi's distinction between unjust "attack" (攻) and righteous "punishment" (誅) as carried out by sage kings under Heaven's mandate.
 - [[敖不可長欲不可從志不可滿樂不可極|敖不可長，欲不可從，志不可滿，樂不可極 / The Fourfold Caution Against Excess]] — The complete Confucian admonition against arrogance, desires, satisfaction, and extreme pleasure, forming a foundational teaching on self-restraint from the Book of Rites.
@@ -10902,6 +11072,7 @@ Alternatively: "This passage explains the ceremonial protocols for entering a ga
 - [[鬼神賞賢而罰暴|Ghosts and Spirits Reward the Worthy and Punish the Violent / 鬼神賞賢而罰暴]] — Mozi's doctrine that spiritual beings actively enforce moral justice, rewarding virtuous rulers and punishing the wicked.
 - [[黃帝|黃帝]] — 軒轅氏，代神農為天子，肇造文明，功被華夏。
 - [[黃白須齋潔明師|黃白須齋潔明師]] — 黃白之術必待齋潔百日、口傳心授、入深山清凈之地，方可為之。
+- [[齊襄公復讎|齊襄公復讎]] — 紀侯無罪，齊襄公伐紀，蓋復遠祖之讎，九世猶可。
 
 ## 部:子
 
@@ -10991,6 +11162,7 @@ Alternatively: "This passage explains the ceremonial protocols for entering a ga
 - [[以善養人|以善養人]] — 以善服人者未能服人，以善養人者然後能服天下。
 - [[以德行仁者王|以德行仁者王]] — 以力假仁者霸，必有大國；以德行仁者王，不待大。霸道非心服，力不贍故；王道心悅誠服，如七十子之服孔子。
 - [[以政治國以奇用兵|以政治國以奇用兵 / Govern the State with Rectitude, Fight with Surprise]] — The fundamental Daoist military-political principle of governing through proper order and waging war through strategic deception.
+- [[以歸要成|以歸要成]] — 歸而質之，以要晉國之成
 - [[以燕伐燕|以燕伐燕]] — 誅暴伐無道，必待天吏；若以燕伐燕，是同類相殘，不足為義師。
 - [[以賞禁以刑勸|以賞禁以刑勸]] — 王者以賞禁、以刑勸，求過不求善，藉刑以去刑
 - [[以類取予|以類取，以類予 / Reasoning by Category / 類を以って取り、類を以って与える]] — The Mohist principle of drawing conclusions and making arguments based on categorical similarity.
@@ -11034,6 +11206,8 @@ Alternatively: "This passage explains the ceremonial protocols for entering a ga
 - [[兩堯不能相王兩桀不能相亡|兩堯不能相王，兩桀不能相亡]] — 兩賢相匹則不能相臣，兩愚相持則不能相滅，治亂之機在強弱相踦。
 - [[兩小兒辯日|兩小兒辯日 / 二子の日の辯論]] — A famous anecdote about two children debating whether the sun is closer in the morning or at noon, illustrating the limits of human knowledge.
 - [[八姦|八姦]] — 人臣為姦之道有八，明主所當察也。
+- [[公子重耳夷吾出奔|公子重耳夷吾出奔]] — 獻公二子重耳奔狄、夷吾奔梁，各依賢臣之策，以待國變。
+- [[公子鱄辭約|公子鱄辭約]] — 衛公子鱄以約言為信，不肯從其君以殺甯喜。
 - [[公父文伯之母論勞逸|公父文伯之母論勞逸]] — 公父文伯之母以「君子能勞後世有繼」為誡，申言「民勞則思，思則善心生；逸則淫，淫則忘善」之旨。
 - [[公父文伯卒其母戒其妾|公父文伯卒其母戒其妾]] — 公父文伯之母戒妾無過哀，以「好內」聞為恥，示以昭吾子之道。
 - [[六守|六守]] — 君人者當守仁、義、忠、信、勇、謀六者，以農、工、商三寶立國。
@@ -11090,6 +11264,7 @@ Alternatively: "This passage explains the ceremonial protocols for entering a ga
 - [[君見好則羣臣誣能|君見好則羣臣誣能]] — 君有所好，臣即飾其能以迎合之
 - [[吳國之亡|吳國之亡 / The Fall of the State of Wu / 呉の滅亡]] — Mozi's account of how the state of Wu, after conquering越, fell to internal rebellion due to ruler arrogance.
 - [[吳大文見李根作銀|吳大文見李根作銀]] — 成都內史吳大文親見道士李根煎鉛錫成銀，雖得其方，終未能成。
+- [[吳子使札來聘|吳子使札來聘]] — 
 - [[吳子兵略|吳子兵略]] — 兼用文德武備，料敵料人，以勝為務。
 - [[吳子應變|吳子應變]] — 據敵之情，隨變而制，或擊或避，各有其道。
 - [[吳子治兵|吳子治兵]] — 四輕二重一信，教戒為先。
@@ -11192,6 +11367,7 @@ We need to produce a one-line summary: something like "The article explains Mozi
 - [[孔門四稟|孔門四稟]] — 柴也愚，參也魯，師也辟，由也喭，各稟異也。
 - [[孝哉閔子騫|孝哉閔子騫]] — 閔子騫之孝，人無間言，父母兄弟皆稱之。
 - [[孝敬忠貞|孝、敬、忠、貞]] — 孝敬忠貞，乃君父所安，為人臣子之本。
+- [[季子之遏惡|季子之遏惡]] — 
 - [[孫接|孫接者仁之能]] — 遜順交接，乃仁道之能事，成己之後所以合物者也。
 - [[學仙之法|學仙之法 / Methods of Learning Immortality / 仙を学ぶ方法]] — The specific cultivation practices Ge Hong advocates for achieving immortality, including elixir consumption, dietary abstinence, and withdrawal from worldly affairs.
 - [[守一之道|守一之道]] — 知一則萬事畢，守一則可通神辟害。
@@ -11211,7 +11387,10 @@ We need to produce a one-line summary: something like "The article explains Mozi
 - [[守身煉形|守身煉形術 / Secret Art of Body Refinement / 守身煉形術]] — A treasury of verses describing the inner alchemy of refining the body into an immortal vessel.
 - [[守道虛無|Guarding the Way and Emptiness / 守道虛無]] — A Daoist spiritual practice of maintaining inner emptiness and vacuity while following natural principles, central to Wenzi's teachings on sage governance.
 - [[定法|定法]] — 定法術之分，明公私之辨，申公法以禁私行。
+- [[宮之奇知虞將亡|宮之奇知虞將亡]] — 宮之奇知晉借道伐虢必及於虞，遂以其孥適西山，虞果亡。
 - [[宮室之法|Palace Construction Standards / 宮室之法]] — Mozi's principles for proper palace construction emphasizing practical utility over luxury.
+- [[宰周公論晉侯將死|宰周公論晉侯將死]] — 宰周公論晉侯不度諸侯之勢，失其民心，斷其必死，君子失心鮮不夭昏。
+- [[宰周公論齊侯好示|宰周公論齊侯好示]] — 宰周公言齊侯務施與力而不務德，輕致諸侯而重遣之，不可與會。
 - [[寂乎其無位而處|寂乎其無位而處]] — 君道如虛空無所執守
 - [[寅日稱虞吏|山中名物]] — 以十二支配日時，記精魅所化之物名，知之則不為害。
 - [[寡人之道|寡人之道 / The Way of Depopulating]] — 當世為政者厚斂久師，使民凍餓離散，此乃減人之道，非治國之術。
@@ -11233,6 +11412,7 @@ We need to produce a one-line summary: something like "The article explains Mozi
 - [[尚齒|尚齒 / Veneration of Age]] — 先王治天下尚齒，敬老養老，齒於朝廷，行乎道路，達乎州巷，放乎獀狩，修乎軍旅。
 - [[居室以利為嫌|居室以利為嫌]] — 居官者當守其署次之制，不可以君命之「寬利」而辱使命。
 - [[山精|山精]] — 述山中精魅之名狀及呼名辟之之法。
+- [[州兵|州兵]] — 征繕以輔孺子之作法
 - [[左元放之術|左元放之術]] — 述左元放變化解脫諸方。
 - [[巨勝|巨勝]] — 巨勝一名胡麻，服之不老，耐風濕，補衰老，可斷穀。
 - [[帝堯|帝堯]] — 帝嚳之弟，仁智如天，禪位於舜。
@@ -11263,6 +11443,7 @@ We need to produce a one-line summary in presumably Chinese, given the article i
 - [[忠孝第五十一|忠孝]] — 忠孝之本在於循公而去私，唯天下至誠者能兼全臣道與子道
 - [[思兼三王|思兼三王]] — 周公思兼三王，以施四事，仰而思之夜以繼日。
 - [[思神守一卻惡衛身|思神守一卻惡衛身]] — 一切道術皆可卻惡防身，然守一之道可以一切除棄諸法。
+- [[惠公改葬共世子|惠公改葬共世子]] — 改葬以為榮而惡益章，失道之兆也
 - [[愚公移山|愚公移山]] — The user wants a one-line summary for the article "愚公移山". This article includes Chinese and Japanese translations/interpretations. The user asks: "Write a one-line summary for this article". So I need to produce a concise one-line summary that captures the main story: an old man named Yu Gong (愚公) decides to move two mountains that block his village, despite being told it's impossible; he persists, mobilizing his descendants, and eventually the gods intervene to move the mountains. The summary should reflect the Chinese and Japanese versions. One line.
 
 Thus: "Yu Gong, an elderly man, resolves to move two huge mountains blocking his village, and through perseverance and the help of his descendants and divine intervention, succeeds, illustrating the power of determination." Something like that.
@@ -11308,6 +11489,9 @@ But let's ensure it's succinct and one-line: "愚公率子孙艰苦挖山，以�
 - [[明鏡辟魅|明鏡辟魅]] — 述古之入山道士以明鏡識別鬼魅之法。
 - [[是而不然|是而不然 / Inverted Affirmation: When the Premise Is True but the Conclusion Is False]] — 「是而不然」為《小取》所論論理式之一，謂前提雖是而結論不然。
 - [[是而然|是而然 / Consistent Affirmation: When Both Premise and Conclusion Hold True]] — 「是而然」為《小取》所論論理式之一，謂前提為是則結論亦然。
+- [[晉不和|晉不和]] — 小人欲報秦，君子欲事秦，故不和
+- [[晉君出而伯諸侯|晉君出而伯諸侯]] — 重耳歸，伯諸侯以見天子
+- [[晉無後之兆|晉無後之兆]] — 改制葬、改置嗣，皆失道之兆
 - [[晉荀吳帥師敗狄于大原|晉荀吳帥師敗狄于大原]] — 晉大夫敗狄于大原，華夏攘夷之功。
 - [[晏子不對|晏子不對 / Yanzi Refuses to Comment on Confucius]] — 晏子面對齊景公屢問孔子之事，始終不予回答，揭示其對孔子之負面評價。
 - [[智者決策於愚人賢士程行於不肖|智者決策於愚人賢士程行於不肖]] — 賢智之人反為愚不肖者所制，明主道之塞。
@@ -11607,9 +11791,11 @@ That's a good one-line summary that captures
 - [[還年之道|還年之道]] — 還年之道，為長生之要。上士知之，可延年除病，不自伐者亦可為之。
 - [[邲之戰|晉荀林父帥師及楚子戰于邲]] — 晉師與楚師遇於邲，晉師大敗。莊王伐鄭已服，故能以禮待晉師，晉師敗績。
 - [[邵公以其子代宣王死|邵公以其子代宣王死]] — 邵公以己子代宣王於難
+- [[郭偃論省眾而動|郭偃論省眾而動]] — 君子省眾而動，監戒而謀，謀度而行
 - [[鄉飲酒義|The Meaning of the Village Drinking Ceremony / 鄉飲酒義]] — 禮記篇名，述鄉里飲射之禮的義理，強調尊讓、尚齒、養老之道。
 - [[釋近謀遠者勞而無功|釋近謀遠者勞而無功]] — 舍近圖遠者徒勞無功，舍遠圖近者安逸有成。
 - [[里克丕鄭荀息|里克、丕鄭、荀息]] — 獻公將黜太子，三大夫各持異議。
+- [[里克殺奚齊而秦立惠公|里克殺奚齊而秦立惠公]] — 獻公卒，里克殺奚齊、卓子，秦納夷吾而立之，是為惠公。
 - [[金樓先生作黃金法|金樓先生作黃金法]] — 以赤鹽和灰汁塗錫，入赤土釜中，火煴三十日可得黃金。
 - [[金銀可作|金銀可作]] — 黃金白銀可由煉化而得，非自然而已。
 - [[鉤強|鉤強 / Gong Qiang (Hook and Strength Devices)]] — Mozi's principle that moral bonds (鉤) and respectful conduct (強) unite people, contrasting with mechanical hooks that harm.
@@ -11649,6 +11835,7 @@ That's a good one-line summary that captures
 - [[養生五味|養生五味]] — 五味偏多各有所傷，不可不慎。
 - [[養生以不傷為本|養生以不傷為本]] — 養生之要，在於不傷；百病不愈，安得長生。
 - [[養老之禮|養老之禮 / Rites for the Elderly / 养老の礼]] — The comprehensive system of honoring, supporting, and caring for the elderly at various life stages, as codified in classical Confucian texts.
+- [[驪姬譖殺太子申生|驪姬譖殺太子申生]] — 驪姬設謀以毒酒誣太子申生，申生不忍斥君，終雉經於新城之廟。
 - [[體-墨學|體 / Mozi's Concept of Body and Part-Whole Relations / 體]] — Mozi defines "體" as the relationship between parts and the whole — a foundational metaphysical concept distinguishing individual particulars from their unified totality.
 - [[鬼神之賞賢而罰暴|Ghosts and Spirits Reward the Virtuous and Punish the Violent / 鬼神之賞賢而罰暴]] — The Mohist doctrine that spirits punish the wicked and reward the virtuous, serving as cosmic enforcers of moral order.
 - [[魚水之喻|魚水之喻]] — 人在於道，若魚之在水；得水而生，失水而死。
@@ -11729,6 +11916,7 @@ We need to capture main points: Chinese classical texts describing ren (benevole
 
 Thus a one-line summary: "The article explains that in Confucian thought, ren (benevolence) is
 - [[仁之難成|仁之難成 / The Difficulty of Perfecting Benevolence]] — Confucius's lament that true benevolence is rare and difficult to achieve, yet remains the highest human virtue worth pursuing throughout one's life.
+- [[仇牧不畏強禦|仇牧不畏強禦]] — 宋萬弒君，仇牧聞難而至，手劍叱之，遂遇害，君子賢之。
 - [[以伐楚致|以伐楚致]] — 以伐楚致，不以救許致，以其大伐楚也。
 - [[以刑去刑|以刑去刑]] — 峻刑以止刑，達於無刑
 - [[以地正國|以地正國]] — 叛臣以地歸還，可貴其悔過之心，然仍以無君命而入，故書叛。
@@ -12062,12 +12250,14 @@ One line summary: "The article emphasizes that a nation's strength and
 - [[萬物皆備於我|萬物皆備於我 / All Things Are Complete Within Me / 萬物皆備於我]] — A core Mencian teaching that all virtues and moral capacities are inherently present within every person, requiring only reflective inquiry to realize them.
 - [[葬不及時急辭乃|葬不及時]] — 葬有日而不為雨止，禮也；雨甚乃急，日下稷乃克葬。
 - [[葬埋之有節|葬埋之有節 / The Principle of Moderation in Burial]] — Mozi's doctrine that burial practices must observe proper limits, just as consumption of food and clothing requires moderation.
+- [[虎牢之諱伐喪|虎牢之諱伐喪]] — 伐喪之師，取邑不言取，諱之也。
 - [[行一不義殺一不辜|行一不義殺一不辜]] — 得百里之地而君之，皆能朝諸侯有天下；然行一不義、殺一不辜而得天下，皆不為也。
 - [[術不可不慎|術不可不慎]] — 矢人函人之殊，在於術之慎不慎。里仁為美，擇不處仁，不得為智。
 - [[衡與挈引|Balance and Mechanical Advantage / 衡與挈引]] — Mozi's analysis of balance scales, levers, and pulleys explaining the principles of mechanical advantage and force multiplication.
 - [[袁婁之盟|袁婁之盟]] — 齊國佐辭嚴以拒晉，郤克感悟而許盟。
 - [[襄王拒隧|襄王拒晉文公請隧]] — 晉文公納周襄王於郟，王以隧葬之禮不可私授，辭而不許。
 - [[襚者|襚者 / The Garment-Presenter in Funeral Rites / 襚者（さいしゃ）]] — The ritual specialist who presents burial garments to the deceased, a key figure in ancient Chinese funeral ceremonies recorded in the Book of Rites.
+- [[要盟可犯而桓公不欺|要盟可犯而桓公不欺]] — 曹沫劫盟，桓公不欺，終致天下信之。
 - [[規矩繩權衡|規矩繩權衡 / Compass, Square, Cord, Weight, and Balance]] — 深衣之製所象徵之五器，以應規、矩、繩、權、衡，取其無私、直、平之義。
 - [[親親以三為五|Graduated Kinship Mourning / 親親以三為五，以五為九]] — The principle of graduated mourning obligations based on kinship distance, extending from immediate family to the ninth degree.
 - [[觀社非先王之訓|觀社非先王之訓]] — 齊觀社非先王之業，諸侯相會祀亦不法，君子當書以垂戒。
@@ -12193,6 +12383,10 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 - [[突歸于鄭|突歸于鄭]] — 鄭厲公篡位歸國，公羊傳以為忽讓位之義。
 - [[鄭厲公納惠王|鄭厲公納惠王]] — 鄭厲公與虢叔殺子頹，納惠王於鄭
 
+## 鄭文公
+
+- [[叔詹諫鄭文公|叔詹諫鄭文公]] — 叔詹以天啟四祥勸鄭文公禮遇重耳，不聽。
+
 ## 鄭衛之音
 
 - [[德音與溺音|德音與溺音 / Virtuous Music and Corrupting Music]] — The Confucian distinction between virtuous music that cultivates moral character and excessive music that leads to moral decay.
@@ -12204,6 +12398,10 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 ## 酷刑
 
 - [[九侯鄂侯西伯|九侯鄂侯西伯]] — 紂用炮格之刑，醢九侯，脯鄂侯，囚西伯。
+
+## 醉行
+
+- [[齊姜與子犯謀遣重耳|齊姜與子犯謀遣重耳]] — 姜與子犯共謀，醉遣重耳，重耳醒而逐之。
 
 ## 醫術
 
@@ -12239,8 +12437,17 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 
 ## 重耳
 
+- [[僖負羈言於曹伯|僖負羈言於曹伯]] — 僖負羈以禮義勸曹共公禮遇重耳，不聽。
+- [[公孫固言於宋襄公|公孫固言於宋襄公]] — 公孫固贊重耳之美，宋襄公贈馬以厚之。
+- [[叔詹諫鄭文公|叔詹諫鄭文公]] — 叔詹以天啟四祥勸鄭文公禮遇重耳，不聽。
 - [[晉君出而伯諸侯|晉君出而伯諸侯]] — 重耳歸，伯諸侯以見天子
+- [[甯莊子言於衛君|甯莊子言於衛君]] — 甯莊子告衛文公當禮重耳，晉將昌。
+- [[秦伯賦詩宴重耳|秦伯賦詩宴重耳]] — 秦伯享重耳以國君之禮，賦詩明志，子餘相賓。
 - [[穆公許重耳而不納|穆公許重耳而不納]] — 穆公知重耳之仁而不納，留惠公以為質
+- [[重耳受享以報楚王|重耳受享以報楚王]] — 楚成王享重耳九獻，重耳許以避舍三舍。
+- [[重耳自狄適齊|重耳自狄適齊]] — 狐偃勸重耳去狄適齊，蓄力遠圖。
+- [[齊姜勸重耳勿懷安|齊姜勸重耳勿懷安]] — 齊姜引詩書勸重耳勿懷安，申言天時將至。
+- [[齊姜與子犯謀遣重耳|齊姜與子犯謀遣重耳]] — 姜與子犯共謀，醉遣重耳，重耳醒而逐之。
 
 ## 野井
 
@@ -12316,6 +12523,15 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 
 - [[閏月不告月|閏月不告月，猶朝于廟]] — 閏月不告朔，而猶朝於廟，非禮之正也。
 - [[閏月葬|閏月葬]] — 閏月行事不正，以其非正之月也。
+
+## 閔公
+
+- [[仲孫來|仲孫來]] — 齊仲孫來聘，魯因以定。
+- [[公子慶父出奔莒|公子慶父出奔莒]] — 慶父弒君之賊，懼誅而出奔。
+- [[吉禘于莊公|吉禘于莊公]] — 閔公禘祭於莊公，吉而不譏。
+- [[夫人姜氏孫于邾婁|夫人姜氏孫于邾婁]] — 哀姜出奔，慶父之亂成矣。
+- [[季子來歸|季子來歸]] — 季子歸魯，公羊微言以著賢者之懿。
+- [[狄入衛|狄入衛]] — 狄人滅衛，唇亡齒寒，邢幾不保。
 
 ## 閔子騫
 
@@ -12762,6 +12978,10 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 
 - [[吳敗雞父|吳敗雞父]] — 吳敗頓、胡、沈、蔡、陳、許之師于雞父，荊蠻之勢浸盛。
 
+## 頭須
+
+- [[文公遽見豎頭須|文公遽見豎頭須]] — 頭須自陳留守之功，文公悟而接之。
+
 ## 頰谷
 
 - [[雖有文事必有武備|雖有文事必有武備]] — 頰谷之會，孔子以相禮行文事，而齊人執戈矛以劫魯君，是以外交不可無武備。
@@ -13033,10 +13253,12 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 ## 齊
 
 - [[公孫于齊|公孫于齊]] — 昭公見弒季氏不勝，出奔，公孫于齊。
+- [[重耳自狄適齊|重耳自狄適齊]] — 狐偃勸重耳去狄適齊，蓄力遠圖。
 - [[齊侯伐北燕|齊侯伐北燕]] — 齊侯伐北燕，送燕伯歸國。
 
 ## 齊國
 
+- [[仲孫來|仲孫來]] — 齊仲孫來聘，魯因以定。
 - [[公與夫人姜氏遂如齊|公與夫人姜氏遂如齊]] — 桓公與夫人如齊，卒薨于齊，故書「遂」。
 - [[公薨于齊|公薨于齊]] — 桓公薨于齊，魯臣迎喪至自齊。
 - [[夾谷之會|夾谷之會]] — 孔子相魯定公與齊侯會於夾谷，折齊人之妄，歸還侵田。
@@ -13048,6 +13270,11 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 - [[逆婦姜于齊|逆婦姜于齊]] — 逆，迎也。魯文公自晉迎婦姜於齊。
 - [[閔馬父笑子服景伯|閔馬父笑子服景伯]] — 閔馬父見子服景伯戒宰人以「陷而入於恭」，以為非先聖王之恭，乃過恭而不知止。
 - [[陳乞弒君舍|陳乞弒君舍]] — 齊陳乞迎陽生而立之，逐弒舊君。
+
+## 齊姜
+
+- [[齊姜勸重耳勿懷安|齊姜勸重耳勿懷安]] — 齊姜引詩書勸重耳勿懷安，申言天時將至。
+- [[齊姜與子犯謀遣重耳|齊姜與子犯謀遣重耳]] — 姜與子犯共謀，醉遣重耳，重耳醒而逐之。
 
 ## 齊孝公
 
@@ -13092,4 +13319,4 @@ Check if we need to incorporate the article's title: "賞罰-之". It is probabl
 
 
 ---
-*1447 articles indexed*
+*1469 articles indexed*
