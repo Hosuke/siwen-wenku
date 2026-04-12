@@ -477,6 +477,26 @@
     ]
   },
   {
+    "slug": "七術",
+    "title": "七術",
+    "summary": "君主馭臣之七法，曰參觀、必罰、賞譽、一聽、詭使、挾智、倒言。",
+    "tags": [
+      "韓非",
+      "治術",
+      "馭臣",
+      "法家"
+    ],
+    "sources": [
+      {
+        "chapter": "內儲說上七術",
+        "plugin": "wikisource",
+        "title": "韓非子 · 內儲說上七術",
+        "url": "https://zh.wikisource.org/wiki/韓非子/內儲說上七術",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "七襄",
     "title": "七襄",
     "summary": "終日七移，織女星象日更七次",
@@ -3362,6 +3382,25 @@
     ]
   },
   {
+    "slug": "中心好之",
+    "title": "中心好之",
+    "summary": "孤生者思得賢友，中心悅慕，願以酒食相待也。",
+    "tags": [
+      "詩經",
+      "招賢",
+      "思友"
+    ],
+    "sources": [
+      {
+        "chapter": "有杕之杜",
+        "plugin": "wikisource",
+        "title": "詩經 · 有杕之杜",
+        "url": "https://zh.wikisource.org/wiki/詩經/有杕之杜",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "中心愿",
     "title": "中心愿",
     "summary": "誠發於心，出於自然，非有待而後應。",
@@ -3549,6 +3588,26 @@
         "title": "荀子 · 正論篇",
         "url": "https://zh.wikisource.org/wiki/荀子/正論篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "之子無裳",
+    "title": "之子無裳",
+    "summary": "鰥夫困乏，無以為昏禮之備也。",
+    "tags": [
+      "詩經",
+      "鰥夫",
+      "困乏",
+      "昏禮"
+    ],
+    "sources": [
+      {
+        "chapter": "有狐",
+        "plugin": "wikisource",
+        "title": "詩經 · 有狐",
+        "url": "https://zh.wikisource.org/wiki/詩經/有狐",
+        "work": "詩經"
       }
     ]
   },
@@ -10462,6 +10521,48 @@
     ]
   },
   {
+    "slug": "允王保之",
+    "title": "允王保之",
+    "summary": "王者永保天命，守成有道。",
+    "tags": [
+      "詩經",
+      "守成",
+      "天命",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "時邁",
+        "plugin": "wikisource",
+        "title": "詩經 · 時邁",
+        "url": "https://zh.wikisource.org/wiki/詩經/時邁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "允王維後",
+    "title": "允王維後",
+    "summary": "王者天下之君，天命攸歸。",
+    "tags": [
+      "詩經",
+      "王道",
+      "天命",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "時邁",
+        "plugin": "wikisource",
+        "title": "詩經 · 時邁",
+        "url": "https://zh.wikisource.org/wiki/詩經/時邁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "元封元年",
     "title": "元封元年",
     "summary": "寶鼎出，有司言當為元鼎，以今年為元封元年。",
@@ -12110,6 +12211,26 @@
     ]
   },
   {
+    "slug": "公輸不能加於繩墨",
+    "title": "公輸不能加於繩墨",
+    "summary": "匠人聖人，皆有不可逾之準則。",
+    "tags": [
+      "法度",
+      "禮",
+      "聖人",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "法行篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 法行篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/法行篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "公道達而私門塞",
     "title": "公道達而私門塞",
     "summary": "明分職則公道通達而私門閉塞",
@@ -12496,6 +12617,27 @@
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "六駮",
+    "title": "六駮",
+    "summary": "離異之木，以興賢臣之見棄。",
+    "tags": [
+      "詩經",
+      "晨風",
+      "植物",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "晨風",
+        "plugin": "wikisource",
+        "title": "詩經 · 晨風",
+        "url": "https://zh.wikisource.org/wiki/詩經/晨風",
+        "work": "詩經"
       }
     ]
   },
@@ -17870,6 +18012,48 @@
     ]
   },
   {
+    "slug": "君子三思",
+    "title": "君子三思",
+    "summary": "少學、長教、富施，皆及時而行之。",
+    "tags": [
+      "修身",
+      "時習",
+      "孔子",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "法行篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 法行篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/法行篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "君子三恕",
+    "title": "君子三恕",
+    "summary": "事君以忠、事親以孝、事兄以敬，反是者非恕也。",
+    "tags": [
+      "修身",
+      "恕道",
+      "孔子",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "法行篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 法行篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/法行篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "君子不器",
     "title": "君子不器",
     "summary": "",
@@ -20933,7 +21117,8 @@
     "tags": [
       "盡心",
       "成王",
-      "德治"
+      "德治",
+      "部:其他"
     ],
     "sources": [
       {
@@ -24533,7 +24718,8 @@
       "成王",
       "勤政",
       "天命",
-      "恭慎"
+      "恭慎",
+      "部:其他"
     ],
     "sources": [
       {
@@ -27475,6 +27661,27 @@
     ]
   },
   {
+    "slug": "失之己而反諸人",
+    "title": "失之己而反諸人",
+    "summary": "患失之由己，反求諸己乃正道，怨人怨天皆非也。",
+    "tags": [
+      "修身",
+      "反求諸己",
+      "曾子",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "法行篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 法行篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/法行篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "失人失天",
     "title": "失人失天",
     "summary": "背信忘義，既失人心又失天佑",
@@ -27977,6 +28184,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 君子于役",
         "url": "https://zh.wikisource.org/wiki/詩經/君子于役",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "如何如何",
+    "title": "如何如何",
+    "summary": "嗟歎之辭，以見憂之甚而不可解。",
+    "tags": [
+      "詩經",
+      "晨風",
+      "感歎",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "晨風",
+        "plugin": "wikisource",
+        "title": "詩經 · 晨風",
+        "url": "https://zh.wikisource.org/wiki/詩經/晨風",
         "work": "詩經"
       }
     ]
@@ -31893,6 +32121,27 @@
         "title": "列子 · 楊朱篇",
         "url": "https://zh.wikisource.org/wiki/列子/楊朱篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "實右序",
+    "title": "實右序有周",
+    "summary": "天實佑助周家，使之有序。",
+    "tags": [
+      "詩經",
+      "天佑",
+      "周室",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "時邁",
+        "plugin": "wikisource",
+        "title": "詩經 · 時邁",
+        "url": "https://zh.wikisource.org/wiki/詩經/時邁",
+        "work": "詩經"
       }
     ]
   },
@@ -36800,6 +37049,27 @@
     ]
   },
   {
+    "slug": "忘我實多",
+    "title": "忘我實多",
+    "summary": "怨君之棄賢，忘我之深也。",
+    "tags": [
+      "詩經",
+      "晨風",
+      "怨刺",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "晨風",
+        "plugin": "wikisource",
+        "title": "詩經 · 晨風",
+        "url": "https://zh.wikisource.org/wiki/詩經/晨風",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "忠孝第五十一",
     "title": "忠孝",
     "summary": "忠孝之本在於循公而去私，唯天下至誠者能兼全臣道與子道",
@@ -38507,6 +38777,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 新臺",
         "url": "https://zh.wikisource.org/wiki/詩經/新臺",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "戢干戈櫜弓矢",
+    "title": "戢干戈櫜弓矢",
+    "summary": "止戈為武，天下太平。",
+    "tags": [
+      "詩經",
+      "軍事",
+      "和平",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "時邁",
+        "plugin": "wikisource",
+        "title": "詩經 · 時邁",
+        "url": "https://zh.wikisource.org/wiki/詩經/時邁",
         "work": "詩經"
       }
     ]
@@ -41777,6 +42068,27 @@
     ]
   },
   {
+    "slug": "旱麓",
+    "title": "旱麓",
+    "summary": "乾燥山足，草木豐茂，以興君子之德盛。",
+    "tags": [
+      "詩經",
+      "興象",
+      "自然",
+      "部:經",
+      "部:經/易類"
+    ],
+    "sources": [
+      {
+        "chapter": "旱麓",
+        "plugin": "wikisource",
+        "title": "詩經 · 旱麓",
+        "url": "https://zh.wikisource.org/wiki/詩經/旱麓",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "旻天疾威",
     "title": "旻天疾威",
     "summary": "天降威虐，饑饉並臻，萬民流亡，邊圉荒蕪。",
@@ -41816,6 +42128,26 @@
     ]
   },
   {
+    "slug": "昊天其子之",
+    "title": "昊天其子之",
+    "summary": "天以天子為子，予以天命。",
+    "tags": [
+      "詩經",
+      "天命",
+      "受命",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "時邁",
+        "plugin": "wikisource",
+        "title": "詩經 · 時邁",
+        "url": "https://zh.wikisource.org/wiki/詩經/時邁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "昊天有成命",
     "title": "昊天有成命",
     "summary": "頌成王承天命不敢康寧，緝熙其德以安天下。",
@@ -41824,7 +42156,9 @@
       "頌",
       "天命",
       "成王",
-      "周頌"
+      "周頌",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -42288,6 +42622,27 @@
         "title": "大學",
         "url": "https://zh.wikisource.org/wiki/大學",
         "work": "大學"
+      }
+    ]
+  },
+  {
+    "slug": "明昭有周",
+    "title": "明昭有周",
+    "summary": "周道明著，光被四方。",
+    "tags": [
+      "詩經",
+      "周道",
+      "德政",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "時邁",
+        "plugin": "wikisource",
+        "title": "詩經 · 時邁",
+        "url": "https://zh.wikisource.org/wiki/詩經/時邁",
+        "work": "詩經"
       }
     ]
   },
@@ -43188,6 +43543,27 @@
     ]
   },
   {
+    "slug": "時邁其邦",
+    "title": "時邁其邦",
+    "summary": "天子巡行天下，以彰王跡。",
+    "tags": [
+      "詩經",
+      "巡守",
+      "王政",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "時邁",
+        "plugin": "wikisource",
+        "title": "詩經 · 時邁",
+        "url": "https://zh.wikisource.org/wiki/詩經/時邁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "晉不和",
     "title": "晉不和",
     "summary": "小人欲報秦，君子欲事秦，故不和",
@@ -43465,6 +43841,27 @@
         "title": "列子 · 楊朱篇",
         "url": "https://zh.wikisource.org/wiki/列子/楊朱篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "晨風",
+    "title": "晨風",
+    "summary": "賢臣被棄、憂心難釋之詩。",
+    "tags": [
+      "詩經",
+      "秦風",
+      "棄臣",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "晨風",
+        "plugin": "wikisource",
+        "title": "詩經 · 晨風",
+        "url": "https://zh.wikisource.org/wiki/詩經/晨風",
+        "work": "詩經"
       }
     ]
   },
@@ -44324,6 +44721,26 @@
         "plugin": "wikisource",
         "title": "詩經 · 大東",
         "url": "https://zh.wikisource.org/wiki/詩經/大東",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "有狐綏綏",
+    "title": "有狐綏綏",
+    "summary": "狐行遲遲，以況鰥夫之匹匹而無耦也。",
+    "tags": [
+      "詩經",
+      "興象",
+      "國風",
+      "孤獨"
+    ],
+    "sources": [
+      {
+        "chapter": "有狐",
+        "plugin": "wikisource",
+        "title": "詩經 · 有狐",
+        "url": "https://zh.wikisource.org/wiki/詩經/有狐",
         "work": "詩經"
       }
     ]
@@ -46613,6 +47030,27 @@
     ]
   },
   {
+    "slug": "榛楛濟濟",
+    "title": "榛楛濟濟",
+    "summary": "榛楛叢生，以喻君子育成人材，蔚然可觀。",
+    "tags": [
+      "詩經",
+      "草木",
+      "人材",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "旱麓",
+        "plugin": "wikisource",
+        "title": "詩經 · 旱麓",
+        "url": "https://zh.wikisource.org/wiki/詩經/旱麓",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "榮啟期",
     "title": "榮啟期行乎郕之野",
     "summary": "榮啟期年九十，鹿裘帶索，鼓琴而歌，以得為人、為男、年九十八為樂。",
@@ -46969,6 +47407,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 定之方中",
         "url": "https://zh.wikisource.org/wiki/詩經/定之方中",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "樹檖",
+    "title": "樹檖",
+    "summary": "挺立之檖，以興賢臣之無依。",
+    "tags": [
+      "詩經",
+      "晨風",
+      "植物",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "晨風",
+        "plugin": "wikisource",
+        "title": "詩經 · 晨風",
+        "url": "https://zh.wikisource.org/wiki/詩經/晨風",
         "work": "詩經"
       }
     ]
@@ -48169,6 +48628,26 @@
     ]
   },
   {
+    "slug": "殺禮多昏",
+    "title": "殺禮多昏",
+    "summary": "凶荒之年弛禮制以促昏姻，育人民也。",
+    "tags": [
+      "昏禮",
+      "凶荒",
+      "詩經",
+      "國風"
+    ],
+    "sources": [
+      {
+        "chapter": "有狐",
+        "plugin": "wikisource",
+        "title": "詩經 · 有狐",
+        "url": "https://zh.wikisource.org/wiki/詩經/有狐",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "毀則者為賊",
     "title": "毀則者為賊",
     "summary": "曲筆掩飾者為藏姦，當斥而去之。",
@@ -48844,6 +49323,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 我行其野",
         "url": "https://zh.wikisource.org/wiki/詩經/我行其野",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "求福不回",
+    "title": "求福不回",
+    "summary": "依循正道而求福，不以邪曲之道。",
+    "tags": [
+      "詩經",
+      "正道",
+      "求福",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "旱麓",
+        "plugin": "wikisource",
+        "title": "詩經 · 旱麓",
+        "url": "https://zh.wikisource.org/wiki/詩經/旱麓",
         "work": "詩經"
       }
     ]
@@ -53513,6 +54013,27 @@
     ]
   },
   {
+    "slug": "玉之七德",
+    "title": "玉比七德",
+    "summary": "玉具七美，君子比德，溫潤仁也，堅剛義也。",
+    "tags": [
+      "修身",
+      "玉德",
+      "孔子",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "法行篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 法行篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/法行篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "玉之瑱也",
     "title": "玉之瑱也",
     "summary": "玉製之充耳，垂於耳旁",
@@ -53552,6 +54073,27 @@
         "title": "荀子 · 勸學篇",
         "url": "https://zh.wikisource.org/wiki/荀子/勸學篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "玉瓚黃流",
+    "title": "玉瓚黃流",
+    "summary": "玉瓚之中黃酒流溢，祭祀之盛，福祿自天而降。",
+    "tags": [
+      "詩經",
+      "祭祀",
+      "禮器",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "旱麓",
+        "plugin": "wikisource",
+        "title": "詩經 · 旱麓",
+        "url": "https://zh.wikisource.org/wiki/詩經/旱麓",
+        "work": "詩經"
       }
     ]
   },
@@ -63492,6 +64034,27 @@
     ]
   },
   {
+    "slug": "肆時夏",
+    "title": "肆于時夏",
+    "summary": "弘布美德於華夏。",
+    "tags": [
+      "詩經",
+      "德治",
+      "華夏",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "時邁",
+        "plugin": "wikisource",
+        "title": "詩經 · 時邁",
+        "url": "https://zh.wikisource.org/wiki/詩經/時邁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "肉刑之摽戒",
     "title": "若夫肉刑者之為摽戒也多",
     "summary": "肉刑之威懾效果勝於死刑",
@@ -65097,6 +65660,26 @@
     ]
   },
   {
+    "slug": "良醫之門多病人",
+    "title": "良醫之門多病人",
+    "summary": "有教無類，故門庭蕪雜，實乃盛德之象。",
+    "tags": [
+      "教育",
+      "有教無類",
+      "子貢",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "法行篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 法行篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/法行篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "良馬四之",
     "title": "良馬四之",
     "summary": "四馬馭車以迎賢者。馬數遞加，以見敬賢之隆。",
@@ -65333,6 +65916,48 @@
         "title": "禮記 · 檀弓下",
         "url": "https://zh.wikisource.org/wiki/禮記/檀弓下",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "苞棣",
+    "title": "苞棣",
+    "summary": "叢生之棠棣，以興賢者之在野。",
+    "tags": [
+      "詩經",
+      "晨風",
+      "植物",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "晨風",
+        "plugin": "wikisource",
+        "title": "詩經 · 晨風",
+        "url": "https://zh.wikisource.org/wiki/詩經/晨風",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "苞櫟",
+    "title": "苞櫟",
+    "summary": "叢生之櫟，以興賢者在野。",
+    "tags": [
+      "詩經",
+      "晨風",
+      "植物",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "晨風",
+        "plugin": "wikisource",
+        "title": "詩經 · 晨風",
+        "url": "https://zh.wikisource.org/wiki/詩經/晨風",
+        "work": "詩經"
       }
     ]
   },
@@ -66209,6 +66834,27 @@
         "title": "墨子 · 耕柱",
         "url": "https://zh.wikisource.org/wiki/墨子/耕柱",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "葛藟施于條枚",
+    "title": "葛藟施于條枚",
+    "summary": "葛藤延蔓，依附條枚，以興君子依循正道，求福不回。",
+    "tags": [
+      "詩經",
+      "興象",
+      "正道",
+      "部:經",
+      "部:經/易類"
+    ],
+    "sources": [
+      {
+        "chapter": "旱麓",
+        "plugin": "wikisource",
+        "title": "詩經 · 旱麓",
+        "url": "https://zh.wikisource.org/wiki/詩經/旱麓",
+        "work": "詩經"
       }
     ]
   },
@@ -79720,6 +80366,48 @@
     ]
   },
   {
+    "slug": "魚躍于淵",
+    "title": "魚躍于淵",
+    "summary": "魚遊深淵，各遂其性，以興君子化下，民用自遂。",
+    "tags": [
+      "詩經",
+      "興象",
+      "德治",
+      "部:經",
+      "部:經/易類"
+    ],
+    "sources": [
+      {
+        "chapter": "旱麓",
+        "plugin": "wikisource",
+        "title": "詩經 · 旱麓",
+        "url": "https://zh.wikisource.org/wiki/詩經/旱麓",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "魚鱉黿鼉",
+    "title": "魚鱉黿鼉喻",
+    "summary": "物各求利，君子當以義制利，則恥辱不至。",
+    "tags": [
+      "修身",
+      "義利",
+      "曾子",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "法行篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 法行篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/法行篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "魯人以莒人先濟",
     "title": "諸侯伐秦魯人以莒人先濟",
     "summary": "諸侯伐秦至涇，叔孫穆子引《匏有苦葉》以示必涉，魯人遂使莒人先濟。",
@@ -79989,6 +80677,27 @@
         "title": "墨子 · 非儒下",
         "url": "https://zh.wikisource.org/wiki/墨子/非儒下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "鴥彼晨風",
+    "title": "鴥彼晨風",
+    "summary": "鳥迅飛貌，以興賢者之不得見。",
+    "tags": [
+      "詩經",
+      "晨風",
+      "起興",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "晨風",
+        "plugin": "wikisource",
+        "title": "詩經 · 晨風",
+        "url": "https://zh.wikisource.org/wiki/詩經/晨風",
+        "work": "詩經"
       }
     ]
   },
