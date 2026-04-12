@@ -103,6 +103,13 @@
         "title": "列子 · 周穆王篇",
         "url": "https://zh.wikisource.org/wiki/列子/周穆王篇",
         "work": "列子"
+      },
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -169,6 +176,25 @@
         "title": "墨子 · 七患",
         "url": "https://zh.wikisource.org/wiki/墨子/七患",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "七政四守",
+    "title": "七政四守",
+    "summary": "兵事之七政、人之四守，並為軍國之大節。",
+    "tags": [
+      "兵家",
+      "治道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
       }
     ]
   },
@@ -288,6 +314,30 @@
         "title": "禮記 · 王制",
         "url": "https://zh.wikisource.org/wiki/禮記/王制",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "三寶",
+    "title": "三寶",
+    "summary": "農、工、商為國之三寶，各安其業則民不匱、國可昌。",
+    "tags": [
+      "治國之道",
+      "經濟",
+      "三寶",
+      "產業",
+      "部:經",
+      "六韜",
+      "文韜",
+      "治國"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
       }
     ]
   },
@@ -477,6 +527,31 @@
     ]
   },
   {
+    "slug": "三略",
+    "title": "三略",
+    "summary": "古兵法之書，分上、中、下三略，論治國、統軍、御將之道。",
+    "tags": [
+      "兵家",
+      "武經七書",
+      "治國",
+      "統軍",
+      "兵法",
+      "黃石公",
+      "張良",
+      "治兵",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "三聖王",
     "title": "The Three Sage Kings / 三聖王",
     "summary": "Yu the Great, Tang, and Wu Wang as exemplars of righteous punishment rather than aggressive warfare.",
@@ -624,6 +699,27 @@
         "title": "文子 · 卷十一",
         "url": "https://zh.wikisource.org/wiki/文子/卷十一",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "上賢",
+    "title": "上賢",
+    "summary": "上賢去不肖，然有六賊七害不可不辨。",
+    "tags": [
+      "治國",
+      "尚賢",
+      "人才",
+      "政治",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
       }
     ]
   },
@@ -794,6 +890,27 @@
     ]
   },
   {
+    "slug": "不寒不熱之道",
+    "title": "不寒不熱之道",
+    "summary": "述御寒避暑諸方。",
+    "tags": [
+      "抱朴子",
+      "仙術",
+      "禦寒",
+      "防暑",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "不忍人之心",
     "title": "不忍人之心",
     "summary": "人皆有怵惕惻隱之心，先王本此心以行不忍人之政，故治天下可運之掌上。",
@@ -860,6 +977,43 @@
         "title": "墨子 · 非儒下",
         "url": "https://zh.wikisource.org/wiki/墨子/非儒下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "不測之淵起於汀瀅",
+    "title": "不測之淵起於汀瀅",
+    "summary": "不測之淵起於汀瀅，喻大道成於微小之積。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "不畏風濕",
+    "title": "不畏風濕",
+    "summary": "述道士山居不畏風濕之藥方。",
+    "tags": [
+      "仙學",
+      "養生",
+      "風濕",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
       }
     ]
   },
@@ -1093,6 +1247,46 @@
     ]
   },
   {
+    "slug": "丹精生金",
+    "title": "丹精生金",
+    "summary": "仙經雲丹精生金，此是以丹作金之說，故山中有丹砂者，其下多有金。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "理論",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "主不可以無德",
+    "title": "主不可以無德",
+    "summary": "主不可以無德無威，臣不可以無德無威；威多則身蹶。",
+    "tags": [
+      "君臣",
+      "治道",
+      "權變",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "主人必居東方",
     "title": "The Host Always Occupies the East / 主人必居東方",
     "summary": "鄉飲酒義所述主人之位定於東方，取象春天生育萬物，以德厚接人之義。",
@@ -1135,6 +1329,27 @@
     ]
   },
   {
+    "slug": "乘田駕馬",
+    "title": "乘田駕馬",
+    "summary": "文王於渭陽遇太公，乘田車、駕田馬而田，太公坐茅以漁，終獲師望。",
+    "tags": [
+      "文王",
+      "太公",
+      "歷史",
+      "遇合",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
     "slug": "九丹",
     "title": "九丹 / The Nine Elixirs / 九転金丹",
     "summary": "The nine-tiered system of divine elixirs described in Baopuzi for achieving immortality, ranging from the first Elixir of Splendor to the ninth Cold Elixir.",
@@ -1152,6 +1367,20 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷04",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷04",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
         "work": "抱朴子"
       }
     ]
@@ -1175,6 +1404,26 @@
         "title": "列子 · 說符篇",
         "url": "https://zh.wikisource.org/wiki/列子/說符篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "九發禁",
+    "title": "九發禁",
+    "summary": "諸侯會盟發禁之九條，姦亂者滅之。",
+    "tags": [
+      "兵家",
+      "諸侯",
+      "禁令",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
       }
     ]
   },
@@ -1357,6 +1606,13 @@
         "title": "吳子",
         "url": "https://zh.wikisource.org/wiki/吳子",
         "work": "吳子"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
       }
     ]
   },
@@ -1365,7 +1621,7 @@
     "title": "五刑",
     "summary": "墨子以「絲縷之紀、罔罟之綱」比喻五刑，�",
     "tags": [
-      "部:其他"
+      "部:子"
     ],
     "sources": [
       {
@@ -1396,6 +1652,46 @@
         "title": "孟子 · 梁惠王上",
         "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "五味偏傷",
+    "title": "五味偏傷",
+    "summary": "五味入口，不可偏多；偏多則各傷相應之臟。",
+    "tags": [
+      "五味",
+      "養生",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "五慮",
+    "title": "五慮",
+    "summary": "順天、阜財、懌眾、利地、右兵，軍國之五要務。",
+    "tags": [
+      "兵家",
+      "治道",
+      "五行",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
       }
     ]
   },
@@ -1480,6 +1776,30 @@
         "title": "墨子 · 七患",
         "url": "https://zh.wikisource.org/wiki/墨子/七患",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "五者一體",
+    "title": "道、德、仁、義、禮，五者一體",
+    "summary": "道也、德也、仁也、義也、禮也，五者相須為用，不可闕一。",
+    "tags": [
+      "倫理",
+      "五常",
+      "道",
+      "德",
+      "仁",
+      "義",
+      "禮",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
       }
     ]
   },
@@ -1574,6 +1894,26 @@
     ]
   },
   {
+    "slug": "人之情好惡各異",
+    "title": "人之情好惡各異",
+    "summary": "人之好惡天淵之殊，不可執一端以概天下。",
+    "tags": [
+      "抱朴子",
+      "人情",
+      "差異",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "人之所以異於禽獸者幾希",
     "title": "人之所以異於禽獸者幾希",
     "summary": "人禽之別，在於仁義，其分也微。",
@@ -1659,6 +1999,40 @@
     ]
   },
   {
+    "slug": "人稟受各有深淺",
+    "title": "人稟受各有深淺",
+    "summary": "稟受有深淺，修道成否非關年少年老，而在稟受厚薄。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "人退己進",
+    "title": "人退己進",
+    "summary": "人退己進者，陰子所以窮至道；敬卒若始者，羨門所以致雲龍。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "人道之至文",
     "title": "人道之至文",
     "summary": "三年之喪，禮之至文，乃百王古今之所同。",
@@ -1717,7 +2091,7 @@
     "title": "仁-儒學-之",
     "summary": "The user requests: \"Write a one-line summary for this article:\n\n# 仁-儒學-之\n\n《孟子·公孫丑上》亦明仁為天之尊爵、人之安宅：「夫仁，天之尊爵也，人之安宅也。莫之御而不仁，是不智也。」又以惻隱為仁之端：「惻隱之心，仁之端也。」並言仁者如射，當反求諸己。\n\n---\n\n又有以禮為仁之具者。《仲尼燕居》記子游問「禮也者，領惡而全好者與」，孔子然\"\n\nWe need to produce a one-line summary.\n\nWe need to capture main points: Chinese classical texts describing ren (benevolence) as a heavenly title and human refuge; also the feeling of compassion (惻隱) is the beginning of ren; the analogy that the benevolent act like shooting an arrow, should reflect upon oneself; also the role of li (ritual) as a tool for ren; reference to Confucius' teaching about ritual guiding the avoidance of evil and preservation of good.\n\nThus a one-line summary: \"The article explains that in Confucian thought, ren (benevolence) is",
     "tags": [
-      "部:其他"
+      "部:經"
     ],
     "sources": [
       {
@@ -1775,6 +2149,25 @@
         "title": "禮記 · 表記",
         "url": "https://zh.wikisource.org/wiki/禮記/表記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "仁本",
+    "title": "仁本",
+    "summary": "治以仁為本，戰以義為權，殺人攻國皆出於不得已。",
+    "tags": [
+      "兵家",
+      "仁義",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
       }
     ]
   },
@@ -1839,6 +2232,87 @@
         "title": "論語 · 先進第十一",
         "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "仙藥-之",
+    "title": "仙藥-之",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷11",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷11",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷11",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "仙術秘傳",
+    "title": "仙術秘傳",
+    "summary": "道家寶秘仙術，選弟子至精至久，然後告之以要诀。",
+    "tags": [
+      "抱朴子",
+      "仙術",
+      "秘傳",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "仙道在於篤信",
+    "title": "仙道在於篤信",
+    "summary": "仙道不在才高，唯在篤信至誠。",
+    "tags": [
+      "抱朴子",
+      "仙道",
+      "修道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "仙非稟異氣",
+    "title": "仙非稟異氣",
+    "summary": "仙人皆由學以得之，非稟異氣而然。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -2079,6 +2553,27 @@
     ]
   },
   {
+    "slug": "仲尼知靈寶",
+    "title": "仲尼知靈寶",
+    "summary": "仲尼識得紫文金簡之書，乃知夏禹不死之實。",
+    "tags": [
+      "抱朴子",
+      "孔子",
+      "靈寶",
+      "仙術",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "仲尼非學仙之人",
     "title": "仲尼非學仙之人 / Confucius Was Not a Practitioner of Immortality",
     "summary": "Ge Hong's argument that Confucius, though meeting Laozi, lacked the temperament for pursuing immortality.",
@@ -2095,6 +2590,13 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷07",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷07",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
         "work": "抱朴子"
       }
     ]
@@ -2166,6 +2668,26 @@
         "title": "墨子 · 非攻中",
         "url": "https://zh.wikisource.org/wiki/墨子/非攻中",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "伐暴討亂",
+    "title": "伐暴討亂",
+    "summary": "聖王之兵，以義誅不義，若決江河而溉爝火。",
+    "tags": [
+      "兵家",
+      "武經七書",
+      "正義戰爭",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
       }
     ]
   },
@@ -2261,6 +2783,26 @@
     ]
   },
   {
+    "slug": "作丹砂水法",
+    "title": "作丹砂水法",
+    "summary": "以丹砂加石膽消石，封於竹筩，入醇苦酒中，三十日成水。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "方術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "作壹",
     "title": "作壹",
     "summary": "專心農戰，歸於一途",
@@ -2277,6 +2819,46 @@
         "title": "商君書 · 卷一",
         "url": "https://zh.wikisource.org/wiki/商君書/卷一",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "作黃金法",
+    "title": "作黃金法",
+    "summary": "以雄黃、戎鹽、石膽諸藥，配以赤土釜、馬糞火煴之法，可得黃金。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "方術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "佞臣在上必受禍殃",
+    "title": "佞臣在上必受禍殃",
+    "summary": "佞臣用事，必致禍亂；明主當察而去之。",
+    "tags": [
+      "治國",
+      "奸佞",
+      "君道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
       }
     ]
   },
@@ -2330,6 +2912,46 @@
     ]
   },
   {
+    "slug": "使怨治怨",
+    "title": "使怨治怨",
+    "summary": "以怨治怨，禍不可救；治民當平，平當以清。",
+    "tags": [
+      "兵家",
+      "治國",
+      "政術",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "使智使勇使貪使愚",
+    "title": "使智使勇使貪使愚",
+    "summary": "任用各色人等，因其至情而驅使之，此軍之微權也。",
+    "tags": [
+      "兵法",
+      "任人",
+      "權變",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "使民無得擅徙",
     "title": "使民無得擅徙",
     "summary": "禁民擅移，居止有定",
@@ -2363,6 +2985,27 @@
         "title": "禮記 · 祭義",
         "url": "https://zh.wikisource.org/wiki/禮記/祭義",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "使貪使愚",
+    "title": "使貪使愚",
+    "summary": "因人情而用之，使智者、勇者、貪者、愚者各盡其用，此軍之微權。",
+    "tags": [
+      "治兵",
+      "權謀",
+      "用人",
+      "權變",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
       }
     ]
   },
@@ -2405,6 +3048,25 @@
         "title": "墨子 · 節葬下",
         "url": "https://zh.wikisource.org/wiki/墨子/節葬下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "俗民不能生生",
+    "title": "俗民不能生生",
+    "summary": "俗民既不能生生，而務所以煞生；以有盡之物，供無已之耗，猶不供也。",
+    "tags": [
+      "養生",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -2731,6 +3393,50 @@
     ]
   },
   {
+    "slug": "傷之十五事",
+    "title": "傷之十五事",
+    "summary": "十五事皆足傷身，養生者當戒之。",
+    "tags": [
+      "養生",
+      "傷身",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "傷賢者殃及三世",
+    "title": "傷賢者殃及三世",
+    "summary": "傷賢者殃及後代，蔽賢嫉賢進賢各有所報；國當急於進賢。",
+    "tags": [
+      "任賢",
+      "治亂",
+      "福報",
+      "治道",
+      "賢才",
+      "賞罰",
+      "因果",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "儉節",
     "title": "Jiǎnjié (Frugality and Restraint) / 儉節",
     "summary": "A Mohist virtue of moderation and economical self-restraint, contrasted with淫佚.",
@@ -2740,7 +3446,8 @@
       "virtue",
       "moderation",
       "chinese philosophy",
-      "stub"
+      "stub",
+      "部:其他"
     ],
     "sources": []
   },
@@ -2753,7 +3460,8 @@
       "修身",
       "儒家",
       "道家",
-      "stub"
+      "stub",
+      "部:經"
     ],
     "sources": []
   },
@@ -2825,6 +3533,13 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷07",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷07",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
         "work": "抱朴子"
       }
     ]
@@ -2990,6 +3705,26 @@
     ]
   },
   {
+    "slug": "入山符",
+    "title": "入山符",
+    "summary": "錄老君入山辟精魅諸符。",
+    "tags": [
+      "仙學",
+      "符籙",
+      "入山",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "內外之分",
     "title": "內外之分 / The Division of Inner and Outer / 内外の分かれ",
     "summary": "The Confucian principle of gender-specific spatial division between males (outer/public) and females (inner/private) in household management.",
@@ -3028,6 +3763,30 @@
         "title": "孟子 · 告子下",
         "url": "https://zh.wikisource.org/wiki/孟子/告子下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "全勝不鬥",
+    "title": "全勝不鬥",
+    "summary": "不待交兵而敵國自服，乃兵家之上乘。",
+    "tags": [
+      "兵法",
+      "戰略",
+      "軍事哲學",
+      "上兵伐謀",
+      "部:子",
+      "六韜",
+      "武韜",
+      "聖人之道"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
       }
     ]
   },
@@ -3144,6 +3903,31 @@
     ]
   },
   {
+    "slug": "六守",
+    "title": "六守",
+    "summary": "君人者當守仁、義、忠、信、勇、謀六者，以農、工、商三寶立國。",
+    "tags": [
+      "治國",
+      "六韜",
+      "六守",
+      "治國之道",
+      "人才",
+      "德行",
+      "部:子",
+      "文韜",
+      "考察"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
     "slug": "六教",
     "title": "The Six Teachings / 六教",
     "summary": "The Confucian doctrine that each of the Six Classics cultivates a specific moral disposition in those who study it.",
@@ -3192,6 +3976,26 @@
     ]
   },
   {
+    "slug": "六甲秘祝",
+    "title": "六甲秘祝",
+    "summary": "述入山密祝之辭與寶日義日之義。",
+    "tags": [
+      "仙學",
+      "禁祝",
+      "秘術",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "六經之教",
     "title": "六經之教 / The Six Classics and Their Educational Functions",
     "summary": "Confucius's teaching that each of the six classics cultivates specific virtues while carrying inherent risks of excess.",
@@ -3214,6 +4018,52 @@
         "title": "禮記 · 經解",
         "url": "https://zh.wikisource.org/wiki/禮記/經解",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "六賊七害",
+    "title": "六賊七害",
+    "summary": "識別六種敗德之臣與七類害國之人，君主不可不察。",
+    "tags": [
+      "治國",
+      "鑒人",
+      "奸臣",
+      "人才",
+      "部:其他",
+      "六韜",
+      "文韜",
+      "君道",
+      "姦邪"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "六韜之書",
+    "title": "六韜之書",
+    "summary": "太公兵法之總名，或疑其依托，而七書流傳已久。",
+    "tags": [
+      "六韜",
+      "兵法",
+      "太公",
+      "武學七書",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
       }
     ]
   },
@@ -3262,6 +4112,26 @@
     ]
   },
   {
+    "slug": "兵者不祥之器",
+    "title": "兵者不祥之器",
+    "summary": "兵者不祥之器，天道惡之，不得已而用之。",
+    "tags": [
+      "兵法",
+      "天道",
+      "仁義",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "其往送也如慕其反也如疑",
     "title": "其往送也如慕，其反也如疑 / Like Longing in Going, Like Hesitation in Returning",
     "summary": "送喪之人，往時如子女之慕親，反時如有求而不得，狀孝子之心於送死之際。",
@@ -3279,6 +4149,27 @@
         "title": "禮記 · 問喪",
         "url": "https://zh.wikisource.org/wiki/禮記/問喪",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "兼修醫術",
+    "title": "兼修醫術",
+    "summary": "論為道者當兼修醫術以救近禍。",
+    "tags": [
+      "抱朴子",
+      "仙道",
+      "醫術",
+      "養生",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
       }
     ]
   },
@@ -3320,6 +4211,8 @@
       "兼愛",
       "墨學",
       "治道",
+      "仁政",
+      "愛民",
       "部:子"
     ],
     "sources": [
@@ -3364,6 +4257,13 @@
         "title": "墨子 · 天志中",
         "url": "https://zh.wikisource.org/wiki/墨子/天志中",
         "work": "墨子"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
       }
     ]
   },
@@ -3434,6 +4334,40 @@
     ]
   },
   {
+    "slug": "冲風枯柯",
+    "title": "冲風枯柯",
+    "summary": "冲風赴林而枯柯先摧，喻邪侵正體因其本先傷。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "凝水銀為金",
+    "title": "凝水銀為金",
+    "summary": "丹沙可為金，河車可作銀，立則可成，成則為真。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "凱弟君子",
     "title": "凱弟君子",
     "summary": "詩所述和樂近善之君子，堪為民之父母。",
@@ -3464,6 +4398,27 @@
         "title": "禮記 · 鄉飲酒義",
         "url": "https://zh.wikisource.org/wiki/禮記/鄉飲酒義",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "分形之道",
+    "title": "分形之道",
+    "summary": "守玄一者能分其形為數人，隱顯自如。",
+    "tags": [
+      "抱朴子",
+      "玄一",
+      "分形",
+      "道術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷18",
+        "work": "抱朴子"
       }
     ]
   },
@@ -3625,6 +4580,26 @@
     ]
   },
   {
+    "slug": "利一害百民去城郭",
+    "title": "利一害百民去城郭",
+    "summary": "利一害百則民散，利一害萬則國思散；去一利百則人慕澤，去一利萬則政不亂。",
+    "tags": [
+      "治道",
+      "民本",
+      "利害",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "制度在禮",
     "title": "制度在禮",
     "summary": "制度在禮，文為在禮；行之，其在人乎？",
@@ -3689,6 +4664,26 @@
         "title": "商君書 · 卷五",
         "url": "https://zh.wikisource.org/wiki/商君書/卷五",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "劉向作金不成",
+    "title": "劉向作金不成",
+    "summary": "劉向於宮中作金不成，非天下果無此道，乃不得其法、不齋潔故也。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "事例",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
       }
     ]
   },
@@ -3831,6 +4826,63 @@
     ]
   },
   {
+    "slug": "務成子法",
+    "title": "務成子法",
+    "summary": "以雄黃為泥塗裹鐵筩，加丹砂水、馬通火煴，可得雄黃精，再以水銀、鉛可成金，其效驗神通廣大。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "方術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "務舉賢而不能用",
+    "title": "務舉賢而不能用",
+    "summary": "舉賢而不用，是有賢名而無賢實；好用世俗之所譽者，非真知賢者也。",
+    "tags": [
+      "六韜",
+      "舉賢",
+      "任賢",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "勤求明師-之",
+    "title": "勤求明師-之",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "匿一人者猶有罪",
     "title": "匿一人者猶有罪 / The Sin of Concealing Virtue",
     "summary": "善行不傳與善人不出，皆為有罪；匿善之害甚於匿人之過，當弘揚善道以為世勸。",
@@ -3875,6 +4927,26 @@
     ]
   },
   {
+    "slug": "千里迎賢其路遠",
+    "title": "千里迎賢其路遠",
+    "summary": "迎賢之路遠而不辭，致不肖之路近而不取，此明王之智。",
+    "tags": [
+      "任賢",
+      "治道",
+      "明主",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "千鎰之裘非一狐之白",
     "title": "A Thousand Yi of Fur Is Not One Fox's White / 千鎰之裘非一狐之白",
     "summary": "The metaphor of a luxurious fur coat requiring many foxes illustrates that great achievements require the contributions of many.",
@@ -3911,6 +4983,13 @@
         "title": "論語 · 先進第十一",
         "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
         "work": "論語"
+      },
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -3960,6 +5039,27 @@
         "title": "禮記 · 表記",
         "url": "https://zh.wikisource.org/wiki/禮記/表記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "占候知來",
+    "title": "占候知來",
+    "summary": "述帷幄之內先知吉凶諸術。",
+    "tags": [
+      "抱朴子",
+      "占卜",
+      "仙術",
+      "預知",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
       }
     ]
   },
@@ -4082,7 +5182,8 @@
       "天志",
       "兼別",
       "哲學",
-      "stub"
+      "stub",
+      "部:史"
     ],
     "sources": []
   },
@@ -4167,6 +5268,26 @@
         "title": "禮記 · 三年問",
         "url": "https://zh.wikisource.org/wiki/禮記/三年問",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "受氣有多少",
+    "title": "受氣有多少",
+    "summary": "人稟氣有多少，修道成否視稟氣厚薄而定。",
+    "tags": [
+      "稟氣",
+      "修仙",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -4309,7 +5430,8 @@
       "zhou-dynasty",
       "military",
       "six-ministers",
-      "stub"
+      "stub",
+      "部:其他"
     ],
     "sources": []
   },
@@ -4586,6 +5708,26 @@
     ]
   },
   {
+    "slug": "吳大文見李根作銀",
+    "title": "吳大文見李根作銀",
+    "summary": "成都內史吳大文親見道士李根煎鉛錫成銀，雖得其方，終未能成。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "事例",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "吳子兵略",
     "title": "吳子兵略",
     "summary": "兼用文德武備，料敵料人，以勝為務。",
@@ -4813,6 +5955,33 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷07",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷07",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "命稟之星",
+    "title": "命稟之星",
+    "summary": "人之吉凶壽夭，定於結胎受氣之日所值之星宿。",
+    "tags": [
+      "抱朴子",
+      "命運",
+      "星命",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
         "work": "抱朴子"
       }
     ]
@@ -5141,6 +6310,26 @@
     ]
   },
   {
+    "slug": "善攝生者",
+    "title": "善攝生者",
+    "summary": "養生以不傷為本，善攝生者當調利筋骨、杜疾閑邪、忍怒抑喜、節宣勞逸。",
+    "tags": [
+      "養生",
+      "抱朴子",
+      "養生以不傷為本",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "善歌使人繼其聲",
     "title": "善歌使人繼其聲",
     "summary": "善教者使人樂於傳承其志，如善歌者使人繼其聲。",
@@ -5191,6 +6380,25 @@
         "title": "商君書 · 卷五",
         "url": "https://zh.wikisource.org/wiki/商君書/卷五",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "嚴位",
+    "title": "嚴位",
+    "summary": "治軍之道在位嚴、政栗、力窕、氣閑、心一。",
+    "tags": [
+      "兵家",
+      "治軍",
+      "紀律"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
       }
     ]
   },
@@ -5359,7 +6567,7 @@
     "title": "四輔",
     "summary": "四辅（师、保、疑、丞）是中国古代设官辅导太子，教授其德行与君臣父子之道的制度。",
     "tags": [
-      "部:其他"
+      "部:子"
     ],
     "sources": [
       {
@@ -5435,6 +6643,26 @@
     ]
   },
   {
+    "slug": "國容不入軍",
+    "title": "國容不入軍",
+    "summary": "國之禮儀不入軍中，軍之威儀不入國中，各守其分。",
+    "tags": [
+      "兵家",
+      "禮制",
+      "國制",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
+      }
+    ]
+  },
+  {
     "slug": "國無三年之食",
     "title": "國無三年之食者國非其國",
     "summary": "備荒儲粟，國家存亡之要務。",
@@ -5472,6 +6700,28 @@
         "title": "商君書 · 卷一",
         "url": "https://zh.wikisource.org/wiki/商君書/卷一",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "國雖大好戰必亡",
+    "title": "國雖大好戰必亡",
+    "summary": "好戰必亡，忘戰必危，並稱治國之戒。",
+    "tags": [
+      "治國",
+      "兵家",
+      "警句",
+      "部:其他",
+      "治道",
+      "鑒戒"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
       }
     ]
   },
@@ -5724,6 +6974,47 @@
     ]
   },
   {
+    "slug": "堅齒之道",
+    "title": "堅齒之道",
+    "summary": "述固齒護齒諸方。",
+    "tags": [
+      "抱朴子",
+      "養生",
+      "堅齒",
+      "醫術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "堯漿",
+    "title": "堯漿",
+    "summary": "丹藥之名，非堯時漿水，乃消石之隱稱。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "隱語",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "堯禪天下",
     "title": "堯禪天下",
     "summary": "堯治天下五十年不知治亂，乃微服察謠，知民不知而禪於舜",
@@ -5743,6 +7034,27 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "堯舜之治",
+    "title": "堯舜之治",
+    "summary": "帝堯治世，薄己厚民，躬行節儉，任賢去姦，天下富樂而民戴之如日月。",
+    "tags": [
+      "治世",
+      "聖王",
+      "德治",
+      "堯舜",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
       }
     ]
   },
@@ -6438,6 +7750,26 @@
     ]
   },
   {
+    "slug": "大禮",
+    "title": "大禮",
+    "summary": "君臨下以天之道，臣事上以地之德，目貴明則無不見，耳貴聰則無不聞。",
+    "tags": [
+      "六韜",
+      "君臣",
+      "大禮",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
     "slug": "大臣具臣",
     "title": "大臣具臣",
     "summary": "以道事君，不可則止，是之謂大臣；具臣則不然。",
@@ -6634,6 +7966,52 @@
     ]
   },
   {
+    "slug": "天下歸之",
+    "title": "天下歸之",
+    "summary": "得天下者，在乎仁、德、義、道四者，能與天下共之，則天下歸心。",
+    "tags": [
+      "天下",
+      "仁德",
+      "歸附",
+      "治道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "天下非一人之天下",
+    "title": "天下非一人之天下",
+    "summary": "天下者天下之天下，唯與民同利者得之。",
+    "tags": [
+      "政治哲學",
+      "六韜",
+      "天道",
+      "天下觀",
+      "德治",
+      "部:子",
+      "文韜",
+      "武韜",
+      "君道"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
     "slug": "天之意",
     "title": "天之意 / The Intention of Heaven / 天の意思",
     "summary": "墨子所言天之所欲與所憎，為賞罰之根據，亦為治國之準則。",
@@ -6719,6 +8097,25 @@
     ]
   },
   {
+    "slug": "天子之義",
+    "title": "天子之義",
+    "summary": "天子之義法天地，士民之義奉父母；禮與法表裏，文與武左右。",
+    "tags": [
+      "兵家",
+      "天子",
+      "禮法"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
+      }
+    ]
+  },
+  {
     "slug": "天德",
     "title": "天德 / 天德",
     "summary": "The virtue attained by following Heaven's will, the opposite of 天賊.",
@@ -6727,7 +8124,8 @@
       "天志",
       "兼愛",
       "順天之意",
-      "stub"
+      "stub",
+      "部:史"
     ],
     "sources": []
   },
@@ -6876,7 +8274,8 @@
       "天志",
       "兼別",
       "墨子",
-      "stub"
+      "stub",
+      "部:子"
     ],
     "sources": []
   },
@@ -6899,6 +8298,26 @@
         "title": "墨子 · 天志中",
         "url": "https://zh.wikisource.org/wiki/墨子/天志中",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "天道惡之",
+    "title": "天道惡之",
+    "summary": "兵者不祥之器，天道所厭，必不得已而後用。",
+    "tags": [
+      "兵家",
+      "天道觀",
+      "慎戰思想",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
       }
     ]
   },
@@ -6990,7 +8409,8 @@
       "family",
       "social relationships",
       "rites",
-      "stub"
+      "stub",
+      "部:其他"
     ],
     "sources": []
   },
@@ -7124,6 +8544,23 @@
         "title": "禮記 · 檀弓上",
         "url": "https://zh.wikisource.org/wiki/禮記/檀弓上",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "始為為疾",
+    "title": "始為為疾",
+    "summary": "人以覺病之日始作為疾，猶以氣絕之日為身喪之候。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -7268,7 +8705,8 @@
       "confucius disciples",
       "rites of zhou",
       "spring and autumn period",
-      "stub"
+      "stub",
+      "部:子"
     ],
     "sources": []
   },
@@ -7282,7 +8720,8 @@
       "魯國",
       "春秋",
       "射禮",
-      "stub"
+      "stub",
+      "部:經"
     ],
     "sources": []
   },
@@ -7471,6 +8910,83 @@
         "title": "抱朴子 · 卷03",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷03",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "守一之道",
+    "title": "守一之道",
+    "summary": "知一則萬事畢，守一則可通神辟害。",
+    "tags": [
+      "抱朴子",
+      "守一",
+      "長生",
+      "道術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷18",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "守一卻鬼",
+    "title": "守一卻鬼",
+    "summary": "守一不怠，眾惡遠迸，鬼為退散。",
+    "tags": [
+      "抱朴子",
+      "守一",
+      "辟鬼",
+      "道術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷18",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "守一辟兵",
+    "title": "守一辟兵",
+    "summary": "守一之人，白刃無所措其銳，百害無所容其凶，入軍涉川，不須卜日。",
+    "tags": [
+      "抱朴子",
+      "守一",
+      "辟兵",
+      "道術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷18",
+        "work": "抱朴子"
       }
     ]
   },
@@ -7492,6 +9008,26 @@
         "title": "文子 · 卷五",
         "url": "https://zh.wikisource.org/wiki/文子/卷五",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "守國",
+    "title": "守國",
+    "summary": "守國當法天地之常，因四時生殺之序，以仁聖之道牧民。",
+    "tags": [
+      "治國",
+      "六韜",
+      "天道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
       }
     ]
   },
@@ -7535,6 +9071,26 @@
         "title": "墨子 · 號令",
         "url": "https://zh.wikisource.org/wiki/墨子/號令",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "守土",
+    "title": "守土",
+    "summary": "守土在親民，在勿失其權，在勿疏其親。",
+    "tags": [
+      "治國",
+      "六韜",
+      "守土",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
       }
     ]
   },
@@ -7658,6 +9214,27 @@
     ]
   },
   {
+    "slug": "守真一辟百害",
+    "title": "守真一辟百害",
+    "summary": "守真一可辟鬼魅犯侵，此長生之要務也。",
+    "tags": [
+      "抱朴子",
+      "真一",
+      "辟邪",
+      "長生",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷18",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "守者必善而君尊用之",
     "title": "守者必善而君尊用之",
     "summary": "守城之道，在守者善守、君能尊用，二者皆備，乃可言守。",
@@ -7674,6 +9251,23 @@
         "title": "墨子 · 備城門",
         "url": "https://zh.wikisource.org/wiki/墨子/備城門",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "守身煉形-之",
+    "title": "守身煉形-之",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
       }
     ]
   },
@@ -7722,6 +9316,23 @@
     ]
   },
   {
+    "slug": "安期先生不死",
+    "title": "安期先生不死",
+    "summary": "安期先生已千歲，見秦始皇而不死；所受金璧阜鄉亭赤玉舄，乃仙蹟也。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "定分",
     "title": "定分",
     "summary": "名分定則姦偽不生，法令者民之命為治之本",
@@ -7739,6 +9350,25 @@
         "title": "商君書 · 卷五",
         "url": "https://zh.wikisource.org/wiki/商君書/卷五",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "定爵",
+    "title": "定爵",
+    "summary": "戰前定爵位、申教令、治軍紀，以七政四守為法。",
+    "tags": [
+      "兵家",
+      "治軍",
+      "爵賞"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
       }
     ]
   },
@@ -7944,6 +9574,66 @@
     ]
   },
   {
+    "slug": "將無還令賞罰必信",
+    "title": "將無還令賞罰必信",
+    "summary": "將軍發令不可收回，賞罰必信如天地，方可使人效命。",
+    "tags": [
+      "將帥",
+      "賞罰",
+      "兵法",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "將者國之命",
+    "title": "將者國之命",
+    "summary": "將者，國之命也；將能制勝，則國家安定。",
+    "tags": [
+      "將帥",
+      "兵法",
+      "治國",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "將軍身也",
+    "title": "將軍身也",
+    "summary": "將為心，卒為肢，伍為指，相須以成。",
+    "tags": [
+      "兵家",
+      "將道",
+      "治軍",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
+      }
+    ]
+  },
+  {
     "slug": "尊師",
     "title": "尊師",
     "summary": "師與君同尊，天子詔於師亦北面。",
@@ -7960,6 +9650,13 @@
         "title": "禮記 · 學記",
         "url": "https://zh.wikisource.org/wiki/禮記/學記",
         "work": "禮記"
+      },
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -8184,6 +9881,26 @@
     ]
   },
   {
+    "slug": "山精",
+    "title": "山精",
+    "summary": "述山中精魅之名狀及呼名辟之之法。",
+    "tags": [
+      "仙學",
+      "山精",
+      "辟邪",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "崩薨卒不祿",
     "title": "Death Terminology by Rank / 崩薨卒不祿死——等級死亡稱謂",
     "summary": "The hierarchical system of death terminology in ancient Chinese protocol, distinguishing ranks through specific nomenclature.",
@@ -8229,6 +9946,27 @@
     ]
   },
   {
+    "slug": "左元放之術",
+    "title": "左元放之術",
+    "summary": "述左元放變化解脫諸方。",
+    "tags": [
+      "抱朴子",
+      "左元放",
+      "仙術",
+      "變化",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "帝殺黑龍",
     "title": "The Emperor Killed the Black Dragon / 帝殺黑龍",
     "summary": "Mozi's refutation of a diviner who claimed he could not travel north because the emperor had killed a black dragon there, exposing superstitious reasoning as harmful to society.",
@@ -8251,11 +9989,28 @@
     ]
   },
   {
+    "slug": "帝者體天則地",
+    "title": "帝者體天則地",
+    "summary": "帝者體天則地而天下太平，王者制人以道，霸者制士以權。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "師保",
     "title": "師保",
     "summary": "The user asks: \"Write a one-line summary for this article: # 師保 ...\"\n\nWe need to summarize the content of the article. It's about \"師保\" (Shi Bao), referencing the Book of Rites (Li Ji), describing the meanings of teacher and guardian, and the ancient institutions of the \"四輔及三公\" for raising the heir. The article explains that the teacher (師) conveys virtue, the guardian (保) leads to the way, both complement each other internally and externally to shape the heir's virtue.\n\nWe need to produce a one-line summary in presumably Chinese, given the article is Chinese. The summary must be concise, covering the essence: \"The roles of teacher and guardian (師、保) in ancient Chinese education of the heir, with teacher embodying moral instruction and guardian enforcing discipline to guide the heir toward virtue and the Dao.\" So we can propose something like: \"師、保是古代教育太子的兩大角色，前者以德喻道，後者以身輔翼，二者相輔相成，共同培養世子之德。\" That's a one-line summary. Or \"師、保二職在古代教育世子中互補，師喻德，保歸道，共同成就世子",
     "tags": [
-      "部:其他"
+      "部:子"
     ],
     "sources": [
       {
@@ -8284,6 +10039,26 @@
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "年少為道不成",
+    "title": "年少為道不成",
+    "summary": "年少者受氣本少，傷深難救，故不成仙；年老受氣本多，反易得仙。",
+    "tags": [
+      "稟氣",
+      "修仙",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -8513,6 +10288,23 @@
     ]
   },
   {
+    "slug": "彭祖非死",
+    "title": "彭祖非死",
+    "summary": "彭祖年七八百，去時非死，乃逃；其弟子數人亦皆數百歲而在殷仙去。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "彭老之道",
     "title": "The Way of Peng and Lao / 彭老之道",
     "summary": "The Daoist practice of achieving longevity and immortality through methods employed by Pengzu and Laozi.",
@@ -8530,6 +10322,20 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷03",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷03",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
         "work": "抱朴子"
       }
     ]
@@ -8772,6 +10578,27 @@
     ]
   },
   {
+    "slug": "思神守一卻惡衛身",
+    "title": "思神守一卻惡衛身",
+    "summary": "一切道術皆可卻惡防身，然守一之道可以一切除棄諸法。",
+    "tags": [
+      "抱朴子",
+      "守一",
+      "道術",
+      "卻惡",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷18",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "性善",
     "title": "性善 / 性善說",
     "summary": "Mencius's doctrine that human nature is inherently good, rooted in the four sprouts of virtue.",
@@ -8862,7 +10689,7 @@
     "title": "愚公移山",
     "summary": "The user wants a one-line summary for the article \"愚公移山\". This article includes Chinese and Japanese translations/interpretations. The user asks: \"Write a one-line summary for this article\". So I need to produce a concise one-line summary that captures the main story: an old man named Yu Gong (愚公) decides to move two mountains that block his village, despite being told it's impossible; he persists, mobilizing his descendants, and eventually the gods intervene to move the mountains. The summary should reflect the Chinese and Japanese versions. One line.\n\nThus: \"Yu Gong, an elderly man, resolves to move two huge mountains blocking his village, and through perseverance and the help of his descendants and divine intervention, succeeds, illustrating the power of determination.\" Something like that.\n\nMake sure it's a single sentence. Provide a summary. Might mention the moral: perseverance can overcome obstacles.\n\nUser's request is straightforward. No disallowed content. So produce answer.\n\nBut let's ensure it's succinct and one-line: \"愚公率子孙艰苦挖山，以坚持不懈感动天帝，最终山被搬走，寓意坚持能移山。\" That's Chinese. Or English? The user wrote Chinese and Japanese content, but they want a one-line summary. We can give Chinese",
     "tags": [
-      "部:其他"
+      "部:子"
     ],
     "sources": [
       {
@@ -8936,6 +10763,28 @@
         "title": "墨子 · 尚同下",
         "url": "https://zh.wikisource.org/wiki/墨子/尚同下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "愛民之道",
+    "title": "愛民之道",
+    "summary": "愛民者，馭之如父母之愛子，賞罰如加諸身。",
+    "tags": [
+      "六韜",
+      "愛民",
+      "治國",
+      "仁政",
+      "德治",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
       }
     ]
   },
@@ -9084,6 +10933,26 @@
         "title": "禮記 · 奔喪",
         "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "扶天下之危",
+    "title": "扶天下之危",
+    "summary": "能扶天下之危者據安，能除天下之憂者享樂，能救天下之禍者獲福。",
+    "tags": [
+      "治道",
+      "聖人",
+      "功德",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
       }
     ]
   },
@@ -9598,6 +11467,53 @@
     ]
   },
   {
+    "slug": "文伐",
+    "title": "文伐",
+    "summary": "以文事伐人者，非兵革之功，乃十二陰謀之道。",
+    "tags": [
+      "權謀",
+      "六韜",
+      "外交",
+      "戰略",
+      "謀略",
+      "文伐",
+      "十二節",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "文師",
+    "title": "文師",
+    "summary": "君子樂得其志，猶漁者之求魚，以祿以爵取人，而致天下於手。",
+    "tags": [
+      "六韜",
+      "治術",
+      "文師",
+      "部:史",
+      "文韜",
+      "招賢",
+      "比喻"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
     "slug": "新民",
     "title": "新民",
     "summary": "使民革故鼎新，同趨於善",
@@ -9614,6 +11530,27 @@
         "title": "大學",
         "url": "https://zh.wikisource.org/wiki/大學",
         "work": "大學"
+      }
+    ]
+  },
+  {
+    "slug": "斷穀之術",
+    "title": "斷穀之術",
+    "summary": "述斷穀辟穀諸方及效驗。",
+    "tags": [
+      "抱朴子",
+      "辟穀",
+      "仙術",
+      "斷穀",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
       }
     ]
   },
@@ -9665,6 +11602,26 @@
     ]
   },
   {
+    "slug": "施於竹帛名曰令",
+    "title": "施於竹帛名曰令",
+    "summary": "令者，書之竹帛，奉而行之，乃稱為政。",
+    "tags": [
+      "兵家",
+      "政制",
+      "令制",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "日新之教",
     "title": "The Teachings of Daily Renewal / 日新之教",
     "summary": "The Confucian imperative of continuous moral self-renewal, exemplified by the inscription on King Tang's washbasin.",
@@ -9711,6 +11668,26 @@
         "title": "禮記 · 郊特牲",
         "url": "https://zh.wikisource.org/wiki/禮記/郊特牲",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "明傳",
+    "title": "明傳",
+    "summary": "先聖之道，在止三失而起四德，義勝欲昌，敬勝怠吉。",
+    "tags": [
+      "六韜",
+      "修身",
+      "明傳",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
       }
     ]
   },
@@ -9841,6 +11818,47 @@
         "title": "禮記 · 祭義",
         "url": "https://zh.wikisource.org/wiki/禮記/祭義",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "明目之道",
+    "title": "明目之道",
+    "summary": "述增明目力諸方。",
+    "tags": [
+      "抱朴子",
+      "養生",
+      "明目",
+      "醫術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "明鏡辟魅",
+    "title": "明鏡辟魅",
+    "summary": "述古之入山道士以明鏡識別鬼魅之法。",
+    "tags": [
+      "仙學",
+      "辟邪",
+      "明鏡",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
       }
     ]
   },
@@ -10108,6 +12126,33 @@
         "title": "抱朴子 · 卷03",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷03",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "服藥行氣導引不免死",
+    "title": "服藥行氣導引不免死",
+    "summary": "不得金丹，單服草木、行氣導引，僅可延年遲死，終不得仙。",
+    "tags": [
+      "仙道",
+      "金丹",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -10152,6 +12197,25 @@
         "title": "禮記 · 大學",
         "url": "https://zh.wikisource.org/wiki/禮記/大學",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "朽木之喻",
+    "title": "朽木之喻",
+    "summary": "身中氣血根源已喪，譬如燼木，煙葉非不有而生气已亡。",
+    "tags": [
+      "身體",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -10278,6 +12342,26 @@
         "title": "文子 · 卷一",
         "url": "https://zh.wikisource.org/wiki/文子/卷一",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "柔能制剛弱能制強",
+    "title": "柔能制剛弱能制強",
+    "summary": "柔者德也，弱者人所助；剛者賊也，強者怨之所攻。",
+    "tags": [
+      "兵法",
+      "柔弱",
+      "德行",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
       }
     ]
   },
@@ -10580,7 +12664,7 @@
     "title": "武王伐紂",
     "summary": "The user asks: \"Write a one-line summary for this article: # 武王伐紂 ...\". The article is about the story of King Wu's campaign against Zhou (the overthrow of the Shang dynasty, King Zhou?), and includes references to the Mozi (墨子) and the concept of \"诛\" (just war) vs \"攻\" (attack). The article describes omens, the dream of Wu, the final overthrow, etc. They want a one-line summary. So we need to condense the key points: The article discusses the historical account of King Wu's overthrow of the Shang dynasty, presented in Mozi as an example of righteous \"诛\" (punitive war) rather than mere aggression \"攻\", supported by celestial omens and divine endorsement, thus establishing the moral distinction between the \"three sage kings\" and ordinary warfare.\n\nThus a possible summary: \"The article recounts how King Wu's overthrow of Shang Zhou, framed by Mozi as a justified '诛' (punitive war) supported by divine omens, exemplifies the moral distinction between righteous '诛' and ordinary '攻' among the three sage kings.\"\n\nWe need a concise one-liner. Something like: \"Using Mozi's account of celestial omens",
     "tags": [
-      "部:其他"
+      "部:子"
     ],
     "sources": [
       {
@@ -10686,6 +12770,26 @@
         "title": "墨子 · 旗幟",
         "url": "https://zh.wikisource.org/wiki/墨子/旗幟",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "死愛死怒",
+    "title": "死愛死怒",
+    "summary": "軍中五死，皆以義激，非賞罰所能強。",
+    "tags": [
+      "兵家",
+      "將兵",
+      "士氣",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
       }
     ]
   },
@@ -10955,6 +13059,26 @@
     ]
   },
   {
+    "slug": "河上奼女",
+    "title": "河上奼女",
+    "summary": "丹藥之名，非世間奼女，乃汞之隱稱。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "隱語",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "治世不一道",
     "title": "治世不一道",
     "summary": "治世之道非一，法古不足據",
@@ -10992,6 +13116,46 @@
         "title": "文子 · 卷十二",
         "url": "https://zh.wikisource.org/wiki/文子/卷十二",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "治作赤鹽法",
+    "title": "治作赤鹽法",
+    "summary": "以寒鹽、寒水石、寒羽涅、白礬合煉，成赤色可用之鹽。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "方術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "治作雄黃水法",
+    "title": "治作雄黃水法",
+    "summary": "以雄黃加消石，封於竹筩，入醇大醋中，二十日化為水。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "方術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
       }
     ]
   },
@@ -11232,6 +13396,26 @@
     ]
   },
   {
+    "slug": "涉江辟蛟龍",
+    "title": "涉江辟蛟龍",
+    "summary": "述渡江涉川辟蛟龍水神之方法。",
+    "tags": [
+      "仙學",
+      "辟蛟龍",
+      "方術",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "淫佚",
     "title": "淫佚 / Extravagance and Licentiousness",
     "summary": "The Mohist vice opposed to 節用, representing moral decay through excessive indulgence.",
@@ -11460,6 +13644,27 @@
     ]
   },
   {
+    "slug": "為上惟周為下惟定",
+    "title": "為上惟周為下惟定",
+    "summary": "君道貴周遍無遺，臣道貴安定有常，二者合而成大禮。",
+    "tags": [
+      "君臣",
+      "大禮",
+      "治道",
+      "君臣之道",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
     "slug": "為人臣下者",
     "title": "The Minister's Code / 為人臣下者",
     "summary": "The Confucian code of conduct for ministers serving their lords, emphasizing remonstrance without slander and loyalty.",
@@ -11533,6 +13738,25 @@
     ]
   },
   {
+    "slug": "為者如牛毛獲者如麟角",
+    "title": "為者如牛毛，獲者如麟角",
+    "summary": "求道者多而成者少，喻仙道之難得。",
+    "tags": [
+      "仙道",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "為至痛極",
     "title": "為至痛極",
     "summary": "創深痛甚者日彌久，三年之制，乃為至痛而設。",
@@ -11549,6 +13773,45 @@
         "title": "禮記 · 三年問",
         "url": "https://zh.wikisource.org/wiki/禮記/三年問",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "為道常患於晚",
+    "title": "為道常患於晚",
+    "summary": "為道者常患於晚，不患於早；恃年壯自役過差，則命危朝露。",
+    "tags": [
+      "修道",
+      "養生",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "為道者病於方成",
+    "title": "為道者病於方成而志不遂",
+    "summary": "修道者之患，在乎將成之際而力不足、志不遂。",
+    "tags": [
+      "修道",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -11601,6 +13864,27 @@
         "title": "墨子 · 雜守",
         "url": "https://zh.wikisource.org/wiki/墨子/雜守",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "無借人國柄",
+    "title": "無借人國柄",
+    "summary": "國柄不可假人，假人則君失其威而國危。",
+    "tags": [
+      "治國",
+      "君權",
+      "用人",
+      "柄權",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
       }
     ]
   },
@@ -11838,6 +14122,30 @@
     ]
   },
   {
+    "slug": "物類變化-之",
+    "title": "物類變化-之",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "物類變化",
     "title": "物類變化 / Transformation of Species / 物類変化する",
     "summary": "Ge Hong's argument that natural metamorphosis proves the possibility of human transcendence and immortality.",
@@ -12059,6 +14367,64 @@
     ]
   },
   {
+    "slug": "用兵之要先察敵情",
+    "title": "用兵之要先察敵情",
+    "summary": "用兵之要，必先察敵之情，審其虛實，而後動。",
+    "tags": [
+      "兵法",
+      "知己知彼",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "用寡治眾",
+    "title": "用寡治眾",
+    "summary": "寡眾各有其道，用之得其宜則無不勝。",
+    "tags": [
+      "兵家",
+      "戰術",
+      "寡眾",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
+      }
+    ]
+  },
+  {
+    "slug": "用眾",
+    "title": "用眾",
+    "summary": "用寡以固，用眾以治，視敵之眾寡而為進止。",
+    "tags": [
+      "兵家",
+      "軍爭",
+      "策略"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
+      }
+    ]
+  },
+  {
     "slug": "田常之亂",
     "title": "田常之亂 / 田常之亂 / 田常の乱",
     "summary": "The Tian Chang Rebellion and Confucius's alleged machinations through his disciples.",
@@ -12168,6 +14534,68 @@
     ]
   },
   {
+    "slug": "登山之道",
+    "title": "登山之道",
+    "summary": "述入山之時日、齋戒、符籙、禁祝及辟魅之法。",
+    "tags": [
+      "仙學",
+      "入山",
+      "辟邪",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "登涉不極",
+    "title": "登涉不極之道",
+    "summary": "述服藥行氣以獲輕身涉遠之術。",
+    "tags": [
+      "抱朴子",
+      "仙術",
+      "輕身",
+      "涉遠",
+      "乘蹻",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "發啟",
+    "title": "發啟",
+    "summary": "聖人見微知著，聖人將動必有愚色，以陰陽之和取天下。",
+    "tags": [
+      "六韜",
+      "治術",
+      "發啟",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
     "slug": "發梁擒敵",
     "title": "發梁擒敵",
     "summary": "城外塹中施發梁機，敵渡則引機發梁以擒之。",
@@ -12250,6 +14678,69 @@
     ]
   },
   {
+    "slug": "盈虛",
+    "title": "盈虛",
+    "summary": "天下治亂在君不在天，賢君當法堯之恭儉愛民。",
+    "tags": [
+      "治國",
+      "六韜",
+      "盈虛",
+      "部:其他",
+      "文韜",
+      "治亂",
+      "君道"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "盈虛之理",
+    "title": "盈虛之理",
+    "summary": "盈虛之數，自然之理，損易知而速，益難知而遲。",
+    "tags": [
+      "盈虛",
+      "抱朴子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "真一與玄一",
+    "title": "真一與玄一",
+    "summary": "玄一易守而有分形之效，真一難守而為長生之要。",
+    "tags": [
+      "抱朴子",
+      "真一",
+      "玄一",
+      "道術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷18",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "真人",
     "title": "The True Person / 真人",
     "summary": "The Daoist ideal of the \"true person\" (真人) who has achieved unity with the Dao through emptiness, tranquility, and pure simplicity.",
@@ -12294,6 +14785,13 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷03",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷03",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
         "work": "抱朴子"
       }
     ]
@@ -12407,6 +14905,44 @@
         "title": "禮記 · 郊特牲",
         "url": "https://zh.wikisource.org/wiki/禮記/郊特牲",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "神仙不死-之",
+    "title": "神仙不死-之",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
       }
     ]
   },
@@ -13062,6 +15598,25 @@
     ]
   },
   {
+    "slug": "禮與法表裏",
+    "title": "禮與法表裏",
+    "summary": "禮為內治，法為外防，二者相須不可偏廢。",
+    "tags": [
+      "兵家",
+      "禮法",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
+      }
+    ]
+  },
+  {
     "slug": "禮記月令",
     "title": "The Monthly Ordinances of the Book of Rites / 禮記月令",
     "summary": "A classical Chinese text describing the seasonal governmental duties and rituals for each month of the year.",
@@ -13080,6 +15635,66 @@
         "title": "禮記 · 月令",
         "url": "https://zh.wikisource.org/wiki/禮記/月令",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "禹步",
+    "title": "禹步",
+    "summary": "述禹步之法及其功用。",
+    "tags": [
+      "仙學",
+      "禁術",
+      "禹步",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "禹餘糧",
+    "title": "禹餘糧",
+    "summary": "丹藥之名，非禹遺餘糧，乃代赭石之隱稱。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "隱語",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "程偉妻作銀",
+    "title": "程偉妻作銀",
+    "summary": "黃門郎程偉妻知黃白之術，以藥少許投鼎中，頃刻成銀。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "事例",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
       }
     ]
   },
@@ -13436,6 +16051,47 @@
     ]
   },
   {
+    "slug": "羅其英雄",
+    "title": "羅其英雄",
+    "summary": "網羅英雄，則敵國窮困。英雄為國之幹，得之則政行無怨。",
+    "tags": [
+      "治兵",
+      "用人",
+      "英雄",
+      "賢才",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "羅其英雄則敵國窮",
+    "title": "羅其英雄則敵國窮",
+    "summary": "網羅英雄，則敵國困窘；英雄為國之幹，庶民為國之本。",
+    "tags": [
+      "治國",
+      "任賢",
+      "英雄",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "羊黔",
     "title": "Yangqian: Elevated Earthwork Siege / 羊黔",
     "summary": "A siege technique where attackers build raised earth platforms to overlook and assault city walls.",
@@ -13520,6 +16176,27 @@
     ]
   },
   {
+    "slug": "義勝欲則昌",
+    "title": "義勝欲則昌",
+    "summary": "義勝欲則昌，敬勝怠則吉；柔而靜、恭而敬，乃道之所起。",
+    "tags": [
+      "義利",
+      "修身",
+      "道",
+      "治國",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
     "slug": "義政",
     "title": "義政 / Righteous Governance",
     "summary": "Mozi's model of governance aligned with Heaven's will, characterized by universal love and non-aggression.",
@@ -13573,7 +16250,10 @@
       "政治哲學",
       "義",
       "霸王",
-      "部:其他"
+      "兵家",
+      "治道",
+      "霸王之道",
+      "部:子"
     ],
     "sources": [
       {
@@ -13589,6 +16269,13 @@
         "title": "墨子 · 魯問",
         "url": "https://zh.wikisource.org/wiki/墨子/魯問",
         "work": "墨子"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
       }
     ]
   },
@@ -13597,7 +16284,7 @@
     "title": "耕戰-之",
     "summary": "We need to produce a one-line summary for this article.\n\nThe article is titled \"耕戰-之\". It includes an excerpt from \"商君書·卷五\" (Shangjun Shu, Book 5). The excerpt discusses the importance of agricultural and military (farmer-soldier) policies: \"In ruling a country, border benefits go to the soldiers, market profits go to the farmers; border benefits to soldiers makes the country strong; market profits to farmers makes the country wealthy; so a state where the army is strong and the people are rich can become a king.\" Also a piece from \"君臣\" (ruler and ministers) that says modern rulers do not follow the law, rely on personal knowledge, ignore achievements, leading to soldiers not fighting and farmers migrating; people leaving farming and war, leading to fewer farming-war citizens, more idle people, causing national disorder and loss of territory, weak army,卑微.\n\nThus the summary should capture that the article discusses the ancient Chinese legalist perspective that the state must focus on agricultural and military strength, linking border and market profits to soldier and farmer welfare, and warns against abandoning legal methods and rewarding merit, leading to decline.\n\nOne line summary: \"The article emphasizes that a nation's strength and",
     "tags": [
-      "部:其他"
+      "部:經"
     ],
     "sources": [
       {
@@ -13619,6 +16306,7 @@
       "政治哲學",
       "尚同",
       "感知",
+      "抱朴子",
       "部:子"
     ],
     "sources": [
@@ -13628,6 +16316,13 @@
         "title": "墨子 · 尚同中",
         "url": "https://zh.wikisource.org/wiki/墨子/尚同中",
         "work": "墨子"
+      },
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -13650,6 +16345,26 @@
         "title": "孟子 · 萬章下",
         "url": "https://zh.wikisource.org/wiki/孟子/萬章下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "聖事有剖判",
+    "title": "聖事有剖判",
+    "summary": "聖道可分，非必總而兼之。",
+    "tags": [
+      "抱朴子",
+      "聖",
+      "分殊",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
+        "work": "抱朴子"
       }
     ]
   },
@@ -13678,6 +16393,88 @@
     ]
   },
   {
+    "slug": "聖人守此萬物化",
+    "title": "聖人守此萬物化",
+    "summary": "聖人守靜無為，因其自然之理，則萬物自化。",
+    "tags": [
+      "治國",
+      "無為",
+      "道家",
+      "聖人",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "聖人有所不照",
+    "title": "聖人有所不照",
+    "summary": "日月有所不照，聖人有所不知，不可執此以疑仙道。",
+    "tags": [
+      "抱朴子",
+      "聖人",
+      "認識之限",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "聖人有所不知",
+    "title": "聖人有所不知",
+    "summary": "聖人非神，其才有限，亦有所不知。",
+    "tags": [
+      "抱朴子",
+      "聖人",
+      "認識論",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "聖人治若父母之愛子",
+    "title": "聖人治若父母之愛子",
+    "summary": "治國如父母愛子，如兄愛弟，賞罰如加諸身，賦斂如取於己。",
+    "tags": [
+      "愛民",
+      "治國",
+      "仁政",
+      "聖人",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
     "slug": "聖人為政",
     "title": "聖人為政 / Sage Governance",
     "summary": "聖人治國，因其本國，去無用之物，利可倍增，以實用為政之要。",
@@ -13699,6 +16496,47 @@
     ]
   },
   {
+    "slug": "聖人與仙人之辨",
+    "title": "聖人與仙人之辨",
+    "summary": "聖人治世，仙人修真，二者道異，不可相責。",
+    "tags": [
+      "抱朴子",
+      "仙道",
+      "聖人",
+      "治世",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "聖人與凡人無異者多",
+    "title": "聖人與凡人無異者多",
+    "summary": "聖人吃飯則饑，不食則渴，與凡人無殊。",
+    "tags": [
+      "抱朴子",
+      "聖人",
+      "凡人之情",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "聖人苟可以強國不法其故",
     "title": "聖人苟可以強國不法其故",
     "summary": "聖人強國利民，不拘成法",
@@ -13715,6 +16553,23 @@
         "title": "商君書 · 卷一",
         "url": "https://zh.wikisource.org/wiki/商君書/卷一",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "聖人非無不知",
+    "title": "聖人非無不知",
+    "summary": "聖人有所不知、有所不照、有所不聞，非仙也。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -13765,6 +16620,26 @@
         "title": "墨子 · 節葬下",
         "url": "https://zh.wikisource.org/wiki/墨子/節葬下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "聖非一事",
+    "title": "聖非一事",
+    "summary": "聖乃人事之極號，非獨文學一途。",
+    "tags": [
+      "抱朴子",
+      "聖",
+      "各業之聖",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷12",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷12",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
+        "work": "抱朴子"
       }
     ]
   },
@@ -13906,6 +16781,27 @@
         "title": "禮記 · 奔喪",
         "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "聰耳之道",
+    "title": "聰耳之道",
+    "summary": "述開聰耳力諸方。",
+    "tags": [
+      "抱朴子",
+      "養生",
+      "聰耳",
+      "醫術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
       }
     ]
   },
@@ -14213,6 +17109,13 @@
         "title": "抱朴子 · 卷01",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷01",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
       }
     ]
   },
@@ -14399,6 +17302,26 @@
     ]
   },
   {
+    "slug": "與眾同好靡不成",
+    "title": "與眾同好靡不成",
+    "summary": "與眾同好則無不成，與眾同惡則無不傾。",
+    "tags": [
+      "治國",
+      "民心",
+      "君道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "興利除害",
     "title": "興利除害",
     "summary": "The user wants me to write a one-line summary for this article about \"興利除害\" (Promoting Benefit and Eliminating Harm) from Mozi's philosophy.\n\nLet me identify the key points:\n1. It's from Mozi's ethical framework, specifically from《兼愛中》\n2. It's the fundamental purpose of the \"仁人\" (benevolent person)\n3. It involves two aspects: promoting benefits (興利) and eliminating harms (除害)\n4. Benefits come from 兼愛 (mutual love), harms come from 不相愛 (self-interested action)\n5. It connects to broader political philosophy including the rule of the 聖王\n6. It's both proactive and preventive\n7. It serves as a criterion for evaluating policies and rulers\n\nFor a one-line summary, I should capture the essence concisely. Let me write something in English that captures this:\n\n\"興利除害\" is Mozi's guiding principle for the benevolent person—actively promoting what benefits the world (like mutual love and good governance) while eliminating what harms it (like warfare and exploitation)—serving as both the complete mission of the sage-ruler and the practical criterion for evaluating all policies.\n\nThat's a good one-line summary that captures",
@@ -14423,6 +17346,46 @@
         "title": "墨子 · 非攻下",
         "url": "https://zh.wikisource.org/wiki/墨子/非攻下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "興師之國務先隆恩",
+    "title": "興師之國務先隆恩",
+    "summary": "興師之前務先厚施恩惠，攻城之前務先休養民力。",
+    "tags": [
+      "兵法",
+      "治國",
+      "仁義",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "舍己而教人者逆",
+    "title": "舍己而教人者逆",
+    "summary": "舍己教人者逆理，正己化人者順道；逆者亂之招，順者治之要。",
+    "tags": [
+      "治道",
+      "修身",
+      "教化",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
       }
     ]
   },
@@ -14641,6 +17604,26 @@
     ]
   },
   {
+    "slug": "華令思作金銀",
+    "title": "華令思作金銀",
+    "summary": "廬江太守華令思初不信黃白，後親見道士試作，乃信世間無所不有。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "事例",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "華胥之夢",
     "title": "The Yellow Emperor's Dream of Huaxu / 華胥之夢",
     "summary": "黃帝齋心三月，夢遊華胥氏之國，乃悟至道不可以情求，遂致天下大治。",
@@ -14789,6 +17772,26 @@
         "title": "墨子 · 節葬下",
         "url": "https://zh.wikisource.org/wiki/墨子/節葬下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "蓄恩不倦以一取萬",
+    "title": "蓄恩不倦以一取萬",
+    "summary": "將帥蓄恩於平日，則士卒感恩以死報效，可以一當萬。",
+    "tags": [
+      "將帥",
+      "恩義",
+      "兵法",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
       }
     ]
   },
@@ -15066,6 +18069,23 @@
     ]
   },
   {
+    "slug": "行氣-之",
+    "title": "行氣-之",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "行氣",
     "title": "行氣 / Qigong Circulation / 気功（行氣）",
     "summary": "The Daoist practice of circulating qi for health, longevity, and supernatural powers.",
@@ -15195,6 +18215,27 @@
     ]
   },
   {
+    "slug": "見善而怠",
+    "title": "見善而怠",
+    "summary": "道之止者三：見善而怠、時至而疑、知非而處。",
+    "tags": [
+      "修身",
+      "治道",
+      "修道",
+      "道之止",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
     "slug": "規矩繩權衡",
     "title": "規矩繩權衡 / Compass, Square, Cord, Weight, and Balance",
     "summary": "深衣之製所象徵之五器，以應規、矩、繩、權、衡，取其無私、直、平之義。",
@@ -15282,6 +18323,26 @@
         "title": "禮記 · 喪服小記",
         "url": "https://zh.wikisource.org/wiki/禮記/喪服小記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "角裡先生化黃金法",
+    "title": "角裡先生化黃金法",
+    "summary": "以礬水石與汞成白銀，再加丹砂水曾青水雄黃水，可得上色紫磨金。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "方術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
       }
     ]
   },
@@ -15388,7 +18449,7 @@
     "title": "言行相詭",
     "summary": "Mozi’s key principle is that true character judgment requires examining **both intention (志) and result (功) together**, often summarized as “合志功而觀” (unify purpose and accomplishment).",
     "tags": [
-      "部:其他"
+      "部:史"
     ],
     "sources": [
       {
@@ -15663,6 +18724,46 @@
     ]
   },
   {
+    "slug": "變化之術",
+    "title": "變化之術",
+    "summary": "萬物皆可變易轉化，此天地之自然，非神奇詭異之事。",
+    "tags": [
+      "抱朴子",
+      "變化",
+      "哲學",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "豪傑秉職國威乃弱",
+    "title": "豪傑秉職國威乃弱",
+    "summary": "豪傑專殺生之權則國威弱，唯殺生歸君乃可久安。",
+    "tags": [
+      "治道",
+      "兵權",
+      "君道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "貉道",
     "title": "貉道",
     "summary": "欲輕堯舜之賦者，大貉小貉也；欲重之者，大桀小桀也。",
@@ -15726,6 +18827,27 @@
     ]
   },
   {
+    "slug": "賞信罰必",
+    "title": "賞信罰必",
+    "summary": "賞當其功、罰當其罪，且必信必行，方能勸善懲惡。",
+    "tags": [
+      "賞罰",
+      "法治",
+      "信義",
+      "治國",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      }
+    ]
+  },
+  {
     "slug": "賞於祖僇於社",
     "title": "Reward at the Ancestral Temple, Punishment at the She Altar / 賞於祖僇於社",
     "summary": "The ritual practice of making rewards at the ancestral temple and punishments at the she altar, a key mechanism of moral governance in ancient Chinese rites.",
@@ -15773,7 +18895,10 @@
     "title": "賞罰-之",
     "summary": "We need to write a one-line summary for the article given. The article is about \"賞罰-之\". The text references the \"商君書\" (Shang Jun Shu), Chapter 5, sections \"禁使\" (Jìn shǐ) and \"君臣\". It's about the importance of rewards and punishments (賞罰) for rulers: rewards according to merit, punishments according to crime, ensuring clear evaluation of achievements and crimes; also about governing according to law and rewarding merit; about using law and numbers to control, preventing false praising or defamation.\n\nWe need a one-line summary that captures the essence: The article discusses the concept of reward and punishment in governance according to Shang Jun Shu, emphasizing that rewards should be based on merit, punishments based on crime, and that law and clear standards ensure fairness and prevent corruption.\n\nWe need to write it succinctly, maybe: \"The passage stresses that rulers must enforce clear reward‑and‑punishment systems based on merit and crime, using law and quantitative measures to maintain order and prevent misconduct.\" That's a single line.\n\nBut we need to produce a one-line summary.\n\nCheck if we need to incorporate the article's title: \"賞罰-之\". It is probably about \"Rewards and punishments -",
     "tags": [
-      "部:其他"
+      "部:經",
+      "兵家",
+      "賞罰",
+      "治軍"
     ],
     "sources": [
       {
@@ -15782,6 +18907,40 @@
         "title": "商君書 · 卷五",
         "url": "https://zh.wikisource.org/wiki/商君書/卷五",
         "work": "商君書"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
+      }
+    ]
+  },
+  {
+    "slug": "賞罰以信",
+    "title": "賞罰以信",
+    "summary": "賞罰之道，貴信貴必，不欺於耳目者天下化之。",
+    "tags": [
+      "賞罰",
+      "六韜",
+      "治國",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
       }
     ]
   },
@@ -15929,6 +19088,26 @@
     ]
   },
   {
+    "slug": "賢人之政降人以體",
+    "title": "賢人之政降人以體",
+    "summary": "賢人之政以體降人，聖人之政以心降人；體降可以圖始，心降可以保終。",
+    "tags": [
+      "治道",
+      "聖賢",
+      "德化",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "赗",
     "title": "赗 / Funeral Carriage Gifts / 賵（ほう）",
     "summary": "The ritual of presenting carriages and horses as condolence gifts in ancient Chinese funerals, documented in the Book of Rites.",
@@ -15988,6 +19167,27 @@
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "身國同道",
+    "title": "身國同道",
+    "summary": "治身如治國，養氣如養民，一身之象如一國之象。",
+    "tags": [
+      "抱朴子",
+      "治身",
+      "治國",
+      "養生",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷18",
+        "work": "抱朴子"
       }
     ]
   },
@@ -16059,6 +19259,26 @@
     ]
   },
   {
+    "slug": "輕重相節",
+    "title": "輕重相節",
+    "summary": "戰以相輕重為權，輕重失當則敗。",
+    "tags": [
+      "兵家",
+      "戰術",
+      "權變",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
+      }
+    ]
+  },
+  {
     "slug": "轒轀",
     "title": "轒轀 / Covered Assault Vehicle / 轒轀車",
     "summary": "古代攻城之覆車，可用以運兵渡水。",
@@ -16075,6 +19295,28 @@
         "title": "墨子 · 備水",
         "url": "https://zh.wikisource.org/wiki/墨子/備水",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "辟五兵之道",
+    "title": "辟五兵之道",
+    "summary": "述辟兵卻刃之符咒諸法。",
+    "tags": [
+      "抱朴子",
+      "辟兵",
+      "符咒",
+      "五兵",
+      "仙術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
       }
     ]
   },
@@ -16099,6 +19341,107 @@
         "title": "墨子 · 小取",
         "url": "https://zh.wikisource.org/wiki/墨子/小取",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "辟山川百鬼",
+    "title": "辟山川百鬼",
+    "summary": "述辟山川廟堂百鬼之符法。",
+    "tags": [
+      "仙學",
+      "辟鬼",
+      "符籙",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "辟沙虱射工",
+    "title": "辟沙虱射工",
+    "summary": "述江南山谷間沙蝨、射工、短狐之害及辟治之法。",
+    "tags": [
+      "仙學",
+      "辟蟲",
+      "方術",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "辟瘟疫秘法",
+    "title": "辟瘟疫秘法",
+    "summary": "述疫癘流行時辟疫之方。",
+    "tags": [
+      "抱朴子",
+      "辟瘟",
+      "符咒",
+      "仙術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "辟虎狼禁",
+    "title": "辟虎狼禁",
+    "summary": "述入山辟虎狼之禁術。",
+    "tags": [
+      "仙學",
+      "禁術",
+      "辟虎狼",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "辟蛇蝮",
+    "title": "辟蛇蝮",
+    "summary": "述入山辟蛇及救蛇傷之方。",
+    "tags": [
+      "仙學",
+      "辟蛇",
+      "方術",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
       }
     ]
   },
@@ -16339,6 +19682,25 @@
     ]
   },
   {
+    "slug": "逐奔不過百步",
+    "title": "逐奔不過百步",
+    "summary": "古者追敗師不越百步，示師以禮而不困之。",
+    "tags": [
+      "兵家",
+      "仁義",
+      "軍禮"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "司馬法",
+        "url": "https://zh.wikisource.org/wiki/司馬法",
+        "work": "司馬法"
+      }
+    ]
+  },
+  {
     "slug": "造父學御",
     "title": "造父學御 / 造父が御を嗜む",
     "summary": "A parable about mastering chariot driving through concentration, proper posture, and harmony between driver and horse.",
@@ -16437,6 +19799,26 @@
     ]
   },
   {
+    "slug": "遁甲入山",
+    "title": "遁甲入山",
+    "summary": "述遁甲秘術入名山之要用。",
+    "tags": [
+      "仙學",
+      "遁甲",
+      "禁術",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "遇會聘誓盟",
     "title": "Diplomatic Meeting Categories / 遇會聘誓盟——諸侯外交會見之制",
     "summary": "The five categories of inter-state diplomatic engagements in Zhou ritual protocol: ad hoc meetings, scheduled assemblies, envoys, oaths, and covenants.",
@@ -16507,9 +19889,30 @@
       "先秦哲學",
       "道家",
       "無為而治",
-      "stub"
+      "stub",
+      "部:子"
     ],
     "sources": []
+  },
+  {
+    "slug": "道徳仁義禮五者一體",
+    "title": "道徳仁義禮五者一體",
+    "summary": "道、德、仁、義、禮五者為一體，不可缺一。",
+    "tags": [
+      "倫理",
+      "五常",
+      "治道",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
   },
   {
     "slug": "道而弗牽",
@@ -16527,6 +19930,26 @@
         "title": "禮記 · 學記",
         "url": "https://zh.wikisource.org/wiki/禮記/學記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "還年之道",
+    "title": "還年之道",
+    "summary": "還年之道，為長生之要。上士知之，可延年除病，不自伐者亦可為之。",
+    "tags": [
+      "還年",
+      "長生",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -16551,6 +19974,26 @@
         "title": "禮記 · 鄉飲酒義",
         "url": "https://zh.wikisource.org/wiki/禮記/鄉飲酒義",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "釋近謀遠者勞而無功",
+    "title": "釋近謀遠者勞而無功",
+    "summary": "舍近圖遠者徒勞無功，舍遠圖近者安逸有成。",
+    "tags": [
+      "治道",
+      "遠略",
+      "近功",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
       }
     ]
   },
@@ -16625,6 +20068,46 @@
         "title": "商君書 · 卷二",
         "url": "https://zh.wikisource.org/wiki/商君書/卷二",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "金可作世可度",
+    "title": "金可作世可度",
+    "summary": "仙經明言黃金可作，世人可度，長生可學而得。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "仙經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "金樓先生作黃金法",
+    "title": "金樓先生作黃金法",
+    "summary": "以赤鹽和灰汁塗錫，入赤土釜中，火煴三十日可得黃金。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "方術",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
       }
     ]
   },
@@ -16761,6 +20244,28 @@
     ]
   },
   {
+    "slug": "長生之功",
+    "title": "長生之功",
+    "summary": "長生之功，在於勤久；金丹為上，守一衛身；始於耕牧商販，終以思神守一。",
+    "tags": [
+      "抱朴子",
+      "長生",
+      "金丹",
+      "守一",
+      "修身",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷18",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "開而弗達",
     "title": "開而弗達",
     "summary": "啟發之而不遽告之，使學者深思而自得。",
@@ -16866,6 +20371,26 @@
     ]
   },
   {
+    "slug": "陵陽子明",
+    "title": "陵陽子明",
+    "summary": "丹藥之名，非水中仙人，乃雄黃之隱稱。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "隱語",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "陽里華子病忘",
     "title": "陽里華子病忘",
     "summary": "華子中年病忘，忘則無憂；及其痊愈，反以記憶為苦。忘之與記，孰得失耶？",
@@ -16903,6 +20428,27 @@
         "title": "墨子 · 七患",
         "url": "https://zh.wikisource.org/wiki/墨子/七患",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "隱淪之道",
+    "title": "隱淪之道",
+    "summary": "述神隱變化諸術。",
+    "tags": [
+      "抱朴子",
+      "隱淪",
+      "仙術",
+      "變化",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
+        "work": "抱朴子"
       }
     ]
   },
@@ -17154,6 +20700,26 @@
     ]
   },
   {
+    "slug": "非長生難聞道難",
+    "title": "非長生難，聞道難",
+    "summary": "非長生難，聞道難；非聞道難，行之難；非行之難，終之難。",
+    "tags": [
+      "聞道",
+      "行道",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "靳令",
     "title": "靳令",
     "summary": "靳令者，法平則吏無姦，壹賞罰以壹民務，去六蝨之行，則兵民樂為主用。",
@@ -17201,6 +20767,27 @@
         "title": "墨子 · 天志中",
         "url": "https://zh.wikisource.org/wiki/墨子/天志中",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "順天時",
+    "title": "順天時",
+    "summary": "天道有常，人事亦有其時；當之則成，失之則敗。",
+    "tags": [
+      "天時",
+      "兵法",
+      "哲學",
+      "自然觀",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "六韜",
+        "url": "https://zh.wikisource.org/wiki/六韜",
+        "work": "六韜"
       }
     ]
   },
@@ -17267,6 +20854,25 @@
     ]
   },
   {
+    "slug": "風冷暑濕不能傷壯實之人",
+    "title": "風冷暑濕不能傷壯實之人",
+    "summary": "邪不能傷正氣充沛之人，患之者皆體虛氣少者。",
+    "tags": [
+      "正氣",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "食者人之本",
     "title": "食者人之本 / Food: The Root of the People",
     "summary": "The principle that food is the foundation of the people, and agriculture the basis of governance, advocating sustainable resource management.",
@@ -17327,6 +20933,65 @@
         "title": "孟子 · 盡心下",
         "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "養生之方",
+    "title": "養生之方",
+    "summary": "養生之方貴乎適度，凡行止坐臥皆有節制。",
+    "tags": [
+      "養生",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "養生五味",
+    "title": "養生五味",
+    "summary": "五味偏多各有所傷，不可不慎。",
+    "tags": [
+      "五味",
+      "養生",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "養生以不傷為本",
+    "title": "養生以不傷為本",
+    "summary": "養生之要，在於不傷；百病不愈，安得長生。",
+    "tags": [
+      "養生",
+      "神農",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
       }
     ]
   },
@@ -17402,6 +21067,26 @@
     ]
   },
   {
+    "slug": "香餌之下必有死魚",
+    "title": "香餌之下必有死魚",
+    "summary": "香餌可以致死魚，重賞可以招勇士；禮賞並行，則所求必至。",
+    "tags": [
+      "賞罰",
+      "兵法",
+      "人事",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
+      }
+    ]
+  },
+  {
     "slug": "體-墨學",
     "title": "體 / Mozi's Concept of Body and Part-Whole Relations / 體",
     "summary": "Mozi defines \"體\" as the relationship between parts and the whole — a foundational metaphysical concept distinguishing individual particulars from their unified totality.",
@@ -17420,6 +21105,26 @@
         "title": "墨子 · 經上",
         "url": "https://zh.wikisource.org/wiki/墨子/經上",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "高鳥死良弓藏",
+    "title": "高鳥死良弓藏",
+    "summary": "敵國滅則謀臣亡；當奪其威、廢其權，封之於朝以保功名。",
+    "tags": [
+      "功成身退",
+      "權變",
+      "君臣",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
       }
     ]
   },
@@ -17464,6 +21169,26 @@
         "title": "墨子 · 明鬼下",
         "url": "https://zh.wikisource.org/wiki/墨子/明鬼下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "魚水之喻",
+    "title": "魚水之喻",
+    "summary": "人在於道，若魚之在水；得水而生，失水而死。",
+    "tags": [
+      "兵家",
+      "治道",
+      "隱喻",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "三略",
+        "url": "https://zh.wikisource.org/wiki/三略",
+        "work": "三略"
       }
     ]
   },
@@ -17577,6 +21302,111 @@
         "title": "禮記 · 服問",
         "url": "https://zh.wikisource.org/wiki/禮記/服問",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "黃帝橋山之塚",
+    "title": "黃帝橋山之塚",
+    "summary": "黃帝服神丹之後龍來迎之，群臣追慕；其葬於橋山，乃仙去非死，猶有廟墓之類。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "黃帝求仙",
+    "title": "黃帝求仙",
+    "summary": "黃帝雖天稟自然之體，猶複多方求仙，終得升龍高躋。",
+    "tags": [
+      "抱朴子",
+      "黃帝",
+      "仙道",
+      "長生",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷13",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷13",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷18",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "黃庭中胎秘符",
+    "title": "黃庭中胎秘符",
+    "summary": "述老君黃庭中胎四十九真秘符之用法。",
+    "tags": [
+      "仙學",
+      "符籙",
+      "黃庭",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "黃白之術",
+    "title": "黃白之術",
+    "summary": "以藥物變化五金，製為黃金白銀，以求長生之方術。",
+    "tags": [
+      "抱朴子",
+      "煉丹術",
+      "神仙",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "黃白須齋潔明師",
+    "title": "黃白須齋潔明師",
+    "summary": "黃白之術必待齋潔百日、口傳心授、入深山清凈之地，方可為之。",
+    "tags": [
+      "抱朴子",
+      "黃白",
+      "煉丹要法",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
+        "work": "抱朴子"
       }
     ]
   },
