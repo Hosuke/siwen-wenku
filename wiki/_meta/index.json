@@ -2696,7 +2696,9 @@
       "詩經",
       "后妃",
       "德行",
-      "螽斯"
+      "螽斯",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -4733,6 +4735,26 @@
         "plugin": "wikisource",
         "title": "詩經 · 有狐",
         "url": "https://zh.wikisource.org/wiki/詩經/有狐",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "乘其四駱",
+    "title": "乘其四駱",
+    "summary": "賢者乘四馬之車也。",
+    "tags": [
+      "詩經",
+      "車馬",
+      "賢才",
+      "威儀"
+    ],
+    "sources": [
+      {
+        "chapter": "裳裳者華",
+        "plugin": "wikisource",
+        "title": "詩經 · 裳裳者華",
+        "url": "https://zh.wikisource.org/wiki/詩經/裳裳者華",
         "work": "詩經"
       }
     ]
@@ -7125,6 +7147,27 @@
     ]
   },
   {
+    "slug": "亦不女從",
+    "title": "亦不女從",
+    "summary": "女子誓死不屈於強暴之男，堅守正道。",
+    "tags": [
+      "詩經",
+      "行露",
+      "守貞",
+      "女子之志",
+      "辭命"
+    ],
+    "sources": [
+      {
+        "chapter": "行露",
+        "plugin": "wikisource",
+        "title": "詩經 · 行露",
+        "url": "https://zh.wikisource.org/wiki/詩經/行露",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "亦孔之將",
     "title": "亦孔之將",
     "summary": "嘉美征功之辭，言恩德之盛大也。",
@@ -9209,6 +9252,27 @@
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "以常情覽巨異",
+    "title": "以常情覽巨異",
+    "summary": "常情褊量，無以待巨異；自髫齔至振素，終不能得。",
+    "tags": [
+      "認知",
+      "小大之辨",
+      "抱朴子",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷45",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷45",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷45",
+        "work": "抱朴子"
       }
     ]
   },
@@ -13268,7 +13332,8 @@
       "比喻",
       "為學",
       "狹見",
-      "抱朴子"
+      "抱朴子",
+      "部:經"
     ],
     "sources": [
       {
@@ -16771,6 +16836,25 @@
     ]
   },
   {
+    "slug": "六轡沃若",
+    "title": "六轡沃若",
+    "summary": "六轡光澤柔潤之貌。",
+    "tags": [
+      "詩經",
+      "車馬",
+      "威儀"
+    ],
+    "sources": [
+      {
+        "chapter": "裳裳者華",
+        "plugin": "wikisource",
+        "title": "詩經 · 裳裳者華",
+        "url": "https://zh.wikisource.org/wiki/詩經/裳裳者華",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "六韜之書",
     "title": "六韜之書",
     "summary": "太公兵法之總名，或疑其依托，而七書流傳已久。",
@@ -17347,6 +17431,25 @@
         "plugin": "wikisource",
         "title": "詩經 · 君子陽陽",
         "url": "https://zh.wikisource.org/wiki/詩經/君子陽陽",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "其葉湑兮",
+    "title": "其葉湑兮",
+    "summary": "葉之茂盛光澤也。",
+    "tags": [
+      "詩經",
+      "草木",
+      "興象"
+    ],
+    "sources": [
+      {
+        "chapter": "裳裳者華",
+        "plugin": "wikisource",
+        "title": "詩經 · 裳裳者華",
+        "url": "https://zh.wikisource.org/wiki/詩經/裳裳者華",
         "work": "詩經"
       }
     ]
@@ -21326,6 +21429,26 @@
     ]
   },
   {
+    "slug": "即墨大夫受封",
+    "title": "即墨大夫受封",
+    "summary": "威王親視治狀，封田野闢、民人給之即墨大夫萬家，以懲譽言日至而實不治者。",
+    "tags": [
+      "賞罰",
+      "治國",
+      "威王",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷046",
+        "plugin": "wikisource",
+        "title": "史記 · 卷046",
+        "url": "https://zh.wikisource.org/wiki/史記/卷046",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "卷耳",
     "title": "卷耳",
     "summary": "《詩經》國風周南篇，詠后妃思念賢臣行役之苦。",
@@ -21618,6 +21741,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 皇皇者華",
         "url": "https://zh.wikisource.org/wiki/詩經/皇皇者華",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "厭浥行露",
+    "title": "厭浥行露",
+    "summary": "以道塗露水濡濕為喻，言涉世之難，君子慎行之義。",
+    "tags": [
+      "詩經",
+      "行露",
+      "比喻",
+      "君子之慎",
+      "涉世"
+    ],
+    "sources": [
+      {
+        "chapter": "行露",
+        "plugin": "wikisource",
+        "title": "詩經 · 行露",
+        "url": "https://zh.wikisource.org/wiki/詩經/行露",
         "work": "詩經"
       }
     ]
@@ -23025,6 +23169,27 @@
     ]
   },
   {
+    "slug": "召伯聽讼",
+    "title": "召伯聽讼",
+    "summary": "召伯聽斷是非，明察曲直，故能使教化大行。",
+    "tags": [
+      "詩經",
+      "行露",
+      "召伯",
+      "聽讼",
+      "政治"
+    ],
+    "sources": [
+      {
+        "chapter": "行露",
+        "plugin": "wikisource",
+        "title": "詩經 · 行露",
+        "url": "https://zh.wikisource.org/wiki/詩經/行露",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "召公是似",
     "title": "召公是似",
     "summary": "稱美召虎能繼承其祖召公之德業。",
@@ -23129,6 +23294,44 @@
     ]
   },
   {
+    "slug": "可以棲遲",
+    "title": "可以棲遲",
+    "summary": "居於簡陋亦可安止，喻賢者知止足也。",
+    "tags": [
+      "詩經",
+      "安止",
+      "知足"
+    ],
+    "sources": [
+      {
+        "chapter": "衡門",
+        "plugin": "wikisource",
+        "title": "詩經 · 衡門",
+        "url": "https://zh.wikisource.org/wiki/詩經/衡門",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "可以樂飢",
+    "title": "可以樂飢",
+    "summary": "泉水洋洋可以忘飢，喻君子以道自足，不假外物也。",
+    "tags": [
+      "詩經",
+      "自足",
+      "修道"
+    ],
+    "sources": [
+      {
+        "chapter": "衡門",
+        "plugin": "wikisource",
+        "title": "詩經 · 衡門",
+        "url": "https://zh.wikisource.org/wiki/詩經/衡門",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "可以為未必能",
     "title": "可以為而未必能",
     "summary": "人有知善之質，未必皆有為善之實。",
@@ -23208,6 +23411,26 @@
         "title": "國語 · 卷07",
         "url": "https://zh.wikisource.org/wiki/國語/卷07",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "右之右之",
+    "title": "右之右之",
+    "summary": "右有能者，君子左右皆賢也。",
+    "tags": [
+      "詩經",
+      "君子",
+      "賢才",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "裳裳者華",
+        "plugin": "wikisource",
+        "title": "詩經 · 裳裳者華",
+        "url": "https://zh.wikisource.org/wiki/詩經/裳裳者華",
+        "work": "詩經"
       }
     ]
   },
@@ -24386,6 +24609,25 @@
     ]
   },
   {
+    "slug": "君子宜之",
+    "title": "君子宜之",
+    "summary": "君子行止無不宜也。",
+    "tags": [
+      "詩經",
+      "君子",
+      "德行"
+    ],
+    "sources": [
+      {
+        "chapter": "裳裳者華",
+        "plugin": "wikisource",
+        "title": "詩經 · 裳裳者華",
+        "url": "https://zh.wikisource.org/wiki/詩經/裳裳者華",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "君子寬而不僈",
     "title": "君子寬而不僈",
     "summary": "君子寬容而不怠惰，廉隅而不傷人，辯而不爭，察而不激。",
@@ -24510,6 +24752,25 @@
         "title": "荀子 · 不苟篇",
         "url": "https://zh.wikisource.org/wiki/荀子/不苟篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "君子有之",
+    "title": "君子有之",
+    "summary": "君子無物不具也。",
+    "tags": [
+      "詩經",
+      "君子",
+      "德行"
+    ],
+    "sources": [
+      {
+        "chapter": "裳裳者華",
+        "plugin": "wikisource",
+        "title": "詩經 · 裳裳者華",
+        "url": "https://zh.wikisource.org/wiki/詩經/裳裳者華",
+        "work": "詩經"
       }
     ]
   },
@@ -26209,6 +26470,23 @@
         "plugin": "wikisource",
         "title": "詩經 · 緜",
         "url": "https://zh.wikisource.org/wiki/詩經/緜",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "周家忠厚",
+    "title": "周家忠厚",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "行葦",
+        "plugin": "wikisource",
+        "title": "詩經 · 行葦",
+        "url": "https://zh.wikisource.org/wiki/詩經/行葦",
         "work": "詩經"
       }
     ]
@@ -29833,6 +30111,26 @@
         "title": "韓非子 · 八奸",
         "url": "https://zh.wikisource.org/wiki/韓非子/八奸",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "在此積尸列柩之間",
+    "title": "在此積尸列柩之間",
+    "summary": "仁人見稠眾如觀死地，悲心自然生起。",
+    "tags": [
+      "生死",
+      "仁心",
+      "禰衡",
+      "悲憫"
+    ],
+    "sources": [
+      {
+        "chapter": "卷47",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷47",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷47",
+        "work": "抱朴子"
       }
     ]
   },
@@ -36545,6 +36843,27 @@
     ]
   },
   {
+    "slug": "好樂無荒",
+    "title": "好樂無荒",
+    "summary": "欲樂不可廢事，荒逸則失其正。",
+    "tags": [
+      "詩經",
+      "蟋蟀",
+      "修身",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蟋蟀",
+        "plugin": "wikisource",
+        "title": "詩經 · 蟋蟀",
+        "url": "https://zh.wikisource.org/wiki/詩經/蟋蟀",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "好肆不守折長者不為市",
     "title": "好肆不守折，長者不為市",
     "summary": "善賈者不折本，尊者不入市場自炫。",
@@ -37665,6 +37984,23 @@
         "title": "荀子 · 彊國篇",
         "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "威王論寶",
+    "title": "威王論寶",
+    "summary": "威王以檀子、子、黔夫、種首四臣為寶，價逾徑寸之珠，正己以正四方。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷046",
+        "plugin": "wikisource",
+        "title": "史記 · 卷046",
+        "url": "https://zh.wikisource.org/wiki/史記/卷046",
+        "work": "史記"
       }
     ]
   },
@@ -39487,6 +39823,23 @@
     ]
   },
   {
+    "slug": "孫臏破魏馬陵",
+    "title": "孫臏破魏馬陵",
+    "summary": "孫臏用減竈之計，於馬陵大破魏師，殺龐涓，虜魏太子申，齊兵遂雄諸侯。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷046",
+        "plugin": "wikisource",
+        "title": "史記 · 卷046",
+        "url": "https://zh.wikisource.org/wiki/史記/卷046",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "孰君而無稱",
     "title": "孰君而無稱",
     "summary": "國君無分尊卑，皆有君之實。",
@@ -41038,7 +41391,8 @@
       "詩經",
       "子孫",
       "祝頌",
-      "螽斯"
+      "螽斯",
+      "部:子"
     ],
     "sources": [
       {
@@ -41134,6 +41488,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 北門",
         "url": "https://zh.wikisource.org/wiki/詩經/北門",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "室家不足",
+    "title": "室家不足",
+    "summary": "女子斥男子求娶之禮數未備，正道不從，卒以拒之。",
+    "tags": [
+      "詩經",
+      "行露",
+      "昏禮",
+      "女子之貞",
+      "辭命"
+    ],
+    "sources": [
+      {
+        "chapter": "行露",
+        "plugin": "wikisource",
+        "title": "詩經 · 行露",
+        "url": "https://zh.wikisource.org/wiki/詩經/行露",
         "work": "詩經"
       }
     ]
@@ -44377,6 +44752,26 @@
     ]
   },
   {
+    "slug": "左之左之",
+    "title": "左之左之",
+    "summary": "左有宜者，君子左右皆賢也。",
+    "tags": [
+      "詩經",
+      "君子",
+      "賢才",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "裳裳者華",
+        "plugin": "wikisource",
+        "title": "詩經 · 裳裳者華",
+        "url": "https://zh.wikisource.org/wiki/詩經/裳裳者華",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "左元放之術",
     "title": "左元放之術",
     "summary": "述左元放變化解脫諸方。",
@@ -46858,6 +47253,28 @@
     ]
   },
   {
+    "slug": "彊暴之男不能侵陵貞女",
+    "title": "彊暴之男不能侵陵貞女",
+    "summary": "暴男不能侵陵貞女，言聽讼之明、教化之效。",
+    "tags": [
+      "詩經",
+      "行露",
+      "聽讼",
+      "教化",
+      "貞女",
+      "侵陵"
+    ],
+    "sources": [
+      {
+        "chapter": "行露",
+        "plugin": "wikisource",
+        "title": "詩經 · 行露",
+        "url": "https://zh.wikisource.org/wiki/詩經/行露",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "彊本幹弱枝葉",
     "title": "彊本幹弱枝葉",
     "summary": "漢郡錯置諸侯之間，犬牙相臨，以收拱衛京師之效。",
@@ -48315,6 +48732,28 @@
     ]
   },
   {
+    "slug": "德行與文章",
+    "title": "德行與文章",
+    "summary": "德行與文章，猶根本與枝葉，不可偏廢。",
+    "tags": [
+      "文學理論",
+      "德行",
+      "文章",
+      "抱朴子",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷45",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷45",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷45",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "德輶如毛",
     "title": "德輶如毛",
     "summary": "積微致著，小善積累，終成大德。",
@@ -48675,6 +49114,45 @@
         "plugin": "wikisource",
         "title": "詩經 · 旄丘",
         "url": "https://zh.wikisource.org/wiki/詩經/旄丘",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "必死之病俞附越人",
+    "title": "必死之病俞附越人",
+    "summary": "才高而性惡，雖古之名醫不能治。",
+    "tags": [
+      "鑒戒",
+      "修身",
+      "才士",
+      "性情"
+    ],
+    "sources": [
+      {
+        "chapter": "卷47",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷47",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷47",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "必河之魴",
+    "title": "必河之魴",
+    "summary": "食魚何必河魴，喻上位者不當苛求完美也。",
+    "tags": [
+      "詩經",
+      "知足",
+      "納諫"
+    ],
+    "sources": [
+      {
+        "chapter": "衡門",
+        "plugin": "wikisource",
+        "title": "詩經 · 衡門",
+        "url": "https://zh.wikisource.org/wiki/詩經/衡門",
         "work": "詩經"
       }
     ]
@@ -50627,6 +51105,28 @@
     ]
   },
   {
+    "slug": "應龍螻蟻",
+    "title": "應龍螻蟻",
+    "summary": "應龍凌雲，螻蟻怪其無階而高致；大才之境，非小智所能測。",
+    "tags": [
+      "寓言",
+      "才能",
+      "小大之辨",
+      "抱朴子",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷45",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷45",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷45",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "懷昏姻",
     "title": "懷昏姻",
     "summary": "奔者之心，唯在婚姻，不顧禮義。",
@@ -51085,6 +51585,25 @@
         "plugin": "wikisource",
         "title": "詩經 · 草蟲",
         "url": "https://zh.wikisource.org/wiki/詩經/草蟲",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "我心寫兮",
+    "title": "我心寫兮",
+    "summary": "寫者，傾吐蕴結使通暢也。",
+    "tags": [
+      "詩經",
+      "情志",
+      "心理"
+    ],
+    "sources": [
+      {
+        "chapter": "裳裳者華",
+        "plugin": "wikisource",
+        "title": "詩經 · 裳裳者華",
+        "url": "https://zh.wikisource.org/wiki/詩經/裳裳者華",
         "work": "詩經"
       }
     ]
@@ -51550,6 +52069,26 @@
         "title": "詩經 · 碩人",
         "url": "https://zh.wikisource.org/wiki/詩經/碩人",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "才士可勿戒",
+    "title": "才士可勿戒",
+    "summary": "才士恃能而不自知，終蹈敗亡，不可不戒。",
+    "tags": [
+      "鑒戒",
+      "才士",
+      "修身",
+      "自知"
+    ],
+    "sources": [
+      {
+        "chapter": "卷47",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷47",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷47",
+        "work": "抱朴子"
       }
     ]
   },
@@ -52262,7 +52801,9 @@
       "詩經",
       "德行",
       "子孫",
-      "螽斯"
+      "螽斯",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -52907,7 +53448,9 @@
       "比喻",
       "學術",
       "方法",
-      "抱朴子"
+      "抱朴子",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -53891,6 +54434,28 @@
         "title": "詩經 · 烝民",
         "url": "https://zh.wikisource.org/wiki/詩經/烝民",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "敬所聞而黷所見",
+    "title": "敬所聞而黷所見",
+    "summary": "世俗貴古賤今，敬所聞而黷所見，同時之駿不如伯樂之所禦。",
+    "tags": [
+      "批評",
+      "世俗",
+      "貴古賤今",
+      "抱朴子",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷45",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷45",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷45",
+        "work": "抱朴子"
       }
     ]
   },
@@ -57135,6 +57700,26 @@
     ]
   },
   {
+    "slug": "是以似之",
+    "title": "是以似之",
+    "summary": "子孫似其先人，以德相傳也。",
+    "tags": [
+      "詩經",
+      "傳承",
+      "德行",
+      "父子"
+    ],
+    "sources": [
+      {
+        "chapter": "裳裳者華",
+        "plugin": "wikisource",
+        "title": "詩經 · 裳裳者華",
+        "url": "https://zh.wikisource.org/wiki/詩經/裳裳者華",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "是烝是享",
     "title": "是烝是享",
     "summary": "冬祭曰烝，奉祀曰享，牲、酒、香、肥咸備以祭先祖",
@@ -59142,7 +59727,9 @@
       "恩遇",
       "安樂",
       "部:經",
-      "部:經/詩類"
+      "部:經/詩類",
+      "名譽",
+      "安處"
     ],
     "sources": [
       {
@@ -59150,6 +59737,13 @@
         "plugin": "wikisource",
         "title": "詩經 · 蓼蕭",
         "url": "https://zh.wikisource.org/wiki/詩經/蓼蕭",
+        "work": "詩經"
+      },
+      {
+        "chapter": "裳裳者華",
+        "plugin": "wikisource",
+        "title": "詩經 · 裳裳者華",
+        "url": "https://zh.wikisource.org/wiki/詩經/裳裳者華",
         "work": "詩經"
       }
     ]
@@ -61611,6 +62205,26 @@
     ]
   },
   {
+    "slug": "梟鳴狐嚾",
+    "title": "梟鳴狐嚾",
+    "summary": "聲不可悅之物，易地不移其惡。",
+    "tags": [
+      "寓言",
+      "鑒戒",
+      "為人",
+      "聲名"
+    ],
+    "sources": [
+      {
+        "chapter": "卷47",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷47",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷47",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "梧桐生矣",
     "title": "梧桐生矣",
     "summary": "賢才將出，如梧桐向陽。",
@@ -62731,6 +63345,25 @@
     ]
   },
   {
+    "slug": "樂道者憂道者守道者",
+    "title": "樂道者憂道者守道者",
+    "summary": "遇治而贊曰樂道，遭亂而救曰憂道，亂不可救而避曰守道，以別賢者之高下。",
+    "tags": [
+      "儒學",
+      "隱逸",
+      "哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "卷46",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷46",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷46",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "樂郊",
     "title": "樂郊",
     "summary": "民避暴政而嚮往之安土也",
@@ -63494,7 +64127,9 @@
     "slug": "正經子書相輔-之",
     "title": "正經子書相輔-之",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:經"
+    ],
     "sources": [
       {
         "chapter": "卷44",
@@ -69997,6 +70632,26 @@
     ]
   },
   {
+    "slug": "烹阿大夫",
+    "title": "烹阿大夫",
+    "summary": "威王明察治狀，烹不善治而譽日至之阿大夫，並誅其左右譽者。",
+    "tags": [
+      "賞罰",
+      "治國",
+      "威王",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷046",
+        "plugin": "wikisource",
+        "title": "史記 · 卷046",
+        "url": "https://zh.wikisource.org/wiki/史記/卷046",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "烹鮮之戒",
     "title": "烹鮮之戒，不欲其煩",
     "summary": "反對者引老子烹鮮之說，謂治道貴簡",
@@ -74201,6 +74856,26 @@
     ]
   },
   {
+    "slug": "田襄子",
+    "title": "田襄子",
+    "summary": "田氏既弒簡公，襄子嗣立於齊，遣兄弟宗人布列齊都，與三晉通使，田氏浸有齊國。",
+    "tags": [
+      "田氏",
+      "齊國",
+      "卿大夫",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷046",
+        "plugin": "wikisource",
+        "title": "史記 · 卷046",
+        "url": "https://zh.wikisource.org/wiki/史記/卷046",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "田車既好四牡孔阜",
     "title": "田車既好，四牡孔阜",
     "summary": "車備馬健，田事之資已具。",
@@ -75831,10 +76506,10 @@
     "tags": [
       "學術",
       "諸子百家",
-      "部:子",
       "百家",
       "子書",
-      "抱朴子"
+      "抱朴子",
+      "部:經"
     ],
     "sources": [
       {
@@ -79592,6 +80267,26 @@
     ]
   },
   {
+    "slug": "禰衡",
+    "title": "禰衡",
+    "summary": "漢末才士，年二十三，驕傲不容，終喪於黃祖之手。",
+    "tags": [
+      "漢末",
+      "才士",
+      "狂士",
+      "人物"
+    ],
+    "sources": [
+      {
+        "chapter": "卷47",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷47",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷47",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "禹之德",
     "title": "禹之德",
     "summary": "述禹治水勤民之德",
@@ -82938,6 +83633,26 @@
     ]
   },
   {
+    "slug": "維其有章",
+    "title": "維其有章",
+    "summary": "君子有文章德行也。",
+    "tags": [
+      "詩經",
+      "君子",
+      "德行",
+      "文章"
+    ],
+    "sources": [
+      {
+        "chapter": "裳裳者華",
+        "plugin": "wikisource",
+        "title": "詩經 · 裳裳者華",
+        "url": "https://zh.wikisource.org/wiki/詩經/裳裳者華",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "維北有斗不可以挹酒漿",
     "title": "維北有斗，不可以挹酒漿",
     "summary": "斗星在北，不可挹取酒漿，亦有名無實",
@@ -83536,7 +84251,9 @@
       "詩經",
       "德行",
       "戒慎",
-      "螽斯"
+      "螽斯",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -88235,6 +88952,27 @@
     ]
   },
   {
+    "slug": "良士蹶蹶",
+    "title": "良士蹶蹶",
+    "summary": "良士勤勉躁動，常懷警惕。",
+    "tags": [
+      "詩經",
+      "蟋蟀",
+      "修身",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蟋蟀",
+        "plugin": "wikisource",
+        "title": "詩經 · 蟋蟀",
+        "url": "https://zh.wikisource.org/wiki/詩經/蟋蟀",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "良工能與不能",
     "title": "良工能與不能",
     "summary": "各有所能亦有所不能，君子知之。",
@@ -89977,6 +90715,25 @@
     ]
   },
   {
+    "slug": "葛無遜",
+    "title": "葛無遜",
+    "summary": "斥郭林宗隱不修遁、出不益時，欲揚名養譽，與遊俠原涉相類。",
+    "tags": [
+      "魏晉",
+      "人物",
+      "隱逸批評"
+    ],
+    "sources": [
+      {
+        "chapter": "卷46",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷46",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷46",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "葛生",
     "title": "葛生",
     "summary": "寡婦悼亡，誓以生死相從。",
@@ -91396,6 +92153,26 @@
     ]
   },
   {
+    "slug": "虛名之害",
+    "title": "虛名之害",
+    "summary": "才士有虛名而無實行，終不能全身遠害。",
+    "tags": [
+      "鑒戒",
+      "才士",
+      "名實",
+      "漢末"
+    ],
+    "sources": [
+      {
+        "chapter": "卷47",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷47",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷47",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "虛壹而靜",
     "title": "虛壹而靜",
     "summary": "心知行道，必虛其藏、壹其知、靜其動。",
@@ -91991,7 +92768,9 @@
       "詩經",
       "興象",
       "子孫",
-      "后妃"
+      "后妃",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -92011,7 +92790,9 @@
       "詩經",
       "興象",
       "聚會",
-      "螽斯"
+      "螽斯",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -92036,6 +92817,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 瞻卬",
         "url": "https://zh.wikisource.org/wiki/詩經/瞻卬",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "蟋蟀在堂",
+    "title": "蟋蟀在堂",
+    "summary": "蟋蟀入室，歲暮將至，當及時有為。",
+    "tags": [
+      "詩經",
+      "蟋蟀",
+      "時令",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蟋蟀",
+        "plugin": "wikisource",
+        "title": "詩經 · 蟋蟀",
+        "url": "https://zh.wikisource.org/wiki/詩經/蟋蟀",
         "work": "詩經"
       }
     ]
@@ -92520,6 +93322,27 @@
     ]
   },
   {
+    "slug": "行露",
+    "title": "行露",
+    "summary": "詩經召南之篇，述女子以正道拒強暴之男不遂其姦。",
+    "tags": [
+      "詩經",
+      "國風",
+      "召南",
+      "女子之貞",
+      "聽讼"
+    ],
+    "sources": [
+      {
+        "chapter": "行露",
+        "plugin": "wikisource",
+        "title": "詩經 · 行露",
+        "url": "https://zh.wikisource.org/wiki/詩經/行露",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "術不可不慎",
     "title": "術不可不慎",
     "summary": "矢人函人之殊，在於術之慎不慎。里仁為美，擇不處仁，不得為智。",
@@ -92767,6 +93590,25 @@
     ]
   },
   {
+    "slug": "衡門",
+    "title": "衡門",
+    "summary": "賢者退居衡門，安於淡泊，不汲汲於祿位也。",
+    "tags": [
+      "詩經",
+      "隱逸",
+      "知足"
+    ],
+    "sources": [
+      {
+        "chapter": "衡門",
+        "plugin": "wikisource",
+        "title": "詩經 · 衡門",
+        "url": "https://zh.wikisource.org/wiki/詩經/衡門",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "衣與繆與不女聊",
     "title": "衣與繆與不女聊",
     "summary": "孝親在於敬而非物養，古人衣之以敬，聊以為孝。",
@@ -92828,6 +93670,27 @@
         "title": "墨子 · 非儒下",
         "url": "https://zh.wikisource.org/wiki/墨子/非儒下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "衰亂之俗微",
+    "title": "衰亂之俗微",
+    "summary": "世道衰弊之風漸見消弭，言政治教化之效。",
+    "tags": [
+      "詩經",
+      "行露",
+      "世道",
+      "教化",
+      "治世"
+    ],
+    "sources": [
+      {
+        "chapter": "行露",
+        "plugin": "wikisource",
+        "title": "詩經 · 行露",
+        "url": "https://zh.wikisource.org/wiki/詩經/行露",
+        "work": "詩經"
       }
     ]
   },
@@ -92934,6 +93797,26 @@
         "title": "抱朴子 · 卷23",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷23",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "裳裳者華",
+    "title": "裳裳者華",
+    "summary": "詩贊君子德盛，垂裕後嗣。",
+    "tags": [
+      "詩經",
+      "小雅",
+      "宴饗",
+      "賢才"
+    ],
+    "sources": [
+      {
+        "chapter": "裳裳者華",
+        "plugin": "wikisource",
+        "title": "詩經 · 裳裳者華",
+        "url": "https://zh.wikisource.org/wiki/詩經/裳裳者華",
+        "work": "詩經"
       }
     ]
   },
@@ -94620,6 +95503,25 @@
     ]
   },
   {
+    "slug": "言行相伐",
+    "title": "言行相伐",
+    "summary": "口稱靜退而心希榮利，言行相反，士行之弊也。",
+    "tags": [
+      "德行",
+      "批判",
+      "抱朴子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷46",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷46",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷46",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "言行相詭",
     "title": "言行相詭",
     "summary": "",
@@ -94662,6 +95564,26 @@
         "title": "韓非子 · 問辯",
         "url": "https://zh.wikisource.org/wiki/韓非子/問辯",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "言行輕人",
+    "title": "言行輕人",
+    "summary": "才士輕慢他人，終自蹈於祸敗。",
+    "tags": [
+      "鑒戒",
+      "修身",
+      "才士",
+      "傲物"
+    ],
+    "sources": [
+      {
+        "chapter": "卷47",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷47",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷47",
+        "work": "抱朴子"
       }
     ]
   },
@@ -96059,6 +96981,48 @@
     ]
   },
   {
+    "slug": "誰謂雀無角",
+    "title": "誰謂雀無角",
+    "summary": "以反問之辭詰強暴者之無理，雀本無角而穿屋，比喻無理之人亦有其由。",
+    "tags": [
+      "詩經",
+      "行露",
+      "比喻",
+      "反問",
+      "辭令"
+    ],
+    "sources": [
+      {
+        "chapter": "行露",
+        "plugin": "wikisource",
+        "title": "詩經 · 行露",
+        "url": "https://zh.wikisource.org/wiki/詩經/行露",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "誰謂鼠無牙",
+    "title": "誰謂鼠無牙",
+    "summary": "承雀無角之問，再以鼠穿墉為喻，反詰男子無理之訴訟。",
+    "tags": [
+      "詩經",
+      "行露",
+      "比喻",
+      "辭令",
+      "申詰"
+    ],
+    "sources": [
+      {
+        "chapter": "行露",
+        "plugin": "wikisource",
+        "title": "詩經 · 行露",
+        "url": "https://zh.wikisource.org/wiki/詩經/行露",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "誰適為容",
     "title": "誰適為容",
     "summary": "思夫而無心飾容，誰所適而為之修飾也。",
@@ -96943,6 +97907,27 @@
         "title": "孟子 · 告子下",
         "url": "https://zh.wikisource.org/wiki/孟子/告子下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "貞信之教興",
+    "title": "貞信之教興",
+    "summary": "貞信之教化得以伸張，社會風俗趨於善良。",
+    "tags": [
+      "詩經",
+      "行露",
+      "教化",
+      "治世",
+      "風俗"
+    ],
+    "sources": [
+      {
+        "chapter": "行露",
+        "plugin": "wikisource",
+        "title": "詩經 · 行露",
+        "url": "https://zh.wikisource.org/wiki/詩經/行露",
+        "work": "詩經"
       }
     ]
   },
@@ -99024,6 +100009,25 @@
         "title": "史記 · 卷005",
         "url": "https://zh.wikisource.org/wiki/史記/卷005",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "蹇足之喻",
+    "title": "蹇足之喻",
+    "summary": "以蹇足斥鷃焦冥鼷鼬比況力小任重之失，比知人論世而無益於時。",
+    "tags": [
+      "比喻",
+      "批判",
+      "抱朴子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷46",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷46",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷46",
+        "work": "抱朴子"
       }
     ]
   },
@@ -101440,6 +102444,25 @@
     ]
   },
   {
+    "slug": "遊俠之徒",
+    "title": "遊俠之徒",
+    "summary": "結交貴遊，聲譽赫赫然，非真隱逸，不得躋於逸隱之科。",
+    "tags": [
+      "隱逸",
+      "批判",
+      "東漢"
+    ],
+    "sources": [
+      {
+        "chapter": "卷46",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷46",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷46",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "遊夏之資抑頓九泉",
     "title": "遊夏之資抑頓九泉",
     "summary": "世道多難，精六藝者沉淪，依風附鳳者騰達。",
@@ -101543,6 +102566,26 @@
         "title": "論語 · 先進第十一",
         "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "過目成誦",
+    "title": "過目成誦",
+    "summary": "一覽即記，暗書無遺，禰衡才華之異也。",
+    "tags": [
+      "才能",
+      "記憶",
+      "禰衡",
+      "博聞"
+    ],
+    "sources": [
+      {
+        "chapter": "卷47",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷47",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷47",
+        "work": "抱朴子"
       }
     ]
   },
@@ -102479,6 +103522,25 @@
         "title": "國語 · 卷09",
         "url": "https://zh.wikisource.org/wiki/國語/卷09",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "郭林宗",
+    "title": "郭林宗",
+    "summary": "太原名士，譽亞聖，抱朴子非之，謂其言行相伐、遊俠之徒，非真隱者。",
+    "tags": [
+      "東漢",
+      "人物",
+      "隱逸批評"
+    ],
+    "sources": [
+      {
+        "chapter": "卷46",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷46",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷46",
+        "work": "抱朴子"
       }
     ]
   },
