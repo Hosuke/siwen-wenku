@@ -443,6 +443,13 @@
         "title": "史記 · 卷025",
         "url": "https://zh.wikisource.org/wiki/史記/卷025",
         "work": "史記"
+      },
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -933,7 +940,8 @@
       "正朔",
       "夏正",
       "殷正",
-      "周正"
+      "周正",
+      "部:其他"
     ],
     "sources": [
       {
@@ -1103,6 +1111,26 @@
         "title": "墨子 · 非攻下",
         "url": "https://zh.wikisource.org/wiki/墨子/非攻下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "三能",
+    "title": "三能",
+    "summary": "斗魁下六星兩兩相比，天子三階，應泰階六符之驗。",
+    "tags": [
+      "天文",
+      "三台",
+      "泰階",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -2181,7 +2209,9 @@
       "小旻",
       "戒慎",
       "暴虎",
-      "馮河"
+      "馮河",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -2512,6 +2542,27 @@
     ]
   },
   {
+    "slug": "不見子都",
+    "title": "不見子都",
+    "summary": "詩人欲見美士而不得，反遇狂且，以寓所美非美之歎。",
+    "tags": [
+      "詩經",
+      "情思",
+      "怨慕",
+      "山有扶蘇",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "山有扶蘇",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有扶蘇",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有扶蘇",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "不言之教",
     "title": "不言之教",
     "summary": "",
@@ -2716,6 +2767,28 @@
         "title": "春秋公羊傳 · 僖公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/僖公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "且以喜樂",
+    "title": "且以喜樂",
+    "summary": "勸人及時行樂，不可虛度光陰。",
+    "tags": [
+      "詩經",
+      "及時行樂",
+      "勸誡",
+      "享樂",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有樞",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有樞",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
+        "work": "詩經"
       }
     ]
   },
@@ -2925,6 +2998,26 @@
         "title": "周易 · 中孚",
         "url": "https://zh.wikisource.org/wiki/周易/中孚",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "中宮",
+    "title": "中宮",
+    "summary": "天極星居中，四方列宿拱衛，紫微大帝之垣。",
+    "tags": [
+      "天文",
+      "星象",
+      "紫微垣",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -4318,7 +4411,8 @@
     "tags": [
       "五德",
       "鄒衍",
-      "陰陽家"
+      "陰陽家",
+      "部:史"
     ],
     "sources": [
       {
@@ -5863,6 +5957,71 @@
     ]
   },
   {
+    "slug": "他人入室",
+    "title": "他人入室",
+    "summary": "死後家業盡為他人所據。",
+    "tags": [
+      "詩經",
+      "死後",
+      "財物",
+      "敗亡",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有樞",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有樞",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "他人是保",
+    "title": "他人是保",
+    "summary": "己不保則他人保之，物終歸人。",
+    "tags": [
+      "詩經",
+      "財物歸屬",
+      "諷刺",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有樞",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有樞",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "他人是愉",
+    "title": "他人是愉",
+    "summary": "己不享用，身死物歸他人。",
+    "tags": [
+      "詩經",
+      "諷刺",
+      "奢侈浪費",
+      "及時行樂",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有樞",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有樞",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "仙人目瞳皆方",
     "title": "仙人目瞳皆方",
     "summary": "仙人目瞳端正方正，此其異於常人之驗。",
@@ -6243,6 +6402,26 @@
         "title": "抱朴子 · 卷25",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷25",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "以峙其粻",
+    "title": "以峙其粻",
+    "summary": "儲峙粻粮，以速申伯之行。",
+    "tags": [
+      "軍需",
+      "糧儲",
+      "申伯行期",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
+        "work": "詩經"
       }
     ]
   },
@@ -7594,6 +7773,28 @@
     ]
   },
   {
+    "slug": "何不日鼓瑟",
+    "title": "何不日鼓瑟",
+    "summary": "有酒食當及時行樂，日日鼓瑟以永日。",
+    "tags": [
+      "詩經",
+      "及時行樂",
+      "享樂",
+      "勸誡",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有樞",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有樞",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "何事非君何使非民",
     "title": "何事非君何使非民",
     "summary": "人臣當以成就其君為務，不以君之賢愚為去留。",
@@ -8882,6 +9083,27 @@
     ]
   },
   {
+    "slug": "傅御",
+    "title": "傅御",
+    "summary": "王之傅官與御史，掌王室家政，遷申伯私人。",
+    "tags": [
+      "官制",
+      "傅官",
+      "御官",
+      "周王室",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "備",
     "title": "備",
     "summary": "祭祀之福在於備，即無所不順、內盡於己外順於道之境界。",
@@ -9608,6 +9830,26 @@
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "兄弟不如友生",
+    "title": "兄弟不如友生",
+    "summary": "太平之世，或以友情勝於兄弟。",
+    "tags": [
+      "詩經",
+      "常棣",
+      "兄弟",
+      "友情"
+    ],
+    "sources": [
+      {
+        "chapter": "常棣",
+        "plugin": "wikisource",
+        "title": "詩經 · 常棣",
+        "url": "https://zh.wikisource.org/wiki/詩經/常棣",
+        "work": "詩經"
       }
     ]
   },
@@ -10840,7 +11082,8 @@
       "公孫臣",
       "孝文",
       "土德",
-      "改正朔"
+      "改正朔",
+      "部:經"
     ],
     "sources": [
       {
@@ -12039,6 +12282,25 @@
         "title": "荀子 · 君子篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "凡百君子敬而聽之",
+    "title": "凡百君子敬而聽之",
+    "summary": "戒告在位之君子，當敬聽此詩之戒。",
+    "tags": [
+      "詩經",
+      "告誡",
+      "君子"
+    ],
+    "sources": [
+      {
+        "chapter": "巷伯",
+        "plugin": "wikisource",
+        "title": "詩經 · 巷伯",
+        "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
+        "work": "詩經"
       }
     ]
   },
@@ -13716,6 +13978,13 @@
         "title": "抱朴子 · 卷35",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷35",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -13802,6 +14071,25 @@
         "title": "周易 · 大有",
         "url": "https://zh.wikisource.org/wiki/周易/大有",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "匪其止共",
+    "title": "匪其止共",
+    "summary": "職而不恭，乃為王病",
+    "tags": [
+      "詩經",
+      "巧言",
+      "臣道"
+    ],
+    "sources": [
+      {
+        "chapter": "巧言",
+        "plugin": "wikisource",
+        "title": "詩經 · 巧言",
+        "url": "https://zh.wikisource.org/wiki/詩經/巧言",
+        "work": "詩經"
       }
     ]
   },
@@ -14234,6 +14522,26 @@
         "title": "周易 · 升",
         "url": "https://zh.wikisource.org/wiki/周易/升",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "南北斗",
+    "title": "南北斗",
+    "summary": "南斗六星為天廟，丞相宰輔之位；北斗七星為帝車，運天綱。",
+    "tags": [
+      "天文",
+      "南斗",
+      "北斗",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -14880,6 +15188,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 大田",
         "url": "https://zh.wikisource.org/wiki/詩經/大田",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "參與昴",
+    "title": "參與昴",
+    "summary": "二星之名，以喻夜征者所見。",
+    "tags": [
+      "詩經",
+      "星象",
+      "天文",
+      "部:經",
+      "部:經/易類"
+    ],
+    "sources": [
+      {
+        "chapter": "小星",
+        "plugin": "wikisource",
+        "title": "詩經 · 小星",
+        "url": "https://zh.wikisource.org/wiki/詩經/小星",
         "work": "詩經"
       }
     ]
@@ -15977,6 +16306,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 吉日",
         "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "吉甫作頌",
+    "title": "吉甫作頌",
+    "summary": "吉甫作詩以贈申伯，其詩孔碩，其風肆好。",
+    "tags": [
+      "吉甫",
+      "詩歌",
+      "申伯",
+      "宣王中興",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
         "work": "詩經"
       }
     ]
@@ -18126,6 +18476,26 @@
     ]
   },
   {
+    "slug": "周邦咸喜",
+    "title": "周邦咸喜",
+    "summary": "周邦舉國歡喜，咸慶得有良翰。",
+    "tags": [
+      "周室",
+      "喜慶",
+      "良翰",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "命屬生星",
     "title": "命屬生星",
     "summary": "",
@@ -18214,6 +18584,46 @@
         "title": "國語 · 卷16",
         "url": "https://zh.wikisource.org/wiki/國語/卷16",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "和樂且孺",
+    "title": "和樂且孺",
+    "summary": "兄弟既集，和樂而孺。",
+    "tags": [
+      "詩經",
+      "常棣",
+      "兄弟",
+      "和樂"
+    ],
+    "sources": [
+      {
+        "chapter": "常棣",
+        "plugin": "wikisource",
+        "title": "詩經 · 常棣",
+        "url": "https://zh.wikisource.org/wiki/詩經/常棣",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "和樂且湛",
+    "title": "和樂且湛",
+    "summary": "妻子兄弟皆合，其樂湛深。",
+    "tags": [
+      "詩經",
+      "常棣",
+      "兄弟",
+      "和樂"
+    ],
+    "sources": [
+      {
+        "chapter": "常棣",
+        "plugin": "wikisource",
+        "title": "詩經 · 常棣",
+        "url": "https://zh.wikisource.org/wiki/詩經/常棣",
+        "work": "詩經"
       }
     ]
   },
@@ -19151,6 +19561,28 @@
     ]
   },
   {
+    "slug": "喬松",
+    "title": "喬松",
+    "summary": "高大之松，生於山上，與隰中游龍相對，喻各得其宜。",
+    "tags": [
+      "詩經",
+      "草木",
+      "山有扶蘇",
+      "松柏",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有扶蘇",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有扶蘇",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有扶蘇",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "單穆公諫景王鑄大錢",
     "title": "單穆公諫景王鑄大錢",
     "summary": "單穆公以為廢輕作重則民失其資，離民以佐災，終必召害。",
@@ -19322,6 +19754,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 北山",
         "url": "https://zh.wikisource.org/wiki/詩經/北山",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "嘒彼小星",
+    "title": "嘒彼小星",
+    "summary": "星光微小之貌，以興賤者之微賤。",
+    "tags": [
+      "詩經",
+      "星象",
+      "興象",
+      "部:經",
+      "部:經/易類"
+    ],
+    "sources": [
+      {
+        "chapter": "小星",
+        "plugin": "wikisource",
+        "title": "詩經 · 小星",
+        "url": "https://zh.wikisource.org/wiki/詩經/小星",
         "work": "詩經"
       }
     ]
@@ -19827,6 +20280,13 @@
         "title": "詩經 · 卷阿",
         "url": "https://zh.wikisource.org/wiki/詩經/卷阿",
         "work": "詩經"
+      },
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
+        "work": "詩經"
       }
     ]
   },
@@ -19904,7 +20364,9 @@
       "詩經",
       "馬",
       "軍旅",
-      "思歸"
+      "思歸",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -19933,6 +20395,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 六月",
         "url": "https://zh.wikisource.org/wiki/詩經/六月",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "四牡蹻蹻",
+    "title": "四牡蹻蹻",
+    "summary": "四牡雄壯，鉤膺光澤，錫予申伯以顯榮。",
+    "tags": [
+      "馬匹賞賜",
+      "車馬",
+      "冊命禮",
+      "賞賜",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
         "work": "詩經"
       }
     ]
@@ -20041,6 +20524,28 @@
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "四鄰謀取其國家",
+    "title": "四鄰謀取其國家",
+    "summary": "鄰國覬覦危亡之國，國人作詩刺君。",
+    "tags": [
+      "詩經",
+      "亡國",
+      "外患",
+      "刺詩",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有樞",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有樞",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
+        "work": "詩經"
       }
     ]
   },
@@ -20190,6 +20695,28 @@
         "title": "抱朴子 · 卷14",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "國人作詩以刺之",
+    "title": "國人作詩以刺之",
+    "summary": "詩之功能，在諷刺在位者之失德。",
+    "tags": [
+      "詩經",
+      "美刺",
+      "諷諫",
+      "詩教",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有樞",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有樞",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
+        "work": "詩經"
       }
     ]
   },
@@ -20387,10 +20914,10 @@
     "title": "土德改正朔",
     "summary": "公孫臣言土德應黃龍見，當改正朔服色，丞相張蒼非之。",
     "tags": [
-      "部:其他",
       "正朔",
       "改制",
-      "王者受命"
+      "王者受命",
+      "部:其他"
     ],
     "sources": [
       {
@@ -22235,6 +22762,27 @@
     ]
   },
   {
+    "slug": "夙夜在公",
+    "title": "夙夜在公",
+    "summary": "朝夕皆在公家，言奉公之勤。",
+    "tags": [
+      "詩經",
+      "勤政",
+      "公忠",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "小星",
+        "plugin": "wikisource",
+        "title": "詩經 · 小星",
+        "url": "https://zh.wikisource.org/wiki/詩經/小星",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "夙興夜寐",
     "title": "夙興夜寐",
     "summary": "早起夜眠，勤於王事。",
@@ -23180,7 +23728,8 @@
     "tags": [
       "曆法",
       "大餘",
-      "小餘"
+      "小餘",
+      "部:經"
     ],
     "sources": [
       {
@@ -23757,6 +24306,26 @@
     ]
   },
   {
+    "slug": "天市",
+    "title": "天市",
+    "summary": "旗四星中四星，帝車旗幟之象，市樓應人間市集。",
+    "tags": [
+      "天文",
+      "星象",
+      "天市垣",
+      "部:集"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "天德",
     "title": "天德",
     "summary": "",
@@ -23941,6 +24510,66 @@
     ]
   },
   {
+    "slug": "天根",
+    "title": "天根",
+    "summary": "氐星為天根，若木之有根，承天之運，主天下安危。",
+    "tags": [
+      "天文",
+      "氐宿",
+      "天根",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "天棓",
+    "title": "天棓",
+    "summary": "斗杓旁星，主棓人，天子先驅，備非常之兵象。",
+    "tags": [
+      "天文",
+      "天棓",
+      "兵象",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "天極星",
+    "title": "天極星",
+    "summary": "北辰之正，居紫微中，天帝太一之所常居。",
+    "tags": [
+      "天文",
+      "北辰",
+      "太一",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "天欲相愛相利",
     "title": "天欲相愛相利",
     "summary": "墨子指出天之意志在於使人相愛相利，而非相惡相賊，以此作為法天之道德基礎。",
@@ -24065,6 +24694,26 @@
     ]
   },
   {
+    "slug": "天理四星",
+    "title": "天理四星",
+    "summary": "斗魁中四星，貴人牢名，掌理刑罰之象。",
+    "tags": [
+      "天文",
+      "天理",
+      "牢獄",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "天與火",
     "title": "天與火",
     "summary": "同人之象，天火相資",
@@ -24180,7 +24829,8 @@
     "tags": [
       "曆法",
       "天道",
-      "曆數"
+      "曆數",
+      "部:子"
     ],
     "sources": [
       {
@@ -24209,6 +24859,26 @@
         "title": "三略",
         "url": "https://zh.wikisource.org/wiki/三略",
         "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "天鋒",
+    "title": "天鋒",
+    "summary": "斗杓端外之盾星，與招搖相對，主鋒鏑邊患之象。",
+    "tags": [
+      "天文",
+      "天鋒",
+      "兵象",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -24251,6 +24921,26 @@
         "title": "詩經 · 大明",
         "url": "https://zh.wikisource.org/wiki/詩經/大明",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "天駟",
+    "title": "天駟",
+    "summary": "房星為天駟，天馬主車駕，四星間有日月光道。",
+    "tags": [
+      "天文",
+      "房宿",
+      "天馬",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -24332,6 +25022,13 @@
         "title": "史記 · 卷024",
         "url": "https://zh.wikisource.org/wiki/史記/卷024",
         "work": "史記"
+      },
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -24386,7 +25083,8 @@
       "太初",
       "歲名",
       "甲子",
-      "夏正"
+      "夏正",
+      "部:子"
     ],
     "sources": [
       {
@@ -24407,7 +25105,9 @@
       "孝武",
       "改制",
       "曆法",
-      "封禪"
+      "封禪",
+      "部:子",
+      "部:子/釋家類"
     ],
     "sources": [
       {
@@ -25320,7 +26020,9 @@
       "小雅",
       "小旻",
       "謀議",
-      "諮詢"
+      "諮詢",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -26102,6 +26804,27 @@
     ]
   },
   {
+    "slug": "子充",
+    "title": "子充",
+    "summary": "古之善人，詩人欲見而不得，以興狡童之可厭。",
+    "tags": [
+      "詩經",
+      "人物",
+      "善人",
+      "山有扶蘇",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "山有扶蘇",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有扶蘇",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有扶蘇",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "子同生",
     "title": "子同生",
     "summary": "桓公嫡子生，逾年定為太子。",
@@ -26349,6 +27072,27 @@
       "部:子"
     ],
     "sources": []
+  },
+  {
+    "slug": "子都",
+    "title": "子都",
+    "summary": "古之美男子，詩人企慕之人，以譏不見賢者而遇狂狡。",
+    "tags": [
+      "詩經",
+      "人物",
+      "美男",
+      "山有扶蘇",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "山有扶蘇",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有扶蘇",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有扶蘇",
+        "work": "詩經"
+      }
+    ]
   },
   {
     "slug": "孔丘論大骨",
@@ -28079,6 +28823,28 @@
     ]
   },
   {
+    "slug": "宛其死矣",
+    "title": "宛其死矣",
+    "summary": "物不及時享用，死後終為人所有。",
+    "tags": [
+      "詩經",
+      "及時行樂",
+      "諷刺",
+      "財物歸人",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有樞",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有樞",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "宛城約降",
     "title": "宛城約降",
     "summary": "張良勸沛公夜圍宛城，陳恢獻約降之策，沛公用之，諸城無不下者。",
@@ -28096,6 +28862,26 @@
         "title": "史記 · 卷008",
         "url": "https://zh.wikisource.org/wiki/史記/卷008",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "宜爾室家",
+    "title": "宜爾室家",
+    "summary": "室家相宜，妻孥皆樂。",
+    "tags": [
+      "詩經",
+      "常棣",
+      "室家",
+      "妻子"
+    ],
+    "sources": [
+      {
+        "chapter": "常棣",
+        "plugin": "wikisource",
+        "title": "詩經 · 常棣",
+        "url": "https://zh.wikisource.org/wiki/詩經/常棣",
+        "work": "詩經"
       }
     ]
   },
@@ -28553,6 +29339,27 @@
     ]
   },
   {
+    "slug": "寔命不同",
+    "title": "寔命不同",
+    "summary": "命有貴賤，莫之能易。",
+    "tags": [
+      "詩經",
+      "命運",
+      "貴賤",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "小星",
+        "plugin": "wikisource",
+        "title": "詩經 · 小星",
+        "url": "https://zh.wikisource.org/wiki/詩經/小星",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "寡人之道",
     "title": "寡人之道",
     "summary": "當世為政者厚斂久師，使民凍餓離散，此乃減人之道，非治國之術。",
@@ -28590,6 +29397,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 大田",
         "url": "https://zh.wikisource.org/wiki/詩經/大田",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "寢廟既成",
+    "title": "寢廟既成",
+    "summary": "城郭宗廟既成，王錫申伯以顯榮。",
+    "tags": [
+      "宗廟",
+      "城郭",
+      "賞賜",
+      "申伯之功",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
         "work": "詩經"
       }
     ]
@@ -28808,6 +29636,26 @@
         "title": "史記 · 卷012",
         "url": "https://zh.wikisource.org/wiki/史記/卷012",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "寺人孟子",
+    "title": "寺人孟子",
+    "summary": "周代閹官之名，傷於讒而作巷伯之詩。",
+    "tags": [
+      "詩經",
+      "寺人",
+      "作者",
+      "周代"
+    ],
+    "sources": [
+      {
+        "chapter": "巷伯",
+        "plugin": "wikisource",
+        "title": "詩經 · 巷伯",
+        "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
+        "work": "詩經"
       }
     ]
   },
@@ -29346,7 +30194,9 @@
       "詩經",
       "秦風",
       "軍旅",
-      "閔念"
+      "閔念",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -29908,7 +30758,8 @@
     "tags": [
       "正時",
       "履端",
-      "曆法"
+      "曆法",
+      "部:其他"
     ],
     "sources": [
       {
@@ -29956,6 +30807,28 @@
         "title": "周易 · 噬嗑",
         "url": "https://zh.wikisource.org/wiki/周易/噬嗑",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "山有扶蘇",
+    "title": "山有扶蘇",
+    "summary": "詩人欲見美德而遇狂狡，託山水以起興也。",
+    "tags": [
+      "詩經",
+      "鄭風",
+      "男女情思",
+      "怨刺",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有扶蘇",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有扶蘇",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有扶蘇",
+        "work": "詩經"
       }
     ]
   },
@@ -30103,6 +30976,26 @@
         "title": "禮記 · 曲禮下",
         "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "嶽降神",
+    "title": "嶽降神",
+    "summary": "山嶽降靈，生甫及申，為周藩翰。",
+    "tags": [
+      "天人感應",
+      "宣王中興",
+      "申甫之國",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
+        "work": "詩經"
       }
     ]
   },
@@ -30448,6 +31341,46 @@
     ]
   },
   {
+    "slug": "巧言",
+    "title": "巧言",
+    "summary": "詩刺小人巧言惑君之詩",
+    "tags": [
+      "詩經",
+      "小雅",
+      "巧言",
+      "讒言"
+    ],
+    "sources": [
+      {
+        "chapter": "巧言",
+        "plugin": "wikisource",
+        "title": "詩經 · 巧言",
+        "url": "https://zh.wikisource.org/wiki/詩經/巧言",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "巧言如簧",
+    "title": "巧言如簧",
+    "summary": "言之工巧者，其辭浮華，其情姦詐",
+    "tags": [
+      "詩經",
+      "巧言",
+      "巧言",
+      "佞臣"
+    ],
+    "sources": [
+      {
+        "chapter": "巧言",
+        "plugin": "wikisource",
+        "title": "詩經 · 巧言",
+        "url": "https://zh.wikisource.org/wiki/詩經/巧言",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "巨勝",
     "title": "巨勝",
     "summary": "巨勝一名胡麻，服之不老，耐風濕，補衰老，可斷穀。",
@@ -30535,7 +31468,8 @@
       "落下閎",
       "巴蜀",
       "曆法",
-      "太初"
+      "太初",
+      "部:其他"
     ],
     "sources": [
       {
@@ -30544,6 +31478,27 @@
         "title": "史記 · 卷026",
         "url": "https://zh.wikisource.org/wiki/史記/卷026",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "巷伯",
+    "title": "詩經·巷伯",
+    "summary": "寺人傷於讒，賦詩以刺，並誓投譖人於豺虎天帝。",
+    "tags": [
+      "詩經",
+      "小雅",
+      "譖言",
+      "寺人",
+      "讒害"
+    ],
+    "sources": [
+      {
+        "chapter": "巷伯",
+        "plugin": "wikisource",
+        "title": "詩經 · 巷伯",
+        "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
+        "work": "詩經"
       }
     ]
   },
@@ -31012,6 +31967,44 @@
     ]
   },
   {
+    "slug": "常棣之華",
+    "title": "常棣之華",
+    "summary": "以常棣花而喻兄弟之情。",
+    "tags": [
+      "詩經",
+      "常棣",
+      "兄弟"
+    ],
+    "sources": [
+      {
+        "chapter": "常棣",
+        "plugin": "wikisource",
+        "title": "詩經 · 常棣",
+        "url": "https://zh.wikisource.org/wiki/詩經/常棣",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "常棣八章四句",
+    "title": "常棣八章四句",
+    "summary": "《常棣》全詩八章，章四句。",
+    "tags": [
+      "詩經",
+      "常棣",
+      "詩章結構"
+    ],
+    "sources": [
+      {
+        "chapter": "常棣",
+        "plugin": "wikisource",
+        "title": "詩經 · 常棣",
+        "url": "https://zh.wikisource.org/wiki/詩經/常棣",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "平丘之會",
     "title": "平丘之會",
     "summary": "晉會諸侯于平丘，魯君不與盟，晉人執季孫隱如。",
@@ -31375,6 +32368,50 @@
         "title": "墨子 · 親士",
         "url": "https://zh.wikisource.org/wiki/墨子/親士",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "弗曳弗婁",
+    "title": "弗曳弗婁",
+    "summary": "衣裳具而不服，財物閒置不用。",
+    "tags": [
+      "詩經",
+      "奢侈",
+      "浪費",
+      "閒置",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有樞",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有樞",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "弗洒弗埽",
+    "title": "弗洒弗埽",
+    "summary": "廷內荒蕪不治，居所廢壞。",
+    "tags": [
+      "詩經",
+      "荒廢",
+      "懒惰",
+      "不治",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有樞",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有樞",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
+        "work": "詩經"
       }
     ]
   },
@@ -32597,6 +33634,26 @@
     ]
   },
   {
+    "slug": "徹土田",
+    "title": "徹土田",
+    "summary": "測定土田疆界，定其賦稅，以藩屏周室。",
+    "tags": [
+      "土地制度",
+      "井田",
+      "疆理",
+      "部:集"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "心之憂矣",
     "title": "心之憂矣",
     "summary": "賢者中心憂患反覆詠歎",
@@ -33391,6 +34448,27 @@
     ]
   },
   {
+    "slug": "惠及下",
+    "title": "惠及下",
+    "summary": "恩惠施於下位之人。",
+    "tags": [
+      "詩經",
+      "德治",
+      "恩惠",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "小星",
+        "plugin": "wikisource",
+        "title": "詩經 · 小星",
+        "url": "https://zh.wikisource.org/wiki/詩經/小星",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "惠於父而遠於死",
     "title": "惠於父而遠於死，惠於眾而利社稷",
     "summary": "申生以為，若能惠君以福、免死於狄，乃可言圖。",
@@ -33758,6 +34836,25 @@
     ]
   },
   {
+    "slug": "慎爾言也",
+    "title": "慎爾言也",
+    "summary": "戒人慎言，否則人將不信。",
+    "tags": [
+      "詩經",
+      "言語",
+      "勸誡"
+    ],
+    "sources": [
+      {
+        "chapter": "巷伯",
+        "plugin": "wikisource",
+        "title": "詩經 · 巷伯",
+        "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "慘慘劬勞",
     "title": "慘慘劬勞",
     "summary": "言憂勤之人辛勤操勞。",
@@ -33986,6 +35083,44 @@
         "title": "史記 · 卷004",
         "url": "https://zh.wikisource.org/wiki/史記/卷004",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "成是南箕",
+    "title": "成是南箕",
+    "summary": "喻譖人言過其實，如箕之張口。",
+    "tags": [
+      "詩經",
+      "比喻",
+      "譖言"
+    ],
+    "sources": [
+      {
+        "chapter": "巷伯",
+        "plugin": "wikisource",
+        "title": "詩經 · 巷伯",
+        "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "成是貝錦",
+    "title": "成是貝錦",
+    "summary": "喻讒人編織罪狀，如以貝飾錦。",
+    "tags": [
+      "詩經",
+      "比喻",
+      "譖言"
+    ],
+    "sources": [
+      {
+        "chapter": "巷伯",
+        "plugin": "wikisource",
+        "title": "詩經 · 巷伯",
+        "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
+        "work": "詩經"
       }
     ]
   },
@@ -34266,6 +35401,28 @@
     ]
   },
   {
+    "slug": "所美非美",
+    "title": "所美非美",
+    "summary": "欲見美者而遇醜，詩人所以刺而怨者也。",
+    "tags": [
+      "詩經",
+      "怨刺",
+      "情思",
+      "山有扶蘇",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有扶蘇",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有扶蘇",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有扶蘇",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "所見異辭所聞異辭所傳聞異辭",
     "title": "所見異辭，所聞異辭，所傳聞異辭",
     "summary": "《春秋》記事遠近之辭異，乃祖之所逮聞也。",
@@ -34367,6 +35524,27 @@
     ]
   },
   {
+    "slug": "扶蘇",
+    "title": "扶蘇",
+    "summary": "山木之名，詩人以喻高山之美，與隰荷相對成文。",
+    "tags": [
+      "詩經",
+      "草木",
+      "山有扶蘇",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有扶蘇",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有扶蘇",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有扶蘇",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "抑磬控抑縱送",
     "title": "抑磬控抑縱送",
     "summary": "射御之術，馬之馳止、箭之弛張也。",
@@ -34411,6 +35589,46 @@
     ]
   },
   {
+    "slug": "投畀有北",
+    "title": "投畀有北",
+    "summary": "欲投譖人於極寒之地，終亦不受。",
+    "tags": [
+      "詩經",
+      "憤怨",
+      "譖言",
+      "懲惡"
+    ],
+    "sources": [
+      {
+        "chapter": "巷伯",
+        "plugin": "wikisource",
+        "title": "詩經 · 巷伯",
+        "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "投畀豺虎",
+    "title": "投畀豺虎",
+    "summary": "疾惡譖人，欲投諸猛獸以快其誅。",
+    "tags": [
+      "詩經",
+      "憤怨",
+      "譖言",
+      "懲惡"
+    ],
+    "sources": [
+      {
+        "chapter": "巷伯",
+        "plugin": "wikisource",
+        "title": "詩經 · 巷伯",
+        "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "抗世子法",
     "title": "抗世子法",
     "summary": "",
@@ -34449,6 +35667,27 @@
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "抱衾與裯",
+    "title": "抱衾與裯",
+    "summary": "攜衾而行，喻微賤者夜事之勞。",
+    "tags": [
+      "詩經",
+      "行役",
+      "器物",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "小星",
+        "plugin": "wikisource",
+        "title": "詩經 · 小星",
+        "url": "https://zh.wikisource.org/wiki/詩經/小星",
+        "work": "詩經"
       }
     ]
   },
@@ -34534,6 +35773,26 @@
         "title": "詩經 · 匏有苦葉",
         "url": "https://zh.wikisource.org/wiki/詩經/匏有苦葉",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "招搖",
+    "title": "招搖",
+    "summary": "斗杓端矛星，近北斗者，天帝之矛，胡兵之象。",
+    "tags": [
+      "天文",
+      "招搖",
+      "兵象",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -34747,6 +36006,25 @@
         "title": "抱朴子 · 卷20",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷20",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "捷捷幡幡",
+    "title": "捷捷幡幡",
+    "summary": "狀譖言變易不定，巧言來往。",
+    "tags": [
+      "詩經",
+      "譖言",
+      "形容"
+    ],
+    "sources": [
+      {
+        "chapter": "巷伯",
+        "plugin": "wikisource",
+        "title": "詩經 · 巷伯",
+        "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
+        "work": "詩經"
       }
     ]
   },
@@ -35337,6 +36615,28 @@
         "title": "禮記 · 緇衣",
         "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "政荒民散",
+    "title": "政荒民散",
+    "summary": "為政荒怠則民散去，國家危亡將至。",
+    "tags": [
+      "詩經",
+      "為政",
+      "亡國",
+      "民心",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有樞",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有樞",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
+        "work": "詩經"
       }
     ]
   },
@@ -35962,6 +37262,26 @@
     ]
   },
   {
+    "slug": "文昌宮",
+    "title": "文昌宮",
+    "summary": "斗魁戴匡六星，天府文昌，主上將至司祿六星之職。",
+    "tags": [
+      "天文",
+      "文昌",
+      "星象",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "文明以健",
     "title": "文明以健",
     "summary": "文德明察與剛健中正相合",
@@ -36066,6 +37386,26 @@
         "title": "抱朴子 · 卷32",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷32",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "斗為帝車",
+    "title": "斗為帝車",
+    "summary": "北斗為天帝之車，運於中央，臨制四方，分陰陽，建四時。",
+    "tags": [
+      "天文",
+      "北斗",
+      "帝車",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -36438,6 +37778,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷025",
         "url": "https://zh.wikisource.org/wiki/史記/卷025",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
         "work": "史記"
       }
     ]
@@ -37129,6 +38476,26 @@
         "title": "禮記 · 檀弓上",
         "url": "https://zh.wikisource.org/wiki/禮記/檀弓上",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "明堂",
+    "title": "明堂",
+    "summary": "心星為明堂，天王布政之宮，居大辰之中央。",
+    "tags": [
+      "天文",
+      "心宿",
+      "明堂",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -38012,6 +39379,25 @@
     ]
   },
   {
+    "slug": "是究是圖",
+    "title": "是究是圖",
+    "summary": "深思而圖之，果如是乎。",
+    "tags": [
+      "詩經",
+      "常棣",
+      "深思"
+    ],
+    "sources": [
+      {
+        "chapter": "常棣",
+        "plugin": "wikisource",
+        "title": "詩經 · 常棣",
+        "url": "https://zh.wikisource.org/wiki/詩經/常棣",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "是而不然",
     "title": "是而不然",
     "summary": "「是而不然」為《小取》所論論理式之一，謂前提雖是而結論不然。",
@@ -38233,6 +39619,27 @@
         "title": "國語 · 卷12",
         "url": "https://zh.wikisource.org/wiki/國語/卷12",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "晉昭公不能脩道",
+    "title": "晉昭公不能脩道",
+    "summary": "晉昭公荒怠國政，有財不能用，有鍾鼓不能自樂，有朝廷不能洒埽。",
+    "tags": [
+      "詩經",
+      "晉昭公",
+      "亡國之君",
+      "荒怠",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "山有樞",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有樞",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
+        "work": "詩經"
       }
     ]
   },
@@ -38638,7 +40045,8 @@
       "曆法",
       "太初",
       "大餘小餘",
-      "甲子篇"
+      "甲子篇",
+      "部:子"
     ],
     "sources": [
       {
@@ -39834,6 +41242,26 @@
     ]
   },
   {
+    "slug": "杓攜龍角",
+    "title": "杓攜龍角",
+    "summary": "北斗杓連於龍角，角星為天關，黃道所經，七耀所行。",
+    "tags": [
+      "天文",
+      "角宿",
+      "北斗",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "杜請託",
     "title": "杜請託",
     "summary": "嚴考試之法，杜屬託之私，使銓衡清明。",
@@ -40027,7 +41455,9 @@
       "詩經",
       "居室",
       "西戎",
-      "閔念"
+      "閔念",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -40286,6 +41716,27 @@
         "title": "周易 · 同人",
         "url": "https://zh.wikisource.org/wiki/周易/同人",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "柔惠且直",
+    "title": "柔惠且直",
+    "summary": "申伯之德，柔和惠愛而正直端方，揉萬邦而聞於四國。",
+    "tags": [
+      "德行",
+      "申伯",
+      "儒學",
+      "剛柔",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
+        "work": "詩經"
       }
     ]
   },
@@ -40840,6 +42291,25 @@
         "title": "國語 · 卷17",
         "url": "https://zh.wikisource.org/wiki/國語/卷17",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "楊園之道",
+    "title": "楊園之道",
+    "summary": "行道丘畝之間，以起興作詩之意。",
+    "tags": [
+      "詩經",
+      "起興",
+      "詩法"
+    ],
+    "sources": [
+      {
+        "chapter": "巷伯",
+        "plugin": "wikisource",
+        "title": "詩經 · 巷伯",
+        "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
+        "work": "詩經"
       }
     ]
   },
@@ -41986,7 +43456,8 @@
       "歲名",
       "月名",
       "干支",
-      "太初"
+      "太初",
+      "部:史"
     ],
     "sources": [
       {
@@ -43850,6 +45321,13 @@
         "title": "史記 · 卷012",
         "url": "https://zh.wikisource.org/wiki/史記/卷012",
         "work": "史記"
+      },
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -44532,6 +46010,28 @@
     ]
   },
   {
+    "slug": "游龍",
+    "title": "游龍",
+    "summary": "水草之名，生於隰中，與山上喬松相對，以喻各得其地。",
+    "tags": [
+      "詩經",
+      "草木",
+      "山有扶蘇",
+      "隰",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有扶蘇",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有扶蘇",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有扶蘇",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "湛樂飲酒",
     "title": "湛樂飲酒",
     "summary": "喻耽於逸樂、沉湎酒食之人。",
@@ -44765,7 +46265,9 @@
     "slug": "溫其如玉-之",
     "title": "溫其如玉-之",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "小戎",
@@ -45124,7 +46626,9 @@
       "小雅",
       "小旻",
       "朋比",
-      "讒毀"
+      "讒毀",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -45921,7 +47425,11 @@
     "tags": [
       "歲名",
       "太初",
-      "干支"
+      "干支",
+      "天文",
+      "攝提",
+      "歲紀",
+      "部:史"
     ],
     "sources": [
       {
@@ -45929,6 +47437,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷026",
         "url": "https://zh.wikisource.org/wiki/史記/卷026",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
         "work": "史記"
       }
     ]
@@ -46260,6 +47775,13 @@
         "title": "史記 · 卷011",
         "url": "https://zh.wikisource.org/wiki/史記/卷011",
         "work": "史記"
+      },
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -46584,6 +48106,26 @@
     ]
   },
   {
+    "slug": "爾庸",
+    "title": "爾庸",
+    "summary": "城郭以為民保障，爾之庸也。",
+    "tags": [
+      "城郭",
+      "謝國",
+      "藩屏",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "牛山之木",
     "title": "牛山之木",
     "summary": "",
@@ -46768,6 +48310,28 @@
     ]
   },
   {
+    "slug": "狂且",
+    "title": "狂且",
+    "summary": "狂妄醜陋之人，詩人所以歎所遇之非美也。",
+    "tags": [
+      "詩經",
+      "人物",
+      "醜",
+      "山有扶蘇",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有扶蘇",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有扶蘇",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有扶蘇",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "狄入衛",
     "title": "狄入衛",
     "summary": "狄人滅衛，唇亡齒寒，邢幾不保。",
@@ -46828,6 +48392,28 @@
         "title": "抱朴子 · 卷25",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷25",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "狡童",
+    "title": "狡童",
+    "summary": "狡慧輕薄之少年，與子充相反，詩人所厭而不得避者。",
+    "tags": [
+      "詩經",
+      "人物",
+      "少年",
+      "山有扶蘇",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有扶蘇",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有扶蘇",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有扶蘇",
+        "work": "詩經"
       }
     ]
   },
@@ -47432,6 +49018,27 @@
     ]
   },
   {
+    "slug": "王餞于郿",
+    "title": "王餞于郿",
+    "summary": "王於郿地設宴餞行，申伯遂南歸謝土。",
+    "tags": [
+      "餞行",
+      "冊命",
+      "宣王",
+      "申伯南歸",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "玼兮玼兮",
     "title": "玼兮玼兮",
     "summary": "翟衣色澤鮮明之貌",
@@ -47882,6 +49489,27 @@
         "title": "史記 · 卷004",
         "url": "https://zh.wikisource.org/wiki/史記/卷004",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "甫及申",
+    "title": "甫及申",
+    "summary": "甫國申國，維周之翰，屏藩四方。",
+    "tags": [
+      "甫國",
+      "申國",
+      "姜姓諸侯",
+      "周室藩屏",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
+        "work": "詩經"
       }
     ]
   },
@@ -48605,7 +50233,8 @@
     "tags": [
       "疇人",
       "周衰",
-      "曆法失傳"
+      "曆法失傳",
+      "部:子"
     ],
     "sources": [
       {
@@ -48613,6 +50242,26 @@
         "plugin": "wikisource",
         "title": "史記 · 卷026",
         "url": "https://zh.wikisource.org/wiki/史記/卷026",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "疏廟",
+    "title": "疏廟",
+    "summary": "亢星為天庭聽政之所，明大則輔臣忠、天下寧。",
+    "tags": [
+      "天文",
+      "亢宿",
+      "明堂",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
         "work": "史記"
       }
     ]
@@ -48826,6 +50475,26 @@
         "title": "抱朴子 · 卷15",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "登是南邦",
+    "title": "登是南邦",
+    "summary": "王命申伯奄有南土，世執其功，永保侯國。",
+    "tags": [
+      "封邦建國",
+      "申伯就封",
+      "周宣王封建",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
+        "work": "詩經"
       }
     ]
   },
@@ -49642,6 +51311,25 @@
         "title": "春秋穀梁傳 · 昭公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/昭公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "盜言孔甘",
+    "title": "盜言孔甘",
+    "summary": "讒人之言甘美悅耳，適以長亂",
+    "tags": [
+      "詩經",
+      "巧言",
+      "讒言"
+    ],
+    "sources": [
+      {
+        "chapter": "巧言",
+        "plugin": "wikisource",
+        "title": "詩經 · 巧言",
+        "url": "https://zh.wikisource.org/wiki/詩經/巧言",
+        "work": "詩經"
       }
     ]
   },
@@ -52430,6 +54118,25 @@
     ]
   },
   {
+    "slug": "秩秩大猷",
+    "title": "秩秩大猷",
+    "summary": "聖人制治之大法",
+    "tags": [
+      "詩經",
+      "巧言",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "巧言",
+        "plugin": "wikisource",
+        "title": "詩經 · 巧言",
+        "url": "https://zh.wikisource.org/wiki/詩經/巧言",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "秩秩德音",
     "title": "秩秩德音",
     "summary": "良人靜正，聲譽遠聞，閔者以此自安也。",
@@ -52437,7 +54144,9 @@
       "詩經",
       "德行",
       "聲譽",
-      "閔念"
+      "閔念",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -53500,6 +55209,26 @@
     ]
   },
   {
+    "slug": "紫宮",
+    "title": "紫宮",
+    "summary": "天帝所居，與人君宮禁相應，藩臣環衞如拱辰。",
+    "tags": [
+      "天文",
+      "紫微",
+      "天象",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "細柳軍",
     "title": "細柳軍",
     "summary": "周亞夫屯軍細柳，帝親勞軍，見其軍令嚴肅，乃稱善。",
@@ -53948,6 +55677,25 @@
         "title": "抱朴子 · 卷20",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷20",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "緝緝翩翩",
+    "title": "緝緝翩翩",
+    "summary": "狀人之私語相隨，謀欲譖人。",
+    "tags": [
+      "詩經",
+      "譖言",
+      "形容"
+    ],
+    "sources": [
+      {
+        "chapter": "巷伯",
+        "plugin": "wikisource",
+        "title": "詩經 · 巷伯",
+        "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
+        "work": "詩經"
       }
     ]
   },
@@ -54492,7 +56240,8 @@
     "tags": [
       "堯",
       "羲和",
-      "曆官"
+      "曆官",
+      "部:其他"
     ],
     "sources": [
       {
@@ -55806,6 +57555,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 兔罝",
         "url": "https://zh.wikisource.org/wiki/詩經/兔罝",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "肅肅宵征",
+    "title": "肅肅宵征",
+    "summary": "敬慎夜行，以喻奉公之勤。",
+    "tags": [
+      "詩經",
+      "勤政",
+      "恭敬",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "小星",
+        "plugin": "wikisource",
+        "title": "詩經 · 小星",
+        "url": "https://zh.wikisource.org/wiki/詩經/小星",
         "work": "詩經"
       }
     ]
@@ -58015,6 +59785,28 @@
     ]
   },
   {
+    "slug": "荷華",
+    "title": "荷華",
+    "summary": "隰中之美，與山上扶蘇相對，以喻各得其宜。",
+    "tags": [
+      "詩經",
+      "草木",
+      "山有扶蘇",
+      "隰",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "山有扶蘇",
+        "plugin": "wikisource",
+        "title": "詩經 · 山有扶蘇",
+        "url": "https://zh.wikisource.org/wiki/詩經/山有扶蘇",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "莊敬日強",
     "title": "莊敬日強",
     "summary": "",
@@ -58034,6 +59826,25 @@
         "title": "禮記 · 表記",
         "url": "https://zh.wikisource.org/wiki/禮記/表記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "莫如兄弟",
+    "title": "莫如兄弟",
+    "summary": "兄弟之情，勝於凡人。",
+    "tags": [
+      "詩經",
+      "常棣",
+      "兄弟"
+    ],
+    "sources": [
+      {
+        "chapter": "常棣",
+        "plugin": "wikisource",
+        "title": "詩經 · 常棣",
+        "url": "https://zh.wikisource.org/wiki/詩經/常棣",
+        "work": "詩經"
       }
     ]
   },
@@ -59959,6 +61770,26 @@
     ]
   },
   {
+    "slug": "衡殷南斗",
+    "title": "衡殷南斗",
+    "summary": "斗衡正當南斗，衡殷中州河濟之間，象丞相之位。",
+    "tags": [
+      "天文",
+      "南斗",
+      "北斗",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "衡與挈引",
     "title": "衡與挈引",
     "summary": "",
@@ -60769,6 +62600,26 @@
         "title": "周易 · 剝",
         "url": "https://zh.wikisource.org/wiki/周易/剝",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "角",
+    "title": "角",
+    "summary": "左角理物以起，右角將帥而動，天之三門，明大則天下太平。",
+    "tags": [
+      "天文",
+      "角宿",
+      "天關",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -61865,6 +63716,46 @@
     ]
   },
   {
+    "slug": "謝于誠歸",
+    "title": "謝于誠歸",
+    "summary": "申伯真心歸謝，周邦咸喜。",
+    "tags": [
+      "申伯",
+      "謝國",
+      "歸國",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "謝人",
+    "title": "謝人",
+    "summary": "謝地之民，因申伯之封而成庸城。",
+    "tags": [
+      "謝國",
+      "南國",
+      "城郭之民",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "崧高",
+        "plugin": "wikisource",
+        "title": "詩經 · 崧高",
+        "url": "https://zh.wikisource.org/wiki/詩經/崧高",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "議獄緩死",
     "title": "議獄緩死",
     "summary": "君子以誠恤刑，議其罪緩其罰，慎用殺也。",
@@ -61978,6 +63869,25 @@
         "plugin": "wikisource",
         "title": "詩經 · 小弁",
         "url": "https://zh.wikisource.org/wiki/詩經/小弁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "豈不爾受",
+    "title": "豈不爾受",
+    "summary": "言人初雖受讒，終將厭而遠之。",
+    "tags": [
+      "詩經",
+      "譖言",
+      "後果"
+    ],
+    "sources": [
+      {
+        "chapter": "巷伯",
+        "plugin": "wikisource",
+        "title": "詩經 · 巷伯",
+        "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
         "work": "詩經"
       }
     ]
@@ -62943,6 +64853,26 @@
     ]
   },
   {
+    "slug": "賤人之牢",
+    "title": "賤人之牢",
+    "summary": "貫索九星在七公前，主禁暴強，為賤人牢獄之象。",
+    "tags": [
+      "天文",
+      "貫索",
+      "牢獄",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "質成由彼",
     "title": "質成由彼",
     "summary": "材成於己，而必資乎師友切磋。",
@@ -63883,6 +65813,26 @@
         "title": "詩經 · 公劉",
         "url": "https://zh.wikisource.org/wiki/詩經/公劉",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "輔星",
+    "title": "輔星",
+    "summary": "北斗第六旁之大臣象，明近則輔臣親彊，遠則疎弱。",
+    "tags": [
+      "天文",
+      "輔星",
+      "輔臣",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
@@ -66593,7 +68543,8 @@
     "tags": [
       "黃帝",
       "羲和",
-      "曆官"
+      "曆官",
+      "部:其他"
     ],
     "sources": [
       {
@@ -67522,6 +69473,26 @@
         "plugin": "wikisource",
         "title": "史記 · 卷006",
         "url": "https://zh.wikisource.org/wiki/史記/卷006",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "陰德",
+    "title": "陰德",
+    "summary": "紫微宮內二星，主施德惠，不明宜暗，明則新君踐極。",
+    "tags": [
+      "天文",
+      "陰德星",
+      "女主",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
         "work": "史記"
       }
     ]
@@ -70168,6 +72139,26 @@
     ]
   },
   {
+    "slug": "驕人好好",
+    "title": "驕人好好",
+    "summary": "驕者得志而喜，勞者失志而悲。",
+    "tags": [
+      "詩經",
+      "君子",
+      "小人",
+      "榮辱"
+    ],
+    "sources": [
+      {
+        "chapter": "巷伯",
+        "plugin": "wikisource",
+        "title": "詩經 · 巷伯",
+        "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "驕常自至",
     "title": "驕常自至",
     "summary": "富貴之門，率多不期驕而驕至；謙虛下士，則附者眾而身安。",
@@ -70567,6 +72558,26 @@
         "title": "詩經 · 何人斯",
         "url": "https://zh.wikisource.org/wiki/詩經/何人斯",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "魁枕參首",
+    "title": "魁枕參首",
+    "summary": "斗魁枕於參星之首，衡杓相連，參主斬刈及天獄。",
+    "tags": [
+      "天文",
+      "參宿",
+      "北斗",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷027",
+        "plugin": "wikisource",
+        "title": "史記 · 卷027",
+        "url": "https://zh.wikisource.org/wiki/史記/卷027",
+        "work": "史記"
       }
     ]
   },
