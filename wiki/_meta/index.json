@@ -57,6 +57,26 @@
     ]
   },
   {
+    "slug": "一之日觱發",
+    "title": "一之日觱發",
+    "summary": "十一月之風，寒而且厲也。",
+    "tags": [
+      "歲時",
+      "氣候",
+      "詩經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "一人有慶兆民賴之",
     "title": "一人有慶兆民賴之",
     "summary": "天子一人有善政，則兆民蒙其福澤。",
@@ -239,7 +259,8 @@
       "叛亂",
       "七國之亂",
       "漢代",
-      "兵事"
+      "兵事",
+      "部:其他"
     ],
     "sources": [
       {
@@ -311,6 +332,26 @@
         "title": "司馬法",
         "url": "https://zh.wikisource.org/wiki/司馬法",
         "work": "司馬法"
+      }
+    ]
+  },
+  {
+    "slug": "七月流火",
+    "title": "七月流火",
+    "summary": "火星西逝，暑退寒將至也。",
+    "tags": [
+      "天象",
+      "歲時",
+      "詩經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
       }
     ]
   },
@@ -808,6 +849,26 @@
     ]
   },
   {
+    "slug": "三皇步而五常驟",
+    "title": "三皇步而五常驟，霸王以來，載馳載騖",
+    "summary": "世道日下，姦偽日繁，非嚴刑不能止姦",
+    "tags": [
+      "治道",
+      "世變",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "三盜",
     "title": "三盜",
     "summary": "春秋書盜有三義：微殺大夫、非所取而取、辟正道以襲利。",
@@ -1129,6 +1190,70 @@
     ]
   },
   {
+    "slug": "下武",
+    "title": "下武",
+    "summary": "頌周家文武相承，述祖德昭示來許。",
+    "tags": [
+      "詩經",
+      "臣功",
+      "祖德",
+      "周頌",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "下武",
+        "plugin": "wikisource",
+        "title": "詩經 · 下武",
+        "url": "https://zh.wikisource.org/wiki/詩經/下武",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "下泉思治",
+    "title": "下泉思治",
+    "summary": "曹人疾共公之虐，思明王賢伯以為庇也。",
+    "tags": [
+      "詩經",
+      "曹風",
+      "曹共公",
+      "思治",
+      "賢君",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "下泉",
+        "plugin": "wikisource",
+        "title": "詩經 · 下泉",
+        "url": "https://zh.wikisource.org/wiki/詩經/下泉",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "下泉浸苞",
+    "title": "下泉浸苞",
+    "summary": "冽泉浸苞，喻賢者在下而不被援引也。",
+    "tags": [
+      "詩經",
+      "曹風",
+      "興象",
+      "下泉",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "下泉",
+        "plugin": "wikisource",
+        "title": "詩經 · 下泉",
+        "url": "https://zh.wikisource.org/wiki/詩經/下泉",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "下齊如權衡",
     "title": "下齊如權衡 / The Hem Balanced Like a Scale",
     "summary": "深衣裾下平齊如秤錘天秤，以象公平之心、持平之政。",
@@ -1168,6 +1293,28 @@
         "plugin": "wikisource",
         "title": "春秋穀梁傳 · 莊公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/莊公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "不以討母葬子",
+    "title": "不以討母葬子",
+    "summary": "閔公之薨不書葬，以其非臣子討罪之義也。",
+    "tags": [
+      "穀梁傳",
+      "閔公",
+      "喪葬",
+      "書法",
+      "春秋",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "閔公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 閔公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/閔公",
         "work": "春秋穀梁傳"
       }
     ]
@@ -1971,6 +2118,26 @@
     ]
   },
   {
+    "slug": "世德",
+    "title": "世德作求",
+    "summary": "世代積德，以配先祖。",
+    "tags": [
+      "德教",
+      "祖德",
+      "臣道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "下武",
+        "plugin": "wikisource",
+        "title": "詩經 · 下武",
+        "url": "https://zh.wikisource.org/wiki/詩經/下武",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "世異事異",
     "title": "世異則事異",
     "summary": "時代不同則行事當異；古之仁義可王天下，今之仁義適足以亡國。",
@@ -1987,6 +2154,67 @@
         "title": "韓非子 · 五蠹",
         "url": "https://zh.wikisource.org/wiki/韓非子/五蠹",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "丘中有麻",
+    "title": "丘中有麻",
+    "summary": "賢人放逐，國人思而望之",
+    "tags": [
+      "詩經",
+      "賢人政治",
+      "思賢",
+      "七月風",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "丘中有麻",
+        "plugin": "wikisource",
+        "title": "詩經 · 丘中有麻",
+        "url": "https://zh.wikisource.org/wiki/詩經/丘中有麻",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "中孚",
+    "title": "中孚",
+    "summary": "澤上有風，孚乃化邦，豚魚皆吉。",
+    "tags": [
+      "易經",
+      "六十一卦",
+      "信德",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "中孚以利貞乃應乎天",
+    "title": "中孚以利貞乃應乎天",
+    "summary": "至誠合天，天道以正，人道以成。",
+    "tags": [
+      "易經",
+      "天人合一",
+      "正固",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
       }
     ]
   },
@@ -2051,6 +2279,26 @@
     ]
   },
   {
+    "slug": "中心愿",
+    "title": "中心愿",
+    "summary": "誠發於心，出於自然，非有待而後應。",
+    "tags": [
+      "易經",
+      "誠心",
+      "自然",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "中行穆子伐狄",
     "title": "中行穆子帥師伐狄圍鼓",
     "summary": "伐狄圍鼓，不受叛城，賞善罰姦，終以德服人",
@@ -2069,6 +2317,26 @@
         "title": "國語 · 卷15",
         "url": "https://zh.wikisource.org/wiki/國語/卷15",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "中谷有蓷",
+    "title": "中谷有蓷",
+    "summary": "詠凶年室家相棄之怨女也",
+    "tags": [
+      "詩經",
+      "棄婦",
+      "凶年",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中谷有蓷",
+        "plugin": "wikisource",
+        "title": "詩經 · 中谷有蓷",
+        "url": "https://zh.wikisource.org/wiki/詩經/中谷有蓷",
+        "work": "詩經"
       }
     ]
   },
@@ -2184,6 +2452,26 @@
     ]
   },
   {
+    "slug": "乘木舟虛",
+    "title": "乘木舟虛",
+    "summary": "涉川利在虛舟，誠則無私，事乃有成。",
+    "tags": [
+      "易經",
+      "虛心",
+      "涉川",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "乘田駕馬",
     "title": "乘田駕馬",
     "summary": "文王於渭陽遇太公，乘田車、駕田馬而田，太公坐茅以漁，終獲師望。",
@@ -2222,6 +2510,26 @@
         "title": "抱朴子 · 卷15",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "乘龍御天",
+    "title": "乘龍御天",
+    "summary": "聖人乘六龍之健，御天道之變，時行則行，時止則止。",
+    "tags": [
+      "聖人",
+      "六龍",
+      "御天",
+      "乘時"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
       }
     ]
   },
@@ -2352,6 +2660,26 @@
     ]
   },
   {
+    "slug": "九月築場圃",
+    "title": "九月築場圃",
+    "summary": "九月斂穀，築場以納禾稼也。",
+    "tags": [
+      "農事",
+      "歲時",
+      "詩經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "九發禁",
     "title": "九發禁",
     "summary": "諸侯會盟發禁之九條，姦亂者滅之。",
@@ -2392,6 +2720,40 @@
     ]
   },
   {
+    "slug": "九罭之魚",
+    "title": "九罭之魚",
+    "summary": "以珍魚況貴客，美服喻君子。",
+    "tags": [
+      "詩經",
+      "寓言",
+      "待客"
+    ],
+    "sources": [
+      {
+        "chapter": "九罭",
+        "plugin": "wikisource",
+        "title": "詩經 · 九罭",
+        "url": "https://zh.wikisource.org/wiki/詩經/九罭",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "乾始能以美利利天下",
+    "title": "乾始能以美利利天下",
+    "summary": "乾之始，能以美利利天下不言所利，其利大矣。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "乾谿之亂",
     "title": "乾谿之亂",
     "summary": "",
@@ -2405,6 +2767,45 @@
         "title": "國語 · 卷17",
         "url": "https://zh.wikisource.org/wiki/國語/卷17",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "乾道變化",
+    "title": "乾道變化",
+    "summary": "天道變化，萬物各正性命，保合大和，乃利乃貞。",
+    "tags": [
+      "天道",
+      "變化",
+      "性命",
+      "大和"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "乾餱以愆",
+    "title": "乾餱以愆",
+    "summary": "細微之失，足以傷友情；待友不可以薄。",
+    "tags": [
+      "友誼",
+      "修身",
+      "詩經"
+    ],
+    "sources": [
+      {
+        "chapter": "伐木",
+        "plugin": "wikisource",
+        "title": "詩經 · 伐木",
+        "url": "https://zh.wikisource.org/wiki/詩經/伐木",
+        "work": "詩經"
       }
     ]
   },
@@ -2595,6 +2996,23 @@
     ]
   },
   {
+    "slug": "二之日栗烈",
+    "title": "二之日栗烈",
+    "summary": "十二月之寒，凜冽刺骨也。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "二十五子",
     "title": "二十五子",
     "summary": "黃帝有子二十五人，其得姓者十四人。",
@@ -2613,6 +3031,27 @@
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "二子乘舟",
+    "title": "二子乘舟",
+    "summary": "詠衞宣公二子伋、壽爭相赴死，國人哀思而作。",
+    "tags": [
+      "詩經",
+      "兄弟之情",
+      "衞宣公",
+      "伋",
+      "壽"
+    ],
+    "sources": [
+      {
+        "chapter": "二子乘舟",
+        "plugin": "wikisource",
+        "title": "詩經 · 二子乘舟",
+        "url": "https://zh.wikisource.org/wiki/詩經/二子乘舟",
+        "work": "詩經"
       }
     ]
   },
@@ -3295,6 +3734,46 @@
     ]
   },
   {
+    "slug": "亢龍有悔",
+    "title": "亢龍有悔",
+    "summary": "貴而无位，高而无民，盈不可久，知進而不知退則有悔。",
+    "tags": [
+      "亢龍",
+      "知退",
+      "盈虛",
+      "悔"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "交道可貴",
+    "title": "交道可貴",
+    "summary": "明友誼相資之功，其道貴在簡擇同道，共成事業。",
+    "tags": [
+      "交友",
+      "友誼",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷16",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "亭尉幟",
     "title": "亭尉幟制 / The Pavilion Commander's Flag System / 亭尉幟制",
     "summary": "A hierarchical flag-and-drum signal system specifying enemy position through drum beats and corresponding flag elevations for city gate defense.",
@@ -3500,6 +3979,27 @@
         "title": "禮記 · 禮運",
         "url": "https://zh.wikisource.org/wiki/禮記/禮運",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "人才需明主",
+    "title": "人才需明主",
+    "summary": "抱朴子言結綠玄黎需陶猗之市，千鈞之重需賁獲之抱，白雪之弦需靈素之徽，邁倫之才需明主之用。",
+    "tags": [
+      "抱朴子",
+      "人才",
+      "明主",
+      "知遇",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷18",
+        "work": "抱朴子"
       }
     ]
   },
@@ -3887,6 +4387,46 @@
     ]
   },
   {
+    "slug": "仁者養物之器",
+    "title": "仁者養物之器，刑者懲非之具",
+    "summary": "闡明仁政與刑罰各有其用，相輔相成",
+    "tags": [
+      "治道",
+      "仁刑",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "仁體足以長人",
+    "title": "仁體足以長人",
+    "summary": "君子體仁，則足以為人之首長。",
+    "tags": [
+      "仁",
+      "君子",
+      "長人",
+      "四德"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "仇牧不畏強禦",
     "title": "仇牧不畏強禦",
     "summary": "宋萬弒君，仇牧聞難而至，手劍叱之，遂遇害，君子賢之。",
@@ -4143,6 +4683,26 @@
         "title": "史記 · 卷010",
         "url": "https://zh.wikisource.org/wiki/史記/卷010",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "令煩而不行",
+    "title": "亡國非無令也，患於令煩而不行；敗軍非無禁也，患於禁設而不止",
+    "summary": "令禁之弊在於不行、不止，非令禁本身之過",
+    "tags": [
+      "治道",
+      "法度",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -4431,6 +4991,9 @@
       "法家",
       "商君書",
       "變法",
+      "治道",
+      "刑罰",
+      "抱朴子",
       "部:經"
     ],
     "sources": [
@@ -4440,6 +5003,13 @@
         "title": "商君書 · 卷一",
         "url": "https://zh.wikisource.org/wiki/商君書/卷一",
         "work": "商君書"
+      },
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -4486,6 +5056,27 @@
     ]
   },
   {
+    "slug": "以石為玉未有傷",
+    "title": "以石為玉未有傷",
+    "summary": "抱朴子言以石為玉無大礙，以愚為賢則有亡國之診，明識別之要。",
+    "tags": [
+      "抱朴子",
+      "識別",
+      "賢愚",
+      "玉石",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷18",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "以禮分施",
     "title": "以禮分施",
     "summary": "為君以禮分施無偏，為臣以禮侍君忠順",
@@ -4503,6 +5094,26 @@
         "title": "荀子 · 君道篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "以禮待邊",
+    "title": "以禮待邊",
+    "summary": "聖人施政，一視同仁，不以遐邇而殊禮。",
+    "tags": [
+      "治道",
+      "遠方",
+      "抱朴子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
+        "work": "抱朴子"
       }
     ]
   },
@@ -4625,6 +5236,13 @@
         "title": "春秋公羊傳 · 閔公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/閔公",
         "work": "春秋公羊傳"
+      },
+      {
+        "chapter": "閔公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 閔公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/閔公",
+        "work": "春秋穀梁傳"
       }
     ]
   },
@@ -4756,6 +5374,26 @@
         "title": "抱朴子 · 卷03",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷03",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "仳離",
+    "title": "仳離",
+    "summary": "夫婦離散之謂也",
+    "tags": [
+      "棄婦",
+      "夫婦",
+      "詩經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中谷有蓷",
+        "plugin": "wikisource",
+        "title": "詩經 · 中谷有蓷",
+        "url": "https://zh.wikisource.org/wiki/詩經/中谷有蓷",
+        "work": "詩經"
       }
     ]
   },
@@ -4999,6 +5637,25 @@
     ]
   },
   {
+    "slug": "伐木丁丁",
+    "title": "伐木丁丁",
+    "summary": "斧斤之聲，起居之事；朋友之情，由茲而興。",
+    "tags": [
+      "詩經",
+      "友誼",
+      "興起"
+    ],
+    "sources": [
+      {
+        "chapter": "伐木",
+        "plugin": "wikisource",
+        "title": "詩經 · 伐木",
+        "url": "https://zh.wikisource.org/wiki/詩經/伐木",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "伐湘山",
     "title": "伐湘山",
     "summary": "秦始皇渡江至湘山祠，遇風不得渡，怒使刑徒伐湘山樹而赭之。",
@@ -5148,6 +5805,26 @@
     ]
   },
   {
+    "slug": "何嗟及矣",
+    "title": "何嗟及矣",
+    "summary": "悔之無及之歎也",
+    "tags": [
+      "詩經",
+      "悔恨",
+      "棄婦",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中谷有蓷",
+        "plugin": "wikisource",
+        "title": "詩經 · 中谷有蓷",
+        "url": "https://zh.wikisource.org/wiki/詩經/中谷有蓷",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "何必曰利",
     "title": "何必曰利 / On Not Speaking of Profit",
     "summary": "孟子以利與仁義對舉，謂上下交征利則國危，惟行仁義可以王天下。",
@@ -5188,6 +5865,26 @@
         "title": "墨子 · 公孟",
         "url": "https://zh.wikisource.org/wiki/墨子/公孟",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "余代其口止叔口止脊",
+    "title": "余代其口止叔口止脊",
+    "summary": "厭與世俗小人同世為伍，深以交道浮雜為恥。",
+    "tags": [
+      "修身",
+      "交友",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷16",
+        "work": "抱朴子"
       }
     ]
   },
@@ -5681,6 +6378,45 @@
         "title": "韓非子 · 備內",
         "url": "https://zh.wikisource.org/wiki/韓非子/備內",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "信及豚魚",
+    "title": "信及豚魚",
+    "summary": "至誠之感，達於微物，無遠弗屆。",
+    "tags": [
+      "易經",
+      "誠信感通",
+      "聖人之化",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "信處信宿",
+    "title": "信處信宿",
+    "summary": "再宿之留，以示情誼之厚。",
+    "tags": [
+      "詩經",
+      "禮儀",
+      "友誼"
+    ],
+    "sources": [
+      {
+        "chapter": "九罭",
+        "plugin": "wikisource",
+        "title": "詩經 · 九罭",
+        "url": "https://zh.wikisource.org/wiki/詩經/九罭",
+        "work": "詩經"
       }
     ]
   },
@@ -6387,6 +7123,25 @@
     ]
   },
   {
+    "slug": "兄弟無遠",
+    "title": "兄弟無遠",
+    "summary": "兄弟之親，不可以疏遠；朋友之誼，當以兄弟為法。",
+    "tags": [
+      "人倫",
+      "兄弟",
+      "詩經"
+    ],
+    "sources": [
+      {
+        "chapter": "伐木",
+        "plugin": "wikisource",
+        "title": "詩經 · 伐木",
+        "url": "https://zh.wikisource.org/wiki/詩經/伐木",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "先勞而後祿",
     "title": "先勞而後祿",
     "summary": "儒者先盡其道而後受其祿，不以祿為先圖。",
@@ -6568,7 +7323,8 @@
       "惠民",
       "徭役",
       "景帝",
-      "漢代"
+      "漢代",
+      "部:其他"
     ],
     "sources": [
       {
@@ -6847,7 +7603,9 @@
     "slug": "內史郡不得食馬粟",
     "title": "內史郡不得食馬粟",
     "summary": "景帝令京師官員不得以粟養馬，使民食得以保障。",
-    "tags": [],
+    "tags": [
+      "部:史"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -6888,6 +7646,9 @@
       "孟子",
       "觀人",
       "道德",
+      "治道",
+      "刑德",
+      "抱朴子",
       "部:子"
     ],
     "sources": [
@@ -6897,6 +7658,13 @@
         "title": "孟子 · 告子下",
         "url": "https://zh.wikisource.org/wiki/孟子/告子下",
         "work": "孟子"
+      },
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -7236,6 +8004,25 @@
         "title": "禮記 · 文王世子",
         "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "公歸",
+    "title": "公歸",
+    "summary": "公歸無所，言賢者去而不返也。",
+    "tags": [
+      "詩經",
+      "寓言",
+      "賢才"
+    ],
+    "sources": [
+      {
+        "chapter": "九罭",
+        "plugin": "wikisource",
+        "title": "詩經 · 九罭",
+        "url": "https://zh.wikisource.org/wiki/詩經/九罭",
+        "work": "詩經"
       }
     ]
   },
@@ -8287,6 +9074,26 @@
     ]
   },
   {
+    "slug": "刑賞以勸賢",
+    "title": "刑賞以勸賢",
+    "summary": "賞罰所以勸善惩恶，进贤退不肖",
+    "tags": [
+      "治道",
+      "賞罰",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "刑賞斷於民心",
     "title": "刑賞斷於民心",
     "summary": "王者刑賞斷於民心，器用斷於家",
@@ -8468,6 +9275,26 @@
         "title": "禮記 · 祭法",
         "url": "https://zh.wikisource.org/wiki/禮記/祭法",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "刻舟以摸遺劍",
+    "title": "刻舟以摸遺劍，參天而射五步",
+    "summary": "譏拘泥古道、不達時變之弊",
+    "tags": [
+      "批評",
+      "治道",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -8891,7 +9718,9 @@
     "slug": "匈奴入雁門",
     "title": "匈奴入雁門",
     "summary": "匈奴數入邊塞，雁門之寇為後元年之大患。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -9027,6 +9856,46 @@
         "title": "禮記 · 祭統",
         "url": "https://zh.wikisource.org/wiki/禮記/祭統",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "十月納禾稼",
+    "title": "十月納禾稼",
+    "summary": "十月斂禾登穀，入於倉廩也。",
+    "tags": [
+      "農事",
+      "歲時",
+      "詩經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "十月蟋蟀入我牀下",
+    "title": "十月蟋蟀入我牀下",
+    "summary": "歲暮天寒，蟋蟀入室，民事之艱也。",
+    "tags": [
+      "昆蟲",
+      "歲時",
+      "詩經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
       }
     ]
   },
@@ -9517,6 +10386,27 @@
         "title": "韓非子 · 主道",
         "url": "https://zh.wikisource.org/wiki/韓非子/主道",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "友于之情",
+    "title": "友于之情",
+    "summary": "兄弟相親相愛、爭為對方赴難之情，儒者以為人倫之本。",
+    "tags": [
+      "詩經",
+      "兄弟",
+      "伋",
+      "壽",
+      "人倫"
+    ],
+    "sources": [
+      {
+        "chapter": "二子乘舟",
+        "plugin": "wikisource",
+        "title": "詩經 · 二子乘舟",
+        "url": "https://zh.wikisource.org/wiki/詩經/二子乘舟",
+        "work": "詩經"
       }
     ]
   },
@@ -10331,6 +11221,26 @@
         "title": "國語 · 卷13",
         "url": "https://zh.wikisource.org/wiki/國語/卷13",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "各正性命",
+    "title": "各正性命",
+    "summary": "天道變化，萬物各稟其性命之正，保合大和。",
+    "tags": [
+      "性命",
+      "天道",
+      "正命",
+      "大和"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
       }
     ]
   },
@@ -11693,7 +12603,8 @@
       "將領",
       "周亞夫",
       "七國之亂",
-      "兵事"
+      "兵事",
+      "部:其他"
     ],
     "sources": [
       {
@@ -11702,6 +12613,26 @@
         "title": "史記 · 卷011",
         "url": "https://zh.wikisource.org/wiki/史記/卷011",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "周以仁興",
+    "title": "周以仁興，秦以嚴亡；周得之不純仁，秦失之不純嚴",
+    "summary": "駁俗儒僅歸功過於仁與嚴之一端",
+    "tags": [
+      "歷史",
+      "治道",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -11843,6 +12774,26 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "周用肉刑",
+    "title": "周用肉刑，積祀七百；漢氏廢之，年代不如",
+    "summary": "肉刑之存廢，以周漢對比為鑒",
+    "tags": [
+      "肉刑",
+      "歷史",
+      "抱朴子",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
         "work": "抱朴子"
       }
     ]
@@ -12061,6 +13012,26 @@
         "title": "禮記 · 問喪",
         "url": "https://zh.wikisource.org/wiki/禮記/問喪",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "品物阜焉歲功成焉",
+    "title": "品物阜焉，歲功成焉",
+    "summary": "天地之道，不能純仁，故寒暑相濟，品物乃成",
+    "tags": [
+      "天道",
+      "刑德",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -12500,6 +13471,10 @@
       "穀梁傳",
       "褒貶",
       "征伐",
+      "閔公",
+      "救災",
+      "邢國",
+      "齊國",
       "部:史"
     ],
     "sources": [
@@ -12508,6 +13483,13 @@
         "plugin": "wikisource",
         "title": "春秋穀梁傳 · 僖公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      },
+      {
+        "chapter": "閔公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 閔公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/閔公",
         "work": "春秋穀梁傳"
       }
     ]
@@ -12894,6 +13876,25 @@
     ]
   },
   {
+    "slug": "嚶其鳴矣",
+    "title": "嚶其鳴矣",
+    "summary": "鳥以鳴求友，人以言求友，聲之感通，心之相契也。",
+    "tags": [
+      "友誼",
+      "感應",
+      "詩經"
+    ],
+    "sources": [
+      {
+        "chapter": "伐木",
+        "plugin": "wikisource",
+        "title": "詩經 · 伐木",
+        "url": "https://zh.wikisource.org/wiki/詩經/伐木",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "囊瓦求裘",
     "title": "囊瓦求裘",
     "summary": "囊瓦求美裘於蔡昭公而不予，因拘之于南郢，終致楚蔡之隙。",
@@ -12979,6 +13980,28 @@
     ]
   },
   {
+    "slug": "四國有王郇伯勞之",
+    "title": "四國有王郇伯勞之",
+    "summary": "四方有王，賢伯撫之，百姓安而無侵刻也。",
+    "tags": [
+      "詩經",
+      "曹風",
+      "治世",
+      "賢伯",
+      "郇伯",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "下泉",
+        "plugin": "wikisource",
+        "title": "詩經 · 下泉",
+        "url": "https://zh.wikisource.org/wiki/詩經/下泉",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "四始之說",
     "title": "The Theory of the Four Origins / 四始之說",
     "summary": "列子's cosmological doctrine describing the four stages of creation from non-breath (太易) through primordial substance (太素), culminating in the separation of heaven and earth.",
@@ -12999,6 +14022,26 @@
         "title": "列子 · 天瑞篇",
         "url": "https://zh.wikisource.org/wiki/列子/天瑞篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "四方來賀",
+    "title": "四方來賀",
+    "summary": "天子受命，萬國來朝。",
+    "tags": [
+      "天下",
+      "朝貢",
+      "王道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "下武",
+        "plugin": "wikisource",
+        "title": "詩經 · 下武",
+        "url": "https://zh.wikisource.org/wiki/詩經/下武",
+        "work": "詩經"
       }
     ]
   },
@@ -13229,6 +14272,26 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "國之神器",
+    "title": "刑之為物，國之神器，君所自執，不可假人",
+    "summary": "刑罰為國家重器，君主不可假手於人",
+    "tags": [
+      "刑罰",
+      "君道",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -14135,6 +15198,26 @@
     ]
   },
   {
+    "slug": "塞朋黨",
+    "title": "塞朋黨",
+    "summary": "朋黨比周，則賢否混淆；欲正士風，必塞其源。",
+    "tags": [
+      "朋黨",
+      "賢才",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "境內",
     "title": "境內",
     "summary": "記軍爵、什伍、攻城賞罰之制",
@@ -14560,6 +15643,26 @@
     ]
   },
   {
+    "slug": "多仁則法不立",
+    "title": "多仁則法不立，威寡則下侵上",
+    "summary": "仁多則法度不立，威不足則下陵於上",
+    "tags": [
+      "治道",
+      "仁刑",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "多文以為富",
     "title": "多文以為富",
     "summary": "儒者不求金玉之積，唯以學問文章為己之財富。",
@@ -14701,6 +15804,26 @@
         "title": "孟子 · 滕文公下",
         "url": "https://zh.wikisource.org/wiki/孟子/滕文公下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "大人與天地合德",
+    "title": "大人與天地合德",
+    "summary": "大人之德，與天地日月四時鬼神合其序，聖人之至也。",
+    "tags": [
+      "大人",
+      "聖人",
+      "天人合一",
+      "德合"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
       }
     ]
   },
@@ -14966,6 +16089,46 @@
         "title": "禮記 · 喪大記",
         "url": "https://zh.wikisource.org/wiki/禮記/喪大記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "大明終始",
+    "title": "大明終始",
+    "summary": "日月照臨，終而復始，乾道之所以運也。",
+    "tags": [
+      "大明",
+      "終始",
+      "天道",
+      "日月"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "大材小用小材大用之弊",
+    "title": "大材小用小材大用之弊",
+    "summary": "謂大材不可以治小事，小材不可以當大任，用人當稱其材。",
+    "tags": [
+      "抱朴子",
+      "人才觀",
+      "治道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷17",
+        "work": "抱朴子"
       }
     ]
   },
@@ -15607,6 +16770,26 @@
     ]
   },
   {
+    "slug": "天有缺陷地有偏勝",
+    "title": "天有缺陷地有偏勝",
+    "summary": "喻天地萬物皆有偏至之性，無能全備者。",
+    "tags": [
+      "抱朴子",
+      "天道觀",
+      "局限性",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷17",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "天欲相愛相利",
     "title": "天欲相愛相利 / Heaven Desires Mutual Love and Mutual Benefit / 天は相愛相利を欲す",
     "summary": "墨子指出天之意志在於使人相愛相利，而非相惡相賊，以此作為法天之道德基礎。",
@@ -15632,7 +16815,9 @@
     "slug": "天火燔雒陽東宮",
     "title": "天火燔雒陽東宮",
     "summary": "天火焚毀雒陽東宮大殿城室，示以變異。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -15722,6 +16907,25 @@
         "title": "春秋穀梁傳 · 成公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/成公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "天行健",
+    "title": "天行健",
+    "summary": "天道剛健，周而復始，無有止息。",
+    "tags": [
+      "天道",
+      "剛健",
+      "自然"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
       }
     ]
   },
@@ -16177,7 +17381,8 @@
     "tags": [
       "治國",
       "賢才",
-      "興亡"
+      "興亡",
+      "部:其他"
     ],
     "sources": [
       {
@@ -16185,6 +17390,26 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷13",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷13",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "失柄之敗",
+    "title": "失柄之敗，由於不嚴",
+    "summary": "政柄旁落之敗，源於刑罰不嚴",
+    "tags": [
+      "治道",
+      "刑罰",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
         "work": "抱朴子"
       }
     ]
@@ -16295,6 +17520,26 @@
     ]
   },
   {
+    "slug": "女執懿筐",
+    "title": "女執懿筐",
+    "summary": "蠶月女子執深筐以采桑也。",
+    "tags": [
+      "蠶桑",
+      "女子",
+      "詩經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "女子哭泣悲哀擊胸傷心",
     "title": "女子哭泣悲哀擊胸傷心 / Women Weep and Beat Their Breasts; Men Bow Their Foreheads to the Ground",
     "summary": "男女哭法不同，各以其儀，女子擊胸以申悲，男子稽顙以盡哀，此喪禮之別也。",
@@ -16312,6 +17557,26 @@
         "title": "禮記 · 問喪",
         "url": "https://zh.wikisource.org/wiki/禮記/問喪",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "奸臣竊柄賢者陸沉",
+    "title": "奸臣竊柄賢者陸沉",
+    "summary": "姦邪用事，則清節之士困於泥濘，投機之人騰於顯達。",
+    "tags": [
+      "賢才",
+      "姦邪",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
+        "work": "抱朴子"
       }
     ]
   },
@@ -16698,6 +17963,46 @@
         "title": "韓非子 · 人主",
         "url": "https://zh.wikisource.org/wiki/韓非子/人主",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "威嚴暫馳",
+    "title": "威嚴暫馳，則群邪生心",
+    "summary": "威嚴一旦懈弛，姦邪便生窺伺之心",
+    "tags": [
+      "治道",
+      "威嚴",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "媚茲一人",
+    "title": "媚茲一人",
+    "summary": "臣下愛敬其君，應侯順德。",
+    "tags": [
+      "臣道",
+      "君臣",
+      "忠順",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "下武",
+        "plugin": "wikisource",
+        "title": "詩經 · 下武",
+        "url": "https://zh.wikisource.org/wiki/詩經/下武",
+        "work": "詩經"
       }
     ]
   },
@@ -17278,7 +18583,9 @@
     "slug": "孝景施大德",
     "title": "孝景施大德",
     "summary": "太史公稱孝景承文德，天下懷安，功不可沒。",
-    "tags": [],
+    "tags": [
+      "部:史"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -17297,7 +18604,8 @@
       "帝王",
       "漢代",
       "七國之亂",
-      "政事"
+      "政事",
+      "部:經"
     ],
     "sources": [
       {
@@ -17386,6 +18694,13 @@
         "title": "春秋公羊傳 · 閔公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/閔公",
         "work": "春秋公羊傳"
+      },
+      {
+        "chapter": "閔公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 閔公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/閔公",
+        "work": "春秋穀梁傳"
       }
     ]
   },
@@ -18069,7 +19384,9 @@
     "slug": "安危之機豈不以謀哉",
     "title": "安危之機豈不以謀哉",
     "summary": "安危之際，終賴主父偃之謀以弱諸侯，則知謀之為用大矣。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -18227,6 +19544,26 @@
         "title": "春秋公羊傳 · 成公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/成公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "官不知法",
+    "title": "官不知法",
+    "summary": "居官者悉不知法，何以決獄、牧民？",
+    "tags": [
+      "法治",
+      "官制",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
+        "work": "抱朴子"
       }
     ]
   },
@@ -19622,6 +20959,26 @@
     ]
   },
   {
+    "slug": "峻法不失賢才",
+    "title": "峻法不失賢才",
+    "summary": "明君恃法之峻，不恃人之不欺；峻制既立，賢才自出。",
+    "tags": [
+      "法治",
+      "君道",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "崩薨卒不祿-之",
     "title": "崩薨卒不祿-之",
     "summary": "",
@@ -20335,7 +21692,12 @@
       "儒行",
       "修身",
       "處世",
-      "部:其他"
+      "抱朴子",
+      "至人",
+      "操守",
+      "貧賤",
+      "富貴",
+      "部:子"
     ],
     "sources": [
       {
@@ -20344,6 +21706,13 @@
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
         "work": "禮記"
+      },
+      {
+        "chapter": "卷19",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷19",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷19",
+        "work": "抱朴子"
       }
     ]
   },
@@ -20938,6 +22307,26 @@
     ]
   },
   {
+    "slug": "得敵",
+    "title": "得敵",
+    "summary": "遇敵而情不一，或勇或怯，位不當故。",
+    "tags": [
+      "易經",
+      "敵應",
+      "位不當",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "得時無怠",
     "title": "得時無怠",
     "summary": "聖人用兵貴乘天時，時不再來，不可失之",
@@ -21152,7 +22541,9 @@
     "slug": "復置津關",
     "title": "復置津關",
     "summary": "景帝復設津關，以傳出入，加強京師防衛。",
-    "tags": [],
+    "tags": [
+      "部:史"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -21305,6 +22696,26 @@
     ]
   },
   {
+    "slug": "德教者黼黻之祭服",
+    "title": "德教者黼黻之祭服，刑罰者捍刃之甲胄",
+    "summary": "喻仁政與刑罰相須為用，不可偏廢",
+    "tags": [
+      "治道",
+      "刑德",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "德為福之基",
     "title": "德為福之基",
     "summary": "天道無親，唯德是授；無德之福，如無基之墉，壞亡無日。",
@@ -21392,6 +22803,25 @@
     ]
   },
   {
+    "slug": "心悲",
+    "title": "心悲",
+    "summary": "賢者之去，令人心悲。",
+    "tags": [
+      "詩經",
+      "情感",
+      "離別"
+    ],
+    "sources": [
+      {
+        "chapter": "九罭",
+        "plugin": "wikisource",
+        "title": "詩經 · 九罭",
+        "url": "https://zh.wikisource.org/wiki/詩經/九罭",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "必去六辟",
     "title": "Eliminating the Six Biases / 必去六辟",
     "summary": "Mozi's doctrine that one must eliminate six emotional biases—joy, anger, pleasure, sorrow, love, and hatred—to practice righteousness and become a sage.",
@@ -21410,6 +22840,26 @@
         "title": "墨子 · 貴義",
         "url": "https://zh.wikisource.org/wiki/墨子/貴義",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "志未變",
+    "title": "志未變",
+    "summary": "初心守正，未有外慕，則得其吉。",
+    "tags": [
+      "易經",
+      "守志",
+      "初心",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
       }
     ]
   },
@@ -21451,6 +22901,27 @@
         "title": "抱朴子 · 卷06",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷06",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "念彼京師",
+    "title": "念彼京師",
+    "summary": "念周京之盛，思明王之治也。",
+    "tags": [
+      "詩經",
+      "曹風",
+      "周京",
+      "思治",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "下泉",
+        "plugin": "wikisource",
+        "title": "詩經 · 下泉",
+        "url": "https://zh.wikisource.org/wiki/詩經/下泉",
+        "work": "詩經"
       }
     ]
   },
@@ -22003,6 +23474,47 @@
     ]
   },
   {
+    "slug": "愛待敬而不敗",
+    "title": "愛待敬而不敗，故制禮以崇之；德須威而久立，故作刑以肅之",
+    "summary": "仁德需威刑輔助，方能久立",
+    "tags": [
+      "治道",
+      "刑德",
+      "抱朴子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "愛憎好惡古今不均",
+    "title": "愛憎好惡古今不均",
+    "summary": "抱朴子言世風時變，愛憎好惡古今不同，物價貴賤亦隨時異。",
+    "tags": [
+      "抱朴子",
+      "世變",
+      "價值觀",
+      "時移俗易",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷18",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "愛民不疾",
     "title": "愛民不疾 / Loving the People Without Delay",
     "summary": "Mozi's principle that rulers must love the people sincerely and urgently, gaining their trust through genuine care and practical benefits.",
@@ -22070,6 +23582,27 @@
         "title": "荀子 · 君道篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "愾我寤嘆",
+    "title": "愾我寤嘆",
+    "summary": "深夜思治，寤而起嘆，念王室之盛也。",
+    "tags": [
+      "詩經",
+      "曹風",
+      "憂思",
+      "念京",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "下泉",
+        "plugin": "wikisource",
+        "title": "詩經 · 下泉",
+        "url": "https://zh.wikisource.org/wiki/詩經/下泉",
+        "work": "詩經"
       }
     ]
   },
@@ -22177,6 +23710,27 @@
     ]
   },
   {
+    "slug": "懸爵而賣",
+    "title": "懸爵而賣",
+    "summary": "靈獻之世，官如肆肆，財多者位尊，風頹教沮。",
+    "tags": [
+      "賣官",
+      "貪腐",
+      "漢末",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "戈止高清",
     "title": "干戈止息",
     "summary": "天下太平，兵革不興。",
@@ -22261,6 +23815,26 @@
     ]
   },
   {
+    "slug": "成王之孚",
+    "title": "成王之孚",
+    "summary": "成王之信義，為下土之準式。",
+    "tags": [
+      "臣功",
+      "信義",
+      "治道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "下武",
+        "plugin": "wikisource",
+        "title": "詩經 · 下武",
+        "url": "https://zh.wikisource.org/wiki/詩經/下武",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "或假效",
     "title": "或假效 / Three Logical Terms / 或・假・效",
     "summary": "Three fundamental logical terms in Mozi: uncertainty, hypothesis, and modeling.",
@@ -22298,6 +23872,26 @@
         "title": "國語 · 卷18",
         "url": "https://zh.wikisource.org/wiki/國語/卷18",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "或躍在淵",
+    "title": "或躍在淵",
+    "summary": "君子進德脩業，欲及時而自試，進退無常，非有邪也。",
+    "tags": [
+      "進退",
+      "自試",
+      "君子",
+      "待時"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
       }
     ]
   },
@@ -22630,6 +24224,26 @@
         "title": "抱朴子 · 卷03",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷03",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "授衣",
+    "title": "授衣",
+    "summary": "冬衣既成，頒於卒歲者也。",
+    "tags": [
+      "歲時",
+      "農事",
+      "詩經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
       }
     ]
   },
@@ -23492,6 +25106,26 @@
     ]
   },
   {
+    "slug": "斧斤之人",
+    "title": "匠石不舍繩墨，故無不直之木；明主不廢戮罰，故無陵遲之政",
+    "summary": "以匠者不廢斧斤喻明主不廢刑罰",
+    "tags": [
+      "治道",
+      "刑罰",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "新安阬卒",
     "title": "新安阬卒",
     "summary": "項羽坑殺降秦士卒二十餘萬於新安城南。",
@@ -23642,6 +25276,26 @@
     ]
   },
   {
+    "slug": "旁通情",
+    "title": "旁通情",
+    "summary": "六爻變動，旁通萬物之情，乾道之妙用也。",
+    "tags": [
+      "六爻",
+      "旁通",
+      "變化",
+      "情"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "日新之教",
     "title": "The Teachings of Daily Renewal / 日新之教",
     "summary": "The Confucian imperative of continuous moral self-renewal, exemplified by the inscription on King Tang's washbasin.",
@@ -23764,13 +25418,35 @@
     ]
   },
   {
+    "slug": "明並懸象",
+    "title": "明並懸象",
+    "summary": "抱朴子言明鑒者如日月並懸，能洞察幽微，辨別賢愚。",
+    "tags": [
+      "抱朴子",
+      "明鑒",
+      "識人",
+      "日月",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷18",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "明主招賢",
     "title": "明主招賢",
     "summary": "明主以聘賢為首務，以得士為重寶。",
     "tags": [
       "治國",
       "賢才",
-      "招賢"
+      "招賢",
+      "部:其他"
     ],
     "sources": [
       {
@@ -24041,6 +25717,27 @@
     ]
   },
   {
+    "slug": "明珠變滯貨",
+    "title": "明珠變滯貨",
+    "summary": "抱朴子言美玉良材若不遇識者，反成滯貨無用之物。",
+    "tags": [
+      "抱朴子",
+      "賢才",
+      "明珠",
+      "淵藪",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷18",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "明發不寐",
     "title": "Sleepless Vigil / 明發不寐",
     "summary": "The ritual practice of staying awake through the night after a sacrifice to honor deceased parents, as exemplified by King Wen.",
@@ -24109,6 +25806,26 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "明罰用獄",
+    "title": "明罰用獄",
+    "summary": "刑罰之設，遠有淵源，非叔世之私",
+    "tags": [
+      "刑罰",
+      "歷史",
+      "抱朴子",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
         "work": "抱朴子"
       }
     ]
@@ -24308,6 +26025,46 @@
         "title": "春秋穀梁傳 · 昭公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/昭公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "春日載陽",
+    "title": "春日載陽",
+    "summary": "春日既至，陽氣方溫也。",
+    "tags": [
+      "歲時",
+      "春季",
+      "詩經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "春日遲遲",
+    "title": "春日遲遲",
+    "summary": "春日舒長，風日和緩也。",
+    "tags": [
+      "歲時",
+      "春季",
+      "詩經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
       }
     ]
   },
@@ -24812,7 +26569,9 @@
     "slug": "景帝崩遺詔",
     "title": "景帝崩遺詔",
     "summary": "景帝遺詔施恩天下，遣散宮人，薄葬節用，以身示儉。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -24934,10 +26693,32 @@
     ]
   },
   {
+    "slug": "暵其乾矣",
+    "title": "暵其乾矣",
+    "summary": "旱使之枯也",
+    "tags": [
+      "詩經",
+      "興象",
+      "旱乾",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中谷有蓷",
+        "plugin": "wikisource",
+        "title": "詩經 · 中谷有蓷",
+        "url": "https://zh.wikisource.org/wiki/詩經/中谷有蓷",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "更名官制",
     "title": "更名官制",
     "summary": "景帝更易官名，改廷尉為大理等，以正名實。",
-    "tags": [],
+    "tags": [
+      "部:經"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -25058,6 +26839,26 @@
     ]
   },
   {
+    "slug": "有孚攣如",
+    "title": "有孚攣如",
+    "summary": "誠信相結，固而不解，上下相孚。",
+    "tags": [
+      "易經",
+      "誠信",
+      "攣固",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "有年",
     "title": "有年",
     "summary": "五穀豐熟，書以美之，異於恒常。",
@@ -25159,6 +26960,26 @@
         "title": "禮記 · 郊特牲",
         "url": "https://zh.wikisource.org/wiki/禮記/郊特牲",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "有鳴倉庚",
+    "title": "有鳴倉庚",
+    "summary": "春日倉庚鳴也。",
+    "tags": [
+      "鳥類",
+      "歲時",
+      "詩經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
       }
     ]
   },
@@ -25547,6 +27368,27 @@
     ]
   },
   {
+    "slug": "杜請託",
+    "title": "杜請託",
+    "summary": "嚴考試之法，杜屬託之私，使銓衡清明。",
+    "tags": [
+      "貢舉",
+      "考試",
+      "請託",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "杞人憂天",
     "title": "The Man of Qi Who Worried About Heaven / 杞人之憂",
     "summary": "The famous anecdote of a man who feared the collapse of heaven, illustrating the Daoist insight that excessive worry about the ultimate nature of things is misguided, as both the affirmation and negation of cosmic destruction are equally beyond human knowledge.",
@@ -25690,6 +27532,26 @@
     ]
   },
   {
+    "slug": "柔在內而剛得中",
+    "title": "柔在內而剛得中",
+    "summary": "二柔在中，二剛得位，孚道成焉。",
+    "tags": [
+      "易經",
+      "剛柔",
+      "中道",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "柔弱者生之幹",
     "title": "Softness and Weakness as the Stem of Life / 柔弱者生之幹",
     "summary": "The Daoist teaching that soft and weak things are the stem/trunk of life, while the hard and strong are destined for death.",
@@ -25738,7 +27600,8 @@
       "儲位",
       "廢立",
       "栗太子",
-      "漢代"
+      "漢代",
+      "部:子"
     ],
     "sources": [
       {
@@ -25916,7 +27779,9 @@
     "slug": "梁分為五",
     "title": "梁分為五",
     "summary": "景帝析梁孝王之地為五國，以防強藩坐大。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -25973,7 +27838,9 @@
     "slug": "條侯",
     "title": "條侯",
     "summary": "條侯周亞夫以功封侯，拜相，卒以莫須有之罪下獄而死。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -27338,6 +29205,26 @@
     ]
   },
   {
+    "slug": "水火所以活人亦所以殺人",
+    "title": "水火者所以活人，亦所以殺人，存乎能用之與不能用",
+    "summary": "刑罰本身無善惡，善用則治，不善用則亂",
+    "tags": [
+      "刑罰",
+      "治道",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "水為道也",
     "title": "Water as the Way / 水為道也",
     "summary": "A Daoist metaphor asserting that water, despite being the softest substance, embodies the supreme virtue of the Dao.",
@@ -27355,6 +29242,25 @@
         "title": "文子 · 卷一",
         "url": "https://zh.wikisource.org/wiki/文子/卷一",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "求友聲",
+    "title": "求友聲",
+    "summary": "賢者聞聲而思友，鳥亦知類，矧於人乎。",
+    "tags": [
+      "友誼",
+      "詩經",
+      "人倫"
+    ],
+    "sources": [
+      {
+        "chapter": "伐木",
+        "plugin": "wikisource",
+        "title": "詩經 · 伐木",
+        "url": "https://zh.wikisource.org/wiki/詩經/伐木",
+        "work": "詩經"
       }
     ]
   },
@@ -27458,10 +29364,34 @@
     ]
   },
   {
+    "slug": "江表貢舉不試",
+    "title": "江表貢舉不試",
+    "summary": "江表千里，儒業衰頹，由貢士不試經傳也。",
+    "tags": [
+      "貢舉",
+      "江表",
+      "考試",
+      "儒學",
+      "抱朴子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "江都大暴風",
     "title": "江都大暴風",
     "summary": "江都風暴大作，壞城十二丈，天災示警。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -27889,6 +29819,26 @@
         "title": "文子 · 卷十一",
         "url": "https://zh.wikisource.org/wiki/文子/卷十一",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "泛結多悔",
+    "title": "泛結多悔",
+    "summary": "廣交而不慎，後悔必多；交友之道，當先择而後交。",
+    "tags": [
+      "交友",
+      "友誼",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷16",
+        "work": "抱朴子"
       }
     ]
   },
@@ -28604,6 +30554,25 @@
     ]
   },
   {
+    "slug": "潛龍勿用",
+    "title": "潛龍勿用",
+    "summary": "陽氣潛藏，龍德隱而不見，聖人未遇其時也。",
+    "tags": [
+      "龍德",
+      "隱淪",
+      "待時"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "潰之為言",
     "title": "潰之為言，上下不相得也",
     "summary": "蔡潰者，上下離心不相親附之謂。",
@@ -28640,6 +30609,26 @@
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "澤上有風中孚",
+    "title": "澤上有風，中孚",
+    "summary": "風感於澤，誠動於中，萬物應之。",
+    "tags": [
+      "易經",
+      "象傳",
+      "風澤",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
       }
     ]
   },
@@ -28811,6 +30800,26 @@
         "title": "文子 · 卷十",
         "url": "https://zh.wikisource.org/wiki/文子/卷十",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "為此春酒",
+    "title": "為此春酒",
+    "summary": "仲冬釀酒，春時以介眉壽也。",
+    "tags": [
+      "歲時",
+      "詩經",
+      "祭祀",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
       }
     ]
   },
@@ -29084,6 +31093,26 @@
     ]
   },
   {
+    "slug": "烹鮮之戒",
+    "title": "烹鮮之戒，不欲其煩",
+    "summary": "反對者引老子烹鮮之說，謂治道貴簡",
+    "tags": [
+      "老子",
+      "治道",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "烽火制度",
     "title": "烽火制度 / Beacon Fire Signal System / 烽火信号制度",
     "summary": "墨子雜守所述之城上烽火晝夜信號體系，據敵寇遠近分級燃火以報。",
@@ -29174,6 +31203,25 @@
         "title": "史記 · 卷006",
         "url": "https://zh.wikisource.org/wiki/史記/卷006",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "無以我公歸兮",
+    "title": "無以我公歸兮",
+    "summary": "勿使公歸，以寓留賢之義。",
+    "tags": [
+      "詩經",
+      "寓言",
+      "刺諷"
+    ],
+    "sources": [
+      {
+        "chapter": "九罭",
+        "plugin": "wikisource",
+        "title": "詩經 · 九罭",
+        "url": "https://zh.wikisource.org/wiki/詩經/九罭",
+        "work": "詩經"
       }
     ]
   },
@@ -29343,7 +31391,9 @@
     "slug": "熒惑逆行守北辰",
     "title": "熒惑逆行守北辰",
     "summary": "天象示警，熒惑逆行守北辰，歲星逆行天廷，以象人事之變。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -29442,6 +31492,26 @@
         "title": "韓非子 · 人主",
         "url": "https://zh.wikisource.org/wiki/韓非子/人主",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "爰求柔桑",
+    "title": "爰求柔桑",
+    "summary": "春日女子循道求柔桑以養蠶也。",
+    "tags": [
+      "蠶桑",
+      "農事",
+      "詩經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
       }
     ]
   },
@@ -29566,6 +31636,26 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "物各有所偏",
+    "title": "物各有所偏",
+    "summary": "謂萬物各有稟賦之偏，不能兼擅眾長，聖人用之當因其材而任之。",
+    "tags": [
+      "抱朴子",
+      "人才觀",
+      "局限性",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷17",
+        "work": "抱朴子"
       }
     ]
   },
@@ -29752,6 +31842,26 @@
     ]
   },
   {
+    "slug": "獸逼彈琴",
+    "title": "獸逼彈琴",
+    "summary": "亂世用寬政，猶虎口彈琴，危亡立至。",
+    "tags": [
+      "治道",
+      "權變",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "玄囂",
     "title": "玄囂",
     "summary": "黃帝之子，青陽，降居江水。",
@@ -29861,6 +31971,27 @@
         "title": "荀子 · 勸學篇",
         "url": "https://zh.wikisource.org/wiki/荀子/勸學篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "玉石易別",
+    "title": "玉石易別",
+    "summary": "抱朴子言玉石賢愚易別，而愛寶之情人皆有之，猶且獲罪受誣，況賢才之難知者乎。",
+    "tags": [
+      "抱朴子",
+      "賢愚",
+      "識別",
+      "玉石",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷18",
+        "work": "抱朴子"
       }
     ]
   },
@@ -30032,6 +32163,27 @@
         "title": "禮記 · 緇衣",
         "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "珪璋居肆不售",
+    "title": "珪璋居肆不售",
+    "summary": "抱朴子以珪璋喻賢才，雖居市肆亦難遇識者，況隱於淵藪者乎。",
+    "tags": [
+      "抱朴子",
+      "賢才",
+      "懷才不遇",
+      "珪璋",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷18",
+        "work": "抱朴子"
       }
     ]
   },
@@ -30382,6 +32534,26 @@
     ]
   },
   {
+    "slug": "田常之奪齊",
+    "title": "田常之奪齊，六卿之分晉，趙高之弒秦，王莽之篡漢",
+    "summary": "權臣篡弒之禍，起於威刑不立",
+    "tags": [
+      "歷史",
+      "教訓",
+      "抱朴子",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "田常弑簡公",
     "title": "田常弑簡公",
     "summary": "田常竊德行惠以收民心，卒弒其君",
@@ -30420,6 +32592,26 @@
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "田畯至喜",
+    "title": "田畯至喜",
+    "summary": "田官至於南畝，見農夫勤事而喜也。",
+    "tags": [
+      "農官",
+      "詩經",
+      "民事",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
       }
     ]
   },
@@ -30759,6 +32951,26 @@
         "title": "國語 · 卷16",
         "url": "https://zh.wikisource.org/wiki/國語/卷16",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "癥瘕不除",
+    "title": "癥瘕不除，而不修越人之術者，難圖老彭之壽",
+    "summary": "喻姦偽不除，雖有良法不能致治",
+    "tags": [
+      "比喻",
+      "治道",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -31383,7 +33595,8 @@
       "諸侯",
       "列侯",
       "政事",
-      "景帝"
+      "景帝",
+      "部:子"
     ],
     "sources": [
       {
@@ -31717,6 +33930,26 @@
     ]
   },
   {
+    "slug": "知進退存亡而不失其正",
+    "title": "知進退存亡而不失其正",
+    "summary": "聖人知進之不可過，知退之為得，不失正道。",
+    "tags": [
+      "聖人",
+      "知止",
+      "進退",
+      "正道"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "知難本",
     "title": "知難本",
     "summary": "能知亂之所由生者，乃知治本。",
@@ -31877,6 +34110,26 @@
     ]
   },
   {
+    "slug": "祖武",
+    "title": "繩其祖武",
+    "summary": "循行先人之跡，繼承先祖之志。",
+    "tags": [
+      "祖德",
+      "孝道",
+      "繼承",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "下武",
+        "plugin": "wikisource",
+        "title": "詩經 · 下武",
+        "url": "https://zh.wikisource.org/wiki/詩經/下武",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "祖送慶賀密客",
     "title": "祖送慶賀密客",
     "summary": "批判貴族終年送往迎來，人間之務密勿罔極，無暇修學。",
@@ -31890,6 +34143,25 @@
         "title": "抱朴子 · 卷04",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷04",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "神之聽之",
+    "title": "神之聽之",
+    "summary": "神明鑒臨，的和且平者，必獲佑助。",
+    "tags": [
+      "天命",
+      "和諧",
+      "詩經"
+    ],
+    "sources": [
+      {
+        "chapter": "伐木",
+        "plugin": "wikisource",
+        "title": "詩經 · 伐木",
+        "url": "https://zh.wikisource.org/wiki/詩經/伐木",
+        "work": "詩經"
       }
     ]
   },
@@ -32332,6 +34604,27 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷05",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "禁錮贓汙",
+    "title": "禁錮贓汙",
+    "summary": "貪濁之吏，宜禁錮終身，使其無僥倖之心。",
+    "tags": [
+      "法治",
+      "廉政",
+      "禁錮",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
         "work": "抱朴子"
       }
     ]
@@ -32861,6 +35154,27 @@
     ]
   },
   {
+    "slug": "禽息發憤碎首",
+    "title": "禽息發憤碎首",
+    "summary": "抱朴子引禽息以頭碎地而進賢之典，喻忠臣不惜以死殉國。",
+    "tags": [
+      "抱朴子",
+      "忠臣",
+      "殉節",
+      "進賢",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷18",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "私難必作",
     "title": "私難必作",
     "summary": "昭私則難作；國有驕君，私家必盛，禍將及焉。",
@@ -32898,6 +35212,26 @@
         "title": "史記 · 卷005",
         "url": "https://zh.wikisource.org/wiki/史記/卷005",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "秦以嚴得之",
+    "title": "秦以嚴得之，非以嚴失之",
+    "summary": "秦之亡不在嚴刑，而在驕奢虐民",
+    "tags": [
+      "歷史",
+      "刑罰",
+      "抱朴子",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -33413,6 +35747,26 @@
     ]
   },
   {
+    "slug": "穹窒熏鼠",
+    "title": "穹窒熏鼠",
+    "summary": "塞隙窒隙，以熏鼠蟋蟀也。",
+    "tags": [
+      "歲時",
+      "詩經",
+      "民事",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "突歸于鄭",
     "title": "突歸于鄭",
     "summary": "鄭厲公篡位歸國，公羊傳以為忽讓位之義。",
@@ -33912,6 +36266,26 @@
     ]
   },
   {
+    "slug": "純粹精",
+    "title": "純粹精",
+    "summary": "乾元剛健中正，無雜無雜，是為純粹精。",
+    "tags": [
+      "乾元",
+      "剛健",
+      "中正",
+      "純粹"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "細柳軍",
     "title": "細柳軍",
     "summary": "周亞夫屯軍細柳，帝親勞軍，見其軍令嚴肅，乃稱善。",
@@ -33925,6 +36299,45 @@
         "title": "史記 · 卷010",
         "url": "https://zh.wikisource.org/wiki/史記/卷010",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "終和且平",
+    "title": "終和且平",
+    "summary": "和平者，福之所積也；神佑之，人宜之。",
+    "tags": [
+      "和諧",
+      "福澤",
+      "詩經"
+    ],
+    "sources": [
+      {
+        "chapter": "伐木",
+        "plugin": "wikisource",
+        "title": "詩經 · 伐木",
+        "url": "https://zh.wikisource.org/wiki/詩經/伐木",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "終日乾乾",
+    "title": "終日乾乾",
+    "summary": "君子進德修業，終日勉勉，至夕猶惕，雖危無咎。",
+    "tags": [
+      "君子",
+      "進德",
+      "脩業",
+      "惕厲"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
       }
     ]
   },
@@ -34132,6 +36545,26 @@
         "title": "墨子 · 備蛾傅",
         "url": "https://zh.wikisource.org/wiki/墨子/備蛾傅",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "繁策急轡非造父之御",
+    "title": "繁策急轡，非造父之御；嚴刑峻罰，非三五之道",
+    "summary": "反對者以嚴刑非上古聖王之道",
+    "tags": [
+      "刑罰",
+      "批評",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -34536,6 +36969,26 @@
         "title": "國語 · 卷07",
         "url": "https://zh.wikisource.org/wiki/國語/卷07",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "翰音登于天",
+    "title": "翰音登于天",
+    "summary": "虛聲高升，實不及遠，亢龍有悔。",
+    "tags": [
+      "易經",
+      "虛偽",
+      "亢龍",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
       }
     ]
   },
@@ -35020,6 +37473,27 @@
     ]
   },
   {
+    "slug": "聖賢與具臣之別",
+    "title": "聖賢與具臣之別",
+    "summary": "賢者心存道義，具臣僅從命令，其實不同。",
+    "tags": [
+      "抱朴子",
+      "賢才",
+      "君臣",
+      "德行",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷19",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷19",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷19",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "聖非一事",
     "title": "聖非一事",
     "summary": "聖乃人事之極號，非獨文學一途。",
@@ -35128,7 +37602,8 @@
     "tags": [
       "治國",
       "賢才",
-      "禮制"
+      "禮制",
+      "部:經"
     ],
     "sources": [
       {
@@ -35455,6 +37930,26 @@
     ]
   },
   {
+    "slug": "肅恭少怠則慢惰已至",
+    "title": "肅恭少怠，則慢惰已至；威嚴暫馳，則群邪生心",
+    "summary": "威嚴不可稍弛，一懈即生禍亂",
+    "tags": [
+      "治道",
+      "威嚴",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "肆之而已勿壅勿閼",
     "title": "肆之而已，勿壅勿閼 / Abandon All Restraint, Block Nothing",
     "summary": "Guan Yiwu's doctrine of life-nourishment taught to Yan Ying, prescribing complete release of sensory and desire-based restraints.",
@@ -35494,6 +37989,26 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "肉刑之摽戒",
+    "title": "若夫肉刑者之為摽戒也多",
+    "summary": "肉刑之威懾效果勝於死刑",
+    "tags": [
+      "肉刑",
+      "刑罰",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
         "work": "抱朴子"
       }
     ]
@@ -35600,6 +38115,26 @@
         "title": "荀子 · 君道篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "脂粉非體中之至急",
+    "title": "脂粉非體中之至急，而轡策須臾不可無也",
+    "summary": "仁政如脂粉，刑罰如轡策，後者更為迫切",
+    "tags": [
+      "治道",
+      "仁刑",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -35734,6 +38269,25 @@
         "title": "荀子 · 君道篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "自強不息",
+    "title": "自強不息",
+    "summary": "君子法天之健，勉力修德，終始不渝。",
+    "tags": [
+      "修身",
+      "剛健",
+      "君子"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
       }
     ]
   },
@@ -36591,6 +39145,27 @@
         "title": "國語 · 卷19",
         "url": "https://zh.wikisource.org/wiki/國語/卷19",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "芃芃黍苗陰雨膏之",
+    "title": "芃芃黍苗",
+    "summary": "黍苗得雨，喻賢才得治道而長也。",
+    "tags": [
+      "詩經",
+      "曹風",
+      "興象",
+      "膏澤",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "下泉",
+        "plugin": "wikisource",
+        "title": "詩經 · 下泉",
+        "url": "https://zh.wikisource.org/wiki/詩經/下泉",
+        "work": "詩經"
       }
     ]
   },
@@ -37705,6 +40280,28 @@
     ]
   },
   {
+    "slug": "藏器以待時",
+    "title": "藏器以待時",
+    "summary": "君子藏器待時，非其時不見，非其君不事。",
+    "tags": [
+      "抱朴子",
+      "隱逸",
+      "時命",
+      "君子",
+      "窮達",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷19",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷19",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷19",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "藏器待時",
     "title": "藏器待時",
     "summary": "賢者藏其才能，待時而動，非徒隱而已。",
@@ -37841,6 +40438,26 @@
         "title": "韓非子 · 主道",
         "url": "https://zh.wikisource.org/wiki/韓非子/主道",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "虞吉",
+    "title": "虞吉",
+    "summary": "安於虞樂，不妄他有，守正乃吉。",
+    "tags": [
+      "易經",
+      "安定",
+      "知止",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
       }
     ]
   },
@@ -38055,6 +40672,26 @@
         "title": "抱朴子 · 卷17",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "蠶月條桑",
+    "title": "蠶月條桑",
+    "summary": "養蠶之月，修整桑枝也。",
+    "tags": [
+      "蠶桑",
+      "農事",
+      "詩經",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
       }
     ]
   },
@@ -38291,7 +40928,9 @@
     "slug": "衡山雨雹",
     "title": "衡山雨雹",
     "summary": "衡山雨雹大至，天象示警於諸侯之地。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -38364,6 +41003,25 @@
         "title": "春秋公羊傳 · 成公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/成公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "袞衣繡裳",
+    "title": "袞衣繡裳",
+    "summary": "繡文之服，諸侯之盛服也。",
+    "tags": [
+      "詩經",
+      "禮制",
+      "服飾"
+    ],
+    "sources": [
+      {
+        "chapter": "九罭",
+        "plugin": "wikisource",
+        "title": "詩經 · 九罭",
+        "url": "https://zh.wikisource.org/wiki/詩經/九罭",
+        "work": "詩經"
       }
     ]
   },
@@ -38583,6 +41241,29 @@
     ]
   },
   {
+    "slug": "見群龍无首",
+    "title": "見群龍无首",
+    "summary": "天德不可為首，剛柔相濟，天下治也。",
+    "tags": [
+      "天德",
+      "無首",
+      "天下治",
+      "剛柔",
+      "用九",
+      "无首",
+      "吉"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "見義不為無勇也",
     "title": "見義不為無勇也",
     "summary": "見義不勇爲，是無勇之人也。",
@@ -38599,6 +41280,46 @@
         "title": "論語 · 爲政第二",
         "url": "https://zh.wikisource.org/wiki/論語/爲政第二",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "見龍在田",
+    "title": "見龍在田",
+    "summary": "龍德正中，見於田野，君子之德已成，可以利見大人。",
+    "tags": [
+      "龍德",
+      "正中",
+      "君德",
+      "大人"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "見龍在田利見大人",
+    "title": "見龍在田利見大人",
+    "summary": "龍德正中者，見於田野，利於見大人，以成君德。",
+    "tags": [
+      "龍德",
+      "正中",
+      "大人",
+      "君德"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
       }
     ]
   },
@@ -39183,6 +41904,27 @@
     ]
   },
   {
+    "slug": "試經取人",
+    "title": "試經取人",
+    "summary": "欲得真才，必試之於經術，較之於對策，不可僅以虛譽取之。",
+    "tags": [
+      "貢舉",
+      "考試",
+      "取才",
+      "抱朴子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "詭使",
     "title": "詭使",
     "summary": "詭所施之使，明賞罰之所以行，以詰名實之所歸。",
@@ -39220,6 +41962,26 @@
         "title": "春秋穀梁傳 · 哀公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/哀公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "誅一以振萬",
+    "title": "誅一以振萬，損少以成多",
+    "summary": "刑罰之效在於威懾，不必多殺",
+    "tags": [
+      "刑罰",
+      "治道",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -39432,6 +42194,26 @@
     ]
   },
   {
+    "slug": "說而巽孚乃化邦",
+    "title": "說而巽，孚乃化邦",
+    "summary": "和悅遜讓以感人，則邦國被化。",
+    "tags": [
+      "易經",
+      "教化",
+      "悅遜",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "誹謗妖言之罪",
     "title": "誹謗妖言之罪",
     "summary": "孝文除誹謗妖言之法，使臣民得盡情言事。",
@@ -39551,6 +42333,26 @@
     ]
   },
   {
+    "slug": "議獄緩死",
+    "title": "議獄緩死",
+    "summary": "君子以誠恤刑，議其罪緩其罰，慎用殺也。",
+    "tags": [
+      "易經",
+      "刑罰",
+      "慎刑",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "譽重則歸懷",
     "title": "譽重則蠻貊歸懷",
     "summary": "名譽既著，則四方響化；毀積既多，則離心難挽。",
@@ -39620,6 +42422,26 @@
         "title": "抱朴子 · 卷16",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "豚魚吉",
+    "title": "豚魚吉",
+    "summary": "信及豚魚，至誠動物，無往不利。",
+    "tags": [
+      "易經",
+      "誠信",
+      "感通",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
       }
     ]
   },
@@ -40226,6 +43048,47 @@
     ]
   },
   {
+    "slug": "賢才各有所遇",
+    "title": "賢才各有所遇",
+    "summary": "謂賢才未遇者，非才不足，乃未得其時、未逢其主耳。",
+    "tags": [
+      "抱朴子",
+      "人才觀",
+      "遇合",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷17",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷17",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷17",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "賢才抑而不用",
+    "title": "賢才抑而不用",
+    "summary": "抱朴子論賢才遭時俗所抑、姦邪所害，明主難遇。",
+    "tags": [
+      "抱朴子",
+      "人才論",
+      "知遇",
+      "賢才",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷18",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "賢智之士奚時得用",
     "title": "賢智之士奚時得用",
     "summary": "賢智之士無由進用，以其說不被信納。",
@@ -40265,6 +43128,28 @@
         "title": "國語 · 卷04",
         "url": "https://zh.wikisource.org/wiki/國語/卷04",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "賢聖非時不行",
+    "title": "賢聖非時不行",
+    "summary": "抱朴子論仲尼、文種之賢聖，猶且時不我用，明功成之難。",
+    "tags": [
+      "抱朴子",
+      "賢聖",
+      "時命",
+      "仲尼",
+      "文種",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷18",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷18",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷18",
+        "work": "抱朴子"
       }
     ]
   },
@@ -40694,7 +43579,9 @@
     "slug": "跅弛",
     "title": "跅弛",
     "summary": "景帝弛田租之半，又弛馬舂之禁，務在舒民。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -40816,6 +43703,26 @@
         "title": "春秋穀梁傳 · 文公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/文公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "躋彼公堂",
+    "title": "躋彼公堂",
+    "summary": "年終躋升公堂，飲燕稱壽也。",
+    "tags": [
+      "歲時",
+      "詩經",
+      "祭祀",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
       }
     ]
   },
@@ -40958,6 +43865,46 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "輕刑禁重罪",
+    "title": "以輕刑禁重罪，以薄法衛厚利，陳之滋章，而犯者彌多",
+    "summary": "反對輕刑薄法，謂其不足以禁姦",
+    "tags": [
+      "刑罰",
+      "治道",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "輕合易離",
+    "title": "輕合易離",
+    "summary": "友之始合若形影，久則或變為怨讎，戒在輕易而不慎。",
+    "tags": [
+      "交友",
+      "友誼",
+      "抱朴子",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷16",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷16",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷16",
         "work": "抱朴子"
       }
     ]
@@ -41864,6 +44811,26 @@
     ]
   },
   {
+    "slug": "進德脩業",
+    "title": "進德脩業",
+    "summary": "忠信所以進德，脩辭立誠所以居業，進而至之，終而存之。",
+    "tags": [
+      "德行",
+      "君子",
+      "脩辭",
+      "忠信"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "進賢",
     "title": "進賢 / Promoting the Worthy / 進賢（しんけん）",
     "summary": "墨子論進賢之要義，使賢者衆而不肖者寡，為治國之要務。",
@@ -41898,7 +44865,8 @@
     "tags": [
       "治國",
       "賞罰",
-      "賢才"
+      "賢才",
+      "部:其他"
     ],
     "sources": [
       {
@@ -41961,6 +44929,46 @@
         "title": "春秋穀梁傳 · 僖公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "遇人之不淑",
+    "title": "遇人之不淑",
+    "summary": "嫁得匪人而終見棄也",
+    "tags": [
+      "詩經",
+      "棄婦",
+      "怨刺",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中谷有蓷",
+        "plugin": "wikisource",
+        "title": "詩經 · 中谷有蓷",
+        "url": "https://zh.wikisource.org/wiki/詩經/中谷有蓷",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "遇人之艱難",
+    "title": "遇人之艱難",
+    "summary": "嫁非其人而值時艱也",
+    "tags": [
+      "詩經",
+      "怨歎",
+      "命運",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中谷有蓷",
+        "plugin": "wikisource",
+        "title": "詩經 · 中谷有蓷",
+        "url": "https://zh.wikisource.org/wiki/詩經/中谷有蓷",
+        "work": "詩經"
       }
     ]
   },
@@ -42181,6 +45189,26 @@
         "title": "韓非子 · 主道",
         "url": "https://zh.wikisource.org/wiki/韓非子/主道",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "道家之言高則高矣",
+    "title": "道家之言，高則高矣，用之則弊",
+    "summary": "批評道家之言高遠難施於治世",
+    "tags": [
+      "道家",
+      "批評",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -42638,6 +45666,28 @@
     ]
   },
   {
+    "slug": "鄭棄其師",
+    "title": "鄭棄其師",
+    "summary": "鄭伯惡其師長，兼不反其眾，是為棄師。",
+    "tags": [
+      "穀梁傳",
+      "閔公",
+      "兵事",
+      "鄭國",
+      "春秋書法",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "閔公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 閔公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/閔公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
     "slug": "酈寄賣友",
     "title": "酈寄賣友",
     "summary": "酈商老病，其子酈寄與呂祿善，太尉使劫酈商，令寄說呂祿歸將印。",
@@ -42674,6 +45724,26 @@
         "title": "史記 · 卷008",
         "url": "https://zh.wikisource.org/wiki/史記/卷008",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "采蘩祁祁",
+    "title": "采蘩祁祁",
+    "summary": "春日采蘩之盛，眾多也。",
+    "tags": [
+      "農事",
+      "詩經",
+      "歲時",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
       }
     ]
   },
@@ -43164,7 +46234,8 @@
       "政論",
       "削藩",
       "晁錯",
-      "漢代"
+      "漢代",
+      "部:史"
     ],
     "sources": [
       {
@@ -43196,6 +46267,26 @@
         "title": "國語 · 卷15",
         "url": "https://zh.wikisource.org/wiki/國語/卷15",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "鑿冰沖沖",
+    "title": "鑿冰沖沖",
+    "summary": "仲冬鑿冰於河，納之凌陰，以供祭享也。",
+    "tags": [
+      "歲時",
+      "詩經",
+      "祭祀",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "七月",
+        "plugin": "wikisource",
+        "title": "詩經 · 七月",
+        "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
       }
     ]
   },
@@ -43589,7 +46680,9 @@
     "slug": "除禁錮",
     "title": "除禁錮",
     "summary": "景帝除禁錮之令，赦免冤抑，以廣施恩。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -43614,6 +46707,26 @@
         "title": "史記 · 卷010",
         "url": "https://zh.wikisource.org/wiki/史記/卷010",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "除肉刑之弊",
+    "title": "除肉刑，則死罪之下無復中刑在其間，而次死罪不得不止於徒謫鞭杖，是輕重不得適也",
+    "summary": "廢肉刑後刑罰輕重失序之弊",
+    "tags": [
+      "肉刑",
+      "刑罰",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
       }
     ]
   },
@@ -43786,6 +46899,25 @@
     ]
   },
   {
+    "slug": "陳饋八簋",
+    "title": "陳饋八簋",
+    "summary": "款待朋友，禮儀豐備；主人敬客，食器整肅。",
+    "tags": [
+      "禮儀",
+      "友誼",
+      "詩經"
+    ],
+    "sources": [
+      {
+        "chapter": "伐木",
+        "plugin": "wikisource",
+        "title": "詩經 · 伐木",
+        "url": "https://zh.wikisource.org/wiki/詩經/伐木",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "陵陽子明",
     "title": "陵陽子明",
     "summary": "丹藥之名，非水中仙人，乃雄黃之隱稱。",
@@ -43920,7 +47052,8 @@
       "陵墓",
       "地名",
       "陽陵",
-      "漢代"
+      "漢代",
+      "部:其他"
     ],
     "sources": [
       {
@@ -44352,6 +47485,26 @@
         "title": "抱朴子 · 卷11",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷11",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "雲行雨施",
+    "title": "雲行雨施",
+    "summary": "天以雲雨潤澤萬物，品物流形，乾元之德也。",
+    "tags": [
+      "雲雨",
+      "潤澤",
+      "乾元",
+      "品物"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
       }
     ]
   },
@@ -44985,6 +48138,26 @@
     ]
   },
   {
+    "slug": "飛龍在天",
+    "title": "飛龍在天",
+    "summary": "聖人作而萬物覩，位乎天德，天下治也。",
+    "tags": [
+      "聖人",
+      "天德",
+      "天下治",
+      "大人造"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "食者人之本",
     "title": "食者人之本 / Food: The Root of the People",
     "summary": "The principle that food is the foundation of the people, and agriculture the basis of governance, advocating sustainable resource management.",
@@ -45238,6 +48411,25 @@
     ]
   },
   {
+    "slug": "首出庶物",
+    "title": "首出庶物",
+    "summary": "聖人首出，立乎萬民之上，萬國咸寧。",
+    "tags": [
+      "聖人",
+      "治世",
+      "萬國咸寧"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "香餌之下必有死魚",
     "title": "香餌之下必有死魚",
     "summary": "香餌可以致死魚，重賞可以招勇士；禮賞並行，則所求必至。",
@@ -45254,6 +48446,26 @@
         "title": "三略",
         "url": "https://zh.wikisource.org/wiki/三略",
         "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "馬匹亡",
+    "title": "馬匹亡",
+    "summary": "絕其匹類，專心上應，無咎之道。",
+    "tags": [
+      "易經",
+      "去私",
+      "專一",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
       }
     ]
   },
@@ -45419,6 +48631,27 @@
     ]
   },
   {
+    "slug": "高第試以對策",
+    "title": "高第試以對策",
+    "summary": "良將高第尚須試以對策，況文士乎！",
+    "tags": [
+      "考試",
+      "對策",
+      "取才",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷15",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷15",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "高鳥死良弓藏",
     "title": "高鳥死良弓藏",
     "summary": "敵國滅則謀臣亡；當奪其威、廢其權，封之於朝以保功名。",
@@ -45503,10 +48736,32 @@
     ]
   },
   {
+    "slug": "魏世數議此事",
+    "title": "魏世數議此事，咸謂宜復肉刑",
+    "summary": "記魏世議復肉刑之事",
+    "tags": [
+      "肉刑",
+      "歷史",
+      "抱朴子",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "魏其侯",
     "title": "魏其侯",
     "summary": "大將軍竇嬰以平定七國之亂，封魏其侯，貴重一時。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷011",
@@ -45736,6 +48991,42 @@
     ]
   },
   {
+    "slug": "鳥鳴嚶嚶",
+    "title": "鳥鳴嚶嚶",
+    "summary": "伐木興友聲，鳥鳴以起興；物之感人，動於情者也。",
+    "tags": [
+      "詩經",
+      "興起",
+      "自然"
+    ],
+    "sources": [
+      {
+        "chapter": "伐木",
+        "plugin": "wikisource",
+        "title": "詩經 · 伐木",
+        "url": "https://zh.wikisource.org/wiki/詩經/伐木",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "鳴鶴在陰",
+    "title": "鳴鶴在陰",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "中孚",
+        "plugin": "wikisource",
+        "title": "周易 · 中孚",
+        "url": "https://zh.wikisource.org/wiki/周易/中孚",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "鳴鼓而攻",
     "title": "鳴鼓而攻",
     "summary": "冉有為季氏聚斂，夫子怒而絕之。",
@@ -45796,6 +49087,25 @@
         "title": "史記 · 卷008",
         "url": "https://zh.wikisource.org/wiki/史記/卷008",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "鴻飛",
+    "title": "鴻飛",
+    "summary": "鴻雁高翔，以況君子之去。",
+    "tags": [
+      "詩經",
+      "寓言",
+      "離別"
+    ],
+    "sources": [
+      {
+        "chapter": "九罭",
+        "plugin": "wikisource",
+        "title": "詩經 · 九罭",
+        "url": "https://zh.wikisource.org/wiki/詩經/九罭",
+        "work": "詩經"
       }
     ]
   },
@@ -46088,6 +49398,26 @@
     ]
   },
   {
+    "slug": "黎庶巧偽",
+    "title": "黎庶巧偽，趨利忘義",
+    "summary": "論民性巧詐，非刑罰不能整齊",
+    "tags": [
+      "民性",
+      "治道",
+      "抱朴子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷14",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷14",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "黑弓以濫來奔",
     "title": "黑弓以濫來奔",
     "summary": "賢者子孫宜有地，公羊傳因而通濫。",
@@ -46359,6 +49689,26 @@
     ]
   },
   {
+    "slug": "龍德",
+    "title": "龍德",
+    "summary": "君子之德以龍為象，隱見各以其時。",
+    "tags": [
+      "龍德",
+      "君子",
+      "聖人",
+      "隱現"
+    ],
+    "sources": [
+      {
+        "chapter": "乾",
+        "plugin": "wikisource",
+        "title": "周易 · 乾",
+        "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "龍斷",
     "title": "龍斷",
     "summary": "商人專擅市利，征商之法自此始。",
@@ -46405,6 +49755,27 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "龍驥維縶",
+    "title": "龍驥維縶",
+    "summary": "賢才失時則與庸流無異。",
+    "tags": [
+      "抱朴子",
+      "隱逸",
+      "賢才",
+      "時命",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷19",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷19",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷19",
         "work": "抱朴子"
       }
     ]
