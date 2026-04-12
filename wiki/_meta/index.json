@@ -1893,7 +1893,9 @@
     "tags": [
       "詩經",
       "禮儀",
-      "德行"
+      "德行",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -8732,7 +8734,9 @@
       "詩經",
       "射藝",
       "禦亂",
-      "武備"
+      "武備",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -11702,6 +11706,8 @@
       "金玦",
       "驪姬",
       "讒言",
+      "獻公",
+      "晉",
       "部:子"
     ],
     "sources": [
@@ -11711,6 +11717,13 @@
         "title": "國語 · 卷07",
         "url": "https://zh.wikisource.org/wiki/國語/卷07",
         "work": "國語"
+      },
+      {
+        "chapter": "卷039",
+        "plugin": "wikisource",
+        "title": "史記 · 卷039",
+        "url": "https://zh.wikisource.org/wiki/史記/卷039",
+        "work": "史記"
       }
     ]
   },
@@ -13062,6 +13075,25 @@
         "title": "墨子 · 經說下",
         "url": "https://zh.wikisource.org/wiki/墨子/經說下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "克禋克祀",
+    "title": "克禋克祀",
+    "summary": "誠敬祭祀，以求子嗣。",
+    "tags": [
+      "祭祀",
+      "祈子",
+      "姜嫄"
+    ],
+    "sources": [
+      {
+        "chapter": "生民",
+        "plugin": "wikisource",
+        "title": "詩經 · 生民",
+        "url": "https://zh.wikisource.org/wiki/詩經/生民",
+        "work": "詩經"
       }
     ]
   },
@@ -19710,6 +19742,26 @@
     ]
   },
   {
+    "slug": "叔向論取國五難",
+    "title": "叔向論取國五難",
+    "summary": "叔向言取國有五難：無寵、無人、無主、無謀、無民、無德。",
+    "tags": [
+      "楚國",
+      "叔向",
+      "政治評論",
+      "五難"
+    ],
+    "sources": [
+      {
+        "chapter": "卷040",
+        "plugin": "wikisource",
+        "title": "史記 · 卷040",
+        "url": "https://zh.wikisource.org/wiki/史記/卷040",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "叔向論忠信而本固",
     "title": "叔向論忠信而本固",
     "summary": "忠自中信自身，深根固柢，不可抈。",
@@ -20010,6 +20062,25 @@
         "title": "春秋穀梁傳 · 哀公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/哀公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "取蕭祭脂",
+    "title": "取蕭祭脂",
+    "summary": "祭祀之時，取香蒿合牛脂，以享上帝。",
+    "tags": [
+      "祭祀",
+      "祭品",
+      "禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "生民",
+        "plugin": "wikisource",
+        "title": "詩經 · 生民",
+        "url": "https://zh.wikisource.org/wiki/詩經/生民",
+        "work": "詩經"
       }
     ]
   },
@@ -21285,7 +21356,10 @@
     "title": "后稷",
     "summary": "",
     "tags": [
-      "部:其他"
+      "部:其他",
+      "農業",
+      "后稷",
+      "稼穡"
     ],
     "sources": [
       {
@@ -21293,6 +21367,13 @@
         "plugin": "wikisource",
         "title": "詩經 · 思文",
         "url": "https://zh.wikisource.org/wiki/詩經/思文",
+        "work": "詩經"
+      },
+      {
+        "chapter": "生民",
+        "plugin": "wikisource",
+        "title": "詩經 · 生民",
+        "url": "https://zh.wikisource.org/wiki/詩經/生民",
         "work": "詩經"
       }
     ]
@@ -24365,6 +24446,26 @@
     ]
   },
   {
+    "slug": "問鼎",
+    "title": "問鼎輕重",
+    "summary": "楚莊王觀兵周郊，問九鼎小大輕重，王孫滿對以「在德不在鼎」。",
+    "tags": [
+      "楚國",
+      "莊王",
+      "周王室",
+      "德治"
+    ],
+    "sources": [
+      {
+        "chapter": "卷040",
+        "plugin": "wikisource",
+        "title": "史記 · 卷040",
+        "url": "https://zh.wikisource.org/wiki/史記/卷040",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "啟伐有扈",
     "title": "啟伐有扈",
     "summary": "記啟伐有扈作誓之辭",
@@ -25068,6 +25169,25 @@
         "plugin": "wikisource",
         "title": "詩經 · 北山",
         "url": "https://zh.wikisource.org/wiki/詩經/北山",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "嘉種",
+    "title": "嘉種",
+    "summary": "后稷播嘉種於天下，厚民之生。",
+    "tags": [
+      "農業",
+      "后稷",
+      "嘉種"
+    ],
+    "sources": [
+      {
+        "chapter": "生民",
+        "plugin": "wikisource",
+        "title": "詩經 · 生民",
+        "url": "https://zh.wikisource.org/wiki/詩經/生民",
         "work": "詩經"
       }
     ]
@@ -32123,7 +32243,8 @@
     "tags": [
       "政治",
       "領土",
-      "商代"
+      "商代",
+      "部:其他"
     ],
     "sources": [
       {
@@ -33047,6 +33168,13 @@
         "title": "史記 · 卷004",
         "url": "https://zh.wikisource.org/wiki/史記/卷004",
         "work": "史記"
+      },
+      {
+        "chapter": "生民",
+        "plugin": "wikisource",
+        "title": "詩經 · 生民",
+        "url": "https://zh.wikisource.org/wiki/詩經/生民",
+        "work": "詩經"
       }
     ]
   },
@@ -37735,7 +37863,9 @@
       "詩經",
       "射藝",
       "臧",
-      "善射"
+      "善射",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -38887,7 +39017,9 @@
       "展",
       "甥",
       "美刺",
-      "齊魯"
+      "齊魯",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -38937,6 +39069,25 @@
         "title": "抱朴子 · 卷06",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷06",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "履帝武敏",
+    "title": "履帝武敏",
+    "summary": "姜嫄踏上帝之足跡，感而有孕。",
+    "tags": [
+      "感生",
+      "姜嫄",
+      "帝嚳"
+    ],
+    "sources": [
+      {
+        "chapter": "生民",
+        "plugin": "wikisource",
+        "title": "詩經 · 生民",
+        "url": "https://zh.wikisource.org/wiki/詩經/生民",
+        "work": "詩經"
       }
     ]
   },
@@ -40467,7 +40618,9 @@
     "tags": [
       "詩經",
       "植物",
-      "禮儀"
+      "禮儀",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -45257,6 +45410,25 @@
         "title": "詩經 · 揚之水",
         "url": "https://zh.wikisource.org/wiki/詩經/揚之水",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "我蠻夷也",
+    "title": "自稱蠻夷",
+    "summary": "楚屢以「蠻夷」自稱，以抗中國禮義，張己之自主。",
+    "tags": [
+      "楚國",
+      "外交",
+      "蠻夷觀念"
+    ],
+    "sources": [
+      {
+        "chapter": "卷040",
+        "plugin": "wikisource",
+        "title": "史記 · 卷040",
+        "url": "https://zh.wikisource.org/wiki/史記/卷040",
+        "work": "史記"
       }
     ]
   },
@@ -50790,6 +50962,12 @@
       "文公",
       "晉國",
       "國語",
+      "晉",
+      "亂世",
+      "重耳",
+      "裏克",
+      "晉惠公",
+      "晉懷公",
       "部:其他"
     ],
     "sources": [
@@ -50799,6 +50977,13 @@
         "title": "國語 · 卷09",
         "url": "https://zh.wikisource.org/wiki/國語/卷09",
         "work": "國語"
+      },
+      {
+        "chapter": "卷039",
+        "plugin": "wikisource",
+        "title": "史記 · 卷039",
+        "url": "https://zh.wikisource.org/wiki/史記/卷039",
+        "work": "史記"
       }
     ]
   },
@@ -51719,7 +51904,9 @@
     "tags": [
       "詩經",
       "飲食",
-      "宴饗"
+      "宴饗",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -53429,6 +53616,25 @@
     ]
   },
   {
+    "slug": "析父",
+    "title": "析父",
+    "summary": "析父論楚之先祖艱難及四國當服事靈王。",
+    "tags": [
+      "楚國",
+      "析父",
+      "靈王"
+    ],
+    "sources": [
+      {
+        "chapter": "卷040",
+        "plugin": "wikisource",
+        "title": "史記 · 卷040",
+        "url": "https://zh.wikisource.org/wiki/史記/卷040",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "析辭為察",
     "title": "析辭為察",
     "summary": "析辭為察、言物為辨，君子賤之。",
@@ -54972,6 +55178,25 @@
     ]
   },
   {
+    "slug": "楚先祖",
+    "title": "楚先祖世系",
+    "summary": "楚之先祖出自帝顓頊，歷重黎、吳回、陸終，至季連為羋姓，以為楚後。",
+    "tags": [
+      "楚國",
+      "世系",
+      "羋姓"
+    ],
+    "sources": [
+      {
+        "chapter": "卷040",
+        "plugin": "wikisource",
+        "title": "史記 · 卷040",
+        "url": "https://zh.wikisource.org/wiki/史記/卷040",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "楚公子比弒君",
     "title": "楚公子比弒君",
     "summary": "公子比自晉歸楚，弒其君虔于乾溪，楚國之變也。",
@@ -55101,7 +55326,10 @@
       "楚國",
       "陳國",
       "春秋",
-      "部:子"
+      "部:子",
+      "莊王",
+      "征伐",
+      "納諫"
     ],
     "sources": [
       {
@@ -55109,6 +55337,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷036",
         "url": "https://zh.wikisource.org/wiki/史記/卷036",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷040",
+        "plugin": "wikisource",
+        "title": "史記 · 卷040",
+        "url": "https://zh.wikisource.org/wiki/史記/卷040",
         "work": "史記"
       }
     ]
@@ -56441,6 +56676,25 @@
         "plugin": "wikisource",
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "武王自尊",
+    "title": "武王自尊",
+    "summary": "楚武王以先公有功而不獲封賞，乃自立為王，開濮地而有之。",
+    "tags": [
+      "楚國",
+      "武王",
+      "自立為王"
+    ],
+    "sources": [
+      {
+        "chapter": "卷040",
+        "plugin": "wikisource",
+        "title": "史記 · 卷040",
+        "url": "https://zh.wikisource.org/wiki/史記/卷040",
         "work": "史記"
       }
     ]
@@ -61391,7 +61645,9 @@
     "tags": [
       "詩經",
       "烹飪",
-      "禮儀"
+      "禮儀",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -63511,6 +63767,25 @@
     ]
   },
   {
+    "slug": "牛羊腓字",
+    "title": "牛羊腓字",
+    "summary": "后稷被棄，牛羊庇護，愛之以翼。",
+    "tags": [
+      "神異",
+      "后稷",
+      "祭祀"
+    ],
+    "sources": [
+      {
+        "chapter": "生民",
+        "plugin": "wikisource",
+        "title": "詩經 · 生民",
+        "url": "https://zh.wikisource.org/wiki/詩經/生民",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "牝馬之貞",
     "title": "牝馬之貞",
     "summary": "坤之利貞，取象牝馬，柔順而可行地无疆。",
@@ -65035,6 +65310,13 @@
         "title": "史記 · 卷034",
         "url": "https://zh.wikisource.org/wiki/史記/卷034",
         "work": "史記"
+      },
+      {
+        "chapter": "甘棠",
+        "plugin": "wikisource",
+        "title": "詩經 · 甘棠",
+        "url": "https://zh.wikisource.org/wiki/詩經/甘棠",
+        "work": "詩經"
       }
     ]
   },
@@ -66901,6 +67183,28 @@
         "title": "論語 · 先進第十一",
         "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "白珪之玷",
+    "title": "白珪之玷",
+    "summary": "白珪有瑕猶可磨，言語一失難挽回。喻失言之禍，深於物玷。",
+    "tags": [
+      "里克",
+      "荀息",
+      "言語",
+      "誠信",
+      "晉",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷039",
+        "plugin": "wikisource",
+        "title": "史記 · 卷039",
+        "url": "https://zh.wikisource.org/wiki/史記/卷039",
+        "work": "史記"
       }
     ]
   },
@@ -70949,6 +71253,8 @@
       "晉",
       "韓原",
       "惠公",
+      "秦繆公",
+      "慶鄭",
       "部:其他"
     ],
     "sources": [
@@ -70957,6 +71263,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷005",
         "url": "https://zh.wikisource.org/wiki/史記/卷005",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷039",
+        "plugin": "wikisource",
+        "title": "史記 · 卷039",
+        "url": "https://zh.wikisource.org/wiki/史記/卷039",
         "work": "史記"
       }
     ]
@@ -75947,7 +76260,8 @@
     "tags": [
       "政治",
       "疆域",
-      "四海"
+      "四海",
+      "部:其他"
     ],
     "sources": [
       {
@@ -75955,6 +76269,25 @@
         "plugin": "wikisource",
         "title": "詩經 · 玄鳥",
         "url": "https://zh.wikisource.org/wiki/詩經/玄鳥",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "肇祀",
+    "title": "肇祀",
+    "summary": "后稷始創祭祀，以報本反始。",
+    "tags": [
+      "祭祀",
+      "后稷",
+      "禮"
+    ],
+    "sources": [
+      {
+        "chapter": "生民",
+        "plugin": "wikisource",
+        "title": "詩經 · 生民",
+        "url": "https://zh.wikisource.org/wiki/詩經/生民",
         "work": "詩經"
       }
     ]
@@ -79556,6 +79889,25 @@
         "plugin": "wikisource",
         "title": "詩經 · 伯兮",
         "url": "https://zh.wikisource.org/wiki/詩經/伯兮",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "蓺荏菽",
+    "title": "蓺荏菽",
+    "summary": "后稷幼年即能種植菽豆，技藝過人。",
+    "tags": [
+      "農業",
+      "后稷",
+      "童年"
+    ],
+    "sources": [
+      {
+        "chapter": "生民",
+        "plugin": "wikisource",
+        "title": "詩經 · 生民",
+        "url": "https://zh.wikisource.org/wiki/詩經/生民",
         "work": "詩經"
       }
     ]
@@ -83228,7 +83580,9 @@
     "tags": [
       "詩經",
       "宴饗",
-      "禮儀"
+      "禮儀",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -89541,7 +89895,9 @@
     "tags": [
       "詩經",
       "酒禮",
-      "宴饗"
+      "宴饗",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -89560,7 +89916,9 @@
     "tags": [
       "詩經",
       "酒禮",
-      "宴饗"
+      "宴饗",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -89579,7 +89937,9 @@
     "tags": [
       "詩經",
       "酒禮",
-      "宴饗"
+      "宴饗",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -89869,6 +90229,10 @@
       "里克",
       "惠公",
       "秦穆公",
+      "晉",
+      "奚齊",
+      "悼子",
+      "秦",
       "部:子"
     ],
     "sources": [
@@ -89891,6 +90255,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷005",
         "url": "https://zh.wikisource.org/wiki/史記/卷005",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷039",
+        "plugin": "wikisource",
+        "title": "史記 · 卷039",
+        "url": "https://zh.wikisource.org/wiki/史記/卷039",
         "work": "史記"
       }
     ]
@@ -92702,6 +93073,26 @@
     ]
   },
   {
+    "slug": "靈王餓死",
+    "title": "靈王餓死",
+    "summary": "楚靈王起大城廣國，眾叛親離，餓死於釐澤，申亥以二女從死。",
+    "tags": [
+      "楚國",
+      "靈王",
+      "政變",
+      "覆亡"
+    ],
+    "sources": [
+      {
+        "chapter": "卷040",
+        "plugin": "wikisource",
+        "title": "史記 · 卷040",
+        "url": "https://zh.wikisource.org/wiki/史記/卷040",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "青青子佩",
     "title": "青青子佩",
     "summary": "學子青玉之佩，與子衿相映為念。",
@@ -95392,7 +95783,8 @@
       "魯國",
       "美刺",
       "威儀",
-      "賢否"
+      "賢否",
+      "部:子"
     ],
     "sources": [
       {
@@ -95483,6 +95875,25 @@
         "title": "荀子 · 哀公篇",
         "url": "https://zh.wikisource.org/wiki/荀子/哀公篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "鳥覆翼之",
+    "title": "鳥覆翼之",
+    "summary": "后稷被棄，冰鳥以翼覆之而活。",
+    "tags": [
+      "神異",
+      "后稷",
+      "鳥"
+    ],
+    "sources": [
+      {
+        "chapter": "生民",
+        "plugin": "wikisource",
+        "title": "詩經 · 生民",
+        "url": "https://zh.wikisource.org/wiki/詩經/生民",
+        "work": "詩經"
       }
     ]
   },
