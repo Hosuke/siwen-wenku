@@ -1156,6 +1156,25 @@
     ]
   },
   {
+    "slug": "上帝是皇",
+    "title": "上帝是皇",
+    "summary": "天帝至大，臣服敬畏",
+    "tags": [
+      "詩經",
+      "天命",
+      "上帝"
+    ],
+    "sources": [
+      {
+        "chapter": "執競",
+        "plugin": "wikisource",
+        "title": "詩經 · 執競",
+        "url": "https://zh.wikisource.org/wiki/詩經/執競",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "上易事下易知",
     "title": "上易事下易知 / Easy Governance Through Uprightness",
     "summary": "The principle that when rulers are straightforward, governance becomes easy and people become intelligent.",
@@ -4021,6 +4040,28 @@
         "title": "抱朴子 · 卷19",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷19",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "五帝三代世表",
+    "title": "五帝三代世表",
+    "summary": "太史公考黃帝至周厲王之世系，列帝王傳承、姓系分支，附褚先生論天命與聖裔之對語。",
+    "tags": [
+      "史記",
+      "世表",
+      "五帝",
+      "夏",
+      "商",
+      "周"
+    ],
+    "sources": [
+      {
+        "chapter": "卷013",
+        "plugin": "wikisource",
+        "title": "史記 · 卷013",
+        "url": "https://zh.wikisource.org/wiki/史記/卷013",
+        "work": "史記"
       }
     ]
   },
@@ -7565,6 +7606,13 @@
         "title": "詩經 · 伯兮",
         "url": "https://zh.wikisource.org/wiki/詩經/伯兮",
         "work": "詩經"
+      },
+      {
+        "chapter": "園有桃",
+        "plugin": "wikisource",
+        "title": "詩經 · 園有桃",
+        "url": "https://zh.wikisource.org/wiki/詩經/園有桃",
+        "work": "詩經"
       }
     ]
   },
@@ -10735,6 +10783,21 @@
     ]
   },
   {
+    "slug": "其實之殽",
+    "title": "其實之殽",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "園有桃",
+        "plugin": "wikisource",
+        "title": "詩經 · 園有桃",
+        "url": "https://zh.wikisource.org/wiki/詩經/園有桃",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "其往送也如慕其反也如疑",
     "title": "其往送也如慕，其反也如疑 / Like Longing in Going, Like Hesitation in Returning",
     "summary": "送喪之人，往時如子女之慕親，反時如有求而不得，狀孝子之心於送死之際。",
@@ -10782,7 +10845,9 @@
     "tags": [
       "詩經語詞",
       "歎辭",
-      "疊字"
+      "疊字",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -12830,7 +12895,9 @@
     "tags": [
       "詩經",
       "政治智慧",
-      "自全"
+      "自全",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -15549,7 +15616,9 @@
     "tags": [
       "詩經",
       "逸詩",
-      "全身遠害"
+      "全身遠害",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -18848,6 +18917,25 @@
     ]
   },
   {
+    "slug": "園有桃",
+    "title": "園有桃",
+    "summary": "賢士不得志而歌以自傷",
+    "tags": [
+      "詩經",
+      "魏風",
+      "賢士不得志"
+    ],
+    "sources": [
+      {
+        "chapter": "園有桃",
+        "plugin": "wikisource",
+        "title": "詩經 · 園有桃",
+        "url": "https://zh.wikisource.org/wiki/詩經/園有桃",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "土崩瓦解",
     "title": "土崩瓦解",
     "summary": "國家將亡，形勢如崩瓦解。",
@@ -19658,6 +19746,44 @@
         "title": "禮記 · 少儀",
         "url": "https://zh.wikisource.org/wiki/禮記/少儀",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "執競一章十四句",
+    "title": "《執競》",
+    "summary": "祀武王成康之詩，一章十四句",
+    "tags": [
+      "詩經",
+      "祭祀詩",
+      "周頌"
+    ],
+    "sources": [
+      {
+        "chapter": "執競",
+        "plugin": "wikisource",
+        "title": "詩經 · 執競",
+        "url": "https://zh.wikisource.org/wiki/詩經/執競",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "執競武王",
+    "title": "執競武王",
+    "summary": "颂武王克商之功",
+    "tags": [
+      "詩經",
+      "武王",
+      "祭祀詩"
+    ],
+    "sources": [
+      {
+        "chapter": "執競",
+        "plugin": "wikisource",
+        "title": "詩經 · 執競",
+        "url": "https://zh.wikisource.org/wiki/詩經/執競",
+        "work": "詩經"
       }
     ]
   },
@@ -21665,6 +21791,26 @@
     ]
   },
   {
+    "slug": "天命難言",
+    "title": "天命難言非聖人莫能見",
+    "summary": "天命幽微，非聖人不能窺測；聖人策天命而立天子，故其子孫世王。",
+    "tags": [
+      "天命",
+      "聖人",
+      "天子",
+      "黃帝"
+    ],
+    "sources": [
+      {
+        "chapter": "卷013",
+        "plugin": "wikisource",
+        "title": "史記 · 卷013",
+        "url": "https://zh.wikisource.org/wiki/史記/卷013",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "天在山中",
     "title": "天在山中",
     "summary": "大畜之象，君子以畜德為本。",
@@ -22698,6 +22844,25 @@
     ]
   },
   {
+    "slug": "奄有四方",
+    "title": "奄有四方",
+    "summary": "普天之下皆歸統屬",
+    "tags": [
+      "詩經",
+      "天下一統",
+      "王業"
+    ],
+    "sources": [
+      {
+        "chapter": "執競",
+        "plugin": "wikisource",
+        "title": "詩經 · 執競",
+        "url": "https://zh.wikisource.org/wiki/詩經/執競",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "奉車子侯",
     "title": "奉車子侯",
     "summary": "霍子侯為奉車子侯，從天子登泰山封禪，暴病一日而死。",
@@ -23325,6 +23490,25 @@
         "title": "抱朴子 · 卷08",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷08",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "威儀反反",
+    "title": "威儀反反",
+    "summary": "威儀凝重，安和有序",
+    "tags": [
+      "詩經",
+      "威儀",
+      "禮儀"
+    ],
+    "sources": [
+      {
+        "chapter": "執競",
+        "plugin": "wikisource",
+        "title": "詩經 · 執競",
+        "url": "https://zh.wikisource.org/wiki/詩經/執競",
+        "work": "詩經"
       }
     ]
   },
@@ -27293,7 +27477,9 @@
     "tags": [
       "詩經名物",
       "樂器",
-      "簧"
+      "簧",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -27312,7 +27498,9 @@
     "tags": [
       "詩經名物",
       "舞具",
-      "翿"
+      "翿",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -28596,6 +28784,25 @@
     ]
   },
   {
+    "slug": "彼人是哉",
+    "title": "彼人是哉",
+    "summary": "詩人詰問彼人是非莫辨",
+    "tags": [
+      "詩經",
+      "魏風",
+      "世道是非"
+    ],
+    "sources": [
+      {
+        "chapter": "園有桃",
+        "plugin": "wikisource",
+        "title": "詩經 · 園有桃",
+        "url": "https://zh.wikisource.org/wiki/詩經/園有桃",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "往來井井",
     "title": "往來井井",
     "summary": "往者來者皆用其井，井道普施无私有常。",
@@ -29222,6 +29429,25 @@
         "title": "禮記 · 樂記",
         "url": "https://zh.wikisource.org/wiki/禮記/樂記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "心之憂矣",
+    "title": "心之憂矣",
+    "summary": "賢者中心憂患反覆詠歎",
+    "tags": [
+      "詩經",
+      "魏風",
+      "賢者之憂"
+    ],
+    "sources": [
+      {
+        "chapter": "園有桃",
+        "plugin": "wikisource",
+        "title": "詩經 · 園有桃",
+        "url": "https://zh.wikisource.org/wiki/詩經/園有桃",
+        "work": "詩經"
       }
     ]
   },
@@ -32320,6 +32546,25 @@
     ]
   },
   {
+    "slug": "斤斤其明",
+    "title": "斤斤其明",
+    "summary": "明察秋毫，審於分辨",
+    "tags": [
+      "詩經",
+      "明察",
+      "智德"
+    ],
+    "sources": [
+      {
+        "chapter": "執競",
+        "plugin": "wikisource",
+        "title": "詩經 · 執競",
+        "url": "https://zh.wikisource.org/wiki/詩經/執競",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "斥仙人",
     "title": "斥仙人",
     "summary": "項●都自稱天帝見斥而還，時人號之為斥仙人，以斥妄稱仙者。",
@@ -32728,6 +32973,25 @@
     ]
   },
   {
+    "slug": "既醉既飽",
+    "title": "既醉既飽",
+    "summary": "祭享以酒食，神人皆足",
+    "tags": [
+      "詩經",
+      "祭祀",
+      "燕饗"
+    ],
+    "sources": [
+      {
+        "chapter": "執競",
+        "plugin": "wikisource",
+        "title": "詩經 · 執競",
+        "url": "https://zh.wikisource.org/wiki/詩經/執競",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "日新之教",
     "title": "The Teachings of Daily Renewal / 日新之教",
     "summary": "The Confucian imperative of continuous moral self-renewal, exemplified by the inscription on King Tang's washbasin.",
@@ -33087,7 +33351,9 @@
       "仁",
       "明",
       "仁明先後",
-      "玄理"
+      "玄理",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -36417,7 +36683,9 @@
     "tags": [
       "詩經",
       "災祸",
-      "命運"
+      "命運",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -36725,6 +36993,25 @@
         "title": "荀子 · 不苟篇",
         "url": "https://zh.wikisource.org/wiki/荀子/不苟篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "歌謠遣憂",
+    "title": "歌謠遣憂",
+    "summary": "賢者不得志以歌謠宣洩其憂",
+    "tags": [
+      "詩經",
+      "魏風",
+      "詩言志"
+    ],
+    "sources": [
+      {
+        "chapter": "園有桃",
+        "plugin": "wikisource",
+        "title": "詩經 · 園有桃",
+        "url": "https://zh.wikisource.org/wiki/詩經/園有桃",
+        "work": "詩經"
       }
     ]
   },
@@ -39784,7 +40071,9 @@
     "tags": [
       "詩經",
       "地理",
-      "比興"
+      "比興",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -40804,6 +41093,25 @@
         "title": "論語 · 爲政第二",
         "url": "https://zh.wikisource.org/wiki/論語/爲政第二",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "無競維烈",
+    "title": "無競維烈",
+    "summary": "功業盛大無可匹敵",
+    "tags": [
+      "詩經",
+      "功業",
+      "武王"
+    ],
+    "sources": [
+      {
+        "chapter": "執競",
+        "plugin": "wikisource",
+        "title": "詩經 · 執競",
+        "url": "https://zh.wikisource.org/wiki/詩經/執競",
+        "work": "詩經"
       }
     ]
   },
@@ -42474,7 +42782,9 @@
     "tags": [
       "詩經語詞",
       "燕樂",
-      "房室"
+      "房室",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -42493,7 +42803,9 @@
     "tags": [
       "詩經語詞",
       "敖遊",
-      "燕樂"
+      "燕樂",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -43435,7 +43747,9 @@
     "tags": [
       "詩經",
       "節候",
-      "比興"
+      "比興",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -43838,10 +44152,10 @@
       "小雅",
       "忠國",
       "盡瘁",
-      "部:經",
-      "部:經/詩類",
       "忠義",
-      "政治"
+      "政治",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -45178,6 +45492,25 @@
         "title": "抱朴子 · 卷15",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "福祿來反",
+    "title": "福祿來反",
+    "summary": "福祿歸來，反覆不竭",
+    "tags": [
+      "詩經",
+      "福祿",
+      "報施"
+    ],
+    "sources": [
+      {
+        "chapter": "執競",
+        "plugin": "wikisource",
+        "title": "詩經 · 執競",
+        "url": "https://zh.wikisource.org/wiki/詩經/執競",
+        "work": "詩經"
       }
     ]
   },
@@ -47308,7 +47641,9 @@
     "tags": [
       "詩經",
       "文學",
-      "情感"
+      "情感",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -48099,7 +48434,9 @@
     "tags": [
       "詩經",
       "志向",
-      "鳥類"
+      "鳥類",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -51929,6 +52266,25 @@
     ]
   },
   {
+    "slug": "蓋亦勿思",
+    "title": "蓋亦勿思",
+    "summary": "賢者知音稀遂不復念歸",
+    "tags": [
+      "詩經",
+      "魏風",
+      "賢士自慰"
+    ],
+    "sources": [
+      {
+        "chapter": "園有桃",
+        "plugin": "wikisource",
+        "title": "詩經 · 園有桃",
+        "url": "https://zh.wikisource.org/wiki/詩經/園有桃",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "蓬生麻中",
     "title": "蓬生麻中",
     "summary": "物之善惡，受其所附者之影響；君子當慎所居遊，以免邪僻之害。",
@@ -54699,6 +55055,21 @@
         "plugin": "wikisource",
         "title": "詩經 · 伯兮",
         "url": "https://zh.wikisource.org/wiki/詩經/伯兮",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "謂我士也驕",
+    "title": "謂我士也驕",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "園有桃",
+        "plugin": "wikisource",
+        "title": "詩經 · 園有桃",
+        "url": "https://zh.wikisource.org/wiki/詩經/園有桃",
         "work": "詩經"
       }
     ]
@@ -59351,6 +59722,25 @@
     ]
   },
   {
+    "slug": "鐘鼓喤喤磬筦將將",
+    "title": "鐘鼓喤喤，磬筦將將",
+    "summary": "樂器和鳴，祭享之盛",
+    "tags": [
+      "詩經",
+      "音樂",
+      "祭祀"
+    ],
+    "sources": [
+      {
+        "chapter": "執競",
+        "plugin": "wikisource",
+        "title": "詩經 · 執競",
+        "url": "https://zh.wikisource.org/wiki/詩經/執競",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "鐵之戰誇功",
     "title": "鐵之戰趙簡子等三人誇功",
     "summary": "鐵之戰，三人各矜其功，終以兩鞁皆絕",
@@ -59767,6 +60157,44 @@
         "title": "禮記 · 王制",
         "url": "https://zh.wikisource.org/wiki/禮記/王制",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "降福穰穰",
+    "title": "降福穰穰",
+    "summary": "天降之福，繁多盛大",
+    "tags": [
+      "詩經",
+      "福澤",
+      "天佑"
+    ],
+    "sources": [
+      {
+        "chapter": "執競",
+        "plugin": "wikisource",
+        "title": "詩經 · 執競",
+        "url": "https://zh.wikisource.org/wiki/詩經/執競",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "降福簡簡",
+    "title": "降福簡簡",
+    "summary": "福慶盛大，有序而降",
+    "tags": [
+      "詩經",
+      "福澤",
+      "天佑"
+    ],
+    "sources": [
+      {
+        "chapter": "執競",
+        "plugin": "wikisource",
+        "title": "詩經 · 執競",
+        "url": "https://zh.wikisource.org/wiki/詩經/執競",
+        "work": "詩經"
       }
     ]
   },
