@@ -7900,6 +7900,24 @@
     ]
   },
   {
+    "slug": "以類相從",
+    "title": "以類相從",
+    "summary": "以類別相從屬，調整篇章次序。",
+    "tags": [
+      "編排",
+      "書籍整理"
+    ],
+    "sources": [
+      {
+        "chapter": "荀子序",
+        "plugin": "wikisource",
+        "title": "荀子 · 荀子序",
+        "url": "https://zh.wikisource.org/wiki/荀子/荀子序",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "以類行雜",
     "title": "以類行雜",
     "summary": "以類行雜，以一行萬。始則終，終則始，若環之無端。",
@@ -8859,6 +8877,25 @@
     ]
   },
   {
+    "slug": "佌佌",
+    "title": "佌佌",
+    "summary": "狀人之卑微渺小也。",
+    "tags": [
+      "詩經",
+      "形容詞",
+      "正月"
+    ],
+    "sources": [
+      {
+        "chapter": "正月",
+        "plugin": "wikisource",
+        "title": "詩經 · 正月",
+        "url": "https://zh.wikisource.org/wiki/詩經/正月",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "何不日鼓瑟",
     "title": "何不日鼓瑟",
     "summary": "有酒食當及時行樂，日日鼓瑟以永日。",
@@ -9049,6 +9086,25 @@
         "title": "墨子 · 公孟",
         "url": "https://zh.wikisource.org/wiki/墨子/公孟",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "何斯違斯",
+    "title": "何斯違斯",
+    "summary": "何此人離此而去也",
+    "tags": [
+      "詩經",
+      "別離",
+      "疑問"
+    ],
+    "sources": [
+      {
+        "chapter": "殷其靁",
+        "plugin": "wikisource",
+        "title": "詩經 · 殷其靁",
+        "url": "https://zh.wikisource.org/wiki/詩經/殷其靁",
+        "work": "詩經"
       }
     ]
   },
@@ -16351,6 +16407,25 @@
     ]
   },
   {
+    "slug": "千載而未光",
+    "title": "千載而未光",
+    "summary": "荀子之書千載以來未得彰明，蓋由文字舛誤、注解闕如之故。",
+    "tags": [
+      "荀卿",
+      "書命",
+      "注解"
+    ],
+    "sources": [
+      {
+        "chapter": "荀子序",
+        "plugin": "wikisource",
+        "title": "荀子 · 荀子序",
+        "url": "https://zh.wikisource.org/wiki/荀子/荀子序",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "千里之足困於鹽車",
     "title": "千里之足困於鹽車",
     "summary": "良馬困於運鹽之役，良刀不入工匠之門，以喻賢才困於卑位。",
@@ -18751,6 +18826,25 @@
     ]
   },
   {
+    "slug": "名世之士王者之師",
+    "title": "名世之士，王者之師",
+    "summary": "稱荀卿之才德，可為名傳於世者之師，足以輔佐王者。",
+    "tags": [
+      "荀卿",
+      "名世",
+      "王者師"
+    ],
+    "sources": [
+      {
+        "chapter": "荀子序",
+        "plugin": "wikisource",
+        "title": "荀子 · 荀子序",
+        "url": "https://zh.wikisource.org/wiki/荀子/荀子序",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "名可強立",
     "title": "名可強立",
     "summary": "",
@@ -19477,7 +19571,8 @@
     "tags": [
       "君子",
       "道法",
-      "治亂"
+      "治亂",
+      "部:子"
     ],
     "sources": [
       {
@@ -20712,6 +20807,25 @@
     ]
   },
   {
+    "slug": "周公制作之",
+    "title": "周公制作之，仲尼祖述之，荀孟賛成之",
+    "summary": "總述聖賢傳承王道的次第，周公創制，仲尼述而不作，荀卿、孟子先後羽翼之。",
+    "tags": [
+      "聖賢傳承",
+      "王道",
+      "儒學源流"
+    ],
+    "sources": [
+      {
+        "chapter": "荀子序",
+        "plugin": "wikisource",
+        "title": "荀子 · 荀子序",
+        "url": "https://zh.wikisource.org/wiki/荀子/荀子序",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "周公吐哺握發",
     "title": "周公吐哺握發",
     "summary": "述周公以貴下賤、禮賢下士之事。",
@@ -21438,6 +21552,25 @@
         "title": "禮記 · 奔喪",
         "url": "https://zh.wikisource.org/wiki/禮記/奔喪",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "哿矣富人哀此惸獨",
+    "title": "哿矣富人，哀此惸獨",
+    "summary": "富者樂而孤獨者悲，贫富懸殊也。",
+    "tags": [
+      "詩經",
+      "社會",
+      "正月"
+    ],
+    "sources": [
+      {
+        "chapter": "正月",
+        "plugin": "wikisource",
+        "title": "詩經 · 正月",
+        "url": "https://zh.wikisource.org/wiki/詩經/正月",
+        "work": "詩經"
       }
     ]
   },
@@ -27492,6 +27625,25 @@
     ]
   },
   {
+    "slug": "天夭是椓",
+    "title": "天夭是椓",
+    "summary": "天罰加於生民也。",
+    "tags": [
+      "詩經",
+      "天命",
+      "正月"
+    ],
+    "sources": [
+      {
+        "chapter": "正月",
+        "plugin": "wikisource",
+        "title": "詩經 · 正月",
+        "url": "https://zh.wikisource.org/wiki/詩經/正月",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "天子之義",
     "title": "天子之義",
     "summary": "天子之義法天地，士民之義奉父母；禮與法表裏，文與武左右。",
@@ -29038,7 +29190,8 @@
     "summary": "誇大荒誕之說，足以喪失魂魄。",
     "tags": [
       "虛妄",
-      "養生"
+      "養生",
+      "部:其他"
     ],
     "sources": [
       {
@@ -31570,6 +31723,25 @@
         "title": "列子 · 楊朱篇",
         "url": "https://zh.wikisource.org/wiki/列子/楊朱篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "孟軻闡其前荀卿振其後",
+    "title": "孟軻闡其前，荀卿振其後",
+    "summary": "孟子闡明於前，荀卿振作於後，儒學危而復存。",
+    "tags": [
+      "孟荀",
+      "儒學存亡",
+      "儒學源流"
+    ],
+    "sources": [
+      {
+        "chapter": "荀子序",
+        "plugin": "wikisource",
+        "title": "荀子 · 荀子序",
+        "url": "https://zh.wikisource.org/wiki/荀子/荀子序",
+        "work": "荀子"
       }
     ]
   },
@@ -35355,7 +35527,8 @@
     "tags": [
       "治道",
       "比喻",
-      "民歸"
+      "民歸",
+      "部:子"
     ],
     "sources": [
       {
@@ -36387,7 +36560,8 @@
     "tags": [
       "師道",
       "教學",
-      "師法"
+      "師法",
+      "部:子"
     ],
     "sources": [
       {
@@ -37857,7 +38031,8 @@
     "tags": [
       "得衆",
       "治道",
-      "天人"
+      "天人",
+      "部:子"
     ],
     "sources": [
       {
@@ -39733,7 +39908,9 @@
     "tags": [
       "德政",
       "詩經",
-      "王道"
+      "王道",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -41428,6 +41605,25 @@
     ]
   },
   {
+    "slug": "振振君子",
+    "title": "振振君子",
+    "summary": "誠信忠厚之貌",
+    "tags": [
+      "詩經",
+      "稱謂",
+      "德行"
+    ],
+    "sources": [
+      {
+        "chapter": "殷其靁",
+        "plugin": "wikisource",
+        "title": "詩經 · 殷其靁",
+        "url": "https://zh.wikisource.org/wiki/詩經/殷其靁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "振鷺",
     "title": "振鷺",
     "summary": "詠客有美德，勸王黜陟以興治化。",
@@ -42202,7 +42398,8 @@
     "tags": [
       "治道",
       "政事",
-      "次第"
+      "次第",
+      "部:子"
     ],
     "sources": [
       {
@@ -42805,6 +43002,24 @@
         "title": "國語 · 卷07",
         "url": "https://zh.wikisource.org/wiki/國語/卷07",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "敷尋義理",
+    "title": "敷尋義理",
+    "summary": "闡發敷布、尋求義理，以注解古書。",
+    "tags": [
+      "注疏",
+      "義理"
+    ],
+    "sources": [
+      {
+        "chapter": "荀子序",
+        "plugin": "wikisource",
+        "title": "荀子 · 荀子序",
+        "url": "https://zh.wikisource.org/wiki/荀子/荀子序",
+        "work": "荀子"
       }
     ]
   },
@@ -47496,6 +47711,25 @@
     ]
   },
   {
+    "slug": "末宦之暇",
+    "title": "末宦之暇",
+    "summary": "居官秩末之時，公餘之暇。",
+    "tags": [
+      "仕宦",
+      "業餘",
+      "治學"
+    ],
+    "sources": [
+      {
+        "chapter": "荀子序",
+        "plugin": "wikisource",
+        "title": "荀子 · 荀子序",
+        "url": "https://zh.wikisource.org/wiki/荀子/荀子序",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "本末之辨",
     "title": "本末之辨",
     "summary": "",
@@ -50538,6 +50772,25 @@
     ]
   },
   {
+    "slug": "正月十三章",
+    "title": "正月十三章",
+    "summary": "《詩經·小雅》篇什，刺幽王之亂之詩也。",
+    "tags": [
+      "詩經",
+      "小雅",
+      "篇制"
+    ],
+    "sources": [
+      {
+        "chapter": "正月",
+        "plugin": "wikisource",
+        "title": "詩經 · 正月",
+        "url": "https://zh.wikisource.org/wiki/詩經/正月",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "正末端本",
     "title": "正末端本",
     "summary": "欲正其末，必端其本；欲輟其流，必遏其源。",
@@ -50961,6 +51214,25 @@
     ]
   },
   {
+    "slug": "歸哉歸哉",
+    "title": "歸哉歸哉",
+    "summary": "望君子歸來之疊語",
+    "tags": [
+      "詩經",
+      "別離",
+      "望歸"
+    ],
+    "sources": [
+      {
+        "chapter": "殷其靁",
+        "plugin": "wikisource",
+        "title": "詩經 · 殷其靁",
+        "url": "https://zh.wikisource.org/wiki/詩經/殷其靁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "歸國寶不若獻賢而進士",
     "title": "歸國寶不若獻賢而進士",
     "summary": "",
@@ -51263,6 +51535,44 @@
         "plugin": "wikisource",
         "title": "詩經 · 伯兮",
         "url": "https://zh.wikisource.org/wiki/詩經/伯兮",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "殷其靁",
+    "title": "殷其靁",
+    "summary": "室家閔遠行君子之詩",
+    "tags": [
+      "詩經",
+      "召南",
+      "閔怨"
+    ],
+    "sources": [
+      {
+        "chapter": "殷其靁",
+        "plugin": "wikisource",
+        "title": "詩經 · 殷其靁",
+        "url": "https://zh.wikisource.org/wiki/詩經/殷其靁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "殷其靁在南山之陽",
+    "title": "殷其靁在南山之陽",
+    "summary": "以雷在南山下起興，言君子遠役不得寧處",
+    "tags": [
+      "詩經",
+      "起興",
+      "遠役"
+    ],
+    "sources": [
+      {
+        "chapter": "殷其靁",
+        "plugin": "wikisource",
+        "title": "詩經 · 殷其靁",
+        "url": "https://zh.wikisource.org/wiki/詩經/殷其靁",
         "work": "詩經"
       }
     ]
@@ -51625,6 +51935,25 @@
         "title": "孟子 · 滕文公上",
         "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "民今之無祿",
+    "title": "民今之無祿",
+    "summary": "民今失其所恃也。",
+    "tags": [
+      "詩經",
+      "民生",
+      "正月"
+    ],
+    "sources": [
+      {
+        "chapter": "正月",
+        "plugin": "wikisource",
+        "title": "詩經 · 正月",
+        "url": "https://zh.wikisource.org/wiki/詩經/正月",
+        "work": "詩經"
       }
     ]
   },
@@ -52743,7 +53072,8 @@
     "tags": [
       "治亂",
       "君子",
-      "小人"
+      "小人",
+      "部:子"
     ],
     "sources": [
       {
@@ -55933,7 +56263,9 @@
     "tags": [
       "詩經",
       "報施",
-      "師道"
+      "師道",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -56051,6 +56383,25 @@
         "plugin": "wikisource",
         "title": "詩經 · 東山",
         "url": "https://zh.wikisource.org/wiki/詩經/東山",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "燎之方揚",
+    "title": "燎之方揚",
+    "summary": "火盛難滅，以喻惡勢之熾也。",
+    "tags": [
+      "詩經",
+      "比喻",
+      "正月"
+    ],
+    "sources": [
+      {
+        "chapter": "正月",
+        "plugin": "wikisource",
+        "title": "詩經 · 正月",
+        "url": "https://zh.wikisource.org/wiki/詩經/正月",
         "work": "詩經"
       }
     ]
@@ -57630,6 +57981,25 @@
         "title": "史記 · 卷016",
         "url": "https://zh.wikisource.org/wiki/史記/卷016",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "王道不絶如綫",
+    "title": "王道不絶如綫",
+    "summary": "謂周室衰微，王道僅存若一綫之微，猶未絕也。",
+    "tags": [
+      "王道",
+      "周室衰微",
+      "儒學源流"
+    ],
+    "sources": [
+      {
+        "chapter": "荀子序",
+        "plugin": "wikisource",
+        "title": "荀子 · 荀子序",
+        "url": "https://zh.wikisource.org/wiki/荀子/荀子序",
+        "work": "荀子"
       }
     ]
   },
@@ -63622,7 +63992,8 @@
     "tags": [
       "度量",
       "禮制",
-      "官制"
+      "官制",
+      "部:經"
     ],
     "sources": [
       {
@@ -65833,7 +66204,8 @@
     "summary": "心存美意，可延年益壽。",
     "tags": [
       "養生",
-      "心性"
+      "心性",
+      "部:其他"
     ],
     "sources": [
       {
@@ -66229,6 +66601,25 @@
     ]
   },
   {
+    "slug": "羽翼六經",
+    "title": "羽翼《六經》",
+    "summary": "荀子之書輔助六經，增益孔氏之光。",
+    "tags": [
+      "荀卿",
+      "六經",
+      "羽翼"
+    ],
+    "sources": [
+      {
+        "chapter": "荀子序",
+        "plugin": "wikisource",
+        "title": "荀子 · 荀子序",
+        "url": "https://zh.wikisource.org/wiki/荀子/荀子序",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "習坎",
     "title": "習坎",
     "summary": "重坎疊險，心懷誠信乃可通達。",
@@ -66391,7 +66782,8 @@
     "tags": [
       "比喻",
       "用賢",
-      "治道"
+      "治道",
+      "部:子"
     ],
     "sources": [
       {
@@ -66442,6 +66834,25 @@
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "耆定爾功",
+    "title": "耆定爾功",
+    "summary": "致定大功也。功成不驕，慎終如始，乃可保其功。",
+    "tags": [
+      "武功",
+      "慎終",
+      "成敗"
+    ],
+    "sources": [
+      {
+        "chapter": "武",
+        "plugin": "wikisource",
+        "title": "詩經 · 武",
+        "url": "https://zh.wikisource.org/wiki/詩經/武",
+        "work": "詩經"
       }
     ]
   },
@@ -68711,7 +69122,9 @@
     "tags": [
       "治國",
       "賢士",
-      "荀子"
+      "荀子",
+      "部:子",
+      "部:子/儒家類"
     ],
     "sources": [
       {
@@ -70376,6 +70789,25 @@
     ]
   },
   {
+    "slug": "莫敢或遑",
+    "title": "莫敢或遑",
+    "summary": "不敢有片刻之暇",
+    "tags": [
+      "詩經",
+      "勤勞",
+      "公務"
+    ],
+    "sources": [
+      {
+        "chapter": "殷其靁",
+        "plugin": "wikisource",
+        "title": "詩經 · 殷其靁",
+        "url": "https://zh.wikisource.org/wiki/詩經/殷其靁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "莫若法天",
     "title": "莫若法天",
     "summary": "墨子以天為法之唯一準則，因天之行廣無私、施厚不德、光明不衰，超越父母、學者、君王之侷限。",
@@ -71240,6 +71672,25 @@
         "plugin": "wikisource",
         "title": "詩經 · 楚茨",
         "url": "https://zh.wikisource.org/wiki/詩經/楚茨",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "蔌蔌",
+    "title": "蔌蔌",
+    "summary": "狀物之聚積也。",
+    "tags": [
+      "詩經",
+      "形容詞",
+      "正月"
+    ],
+    "sources": [
+      {
+        "chapter": "正月",
+        "plugin": "wikisource",
+        "title": "詩經 · 正月",
+        "url": "https://zh.wikisource.org/wiki/詩經/正月",
         "work": "詩經"
       }
     ]
@@ -72577,7 +73028,8 @@
       "治術",
       "用人",
       "聽言",
-      "賢姦"
+      "賢姦",
+      "部:其他"
     ],
     "sources": [
       {
@@ -74507,7 +74959,8 @@
     "summary": "誠信之人，其效如神。",
     "tags": [
       "誠信",
-      "德行"
+      "德行",
+      "部:其他"
     ],
     "sources": [
       {
@@ -75715,7 +76168,8 @@
     "tags": [
       "賞罰",
       "治道",
-      "中庸"
+      "中庸",
+      "部:子"
     ],
     "sources": [
       {
@@ -76252,7 +76706,8 @@
     "summary": "賢士來集而不肖自退，此明主之效也。",
     "tags": [
       "用賢",
-      "治道"
+      "治道",
+      "部:子"
     ],
     "sources": [
       {
@@ -76570,6 +77025,25 @@
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "赫赫宗周褒姒烕之",
+    "title": "赫赫宗周，褒姒烕之",
+    "summary": "周室赫赫而亡於褒姒也。",
+    "tags": [
+      "詩經",
+      "周室",
+      "正月"
+    ],
+    "sources": [
+      {
+        "chapter": "正月",
+        "plugin": "wikisource",
+        "title": "詩經 · 正月",
+        "url": "https://zh.wikisource.org/wiki/詩經/正月",
+        "work": "詩經"
       }
     ]
   },
@@ -79063,6 +79537,25 @@
         "title": "抱朴子 · 卷36",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷36",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "遏劉",
+    "title": "遏劉",
+    "summary": "止殺也。武功之要，在遏止殘害，不以威虐逞。",
+    "tags": [
+      "武功",
+      "止殺",
+      "德治"
+    ],
+    "sources": [
+      {
+        "chapter": "武",
+        "plugin": "wikisource",
+        "title": "詩經 · 武",
+        "url": "https://zh.wikisource.org/wiki/詩經/武",
+        "work": "詩經"
       }
     ]
   },
@@ -81829,7 +82322,8 @@
     "tags": [
       "治道",
       "一統",
-      "尊卑"
+      "尊卑",
+      "部:子"
     ],
     "sources": [
       {
@@ -84896,6 +85390,25 @@
         "plugin": "wikisource",
         "title": "詩經 · 敝笱",
         "url": "https://zh.wikisource.org/wiki/詩經/敝笱",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "魚在于沼亦匪克樂",
+    "title": "魚在于沼，亦匪克樂",
+    "summary": "魚困於沼不得遂其性，以喻賢者困於亂世也。",
+    "tags": [
+      "詩經",
+      "比喻",
+      "正月"
+    ],
+    "sources": [
+      {
+        "chapter": "正月",
+        "plugin": "wikisource",
+        "title": "詩經 · 正月",
+        "url": "https://zh.wikisource.org/wiki/詩經/正月",
         "work": "詩經"
       }
     ]
