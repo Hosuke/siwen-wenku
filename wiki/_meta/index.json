@@ -1310,6 +1310,26 @@
     ]
   },
   {
+    "slug": "三歸",
+    "title": "三歸",
+    "summary": "管仲相齊有三歸，奢侈逾制而齊人不以為侈。",
+    "tags": [
+      "管仲",
+      "三歸",
+      "反坫",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷062",
+        "plugin": "wikisource",
+        "title": "史記 · 卷062",
+        "url": "https://zh.wikisource.org/wiki/史記/卷062",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "三無",
     "title": "三無",
     "summary": "無聲之樂、無體之禮、無服之喪，至道之所在。",
@@ -4972,6 +4992,27 @@
     ]
   },
   {
+    "slug": "主失勢而臣得國",
+    "title": "主失勢而臣得國",
+    "summary": "臣主利異，勢傾則臣竊國柄。",
+    "tags": [
+      "法家",
+      "君臣",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "主威",
     "title": "主威",
     "summary": "君之威在法不在德，在功不在名。",
@@ -6372,6 +6413,27 @@
     ]
   },
   {
+    "slug": "五不勝",
+    "title": "五不勝",
+    "summary": "法術之士所處之五種不利形勢。",
+    "tags": [
+      "法家",
+      "形勢",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "五事",
     "title": "五事",
     "summary": "貌、言、視、聽、思五事，修之則肅、治、智、謀、聖。",
@@ -7601,7 +7663,9 @@
       "詩經",
       "小雅",
       "外交",
-      "譖言"
+      "譖言",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -8503,6 +8567,7 @@
       "利己",
       "利害",
       "利益",
+      "法家",
       "部:子",
       "部:子/法家類"
     ],
@@ -8519,6 +8584,13 @@
         "plugin": "wikisource",
         "title": "韓非子 · 備內",
         "url": "https://zh.wikisource.org/wiki/韓非子/備內",
+        "work": "韓非子"
+      },
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
         "work": "韓非子"
       }
     ]
@@ -11823,6 +11895,26 @@
     ]
   },
   {
+    "slug": "伯禽之法",
+    "title": "伯禽之法",
+    "summary": "伯禽受封於魯，所傳治國之要道，儉以足用、寬以愛民、務農重穀是也。",
+    "tags": [
+      "治國",
+      "魯國",
+      "僖公",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "駉",
+        "plugin": "wikisource",
+        "title": "詩經 · 駉",
+        "url": "https://zh.wikisource.org/wiki/詩經/駉",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "伯禽將歸",
     "title": "伯禽將歸",
     "summary": "周公告伯禽以為人下者之道",
@@ -13355,6 +13447,27 @@
     ]
   },
   {
+    "slug": "便計",
+    "title": "便計",
+    "summary": "韓非自便之計，假存韓之名以圖己利，非為秦謀。",
+    "tags": [
+      "利害",
+      "韓非",
+      "辯說",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "係用徽纆寘于叢棘",
     "title": "係用徽纆寘于叢棘",
     "summary": "囚禁於牢獄，三歲不得出，比喻上六失道而凶。",
@@ -13514,7 +13627,9 @@
     "tags": [
       "戀情",
       "約會",
-      "詩經"
+      "詩經",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -14085,6 +14200,26 @@
         "title": "詩經 · 楚茨",
         "url": "https://zh.wikisource.org/wiki/詩經/楚茨",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "倉廩實而知禮節",
+    "title": "倉廩實而知禮節",
+    "summary": "衣食足則知榮辱，經濟為教化之本。",
+    "tags": [
+      "管仲",
+      "治國",
+      "禮義",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷062",
+        "plugin": "wikisource",
+        "title": "史記 · 卷062",
+        "url": "https://zh.wikisource.org/wiki/史記/卷062",
+        "work": "史記"
       }
     ]
   },
@@ -15560,6 +15695,28 @@
     ]
   },
   {
+    "slug": "兄弟匪他",
+    "title": "兄弟匪他",
+    "summary": "兄弟至親，非他人可比。",
+    "tags": [
+      "詩經",
+      "兄弟",
+      "至親",
+      "離別",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "頍弁",
+        "plugin": "wikisource",
+        "title": "詩經 · 頍弁",
+        "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "兄弟無遠",
     "title": "兄弟無遠",
     "summary": "兄弟之親，不可以疏遠；朋友之誼，當以兄弟為法。",
@@ -15576,6 +15733,28 @@
         "plugin": "wikisource",
         "title": "詩經 · 伐木",
         "url": "https://zh.wikisource.org/wiki/詩經/伐木",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "兄弟甥舅",
+    "title": "兄弟甥舅",
+    "summary": "同姓之兄弟、異姓之外舅，皆王室所恃以為藩輔者。",
+    "tags": [
+      "詩經",
+      "宗族",
+      "親戚",
+      "封建",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "頍弁",
+        "plugin": "wikisource",
+        "title": "詩經 · 頍弁",
+        "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
         "work": "詩經"
       }
     ]
@@ -16919,6 +17098,26 @@
         "plugin": "wikisource",
         "title": "詩經 · 烈祖",
         "url": "https://zh.wikisource.org/wiki/詩經/烈祖",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "公之媚子從公于狩",
+    "title": "公之媚子從公于狩",
+    "summary": "言君有媚子從行田狩。",
+    "tags": [
+      "詩經",
+      "君臣",
+      "田獵",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "駟驖",
+        "plugin": "wikisource",
+        "title": "詩經 · 駟驖",
+        "url": "https://zh.wikisource.org/wiki/詩經/駟驖",
         "work": "詩經"
       }
     ]
@@ -18378,6 +18577,26 @@
         "title": "荀子 · 議兵篇",
         "url": "https://zh.wikisource.org/wiki/荀子/議兵篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "兵者凶器",
+    "title": "兵者，凶器也",
+    "summary": "兵為兇器，不可不審用；伐趙而不能取，退而攻韓而不能拔，皆非所以亡韓之心。",
+    "tags": [
+      "軍事",
+      "哲學",
+      "慎戰",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
       }
     ]
   },
@@ -22058,7 +22277,9 @@
     "tags": [
       "情理",
       "戀情",
-      "詩經"
+      "詩經",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -24054,6 +24275,26 @@
     ]
   },
   {
+    "slug": "反掖之寇",
+    "title": "反掖之寇",
+    "summary": "弃城而敗軍，則反側之寇必乘虛襲城。",
+    "tags": [
+      "軍事",
+      "城守",
+      "叛亂",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "反是不思亦已焉哉",
     "title": "反是不思亦已焉哉",
     "summary": "誓言既違，不可復追，唯有決絕而已。",
@@ -25184,6 +25425,27 @@
     ]
   },
   {
+    "slug": "叩馬而諫",
+    "title": "叩馬而諫",
+    "summary": "伯夷叔齊阻武王之師，以孝義諫止伐紂。",
+    "tags": [
+      "伯夷叔齊",
+      "武王伐紂",
+      "諫諍",
+      "忠義",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷061",
+        "plugin": "wikisource",
+        "title": "史記 · 卷061",
+        "url": "https://zh.wikisource.org/wiki/史記/卷061",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "召伯聽讼",
     "title": "召伯聽讼",
     "summary": "召伯聽斷是非，明察曲直，故能使教化大行。",
@@ -25594,6 +25856,28 @@
         "title": "國語 · 卷13",
         "url": "https://zh.wikisource.org/wiki/國語/卷13",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "司馬穰苴",
+    "title": "司馬穰苴",
+    "summary": "春秋齊將，善治兵，誅遲到之監軍莊賈，威振燕晉，後遭讒毀而卒。",
+    "tags": [
+      "齊國",
+      "將領",
+      "兵法",
+      "田氏",
+      "部:子",
+      "部:子/兵家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷064",
+        "plugin": "wikisource",
+        "title": "史記 · 卷064",
+        "url": "https://zh.wikisource.org/wiki/史記/卷064",
+        "work": "史記"
       }
     ]
   },
@@ -28198,6 +28482,26 @@
     ]
   },
   {
+    "slug": "吳起取齊女",
+    "title": "吳起取齊女",
+    "summary": "吳起取齊女為妻，魯人疑之，起乃殺妻以明不與齊，卒為將破齊。",
+    "tags": [
+      "吳起",
+      "魯國",
+      "齊國",
+      "兵家"
+    ],
+    "sources": [
+      {
+        "chapter": "卷065",
+        "plugin": "wikisource",
+        "title": "史記 · 卷065",
+        "url": "https://zh.wikisource.org/wiki/史記/卷065",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "吳起吮瘡",
     "title": "吳起吮瘡",
     "summary": "為將者感人以恩，士卒致死而不辭",
@@ -28227,7 +28531,10 @@
       "吳起",
       "楚國",
       "改革",
-      "部:其他"
+      "部:其他",
+      "變法",
+      "兵家",
+      "強兵"
     ],
     "sources": [
       {
@@ -28236,6 +28543,13 @@
         "title": "韓非子 · 和氏",
         "url": "https://zh.wikisource.org/wiki/韓非子/和氏",
         "work": "韓非子"
+      },
+      {
+        "chapter": "卷065",
+        "plugin": "wikisource",
+        "title": "史記 · 卷065",
+        "url": "https://zh.wikisource.org/wiki/史記/卷065",
+        "work": "史記"
       }
     ]
   },
@@ -28278,6 +28592,27 @@
         "title": "韓非子 · 和氏",
         "url": "https://zh.wikisource.org/wiki/韓非子/和氏",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "吳起說武侯以形勢不如德",
+    "title": "吳起說武侯以形勢不如德",
+    "summary": "吳起論在德不在險，惜其行於楚，以刻暴少恩亡其軀。",
+    "tags": [
+      "吳起",
+      "德行",
+      "形勢",
+      "兵家",
+      "太史公論"
+    ],
+    "sources": [
+      {
+        "chapter": "卷065",
+        "plugin": "wikisource",
+        "title": "史記 · 卷065",
+        "url": "https://zh.wikisource.org/wiki/史記/卷065",
+        "work": "史記"
       }
     ]
   },
@@ -29720,6 +30055,13 @@
         "plugin": "wikisource",
         "title": "韓非子 · 喻老",
         "url": "https://zh.wikisource.org/wiki/韓非子/喻老",
+        "work": "韓非子"
+      },
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
         "work": "韓非子"
       }
     ]
@@ -32303,6 +32645,27 @@
         "plugin": "wikisource",
         "title": "韓非子 · 十過",
         "url": "https://zh.wikisource.org/wiki/韓非子/十過",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "國為越",
+    "title": "國為越",
+    "summary": "君壅臣專，雖國富兵強而不能制，猶越之於中國。",
+    "tags": [
+      "法家",
+      "治國",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
         "work": "韓非子"
       }
     ]
@@ -35103,6 +35466,48 @@
     ]
   },
   {
+    "slug": "壹發五豝",
+    "title": "壹發五豝",
+    "summary": "一矢發之，止取其一，以示仁也。",
+    "tags": [
+      "詩經",
+      "騶虞",
+      "仁政",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "騶虞",
+        "plugin": "wikisource",
+        "title": "詩經 · 騶虞",
+        "url": "https://zh.wikisource.org/wiki/詩經/騶虞",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "壹發五豵",
+    "title": "壹發五豵",
+    "summary": "一矢發之，止取其一，仁及微物也。",
+    "tags": [
+      "詩經",
+      "騶虞",
+      "田獵",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "騶虞",
+        "plugin": "wikisource",
+        "title": "詩經 · 騶虞",
+        "url": "https://zh.wikisource.org/wiki/詩經/騶虞",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "壹言",
     "title": "壹言",
     "summary": "治國在於壹民務、摶民力、塞私門，使上下同心，國乃可強。",
@@ -36937,6 +37342,27 @@
     ]
   },
   {
+    "slug": "天下兵質",
+    "title": "天下兵質",
+    "summary": "秦若攻韓而不拔，天下將以秦為兵之質，諸侯合從而伐之。",
+    "tags": [
+      "軍事",
+      "外交",
+      "秦",
+      "合從",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "天下有道",
     "title": "天下有道",
     "summary": "天下太平則無急患，人主靜守，不必興師動眾。",
@@ -38159,6 +38585,28 @@
     ]
   },
   {
+    "slug": "天道無親",
+    "title": "天道無親",
+    "summary": "天道至公，無有偏私，常與善人；然太史公引伯夷、顏淵之事而疑之。",
+    "tags": [
+      "天道",
+      "善惡報應",
+      "伯夷叔齊",
+      "盜蹠",
+      "天道觀",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷061",
+        "plugin": "wikisource",
+        "title": "史記 · 卷061",
+        "url": "https://zh.wikisource.org/wiki/史記/卷061",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "天鋒",
     "title": "天鋒",
     "summary": "斗杓端外之盾星，與招搖相對，主鋒鏑邊患之象。",
@@ -38725,6 +39173,30 @@
         "plugin": "wikisource",
         "title": "史記 · 卷038",
         "url": "https://zh.wikisource.org/wiki/史記/卷038",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "太史公論老莊申韓",
+    "title": "太史公論老莊申韓",
+    "summary": "太史公評老、莊、申、韓四家皆原於道德，而老子最深遠。",
+    "tags": [
+      "太史公",
+      "老子",
+      "莊子",
+      "申不害",
+      "韓非",
+      "論贊",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷063",
+        "plugin": "wikisource",
+        "title": "史記 · 卷063",
+        "url": "https://zh.wikisource.org/wiki/史記/卷063",
         "work": "史記"
       }
     ]
@@ -39543,6 +40015,28 @@
     ]
   },
   {
+    "slug": "奉時辰牡",
+    "title": "奉時辰牡",
+    "summary": "言以時令所育之牡獸供田狩也。",
+    "tags": [
+      "詩經",
+      "田獵",
+      "禮制",
+      "時令",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "駟驖",
+        "plugin": "wikisource",
+        "title": "詩經 · 駟驖",
+        "url": "https://zh.wikisource.org/wiki/詩經/駟驖",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "奉璋峨峨",
     "title": "奉璋峨峨",
     "summary": "奉璋之容端莊，喻俊士各宜其位。",
@@ -39560,6 +40054,26 @@
         "title": "詩經 · 棫樸",
         "url": "https://zh.wikisource.org/wiki/詩經/棫樸",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "奉秦王之歡心",
+    "title": "奉秦王之歡心",
+    "summary": "李斯自言來韓以奉秦王歡心，願效便計，冀得面見韓王陳說。",
+    "tags": [
+      "李斯",
+      "外交",
+      "遊說",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
       }
     ]
   },
@@ -40036,6 +40550,13 @@
         "title": "抱朴子 · 卷33",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷33",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
       }
     ]
   },
@@ -40311,6 +40832,28 @@
         "plugin": "wikisource",
         "title": "詩經 · 君子偕老",
         "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "如彼雨雪先集維霰",
+    "title": "如彼雨雪先集維霰",
+    "summary": "雨雪將作，先有霰集，以喻亂世之兆。",
+    "tags": [
+      "詩經",
+      "興象",
+      "災異",
+      "雨雪",
+      "預兆",
+      "部:集"
+    ],
+    "sources": [
+      {
+        "chapter": "頍弁",
+        "plugin": "wikisource",
+        "title": "詩經 · 頍弁",
+        "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
         "work": "詩經"
       }
     ]
@@ -40623,6 +41166,25 @@
         "title": "荀子 · 勸學篇",
         "url": "https://zh.wikisource.org/wiki/荀子/勸學篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "始於憂勤終於逸樂",
+    "title": "始於憂勤，終於逸樂",
+    "summary": "聖人之政，艱難而逸豫。",
+    "tags": [
+      "詩經",
+      "治道",
+      "憂樂"
+    ],
+    "sources": [
+      {
+        "chapter": "魚麗",
+        "plugin": "wikisource",
+        "title": "詩經 · 魚麗",
+        "url": "https://zh.wikisource.org/wiki/詩經/魚麗",
+        "work": "詩經"
       }
     ]
   },
@@ -40999,6 +41561,13 @@
         "title": "荀子 · 非相篇",
         "url": "https://zh.wikisource.org/wiki/荀子/非相篇",
         "work": "荀子"
+      },
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
       }
     ]
   },
@@ -41145,6 +41714,13 @@
         "title": "韓非子 · 奸劫弑臣",
         "url": "https://zh.wikisource.org/wiki/韓非子/奸劫弑臣",
         "work": "韓非子"
+      },
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
       }
     ]
   },
@@ -41200,6 +41776,34 @@
         "title": "抱朴子 · 卷08",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷08",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "姦臣譎主",
+    "title": "姦臣譎主",
+    "summary": "姦臣以譎術欺弄人主以便其私。",
+    "tags": [
+      "法家",
+      "姦臣",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
       }
     ]
   },
@@ -42787,6 +43391,26 @@
     ]
   },
   {
+    "slug": "孔樂韓土",
+    "title": "孔樂韓土",
+    "summary": "韓土樂土，川澤富饒，魚鹿充物，萬物咸若。",
+    "tags": [
+      "樂土",
+      "韓土",
+      "富庶",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "韓奕",
+        "plugin": "wikisource",
+        "title": "詩經 · 韓奕",
+        "url": "https://zh.wikisource.org/wiki/詩經/韓奕",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "孔淑不逆",
     "title": "孔淑不逆",
     "summary": "淮夷受化而歸順，不復為逆也。",
@@ -43704,6 +44328,28 @@
     ]
   },
   {
+    "slug": "孤危將亡",
+    "title": "孤危將亡",
+    "summary": "孤立危殆，滅亡將至。",
+    "tags": [
+      "詩經",
+      "幽王",
+      "危亡",
+      "離心",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "頍弁",
+        "plugin": "wikisource",
+        "title": "詩經 · 頍弁",
+        "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "孫卿子說齊相",
     "title": "孫卿子說齊相",
     "summary": "稱湯武以諷齊，陳得人之道在禮義，不在權謀。",
@@ -44404,6 +45050,26 @@
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "守城一都",
+    "title": "守城一都",
+    "summary": "城若固守，秦必興兵四面合圍，道不通，援兵不及。",
+    "tags": [
+      "城守",
+      "軍事",
+      "韓",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
       }
     ]
   },
@@ -45934,6 +46600,28 @@
     ]
   },
   {
+    "slug": "宴樂同姓",
+    "title": "宴樂同姓",
+    "summary": "與同姓宗族共宴相聚，以敦親睦。",
+    "tags": [
+      "詩經",
+      "宗族",
+      "宴飲",
+      "親睦",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "頍弁",
+        "plugin": "wikisource",
+        "title": "詩經 · 頍弁",
+        "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "家人",
     "title": "家人",
     "summary": "家人之道，在正男女之分，由齊家而天下定。",
@@ -46542,6 +47230,26 @@
         "title": "韓非子 · 主道",
         "url": "https://zh.wikisource.org/wiki/韓非子/主道",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "實墉實壑",
+    "title": "實墉實壑",
+    "summary": "修城浚池，理田定籍，治國之大方。",
+    "tags": [
+      "治國",
+      "城郭",
+      "農事",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "韓奕",
+        "plugin": "wikisource",
+        "title": "詩經 · 韓奕",
+        "url": "https://zh.wikisource.org/wiki/詩經/韓奕",
+        "work": "詩經"
       }
     ]
   },
@@ -47169,6 +47877,28 @@
         "title": "抱朴子 · 卷15",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "將在外君令有所不受",
+    "title": "將在外君令有所不受",
+    "summary": "將帥統兵於外，雖君命亦可不受，以軍法從事也。",
+    "tags": [
+      "兵法",
+      "將道",
+      "君權",
+      "軍令",
+      "部:子",
+      "部:子/兵家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷064",
+        "plugin": "wikisource",
+        "title": "史記 · 卷064",
+        "url": "https://zh.wikisource.org/wiki/史記/卷064",
+        "work": "史記"
       }
     ]
   },
@@ -47968,6 +48698,26 @@
         "plugin": "wikisource",
         "title": "史記 · 卷041",
         "url": "https://zh.wikisource.org/wiki/史記/卷041",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "少時常與鮑叔牙游",
+    "title": "少時常與鮑叔牙游",
+    "summary": "管仲少與鮑叔遊，鮑叔終善遇之。",
+    "tags": [
+      "管仲",
+      "鮑叔牙",
+      "知己",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷062",
+        "plugin": "wikisource",
+        "title": "史記 · 卷062",
+        "url": "https://zh.wikisource.org/wiki/史記/卷062",
         "work": "史記"
       }
     ]
@@ -49269,6 +50019,26 @@
         "title": "史記 · 卷009",
         "url": "https://zh.wikisource.org/wiki/史記/卷009",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "左右計之者不用",
+    "title": "左右計之者不用",
+    "summary": "秦兵圍城，道不通，則左右謀士之計無所用。",
+    "tags": [
+      "軍事",
+      "謀略",
+      "困境",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
       }
     ]
   },
@@ -50853,6 +51623,28 @@
     ]
   },
   {
+    "slug": "庶幾說懌",
+    "title": "庶幾說懌",
+    "summary": "幸得相見，庶幾喜悅。",
+    "tags": [
+      "詩經",
+      "相見",
+      "喜悅",
+      "離合",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "頍弁",
+        "plugin": "wikisource",
+        "title": "詩經 · 頍弁",
+        "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "庶徵",
     "title": "庶徵",
     "summary": "雨、暘、燠、寒、風、時六徵，驗之於人君之德。",
@@ -50881,7 +51673,8 @@
       "靈臺",
       "民心",
       "仁德",
-      "治道"
+      "治道",
+      "部:子"
     ],
     "sources": [
       {
@@ -52071,7 +52864,8 @@
     "tags": [
       "戀情",
       "信物",
-      "詩經"
+      "詩經",
+      "部:子"
     ],
     "sources": [
       {
@@ -52897,6 +53691,26 @@
         "title": "史記 · 卷037",
         "url": "https://zh.wikisource.org/wiki/史記/卷037",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "從者間",
+    "title": "從者間",
+    "summary": "攻伐而使從者離間，不可悔也。",
+    "tags": [
+      "遊說",
+      "離間",
+      "外交",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
       }
     ]
   },
@@ -54363,6 +55177,27 @@
     ]
   },
   {
+    "slug": "思無斁",
+    "title": "思無斁",
+    "summary": "思之無厭。言心思之無有厭倦，引而無竭也。",
+    "tags": [
+      "詩經",
+      "駉",
+      "無倦",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "駉",
+        "plugin": "wikisource",
+        "title": "詩經 · 駉",
+        "url": "https://zh.wikisource.org/wiki/詩經/駉",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "思無邪",
     "title": "思無邪",
     "summary": "《詩》三百篇，可一言以蔽之，曰思無邪。",
@@ -54505,6 +55340,69 @@
         "plugin": "wikisource",
         "title": "詩經 · 泉水",
         "url": "https://zh.wikisource.org/wiki/詩經/泉水",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "思馬斯作",
+    "title": "思馬斯作",
+    "summary": "詠馬之振。言所思之馬踴躍有為，氣力充沛也。",
+    "tags": [
+      "詩經",
+      "駉",
+      "振作",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "駉",
+        "plugin": "wikisource",
+        "title": "詩經 · 駉",
+        "url": "https://zh.wikisource.org/wiki/詩經/駉",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "思馬斯才",
+    "title": "思馬斯才",
+    "summary": "詠馬之能。言所思之馬材力強健，可任馳驅也。",
+    "tags": [
+      "詩經",
+      "駉",
+      "良馬",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "駉",
+        "plugin": "wikisource",
+        "title": "詩經 · 駉",
+        "url": "https://zh.wikisource.org/wiki/詩經/駉",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "思馬斯臧",
+    "title": "思馬斯臧",
+    "summary": "詠馬之善。思及此馬之美善，以興國君之德。",
+    "tags": [
+      "詩經",
+      "駉",
+      "頌美",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "駉",
+        "plugin": "wikisource",
+        "title": "詩經 · 駉",
+        "url": "https://zh.wikisource.org/wiki/詩經/駉",
         "work": "詩經"
       }
     ]
@@ -55481,6 +56379,27 @@
     ]
   },
   {
+    "slug": "愚人論智",
+    "title": "愚人論智",
+    "summary": "人主與左右論智，則是與愚人論智也。",
+    "tags": [
+      "法家",
+      "君道",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "愚公移山",
     "title": "愚公移山",
     "summary": "",
@@ -55746,7 +56665,9 @@
     "tags": [
       "情感",
       "戀情",
-      "詩經"
+      "詩經",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -57215,6 +58136,27 @@
     ]
   },
   {
+    "slug": "扞蔽席薦",
+    "title": "扞蔽席薦",
+    "summary": "喻韓事秦如屏障之扞禦、蓆墊之供奉，卑微無異郡縣。",
+    "tags": [
+      "外交",
+      "韓",
+      "秦",
+      "羈絆",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "扶天下之危",
     "title": "扶天下之危",
     "summary": "能扶天下之危者據安，能除天下之憂者享樂，能救天下之禍者獲福。",
@@ -58446,7 +59388,9 @@
     "tags": [
       "戀情",
       "焦灼",
-      "詩經"
+      "詩經",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -60695,6 +61639,27 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "於嗟乎",
+    "title": "於嗟乎",
+    "summary": "感歎之辭，美之也。",
+    "tags": [
+      "詩經",
+      "騶虞",
+      "語辭",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "騶虞",
+        "plugin": "wikisource",
+        "title": "詩經 · 騶虞",
+        "url": "https://zh.wikisource.org/wiki/詩經/騶虞",
+        "work": "詩經"
       }
     ]
   },
@@ -63914,6 +64879,13 @@
         "title": "韓非子 · 外儲說右上",
         "url": "https://zh.wikisource.org/wiki/韓非子/外儲說右上",
         "work": "韓非子"
+      },
+      {
+        "chapter": "卷064",
+        "plugin": "wikisource",
+        "title": "史記 · 卷064",
+        "url": "https://zh.wikisource.org/wiki/史記/卷064",
+        "work": "史記"
       }
     ]
   },
@@ -63956,6 +64928,86 @@
         "title": "墨子 · 非儒下",
         "url": "https://zh.wikisource.org/wiki/墨子/非儒下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "晏子伏莊公尸",
+    "title": "晏子伏莊公尸哭之",
+    "summary": "晏子伏尸而哭，成禮然後去，此見義而勇為者也。",
+    "tags": [
+      "晏嬰",
+      "莊公",
+      "忠義",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷062",
+        "plugin": "wikisource",
+        "title": "史記 · 卷062",
+        "url": "https://zh.wikisource.org/wiki/史記/卷062",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "晏子春秋",
+    "title": "晏子春秋",
+    "summary": "太史公讀[[管氏牧民、山高、乘馬、輕重、九府]]及[[晏子春秋]]，欲觀聖賢行事，故次其傳。",
+    "tags": [
+      "晏嬰",
+      "管仲",
+      "著作",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷062",
+        "plugin": "wikisource",
+        "title": "史記 · 卷062",
+        "url": "https://zh.wikisource.org/wiki/史記/卷062",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "晏子犯君之顏",
+    "title": "晏子犯君之顏",
+    "summary": "進思盡忠，退思補過，晏子之謂也。",
+    "tags": [
+      "晏嬰",
+      "忠諫",
+      "進退",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷062",
+        "plugin": "wikisource",
+        "title": "史記 · 卷062",
+        "url": "https://zh.wikisource.org/wiki/史記/卷062",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "晏子節儉力行",
+    "title": "晏子節儉力行",
+    "summary": "晏子事三君，節儉力行，重於齊國。",
+    "tags": [
+      "晏嬰",
+      "節儉",
+      "力行",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷062",
+        "plugin": "wikisource",
+        "title": "史記 · 卷062",
+        "url": "https://zh.wikisource.org/wiki/史記/卷062",
+        "work": "史記"
       }
     ]
   },
@@ -64271,6 +65323,27 @@
     ]
   },
   {
+    "slug": "智法之士與當塗之人不相容",
+    "title": "智法之士與當塗之人不相容",
+    "summary": "智法之士欲燭-{矫}-當塗之人，終不可兩存。",
+    "tags": [
+      "法家",
+      "政争",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "智者決策於愚人賢士程行於不肖",
     "title": "智者決策於愚人賢士程行於不肖",
     "summary": "賢智之人反為愚不肖者所制，明主道之塞。",
@@ -64289,6 +65362,27 @@
         "plugin": "wikisource",
         "title": "韓非子 · 人主",
         "url": "https://zh.wikisource.org/wiki/韓非子/人主",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "智術之士",
+    "title": "智術之士",
+    "summary": "遠見明察、洞察姦私之臣。",
+    "tags": [
+      "法家",
+      "臣道",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
         "work": "韓非子"
       }
     ]
@@ -65519,6 +66613,26 @@
     ]
   },
   {
+    "slug": "有那其居",
+    "title": "有那其居",
+    "summary": "居安而民樂，頌賢君之德",
+    "tags": [
+      "詩經",
+      "安居",
+      "賢君",
+      "頌德"
+    ],
+    "sources": [
+      {
+        "chapter": "魚藻",
+        "plugin": "wikisource",
+        "title": "詩經 · 魚藻",
+        "url": "https://zh.wikisource.org/wiki/詩經/魚藻",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "有隕自天志不舍命",
     "title": "有隕自天志不舍命",
     "summary": "象傳語，九五有福自天而降，以其志不違天命也。",
@@ -65645,6 +66759,23 @@
         "title": "周易 · 兌",
         "url": "https://zh.wikisource.org/wiki/周易/兌",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "朋黨比周",
+    "title": "朋黨比周",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
       }
     ]
   },
@@ -66087,6 +67218,26 @@
         "title": "周易 · 屯",
         "url": "https://zh.wikisource.org/wiki/周易/屯",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "未得要領",
+    "title": "未得要領",
+    "summary": "秦發兵而未名所伐，則韓之用事者莫知所從。",
+    "tags": [
+      "軍事",
+      "詭道",
+      "謀略",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
       }
     ]
   },
@@ -69191,7 +70342,9 @@
     "tags": [
       "詩經",
       "小雅",
-      "離間"
+      "離間",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -69559,6 +70712,28 @@
         "plugin": "wikisource",
         "title": "詩經 · 碩鼠",
         "url": "https://zh.wikisource.org/wiki/詩經/碩鼠",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "樂酒今夕",
+    "title": "樂酒今夕",
+    "summary": "及時行樂，趁今夕而宴飲。",
+    "tags": [
+      "詩經",
+      "及時行樂",
+      "宴飲",
+      "無常",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "頍弁",
+        "plugin": "wikisource",
+        "title": "詩經 · 頍弁",
+        "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
         "work": "詩經"
       }
     ]
@@ -70094,7 +71269,9 @@
     "tags": [
       "詩經",
       "比興",
-      "漸進"
+      "漸進",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -70777,6 +71954,28 @@
     ]
   },
   {
+    "slug": "歲寒然后知松柏之後凋",
+    "title": "歲寒然后知松柏之後凋",
+    "summary": "世濁亂之時，清士方顯；猶歲寒之際，松柏後凋乃見其操。",
+    "tags": [
+      "松柏",
+      "歲寒",
+      "清士",
+      "君子",
+      "砥行立名",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷061",
+        "plugin": "wikisource",
+        "title": "史記 · 卷061",
+        "url": "https://zh.wikisource.org/wiki/史記/卷061",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "歲時田獵",
     "title": "歲時田獵",
     "summary": "",
@@ -71075,6 +72274,28 @@
         "plugin": "wikisource",
         "title": "詩經 · 葛生",
         "url": "https://zh.wikisource.org/wiki/詩經/葛生",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "死喪無日",
+    "title": "死喪無日",
+    "summary": "死喪之期不可預知，旦夕將至。",
+    "tags": [
+      "詩經",
+      "死喪",
+      "無常",
+      "危懼",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "頍弁",
+        "plugin": "wikisource",
+        "title": "詩經 · 頍弁",
+        "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
         "work": "詩經"
       }
     ]
@@ -72823,6 +74044,26 @@
     ]
   },
   {
+    "slug": "汾王之甥",
+    "title": "汾王之甥",
+    "summary": "蹶父之女為汾王外甥，韓侯娶之，姻婭皆貴。",
+    "tags": [
+      "婚姻",
+      "外戚",
+      "諸侯",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "韓奕",
+        "plugin": "wikisource",
+        "title": "詩經 · 韓奕",
+        "url": "https://zh.wikisource.org/wiki/詩經/韓奕",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "汾陰得鼎",
     "title": "汾陰得鼎",
     "summary": "汾陰巫錦於魏脽后土營旁得鼎，迎至甘泉，天子以為神瑞。",
@@ -74485,6 +75726,26 @@
     ]
   },
   {
+    "slug": "淑旂綏章",
+    "title": "淑旂綏章",
+    "summary": "車飾之美，諸侯之尊。",
+    "tags": [
+      "車馬",
+      "禮儀",
+      "賞賜",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "韓奕",
+        "plugin": "wikisource",
+        "title": "詩經 · 韓奕",
+        "url": "https://zh.wikisource.org/wiki/詩經/韓奕",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "淒其以風",
     "title": "淒其以風",
     "summary": "秋風驟至，衣不足以禦寒，比喻世變之亟。",
@@ -75543,6 +76804,26 @@
         "plugin": "wikisource",
         "title": "詩經 · 烈祖",
         "url": "https://zh.wikisource.org/wiki/詩經/烈祖",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "溥彼韓城",
+    "title": "溥彼韓城",
+    "summary": "燕師完筑，韓城高大，祖宗受命，百蠻宗主。",
+    "tags": [
+      "韓城",
+      "城郭",
+      "燕師",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "韓奕",
+        "plugin": "wikisource",
+        "title": "詩經 · 韓奕",
+        "url": "https://zh.wikisource.org/wiki/詩經/韓奕",
         "work": "詩經"
       }
     ]
@@ -77547,7 +78828,9 @@
       "詩經",
       "小雅",
       "聽言",
-      "納諫"
+      "納諫",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -77798,6 +79081,28 @@
     ]
   },
   {
+    "slug": "無幾相見",
+    "title": "無幾相見",
+    "summary": "能相見之機甚少，時日無多。",
+    "tags": [
+      "詩經",
+      "相見",
+      "離別",
+      "生死",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "頍弁",
+        "plugin": "wikisource",
+        "title": "詩經 · 頍弁",
+        "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "無庶予子憎",
     "title": "無庶予子憎",
     "summary": "戒後世之譏嫌，寓諷諫於利害者也。",
@@ -77918,6 +79223,26 @@
         "plugin": "wikisource",
         "title": "詩經 · 板",
         "url": "https://zh.wikisource.org/wiki/詩經/板",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "無有後艱",
+    "title": "無有後艱",
+    "summary": "尸饗既終，祈遣後世之艱。",
+    "tags": [
+      "詩經",
+      "祭祀",
+      "祈福",
+      "後艱"
+    ],
+    "sources": [
+      {
+        "chapter": "鳬鷖",
+        "plugin": "wikisource",
+        "title": "詩經 · 鳬鷖",
+        "url": "https://zh.wikisource.org/wiki/詩經/鳬鷖",
         "work": "詩經"
       }
     ]
@@ -78780,7 +80105,9 @@
     "tags": [
       "詩經",
       "起興",
-      "讒言"
+      "讒言",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -79216,6 +80543,28 @@
     ]
   },
   {
+    "slug": "爾酒既旨爾殽既嘉",
+    "title": "爾酒既旨爾殽既嘉",
+    "summary": "酒旨殽嘉，言燕享之物豐美，以興親親之意。",
+    "tags": [
+      "詩經",
+      "宴飲",
+      "酒食",
+      "燕享",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "頍弁",
+        "plugin": "wikisource",
+        "title": "詩經 · 頍弁",
+        "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "牂牂",
     "title": "牂牂",
     "summary": "楊葉盛貌",
@@ -79386,6 +80735,63 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "物其多矣維其嘉矣",
+    "title": "物其多矣，維其嘉矣",
+    "summary": "物之盛者，必有其美。",
+    "tags": [
+      "詩經",
+      "物觀",
+      "善美"
+    ],
+    "sources": [
+      {
+        "chapter": "魚麗",
+        "plugin": "wikisource",
+        "title": "詩經 · 魚麗",
+        "url": "https://zh.wikisource.org/wiki/詩經/魚麗",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "物其旨矣維其偕矣",
+    "title": "物其旨矣，維其偕矣",
+    "summary": "物之美者，必有其盛。",
+    "tags": [
+      "詩經",
+      "物觀",
+      "豐盛"
+    ],
+    "sources": [
+      {
+        "chapter": "魚麗",
+        "plugin": "wikisource",
+        "title": "詩經 · 魚麗",
+        "url": "https://zh.wikisource.org/wiki/詩經/魚麗",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "物其有矣維其時矣",
+    "title": "物其有矣，維其時矣",
+    "summary": "物之成者，貴在其時。",
+    "tags": [
+      "詩經",
+      "物觀",
+      "天時"
+    ],
+    "sources": [
+      {
+        "chapter": "魚麗",
+        "plugin": "wikisource",
+        "title": "詩經 · 魚麗",
+        "url": "https://zh.wikisource.org/wiki/詩經/魚麗",
+        "work": "詩經"
       }
     ]
   },
@@ -80442,6 +81848,26 @@
         "title": "周易 · 家人",
         "url": "https://zh.wikisource.org/wiki/周易/家人",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "王在在鎬",
+    "title": "王在在鎬",
+    "summary": "鎬京為武王故居，君子思古以刺今",
+    "tags": [
+      "詩經",
+      "鎬京",
+      "武王",
+      "思古"
+    ],
+    "sources": [
+      {
+        "chapter": "魚藻",
+        "plugin": "wikisource",
+        "title": "詩經 · 魚藻",
+        "url": "https://zh.wikisource.org/wiki/詩經/魚藻",
+        "work": "詩經"
       }
     ]
   },
@@ -81911,6 +83337,26 @@
     ]
   },
   {
+    "slug": "田文自若",
+    "title": "田文自若",
+    "summary": "吳起列功於田文，爭論相位，田文以為己能居其上，吳起乃默然。",
+    "tags": [
+      "吳起",
+      "田文",
+      "魏國",
+      "相位之爭"
+    ],
+    "sources": [
+      {
+        "chapter": "卷065",
+        "plugin": "wikisource",
+        "title": "史記 · 卷065",
+        "url": "https://zh.wikisource.org/wiki/史記/卷065",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "田有禽",
     "title": "田有禽",
     "summary": "田有禽而利執言，師有名而無咎；用人當審。",
@@ -82280,6 +83726,29 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "申不害治韓",
+    "title": "申不害治韓",
+    "summary": "申不害以黃老刑名之學相韓昭侯，內脩政教，外應諸侯，國治兵彊。",
+    "tags": [
+      "申不害",
+      "韓昭侯",
+      "黃老",
+      "刑名",
+      "法家",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷063",
+        "plugin": "wikisource",
+        "title": "史記 · 卷063",
+        "url": "https://zh.wikisource.org/wiki/史記/卷063",
+        "work": "史記"
       }
     ]
   },
@@ -82804,6 +84273,27 @@
     ]
   },
   {
+    "slug": "當塗之人",
+    "title": "當塗之人",
+    "summary": "處勢用事、阻礙法術之士之當權者。",
+    "tags": [
+      "法家",
+      "姦臣",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "當塗侯",
     "title": "當塗侯",
     "summary": "魏不害以圉守尉捕淮陽反者公孫勇等功，封當塗侯。",
@@ -82821,6 +84311,27 @@
         "title": "史記 · 卷020",
         "url": "https://zh.wikisource.org/wiki/史記/卷020",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "當塗者之於人主",
+    "title": "當塗者之於人主",
+    "summary": "當塗者希不信愛、又且習故，以迎合主心而進。",
+    "tags": [
+      "法家",
+      "君臣",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
       }
     ]
   },
@@ -83771,6 +85282,26 @@
         "title": "韓非子 · 五蠹",
         "url": "https://zh.wikisource.org/wiki/韓非子/五蠹",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "百兩彭彭",
+    "title": "百兩彭彭",
+    "summary": "車從之盛，婚禮之隆。",
+    "tags": [
+      "婚禮",
+      "車馬",
+      "諸侯",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "韓奕",
+        "plugin": "wikisource",
+        "title": "詩經 · 韓奕",
+        "url": "https://zh.wikisource.org/wiki/詩經/韓奕",
+        "work": "詩經"
       }
     ]
   },
@@ -85500,6 +87031,26 @@
     ]
   },
   {
+    "slug": "知我者鮑子",
+    "title": "知我者鮑子",
+    "summary": "鮑叔牙深知管仲，患難之中不以其言為汙。",
+    "tags": [
+      "管仲",
+      "鮑叔牙",
+      "知人",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷062",
+        "plugin": "wikisource",
+        "title": "史記 · 卷062",
+        "url": "https://zh.wikisource.org/wiki/史記/卷062",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "知所貴知所利",
     "title": "知所貴知所利",
     "summary": "聖王之臣，知所貴者能用賢，知所利者能用事。",
@@ -85608,6 +87159,26 @@
         "title": "詩經 · 墓門",
         "url": "https://zh.wikisource.org/wiki/詩經/墓門",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "知與之為取",
+    "title": "知與之為取",
+    "summary": "欲取於人，必先予之，此為政之寶。",
+    "tags": [
+      "管仲",
+      "為政",
+      "奪與予",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷062",
+        "plugin": "wikisource",
+        "title": "史記 · 卷062",
+        "url": "https://zh.wikisource.org/wiki/史記/卷062",
+        "work": "史記"
       }
     ]
   },
@@ -88721,6 +90292,26 @@
     ]
   },
   {
+    "slug": "秦韓之交必絕",
+    "title": "秦韓之交必絕",
+    "summary": "秦使不入韓，則秦韓之交必絕，此李斯危言以動韓王。",
+    "tags": [
+      "外交",
+      "李斯",
+      "遊說",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "秩秩大猷",
     "title": "秩秩大猷",
     "summary": "聖人制治之大法",
@@ -89896,6 +91487,47 @@
         "title": "韓非子 · 外儲說左下",
         "url": "https://zh.wikisource.org/wiki/韓非子/外儲說左下",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "管仲夷吾者",
+    "title": "管仲夷吾者",
+    "summary": "管仲佐桓公九合諸侯，一匡天下，霸業之基。",
+    "tags": [
+      "管仲",
+      "齊桓公",
+      "霸業",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷062",
+        "plugin": "wikisource",
+        "title": "史記 · 卷062",
+        "url": "https://zh.wikisource.org/wiki/史記/卷062",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "管仲孔子小之",
+    "title": "管仲孔子小之",
+    "summary": "孔子以為周道衰微，桓公既賢，管仲當勉之至王，乃僅稱霸而已。",
+    "tags": [
+      "管仲",
+      "孔子",
+      "霸王",
+      "王道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷062",
+        "plugin": "wikisource",
+        "title": "史記 · 卷062",
+        "url": "https://zh.wikisource.org/wiki/史記/卷062",
+        "work": "史記"
       }
     ]
   },
@@ -91432,7 +93064,9 @@
       "詩經",
       "靈臺",
       "營造",
-      "治道"
+      "治道",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -91452,7 +93086,9 @@
       "詩經",
       "靈臺",
       "王道",
-      "民樂"
+      "民樂",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -91904,6 +93540,8 @@
       "大禹",
       "祭祀",
       "詩經",
+      "甸治",
+      "王化",
       "部:經",
       "部:經/詩類"
     ],
@@ -91913,6 +93551,13 @@
         "plugin": "wikisource",
         "title": "詩經 · 信南山",
         "url": "https://zh.wikisource.org/wiki/詩經/信南山",
+        "work": "詩經"
+      },
+      {
+        "chapter": "韓奕",
+        "plugin": "wikisource",
+        "title": "詩經 · 韓奕",
+        "url": "https://zh.wikisource.org/wiki/詩經/韓奕",
         "work": "詩經"
       }
     ]
@@ -93535,6 +95180,29 @@
         "title": "荀子 · 致士篇",
         "url": "https://zh.wikisource.org/wiki/荀子/致士篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "老子其猶龍邪",
+    "title": "老子其猶龍邪",
+    "summary": "孔子見老子，歎其乘風雲而上天，如龍之不可測。",
+    "tags": [
+      "孔子",
+      "老子",
+      "龍",
+      "問禮",
+      "譬喻",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷063",
+        "plugin": "wikisource",
+        "title": "史記 · 卷063",
+        "url": "https://zh.wikisource.org/wiki/史記/卷063",
+        "work": "史記"
       }
     ]
   },
@@ -95807,6 +97475,27 @@
     ]
   },
   {
+    "slug": "能法之士",
+    "title": "能法之士",
+    "summary": "强毅勁直、能以法-{矫}-姦之臣。",
+    "tags": [
+      "法家",
+      "臣道",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "能群",
     "title": "能群",
     "summary": "君者，能群也；善生養、班治、顯設、藩飾之四能",
@@ -95924,6 +97613,27 @@
     ]
   },
   {
+    "slug": "脩智之士不事左右",
+    "title": "脩智之士不事左右",
+    "summary": "脩士以精絜固身，智士以治辯進業，不能以貨賂事人。",
+    "tags": [
+      "法家",
+      "臣道",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "脩身未嘗聞為國",
     "title": "脩身未嘗聞為國",
     "summary": "治國本於修身",
@@ -95967,6 +97677,27 @@
         "plugin": "wikisource",
         "title": "韓非子 · 喻老",
         "url": "https://zh.wikisource.org/wiki/韓非子/喻老",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "腹心之病",
+    "title": "腹心之病",
+    "summary": "秦之有韓，如人心腹之疾，遇機則發，不可不察。",
+    "tags": [
+      "韓",
+      "秦",
+      "利害",
+      "外交",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
         "work": "韓非子"
       }
     ]
@@ -97139,6 +98870,27 @@
     ]
   },
   {
+    "slug": "舍拔則獲",
+    "title": "舍拔則獲",
+    "summary": "言射者放弦即得禽獸。",
+    "tags": [
+      "詩經",
+      "田獵",
+      "射藝",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "駟驖",
+        "plugin": "wikisource",
+        "title": "詩經 · 駟驖",
+        "url": "https://zh.wikisource.org/wiki/詩經/駟驖",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "舍文軒竊敝轝",
     "title": "舍文軒竊敝轝",
     "summary": "墨子諷喻楚王之辭，以舍己之美而竊人之惡，比況兼愛之旨。",
@@ -97641,6 +99393,28 @@
         "title": "墨子 · 親士",
         "url": "https://zh.wikisource.org/wiki/墨子/親士",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "良賈深藏若虛",
+    "title": "良賈深藏若虛",
+    "summary": "老子戒孔子：良賈深藏若虛，君子盛德容貌若愚。",
+    "tags": [
+      "老子",
+      "孔子",
+      "問禮",
+      "謙德",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷063",
+        "plugin": "wikisource",
+        "title": "史記 · 卷063",
+        "url": "https://zh.wikisource.org/wiki/史記/卷063",
+        "work": "史記"
       }
     ]
   },
@@ -98724,7 +100498,9 @@
     "tags": [
       "戀情",
       "象徵",
-      "詩經"
+      "詩經",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -98802,6 +100578,28 @@
         "plugin": "wikisource",
         "title": "史記 · 卷047",
         "url": "https://zh.wikisource.org/wiki/史記/卷047",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "莊周拒相",
+    "title": "莊周拒相",
+    "summary": "楚威王聞莊周賢，欲以相位迎之，莊周以郊祭犧牛為喻，辭而不仕。",
+    "tags": [
+      "莊子",
+      "楚威王",
+      "辭祿",
+      "逍遙",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷063",
+        "plugin": "wikisource",
+        "title": "史記 · 卷063",
+        "url": "https://zh.wikisource.org/wiki/史記/卷063",
         "work": "史記"
       }
     ]
@@ -99273,6 +101071,27 @@
         "title": "史記 · 卷028",
         "url": "https://zh.wikisource.org/wiki/史記/卷028",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "萬乘之患千乘之患",
+    "title": "萬乘之患千乘之患",
+    "summary": "萬乘患大臣太重，千乘患左右太信。",
+    "tags": [
+      "法家",
+      "治國",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
       }
     ]
   },
@@ -100540,6 +102359,28 @@
         "title": "抱朴子 · 卷20",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷20",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "蔦與女蘿",
+    "title": "蔦與女蘿",
+    "summary": "以寄生之蔓縕附喬木，比同氣相求、依附君子。",
+    "tags": [
+      "詩經",
+      "興象",
+      "寄生植物",
+      "依附",
+      "部:經",
+      "部:經/易類"
+    ],
+    "sources": [
+      {
+        "chapter": "頍弁",
+        "plugin": "wikisource",
+        "title": "詩經 · 頍弁",
+        "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
+        "work": "詩經"
       }
     ]
   },
@@ -106407,6 +108248,27 @@
     ]
   },
   {
+    "slug": "詩經鳬鷖",
+    "title": "詩經 · 鳬鷖",
+    "summary": "祈神之祭歌，頌尸置酒以遣福。",
+    "tags": [
+      "詩經",
+      "頌",
+      "祭祀",
+      "公尸",
+      "祈福"
+    ],
+    "sources": [
+      {
+        "chapter": "鳬鷖",
+        "plugin": "wikisource",
+        "title": "詩經 · 鳬鷖",
+        "url": "https://zh.wikisource.org/wiki/詩經/鳬鷖",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "詩者志之所之",
     "title": "詩者志之所之",
     "summary": "詩發乎情志，聲成文而為音，與政相通，詩有六義焉。",
@@ -107622,7 +109484,9 @@
       "詩經",
       "小雅",
       "讒言",
-      "姦佞"
+      "姦佞",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -107641,7 +109505,9 @@
     "tags": [
       "詩經",
       "小雅",
-      "刺譖"
+      "刺譖",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -109826,6 +111692,27 @@
     ]
   },
   {
+    "slug": "越石父賢",
+    "title": "越石父賢",
+    "summary": "知己相知在乎感寤之恩，而禮不可闕。",
+    "tags": [
+      "晏嬰",
+      "越石父",
+      "知己",
+      "禮",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷062",
+        "plugin": "wikisource",
+        "title": "史記 · 卷062",
+        "url": "https://zh.wikisource.org/wiki/史記/卷062",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "越興稱霸",
     "title": "越興稱霸",
     "summary": "句踐滅吳，北觀兵中原，會諸侯於徐州，周王命為伯，號稱霸王。",
@@ -110492,6 +112379,26 @@
     ]
   },
   {
+    "slug": "蹶父孔武",
+    "title": "蹶父孔武",
+    "summary": "蹶父勇武，足跡遍天下，為女相攸得所。",
+    "tags": [
+      "蹶父",
+      "武力",
+      "諸侯",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "韓奕",
+        "plugin": "wikisource",
+        "title": "詩經 · 韓奕",
+        "url": "https://zh.wikisource.org/wiki/詩經/韓奕",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "躋僖公逆祀",
     "title": "躋僖公逆祀",
     "summary": "躋僖公於閔公之上，是逆祀也；昭穆紊亂，必遭殃咎。",
@@ -110729,6 +112636,26 @@
         "title": "韓非子 · 外儲說左下",
         "url": "https://zh.wikisource.org/wiki/韓非子/外儲說左下",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "車御之妻",
+    "title": "車御之妻",
+    "summary": "御者自足而晏子之志深，以人為鏡，可知賢愚。",
+    "tags": [
+      "晏嬰",
+      "車御",
+      "賢者自下",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "卷062",
+        "plugin": "wikisource",
+        "title": "史記 · 卷062",
+        "url": "https://zh.wikisource.org/wiki/史記/卷062",
+        "work": "史記"
       }
     ]
   },
@@ -111316,6 +113243,28 @@
     ]
   },
   {
+    "slug": "輶車鸞鑣",
+    "title": "輶車鸞鑣",
+    "summary": "頌輕車之飾，鸞鈴鏘鏘，馬嚼雕鏤也。",
+    "tags": [
+      "詩經",
+      "車馬",
+      "禮器",
+      "田獵",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "駟驖",
+        "plugin": "wikisource",
+        "title": "詩經 · 駟驖",
+        "url": "https://zh.wikisource.org/wiki/詩經/駟驖",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "輾轉伏枕",
     "title": "輾轉伏枕",
     "summary": "臥而反側，不能安寢也。",
@@ -111726,7 +113675,9 @@
       "靈臺",
       "禮樂",
       "大學",
-      "治道"
+      "治道",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -112433,6 +114384,29 @@
         "plugin": "wikisource",
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "逆鱗",
+    "title": "逆鱗",
+    "summary": "龍喉下有逆鱗，人主亦有逆鱗；說者能無嬰之，則幾矣。",
+    "tags": [
+      "說難",
+      "韓非",
+      "進諫",
+      "逆鱗",
+      "人主",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷063",
+        "plugin": "wikisource",
+        "title": "史記 · 卷063",
+        "url": "https://zh.wikisource.org/wiki/史記/卷063",
         "work": "史記"
       }
     ]
@@ -114039,6 +116013,27 @@
     ]
   },
   {
+    "slug": "邪臣四助",
+    "title": "邪臣四助",
+    "summary": "邪臣自飾之四種憑藉。",
+    "tags": [
+      "法家",
+      "姦臣",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "邲之戰",
     "title": "晉荀林父帥師及楚子戰于邲",
     "summary": "晉師與楚師遇於邲，晉師大敗。莊王伐鄭已服，故能以禮待晉師，晉師敗績。",
@@ -115212,6 +117207,27 @@
         "title": "史記 · 卷039",
         "url": "https://zh.wikisource.org/wiki/史記/卷039",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "重人",
+    "title": "重人",
+    "summary": "竊柄專權、虧法利私之大臣。",
+    "tags": [
+      "法家",
+      "姦臣",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
       }
     ]
   },
@@ -119082,7 +121098,9 @@
       "靈臺",
       "仁德",
       "王道",
-      "祥瑞"
+      "祥瑞",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -119124,7 +121142,9 @@
       "靈臺",
       "仁德",
       "祥瑞",
-      "治道"
+      "治道",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -119195,7 +121215,9 @@
       "詩經",
       "變風",
       "小雅",
-      "刺譖"
+      "刺譖",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -119955,6 +121977,67 @@
     ]
   },
   {
+    "slug": "韓一背秦",
+    "title": "韓一背秦",
+    "summary": "韓嘗一背秦而國迫地侵，兵弱至今，聽姦臣浮說，不權事實故也。",
+    "tags": [
+      "韓",
+      "外交",
+      "覆轍",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "韓之信",
+    "title": "韓之信未可知",
+    "summary": "秦使不通，則韓之信未可知；秦必釋趙之患而移兵於韓。",
+    "tags": [
+      "外交",
+      "秦",
+      "韓",
+      "信義",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "韓侯受命",
+    "title": "韓侯受命",
+    "summary": "韓侯入覲，受王冊命，為諸侯表率。",
+    "tags": [
+      "冊命",
+      "諸侯",
+      "朝覲",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "韓奕",
+        "plugin": "wikisource",
+        "title": "詩經 · 韓奕",
+        "url": "https://zh.wikisource.org/wiki/詩經/韓奕",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "韓厥知趙孤",
     "title": "韓厥知趙孤",
     "summary": "景公疾，卜占大業之後為祟，韓厥知趙氏孤尚在，具以實告，景公乃與謀立孤兒。",
@@ -119994,6 +122077,27 @@
         "title": "史記 · 卷058",
         "url": "https://zh.wikisource.org/wiki/史記/卷058",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "韓居中國",
+    "title": "居中國",
+    "summary": "韓地狹小，然居天下之中，故能與諸侯班位。",
+    "tags": [
+      "韓",
+      "地理",
+      "外交",
+      "部:史",
+      "部:史/地理類"
+    ],
+    "sources": [
+      {
+        "chapter": "存韓",
+        "plugin": "wikisource",
+        "title": "韓非子 · 存韓",
+        "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
+        "work": "韓非子"
       }
     ]
   },
@@ -120060,6 +122164,28 @@
         "title": "韓非子 · 十過",
         "url": "https://zh.wikisource.org/wiki/韓非子/十過",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "韓非悲說難",
+    "title": "韓非悲說難",
+    "summary": "韓非深悲說之之難，身死秦國而不能自脫。",
+    "tags": [
+      "韓非",
+      "說難",
+      "悲",
+      "秦死",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷063",
+        "plugin": "wikisource",
+        "title": "史記 · 卷063",
+        "url": "https://zh.wikisource.org/wiki/史記/卷063",
+        "work": "史記"
       }
     ]
   },
@@ -120280,6 +122406,29 @@
         "title": "荀子 · 性惡篇",
         "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "頍弁",
+    "title": "頍弁",
+    "summary": "《小雅》篇名，刺幽王不能親睦宗族、孤危將亡之詩。",
+    "tags": [
+      "詩經",
+      "小雅",
+      "幽王",
+      "宗族",
+      "亡國",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "頍弁",
+        "plugin": "wikisource",
+        "title": "詩經 · 頍弁",
+        "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
+        "work": "詩經"
       }
     ]
   },
@@ -120594,6 +122743,26 @@
         "plugin": "wikisource",
         "title": "詩經 · 采芑",
         "url": "https://zh.wikisource.org/wiki/詩經/采芑",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "顯父餞之",
+    "title": "顯父餞之",
+    "summary": "顯父設宴餞行，清酒嘉殽，禮遇之隆也。",
+    "tags": [
+      "餞行",
+      "宴享",
+      "禮儀",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "韓奕",
+        "plugin": "wikisource",
+        "title": "詩經 · 韓奕",
+        "url": "https://zh.wikisource.org/wiki/詩經/韓奕",
         "work": "詩經"
       }
     ]
@@ -121641,6 +123810,28 @@
     ]
   },
   {
+    "slug": "駟驖孔阜",
+    "title": "駟驖孔阜",
+    "summary": "頌秦君田獵車馬之盛。",
+    "tags": [
+      "詩經",
+      "秦襄公",
+      "田獵",
+      "車馬",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "駟驖",
+        "plugin": "wikisource",
+        "title": "詩經 · 駟驖",
+        "url": "https://zh.wikisource.org/wiki/詩經/駟驖",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "駿奔走",
     "title": "駿奔走",
     "summary": "疾馳趨事，不敢怠惰也。",
@@ -122501,6 +124692,26 @@
     ]
   },
   {
+    "slug": "魚在在藻",
+    "title": "魚在在藻",
+    "summary": "以魚樂於藻況王之樂，寓治世之象",
+    "tags": [
+      "詩經",
+      "興象",
+      "魚",
+      "治世"
+    ],
+    "sources": [
+      {
+        "chapter": "魚藻",
+        "plugin": "wikisource",
+        "title": "詩經 · 魚藻",
+        "url": "https://zh.wikisource.org/wiki/詩經/魚藻",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "魚方別孕不敎魚長",
     "title": "魚方別孕不敎魚長",
     "summary": "魚方別孕之時而行網罟，是貪無藝也；當順時取物，不可竭澤。",
@@ -122614,6 +124825,26 @@
     ]
   },
   {
+    "slug": "魚藻",
+    "title": "魚藻",
+    "summary": "刺幽王昏亂，思武王安居之盛也",
+    "tags": [
+      "詩經",
+      "小雅",
+      "刺幽王",
+      "思古"
+    ],
+    "sources": [
+      {
+        "chapter": "魚藻",
+        "plugin": "wikisource",
+        "title": "詩經 · 魚藻",
+        "url": "https://zh.wikisource.org/wiki/詩經/魚藻",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "魚質龍文",
     "title": "魚質龍文",
     "summary": "形似而非，華而不實",
@@ -122672,6 +124903,25 @@
         "title": "荀子 · 法行篇",
         "url": "https://zh.wikisource.org/wiki/荀子/法行篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "魚麗于罶",
+    "title": "魚麗于罶",
+    "summary": "魚入於罶，生物之盛也。",
+    "tags": [
+      "詩經",
+      "魚類",
+      "物產"
+    ],
+    "sources": [
+      {
+        "chapter": "魚麗",
+        "plugin": "wikisource",
+        "title": "詩經 · 魚麗",
+        "url": "https://zh.wikisource.org/wiki/詩經/魚麗",
+        "work": "詩經"
       }
     ]
   },
@@ -124093,7 +126343,9 @@
       "靈臺",
       "音樂",
       "禮樂",
-      "治道"
+      "治道",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -124245,6 +126497,27 @@
         "title": "春秋穀梁傳 · 成公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/成公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "齊亡晉亡",
+    "title": "齊亡晉亡",
+    "summary": "齊以田氏用呂氏弗制而亡，晉以六卿專姬氏弗制而亡。",
+    "tags": [
+      "法家",
+      "史鑒",
+      "韓非子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "孤憤",
+        "plugin": "wikisource",
+        "title": "韓非子 · 孤憤",
+        "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
+        "work": "韓非子"
       }
     ]
   },
