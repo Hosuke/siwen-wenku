@@ -1288,6 +1288,25 @@
     ]
   },
   {
+    "slug": "上勇",
+    "title": "上勇",
+    "summary": "天下有中敢直其身，先王有道敢行其意，是上勇也。",
+    "tags": [
+      "荀子",
+      "勇",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "上客臨",
     "title": "上客臨",
     "summary": "孤降阼階拜之，升堂哭，與客拾踴三者，恩禮之至也。",
@@ -2128,6 +2147,27 @@
     ]
   },
   {
+    "slug": "不思舊姻",
+    "title": "不思舊姻",
+    "summary": "詩人刺夫不念舊日昏姻之情也。",
+    "tags": [
+      "詩經",
+      "昏姻",
+      "刺譏",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "我行其野",
+        "plugin": "wikisource",
+        "title": "詩經 · 我行其野",
+        "url": "https://zh.wikisource.org/wiki/詩經/我行其野",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "不怨天不尤人",
     "title": "不怨天，不尤人",
     "summary": "君子之於得失，歸諸天命，不歸咎於人。",
@@ -2414,6 +2454,44 @@
         "title": "墨子 · 尚同上",
         "url": "https://zh.wikisource.org/wiki/墨子/尚同上",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "不相為",
+    "title": "可以而不可使",
+    "summary": "人有為善之能，未必有為善之志，故可以而不可使。",
+    "tags": [
+      "荀子",
+      "人性",
+      "為"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "不知其子視其友",
+    "title": "不知其子視其友",
+    "summary": "人之賢否，觀其友而可知。",
+    "tags": [
+      "荀子",
+      "觀人",
+      "師友"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
       }
     ]
   },
@@ -2705,7 +2783,9 @@
       "詩經",
       "慎獨",
       "修身",
-      "文王"
+      "文王",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -4095,7 +4175,9 @@
     "tags": [
       "天佑",
       "敬畏",
-      "詩經"
+      "詩經",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -5410,6 +5492,26 @@
     ]
   },
   {
+    "slug": "人情所同欲",
+    "title": "人情所同欲",
+    "summary": "富貴人情之所同欲也，先王制禮義以分之，使各得其宜。",
+    "tags": [
+      "荀子",
+      "人情",
+      "禮義",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "榮辱篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 榮辱篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/榮辱篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "人才需明主",
     "title": "人才需明主",
     "summary": "抱朴子言結綠玄黎需陶猗之市，千鈞之重需賁獲之抱，白雪之弦需靈素之徽，邁倫之才需明主之用。",
@@ -5840,6 +5942,26 @@
         "plugin": "wikisource",
         "title": "荀子 · 君子篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "仁者好告示人",
+    "title": "仁者好告示人",
+    "summary": "仁者樂於告示人，循循善誘，化陋為通。",
+    "tags": [
+      "荀子",
+      "仁",
+      "教育",
+      "聖人"
+    ],
+    "sources": [
+      {
+        "chapter": "榮辱篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 榮辱篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/榮辱篇",
         "work": "荀子"
       }
     ]
@@ -8586,7 +8708,9 @@
     "slug": "來牟",
     "title": "來牟",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "思文",
@@ -9623,6 +9747,45 @@
     ]
   },
   {
+    "slug": "僞",
+    "title": "善者僞也",
+    "summary": "善非天性，乃人為之功也。",
+    "tags": [
+      "荀子",
+      "人性論",
+      "為"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "價人維藩大師維垣",
+    "title": "价人維藩，大師維垣",
+    "summary": "愛民而安，好士而榮，二者亡一焉而亡。",
+    "tags": [
+      "治國",
+      "愛民",
+      "尊賢",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "儉德辟難不可榮以祿",
     "title": "儉德辟難不可榮以祿",
     "summary": "君子以儉約之德避患難，不可以祿位為榮",
@@ -10492,6 +10655,28 @@
         "title": "抱朴子 · 卷17",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "入秦何見",
+    "title": "入秦何見",
+    "summary": "荀卿入秦，見俗樸、官肅、士公，治之至也；然無儒，終不及王者。",
+    "tags": [
+      "治國",
+      "秦",
+      "儒",
+      "荀子",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
       }
     ]
   },
@@ -12453,6 +12638,25 @@
     ]
   },
   {
+    "slug": "凡人有一同",
+    "title": "凡人有一同",
+    "summary": "凡人之所欲、所知、所為，堯舜桀跖所同也，差異在於注錯習俗。",
+    "tags": [
+      "荀子",
+      "人性",
+      "共通性"
+    ],
+    "sources": [
+      {
+        "chapter": "榮辱篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 榮辱篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/榮辱篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "凡人自得罪",
     "title": "凡人自得罪",
     "summary": "人皆自取其罪，非天之所加，善惡之報在己而不在命。",
@@ -12725,7 +12929,9 @@
       "齊家",
       "德治",
       "文王",
-      "修身"
+      "修身",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -12839,6 +13045,26 @@
         "plugin": "wikisource",
         "title": "荀子 · 君子篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "刑范正金錫美",
+    "title": "刑范正，金錫美",
+    "summary": "治國如冶劍，必有砥厲之功；國家之砥厲，在禮義節奏。",
+    "tags": [
+      "治國",
+      "治道",
+      "禮義",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
         "work": "荀子"
       }
     ]
@@ -13627,6 +13853,27 @@
         "title": "墨子 · 非命中",
         "url": "https://zh.wikisource.org/wiki/墨子/非命中",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "力術止義術行",
+    "title": "力術止，義術行",
+    "summary": "秦威彊廣大而憂患不可勝校，在於專用力術而不用義術。",
+    "tags": [
+      "治國",
+      "秦",
+      "義",
+      "力",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
       }
     ]
   },
@@ -15175,7 +15422,10 @@
     "title": "厚下安宅",
     "summary": "厚待下民，乃獲安寧；剝世之時，上不可以剝下。",
     "tags": [
-      "部:其他"
+      "部:其他",
+      "荀子",
+      "治道",
+      "愛民"
     ],
     "sources": [
       {
@@ -15191,6 +15441,13 @@
         "title": "史記 · 卷023",
         "url": "https://zh.wikisource.org/wiki/史記/卷023",
         "work": "史記"
+      },
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
       }
     ]
   },
@@ -16100,6 +16357,26 @@
     ]
   },
   {
+    "slug": "口腹安知禮義",
+    "title": "口腹安知禮義",
+    "summary": "人無師法，口腹之欲蔽之，猶芻豢稻粱之於未嘗睹者。",
+    "tags": [
+      "荀子",
+      "人性",
+      "師法",
+      "慾望"
+    ],
+    "sources": [
+      {
+        "chapter": "榮辱篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 榮辱篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/榮辱篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "口言之身必行之",
     "title": "口言之身必行之",
     "summary": "治國者必言行一致；若口言之而身不行，則是自亂其身，何以治人。",
@@ -16137,7 +16414,9 @@
       "詩經",
       "聖人",
       "勤勉",
-      "育人"
+      "育人",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -16313,6 +16592,25 @@
         "title": "史記 · 卷004",
         "url": "https://zh.wikisource.org/wiki/史記/卷004",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "可以為未必能",
+    "title": "可以為而未必能",
+    "summary": "人有知善之質，未必皆有為善之實。",
+    "tags": [
+      "荀子",
+      "為學",
+      "知行"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
       }
     ]
   },
@@ -16894,7 +17192,9 @@
     "slug": "后稷",
     "title": "后稷",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "思文",
@@ -16913,7 +17213,9 @@
       "后稷",
       "祭天",
       "配享",
-      "詩經"
+      "詩經",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -17588,6 +17890,27 @@
         "title": "韓非子 · 二柄",
         "url": "https://zh.wikisource.org/wiki/韓非子/二柄",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "君論有五",
+    "title": "君論有五",
+    "summary": "治國之要有五法：約明、任賢、禁淫、守分、納謀。",
+    "tags": [
+      "荀子",
+      "治道",
+      "治國",
+      "成相篇",
+      "五法"
+    ],
+    "sources": [
+      {
+        "chapter": "成相篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 成相篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/成相篇",
+        "work": "荀子"
       }
     ]
   },
@@ -19447,6 +19770,25 @@
     ]
   },
   {
+    "slug": "問者",
+    "title": "問者",
+    "summary": "設問以闡性惡之旨問答之體。",
+    "tags": [
+      "荀子",
+      "文體",
+      "問答"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "問者抑然",
     "title": "問者抑然",
     "summary": "詰難者啞口無言，終悟立言者不以產業汙和。",
@@ -19640,6 +19982,25 @@
     ]
   },
   {
+    "slug": "善惡之分",
+    "title": "善與惡之分",
+    "summary": "善者正理平治，惡者偏險悖亂。",
+    "tags": [
+      "荀子",
+      "善惡觀",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "善攝生者",
     "title": "善攝生者",
     "summary": "養生以不傷為本，善攝生者當調利筋骨、杜疾閑邪、忍怒抑喜、節宣勞逸。",
@@ -19827,6 +20188,44 @@
         "plugin": "wikisource",
         "title": "荀子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/荀子/仲尼篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "善言古者必有節於今",
+    "title": "善言古者必有節於今",
+    "summary": "論古之說，必有驗於今，方為可用。",
+    "tags": [
+      "荀子",
+      "論說",
+      "方法"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "善言煖人傷言深戟",
+    "title": "善言煖人　傷言深戟",
+    "summary": "善言溫暖勝於布帛，傷人之言深於矛戟。",
+    "tags": [
+      "荀子",
+      "言辭",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "榮辱篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 榮辱篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/榮辱篇",
         "work": "荀子"
       }
     ]
@@ -20353,6 +20752,25 @@
         "title": "禮記 · 明堂位",
         "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "四勇之分",
+    "title": "四勇之分",
+    "summary": "勇有四等：狗彘之勇、賈盜之勇、小人之勇、士君子之勇。",
+    "tags": [
+      "荀子",
+      "勇德",
+      "人品"
+    ],
+    "sources": [
+      {
+        "chapter": "榮辱篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 榮辱篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/榮辱篇",
+        "work": "荀子"
       }
     ]
   },
@@ -22144,6 +22562,26 @@
     ]
   },
   {
+    "slug": "堂上不糞",
+    "title": "堂上不糞",
+    "summary": "治事當先後有序，急務不可緩，緩務不可急。",
+    "tags": [
+      "治道",
+      "緩急",
+      "理事",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "堅齒之道",
     "title": "堅齒之道",
     "summary": "述固齒護齒諸方。",
@@ -22222,6 +22660,45 @@
     ]
   },
   {
+    "slug": "堯禹非生而具",
+    "title": "堯禹非生而具",
+    "summary": "堯舜非天生聖人，起於變故，成乎修為，待盡而後備。",
+    "tags": [
+      "荀子",
+      "聖人",
+      "修為",
+      "堯舜"
+    ],
+    "sources": [
+      {
+        "chapter": "榮辱篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 榮辱篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/榮辱篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "堯舜之問",
+    "title": "舜問於堯人情何如",
+    "summary": "聖賢知人情之不美，而必以禮義化之。",
+    "tags": [
+      "荀子",
+      "人情",
+      "聖賢"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "堯舜之治",
     "title": "堯舜之治",
     "summary": "帝堯治世，薄己厚民，躬行節儉，任賢去姦，天下富樂而民戴之如日月。",
@@ -22239,6 +22716,25 @@
         "title": "六韜",
         "url": "https://zh.wikisource.org/wiki/六韜",
         "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "堯舜之與桀跖其性一也",
+    "title": "堯舜之與桀跖，其性一也",
+    "summary": "聖凡善惡之別，不在性之分，而在為之積。",
+    "tags": [
+      "荀子",
+      "人性論",
+      "聖凡"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
       }
     ]
   },
@@ -22461,6 +22957,32 @@
     ]
   },
   {
+    "slug": "塗之人可以為禹",
+    "title": "塗之人可以為禹",
+    "summary": "凡塗巷之人，皆有知仁義法正之質，皆可積善而成聖。",
+    "tags": [
+      "荀子",
+      "為學",
+      "成聖"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      },
+      {
+        "chapter": "榮辱篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 榮辱篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/榮辱篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "塗之人百姓積善而全盡",
     "title": "塗之人百姓積善而全盡",
     "summary": "塗巷之人積善至於全盡，則為聖人。",
@@ -22473,6 +22995,25 @@
         "plugin": "wikisource",
         "title": "荀子 · 儒效篇",
         "url": "https://zh.wikisource.org/wiki/荀子/儒效篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "塗之人能為禹則未必然",
+    "title": "塗之人能為禹則未必然",
+    "summary": "可為者理也，能為者行也，知行不相若。",
+    "tags": [
+      "荀子",
+      "知行",
+      "為學"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
         "work": "荀子"
       }
     ]
@@ -22717,7 +23258,10 @@
       "君子",
       "聖人",
       "部:子",
-      "部:子/儒家類"
+      "部:子/儒家類",
+      "荀子",
+      "師友",
+      "德藝"
     ],
     "sources": [
       {
@@ -22732,6 +23276,13 @@
         "plugin": "wikisource",
         "title": "荀子 · 修身篇",
         "url": "https://zh.wikisource.org/wiki/荀子/修身篇",
+        "work": "荀子"
+      },
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
         "work": "荀子"
       }
     ]
@@ -26099,6 +26650,26 @@
     ]
   },
   {
+    "slug": "女主亂之宮",
+    "title": "女主亂之宮",
+    "summary": "治國失道，則女主、詐臣、貪吏、爭民迭起為亂。",
+    "tags": [
+      "治國",
+      "亂政",
+      "姦邪",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "女主稱制",
     "title": "女主稱制",
     "summary": "太后以女子臨朝，代行天子之令。",
@@ -26702,6 +27273,26 @@
     ]
   },
   {
+    "slug": "姦人之所以起",
+    "title": "姦人之所以起",
+    "summary": "姦人之所以起，以上不貴義、不敬義也。",
+    "tags": [
+      "治國",
+      "姦邪",
+      "義",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "姦偽道士之弊",
     "title": "姦偽道士之弊",
     "summary": "姦偽道士欺世盜名，誤人功業，必受天殃",
@@ -26940,6 +27531,27 @@
         "title": "周易 · 家人",
         "url": "https://zh.wikisource.org/wiki/周易/家人",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "威有三",
+    "title": "威有三",
+    "summary": "威分三等：道德之威成安彊，暴察之威成危弱，狂妄之威成滅亡。",
+    "tags": [
+      "治國",
+      "威權",
+      "荀子",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
       }
     ]
   },
@@ -27349,6 +27961,27 @@
         "title": "國語 · 卷05",
         "url": "https://zh.wikisource.org/wiki/國語/卷05",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "子發辭賞",
+    "title": "子發辭賞",
+    "summary": "辭賞固，讓功於主，申尚賢使能賞有功之義。",
+    "tags": [
+      "臣道",
+      "賞罰",
+      "尚賢",
+      "部:子",
+      "部:子/墨家類"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
       }
     ]
   },
@@ -28040,6 +28673,25 @@
     ]
   },
   {
+    "slug": "孟子之言性善",
+    "title": "孟子言性善",
+    "summary": "荀子駁孟子性善之說，謂其不及知性與僞之分。",
+    "tags": [
+      "荀子",
+      "孟子",
+      "人性論"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "季冶致祿",
     "title": "季冶致祿",
     "summary": "季冶追卞人而歸其祿，以為受欺君之祿而立其朝，非所能事。",
@@ -28124,6 +28776,28 @@
         "title": "春秋穀梁傳 · 閔公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/閔公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "孫卿子說齊相",
+    "title": "孫卿子說齊相",
+    "summary": "稱湯武以諷齊，陳得人之道在禮義，不在權謀。",
+    "tags": [
+      "治國",
+      "湯武",
+      "齊",
+      "荀子",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
       }
     ]
   },
@@ -30641,7 +31315,8 @@
       "詩經",
       "教化",
       "後學",
-      "育才"
+      "育才",
+      "部:子"
     ],
     "sources": [
       {
@@ -31916,6 +32591,27 @@
     ]
   },
   {
+    "slug": "巨楚縣吾前",
+    "title": "巨楚縣吾前",
+    "summary": "齊處四戰之地，強敵環伺，若不修義，國必分裂。",
+    "tags": [
+      "治國",
+      "齊",
+      "外交",
+      "危局",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "巨鹿之戰",
     "title": "巨鹿之戰",
     "summary": "項羽破釜沈舟，大破秦軍，諸侯膝行而屬。",
@@ -32073,7 +32769,9 @@
       "天命",
       "后稷",
       "率育",
-      "詩經"
+      "詩經",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -32456,6 +33154,25 @@
         "title": "春秋穀梁傳 · 僖公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "師法之化",
+    "title": "師法之化",
+    "summary": "性惡之人，必待師法之教化而後正。",
+    "tags": [
+      "荀子",
+      "教化",
+      "師法"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
       }
     ]
   },
@@ -34329,6 +35046,26 @@
     ]
   },
   {
+    "slug": "德輶如毛",
+    "title": "德輶如毛",
+    "summary": "積微致著，小善積累，終成大德。",
+    "tags": [
+      "德行",
+      "積漸",
+      "修身",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "德音與溺音",
     "title": "德音與溺音",
     "summary": "",
@@ -34746,7 +35483,9 @@
       "大雅",
       "文王",
       "齊家",
-      "教化"
+      "教化",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -34755,6 +35494,25 @@
         "title": "詩經 · 思齊",
         "url": "https://zh.wikisource.org/wiki/詩經/思齊",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "性之品",
+    "title": "性之品有三",
+    "summary": "韓愈言性三品，荀子則言性本惡而可化為善。",
+    "tags": [
+      "儒學",
+      "人性論",
+      "品級"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
       }
     ]
   },
@@ -34777,6 +35535,63 @@
         "title": "孟子 · 滕文公上",
         "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "性惡",
+    "title": "人之性惡",
+    "summary": "荀子以為人性本惡，善者皆由人為也。",
+    "tags": [
+      "荀子",
+      "人性論",
+      "性惡說"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "性與僞之分",
+    "title": "性與僞之分",
+    "summary": "性者天就，不可學事；僞者人為，可學而成。",
+    "tags": [
+      "荀子",
+      "人性論",
+      "為"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "怨人者窮怨天者無志",
+    "title": "怨人者窮　怨天者無志",
+    "summary": "自知者不怨人，知命者不怨天；失之己而反之人，不亦迂乎。",
+    "tags": [
+      "荀子",
+      "修身",
+      "命運觀"
+    ],
+    "sources": [
+      {
+        "chapter": "榮辱篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 榮辱篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/榮辱篇",
+        "work": "荀子"
       }
     ]
   },
@@ -34907,6 +35722,25 @@
         "title": "抱朴子 · 卷24",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷24",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "恭儉偋五兵",
+    "title": "恭儉偋五兵",
+    "summary": "恭謹節儉之德，勝於戈矛之利。",
+    "tags": [
+      "荀子",
+      "德行",
+      "修養"
+    ],
+    "sources": [
+      {
+        "chapter": "榮辱篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 榮辱篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/榮辱篇",
+        "work": "荀子"
       }
     ]
   },
@@ -35043,6 +35877,25 @@
         "title": "國語 · 卷13",
         "url": "https://zh.wikisource.org/wiki/國語/卷13",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "情之品",
+    "title": "情之品有三",
+    "summary": "情之感於物而生，亦有品級之別。",
+    "tags": [
+      "儒學",
+      "性情",
+      "品級"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
       }
     ]
   },
@@ -35794,6 +36647,27 @@
     ]
   },
   {
+    "slug": "成不以富亦祇以異",
+    "title": "成不以富亦祇以異",
+    "summary": "詩人言夫之變心，非因利也，特以情異耳。",
+    "tags": [
+      "詩經",
+      "昏姻",
+      "性情",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "我行其野",
+        "plugin": "wikisource",
+        "title": "詩經 · 我行其野",
+        "url": "https://zh.wikisource.org/wiki/詩經/我行其野",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "成人之道",
     "title": "成人之道",
     "summary": "",
@@ -35960,6 +36834,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 兔爰",
         "url": "https://zh.wikisource.org/wiki/詩經/兔爰",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "我行其野",
+    "title": "我行其野",
+    "summary": "詩人遠行于野，被婚所弃，歸故邦而自悼也。",
+    "tags": [
+      "詩經",
+      "棄歸",
+      "昏姻",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "我行其野",
+        "plugin": "wikisource",
+        "title": "詩經 · 我行其野",
+        "url": "https://zh.wikisource.org/wiki/詩經/我行其野",
         "work": "詩經"
       }
     ]
@@ -39291,10 +40186,11 @@
       "天文",
       "心宿",
       "明堂",
-      "部:其他",
       "禮制",
       "宮室",
-      "詩經"
+      "詩經",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -42079,6 +42975,26 @@
     ]
   },
   {
+    "slug": "材性知能君子小人一",
+    "title": "材性知能君子小人一也",
+    "summary": "材性知能，君子小人稟賦同也，唯所以求之之道異耳。",
+    "tags": [
+      "荀子",
+      "人性",
+      "君子",
+      "小人"
+    ],
+    "sources": [
+      {
+        "chapter": "榮辱篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 榮辱篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/榮辱篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "杓攜龍角",
     "title": "杓攜龍角",
     "summary": "北斗杓連於龍角，角星為天關，黃道所經，七耀所行。",
@@ -42387,6 +43303,25 @@
         "title": "周易 · 大過",
         "url": "https://zh.wikisource.org/wiki/周易/大過",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "枸木待檃栝",
+    "title": "枸木必待檃栝而後直",
+    "summary": "性惡之人必待師法禮義而後善，以況聖王之化。",
+    "tags": [
+      "荀子",
+      "修養",
+      "比喻"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
       }
     ]
   },
@@ -43821,6 +44756,25 @@
         "plugin": "wikisource",
         "title": "荀子 · 不苟篇",
         "url": "https://zh.wikisource.org/wiki/荀子/不苟篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "欲為善者為性惡",
+    "title": "凡人之欲為善者，為性惡也",
+    "summary": "人之欲善，正由性惡而然。",
+    "tags": [
+      "荀子",
+      "人性論",
+      "善惡"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
         "work": "荀子"
       }
     ]
@@ -45344,6 +46298,27 @@
     ]
   },
   {
+    "slug": "求爾新特",
+    "title": "求爾新特",
+    "summary": "詩人言夫別求新配，以喻昏姻之變也。",
+    "tags": [
+      "詩經",
+      "昏姻",
+      "棄歸",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "我行其野",
+        "plugin": "wikisource",
+        "title": "詩經 · 我行其野",
+        "url": "https://zh.wikisource.org/wiki/詩經/我行其野",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "求芝",
     "title": "求芝",
     "summary": "入名山求芝，當用三奇吉門及符籙祭祠之術。",
@@ -46067,7 +47042,10 @@
       "治道",
       "後王",
       "變法",
-      "部:經"
+      "部:經",
+      "荀子",
+      "法後王",
+      "成相篇"
     ],
     "sources": [
       {
@@ -46076,6 +47054,13 @@
         "title": "史記 · 卷015",
         "url": "https://zh.wikisource.org/wiki/史記/卷015",
         "work": "史記"
+      },
+      {
+        "chapter": "成相篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 成相篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/成相篇",
+        "work": "荀子"
       }
     ]
   },
@@ -47968,6 +48953,25 @@
     ]
   },
   {
+    "slug": "為性惡之故",
+    "title": "楻栝之生為枸木，立君上明禮義為性惡",
+    "summary": "器之設以待物，聖王之興以待性惡之人。",
+    "tags": [
+      "荀子",
+      "性惡",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "為此春酒",
     "title": "為此春酒",
     "summary": "仲冬釀酒，春時以介眉壽也。",
@@ -48270,7 +49274,9 @@
     "slug": "烝民",
     "title": "烝民",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "思文",
@@ -48633,7 +49639,9 @@
       "農政",
       "疆界",
       "后稷",
-      "詩經"
+      "詩經",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -49060,6 +50068,27 @@
         "title": "周易 · 家人",
         "url": "https://zh.wikisource.org/wiki/周易/家人",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "爾不我畜",
+    "title": "爾不我畜",
+    "summary": "詩人指斥其夫不畜養己，以寓被弃之怨也。",
+    "tags": [
+      "詩經",
+      "棄歸",
+      "昏姻",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "我行其野",
+        "plugin": "wikisource",
+        "title": "詩經 · 我行其野",
+        "url": "https://zh.wikisource.org/wiki/詩經/我行其野",
+        "work": "詩經"
       }
     ]
   },
@@ -51149,7 +52178,9 @@
     "tags": [
       "天道",
       "敬畏",
-      "詩經"
+      "詩經",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -52320,6 +53351,23 @@
         "title": "抱朴子 · 卷13",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "益地不如益信",
+    "title": "益地不如益信",
+    "summary": "治國在修信，不在廣地。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
       }
     ]
   },
@@ -54377,6 +55425,44 @@
     ]
   },
   {
+    "slug": "禮義生於聖人之僞",
+    "title": "禮義生於聖人之僞",
+    "summary": "聖人積思慮習人為而生禮義，非性中本有。",
+    "tags": [
+      "荀子",
+      "禮義",
+      "聖人"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "禮義積僞",
+    "title": "禮義積僞",
+    "summary": "禮義法度生於聖人之僞，非故生於人之性。",
+    "tags": [
+      "荀子",
+      "禮義",
+      "為"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "禮者人主之所以為羣臣寸尺尋丈檢式",
     "title": "禮者人主之所以為羣臣寸尺尋丈檢式",
     "summary": "禮者，人君度量羣臣之尺度也。",
@@ -55604,6 +56690,26 @@
         "title": "周易 · 升",
         "url": "https://zh.wikisource.org/wiki/周易/升",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "積微",
+    "title": "積微",
+    "summary": "善日者王，善時者霸；補漏者危，大荒者亡。",
+    "tags": [
+      "治國",
+      "積漸",
+      "治道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
       }
     ]
   },
@@ -57446,6 +58552,26 @@
     ]
   },
   {
+    "slug": "義為本信次之",
+    "title": "義為本，信次之",
+    "summary": "治天下以義為本，信次之。",
+    "tags": [
+      "治國",
+      "義",
+      "信",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "彊國篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 彊國篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/彊國篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "義與信和與仁",
     "title": "義與信和與仁",
     "summary": "",
@@ -57928,6 +59054,44 @@
     ]
   },
   {
+    "slug": "聖人之知",
+    "title": "聖人之知",
+    "summary": "聖人之知，多言文而類，終日議其所以，言之千舉萬變而統類一。",
+    "tags": [
+      "荀子",
+      "聖人",
+      "智"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "聖人化性起僞",
+    "title": "聖人化性而起僞",
+    "summary": "聖人之所以異於衆者，在能化其惡性而生禮義。",
+    "tags": [
+      "荀子",
+      "聖人",
+      "化性"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "聖人守此萬物化",
     "title": "聖人守此萬物化",
     "summary": "聖人守靜無為，因其自然之理，則萬物自化。",
@@ -58228,6 +59392,25 @@
     ]
   },
   {
+    "slug": "聖王治性惡",
+    "title": "聖王以人性惡而起治道",
+    "summary": "性惡故需聖王之化、禮義之教、刑罰之禁。",
+    "tags": [
+      "荀子",
+      "治道",
+      "性惡"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "聖王葬埋之法",
     "title": "聖王葬埋之法",
     "summary": "",
@@ -58385,7 +59568,10 @@
       "治國",
       "賢才",
       "禮制",
-      "部:經"
+      "部:經",
+      "荀子",
+      "治道",
+      "賢能"
     ],
     "sources": [
       {
@@ -58394,6 +59580,13 @@
         "title": "抱朴子 · 卷13",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷13",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
       }
     ]
   },
@@ -60396,6 +61589,25 @@
     ]
   },
   {
+    "slug": "良弓待排㯳",
+    "title": "繁弱鉅黍，古之良弓",
+    "summary": "良弓良馬必待人力以成其用，以況人必待師法而後善。",
+    "tags": [
+      "荀子",
+      "比喻",
+      "修養"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "良才遠量",
     "title": "良才遠量無援",
     "summary": "賢才困厄於末世，非才之罪。",
@@ -61956,6 +63168,27 @@
         "title": "抱朴子 · 卷20",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷20",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "蔽芾其樗",
+    "title": "蔽芾其樗",
+    "summary": "詩人于野見樗木之盛，以興己被弃而無所依也。",
+    "tags": [
+      "詩經",
+      "植物",
+      "興象",
+      "部:經",
+      "部:經/易類"
+    ],
+    "sources": [
+      {
+        "chapter": "我行其野",
+        "plugin": "wikisource",
+        "title": "詩經 · 我行其野",
+        "url": "https://zh.wikisource.org/wiki/詩經/我行其野",
+        "work": "詩經"
       }
     ]
   },
@@ -64195,6 +65428,27 @@
     ]
   },
   {
+    "slug": "言歸斯復",
+    "title": "言歸斯復",
+    "summary": "詩人被弃而言歸，終還故土也。",
+    "tags": [
+      "詩經",
+      "棄歸",
+      "歸寧",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "我行其野",
+        "plugin": "wikisource",
+        "title": "詩經 · 我行其野",
+        "url": "https://zh.wikisource.org/wiki/詩經/我行其野",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "言而履之禮",
     "title": "言而履之禮",
     "summary": "言而履之謂之禮，行而樂之謂之樂。",
@@ -64308,6 +65562,48 @@
         "title": "墨子 · 貴義",
         "url": "https://zh.wikisource.org/wiki/墨子/貴義",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "言采其葍",
+    "title": "言采其葍",
+    "summary": "詩人行野採蔬，以喻被弃之後無所恃也。",
+    "tags": [
+      "詩經",
+      "植物",
+      "興象",
+      "部:經",
+      "部:經/易類"
+    ],
+    "sources": [
+      {
+        "chapter": "我行其野",
+        "plugin": "wikisource",
+        "title": "詩經 · 我行其野",
+        "url": "https://zh.wikisource.org/wiki/詩經/我行其野",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "言采其蓫",
+    "title": "言采其蓫",
+    "summary": "詩人被弃，行于野而採蔬，以自給也。",
+    "tags": [
+      "詩經",
+      "植物",
+      "棄婦",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "我行其野",
+        "plugin": "wikisource",
+        "title": "詩經 · 我行其野",
+        "url": "https://zh.wikisource.org/wiki/詩經/我行其野",
+        "work": "詩經"
       }
     ]
   },
@@ -64463,6 +65759,26 @@
         "title": "抱朴子 · 卷15",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "詩書禮樂之分",
+    "title": "詩書禮樂之分",
+    "summary": "《詩》《書》《禮》《樂》，先王之所以為天下大慮，一之而可再也。",
+    "tags": [
+      "荀子",
+      "六經",
+      "教育",
+      "先王之道"
+    ],
+    "sources": [
+      {
+        "chapter": "榮辱篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 榮辱篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/榮辱篇",
+        "work": "荀子"
       }
     ]
   },
@@ -64956,6 +66272,27 @@
     ]
   },
   {
+    "slug": "請成相",
+    "title": "請成相",
+    "summary": "三章之起語，亦結構全篇之綱。",
+    "tags": [
+      "荀子",
+      "成相篇",
+      "結構",
+      "文體",
+      "韻文"
+    ],
+    "sources": [
+      {
+        "chapter": "成相篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 成相篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/成相篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "請者重辭",
     "title": "請者重辭",
     "summary": "請者，人之所以為人，故古之人重之，必親之而後可。",
@@ -65195,7 +66532,9 @@
       "詩經",
       "育人",
       "教化",
-      "賢才"
+      "賢才",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -65672,7 +67011,9 @@
       "後稷",
       "來牟",
       "農事",
-      "詩經"
+      "詩經",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -69121,6 +70462,25 @@
     ]
   },
   {
+    "slug": "選賢師良友",
+    "title": "夫人雖有性質美而心辯知，必將求賢師而事之",
+    "summary": "人之成善，全賴師友之化，居處之習。",
+    "tags": [
+      "荀子",
+      "為學",
+      "師友"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "遺秉滯穗",
     "title": "遺秉滯穗",
     "summary": "收者失拾之穗，利及寡婦",
@@ -70688,6 +72048,25 @@
     ]
   },
   {
+    "slug": "闘者忘身",
+    "title": "闘者忘身",
+    "summary": "闘毆之人，忘身、忘親、忘君，其行連犬豕不如。",
+    "tags": [
+      "荀子",
+      "闘爭",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "榮辱篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 榮辱篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/榮辱篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "阪泉之野",
     "title": "阪泉之野",
     "summary": "黃帝與炎帝三戰之地，黃帝脩德而有其志。",
@@ -71117,7 +72496,9 @@
       "后稷",
       "倫常",
       "夏",
-      "詩經"
+      "詩經",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -71829,7 +73210,9 @@
       "詩經",
       "文王",
       "修身",
-      "敬慎"
+      "敬慎",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -72615,6 +73998,25 @@
     ]
   },
   {
+    "slug": "靡",
+    "title": "靡",
+    "summary": "靡者，漸染薰陶之功，化人之要術也。",
+    "tags": [
+      "荀子",
+      "教化",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "靡事不為",
     "title": "靡事不為",
     "summary": "言事無大小，莫不親力而為。",
@@ -72917,6 +74319,25 @@
         "title": "六韜",
         "url": "https://zh.wikisource.org/wiki/六韜",
         "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "順情性則不辭讓",
+    "title": "順情性則不辭讓，辭讓則悖於情性",
+    "summary": "辭讓非情性所固有，乃反性而行之。",
+    "tags": [
+      "荀子",
+      "情性",
+      "禮義"
+    ],
+    "sources": [
+      {
+        "chapter": "性惡篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 性惡篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+        "work": "荀子"
       }
     ]
   },
