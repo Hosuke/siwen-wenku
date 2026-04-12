@@ -1045,6 +1045,25 @@
     ]
   },
   {
+    "slug": "不期而至",
+    "title": "不期而至",
+    "summary": "遠國不期而至，以見諸侯皆來至也。",
+    "tags": [
+      "穀梁傳",
+      "會盟",
+      "諸侯"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
     "slug": "不測之淵起於汀瀅",
     "title": "不測之淵起於汀瀅",
     "summary": "不測之淵起於汀瀅，喻大道成於微小之積。",
@@ -1160,6 +1179,25 @@
     ]
   },
   {
+    "slug": "不食其言",
+    "title": "不食其言",
+    "summary": "荀息守諾，至死不渝。",
+    "tags": [
+      "信義",
+      "君臣",
+      "僖公"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋公羊傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋公羊傳/僖公",
+        "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
     "slug": "不食嗟來之食",
     "title": "Refusing Contemptuous Charity / 不食嗟來之食",
     "summary": "The story of a starving man who would rather die than accept food offered with disdain, and the Confucian discussion of when dignity requires acceptance or rejection.",
@@ -1185,6 +1223,26 @@
         "title": "禮記 · 檀弓下",
         "url": "https://zh.wikisource.org/wiki/禮記/檀弓下",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "不鼓不成列",
+    "title": "不鼓不成列",
+    "summary": "君子不鼓不成列，臨大事不忘大禮。",
+    "tags": [
+      "戰國",
+      "泓之戰",
+      "宋襄公",
+      "僖公"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋公羊傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋公羊傳/僖公",
+        "work": "春秋公羊傳"
       }
     ]
   },
@@ -1626,7 +1684,8 @@
     "tags": [
       "韓非",
       "賞罰",
-      "君術"
+      "君術",
+      "部:子"
     ],
     "sources": [
       {
@@ -1853,7 +1912,8 @@
       "制度",
       "禮制",
       "封建",
-      "先王"
+      "先王",
+      "部:經"
     ],
     "sources": [
       {
@@ -2323,6 +2383,25 @@
     ]
   },
   {
+    "slug": "仁不勝道",
+    "title": "仁不勝道",
+    "summary": "仁義不足以奪道之正，齊侯專封不可以稱仁。",
+    "tags": [
+      "穀梁傳",
+      "仁義",
+      "書法"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
     "slug": "仁之難成",
     "title": "仁之難成 / The Difficulty of Perfecting Benevolence",
     "summary": "Confucius's lament that true benevolence is rare and difficult to achieve, yet remains the highest human virtue worth pursuing throughout one's life.",
@@ -2567,6 +2646,25 @@
         "title": "抱朴子 · 卷13",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "以伐楚致",
+    "title": "以伐楚致",
+    "summary": "以伐楚致，不以救許致，以其大伐楚也。",
+    "tags": [
+      "穀梁傳",
+      "書法",
+      "會盟"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
       }
     ]
   },
@@ -2863,7 +2961,8 @@
       "治道",
       "人口",
       "仲山父",
-      "幽王"
+      "幽王",
+      "部:子"
     ],
     "sources": [
       {
@@ -2883,7 +2982,8 @@
       "治道",
       "封建",
       "仲山父",
-      "厲王"
+      "厲王",
+      "部:子"
     ],
     "sources": [
       {
@@ -4071,7 +4171,8 @@
       "霸政",
       "治道",
       "內史興",
-      "晉文公"
+      "晉文公",
+      "部:史"
     ],
     "sources": [
       {
@@ -4091,7 +4192,8 @@
       "治道",
       "禮儀",
       "內史過",
-      "晉"
+      "晉",
+      "部:史"
     ],
     "sources": [
       {
@@ -4111,7 +4213,8 @@
       "天命",
       "神道",
       "內史過",
-      "治道"
+      "治道",
+      "部:史"
     ],
     "sources": [
       {
@@ -4218,7 +4321,8 @@
     "tags": [
       "韓非",
       "防姦",
-      "臣道"
+      "臣道",
+      "部:子"
     ],
     "sources": [
       {
@@ -5301,6 +5405,26 @@
     ]
   },
   {
+    "slug": "匹馬隻輪無反",
+    "title": "匹馬隻輪無反",
+    "summary": "師敗殆盡，無一騎返。",
+    "tags": [
+      "兵敗",
+      "殽之戰",
+      "秦師",
+      "僖公"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋公羊傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋公羊傳/僖公",
+        "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
     "slug": "匿一人者猶有罪",
     "title": "匿一人者猶有罪 / The Sin of Concealing Virtue",
     "summary": "善行不傳與善人不出，皆為有罪；匿善之害甚於匿人之過，當弘揚善道以為世勸。",
@@ -5461,6 +5585,26 @@
     ]
   },
   {
+    "slug": "卜郊非禮",
+    "title": "卜郊非禮",
+    "summary": "卜郊非古，魯郊亦非禮。",
+    "tags": [
+      "禮制",
+      "卜筮",
+      "郊祭",
+      "僖公"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋公羊傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋公羊傳/僖公",
+        "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
     "slug": "占候知來",
     "title": "占候知來",
     "summary": "述帷幄之內先知吉凶諸術。",
@@ -5478,6 +5622,25 @@
         "title": "抱朴子 · 卷15",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "卿大夫日卒",
+    "title": "卿大夫日卒",
+    "summary": "大夫日卒，正也；稱公弟叔仲，賢也。",
+    "tags": [
+      "穀梁傳",
+      "喪禮",
+      "書法"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
       }
     ]
   },
@@ -6086,6 +6249,25 @@
     ]
   },
   {
+    "slug": "君子閔之",
+    "title": "君子閔之也",
+    "summary": "楚滅江黃，桓公不能救，君子閔之。",
+    "tags": [
+      "穀梁傳",
+      "齊桓公",
+      "褒貶"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
     "slug": "君臣",
     "title": "君臣",
     "summary": "君尊令行、法制明則民畏；緣法賞功則軍士死節",
@@ -6586,6 +6768,35 @@
     ]
   },
   {
+    "slug": "唇亡則齒寒",
+    "title": "唇亡則齒寒",
+    "summary": "虞虢相救，乃唇齒相依之喻；一亡則俱亡。",
+    "tags": [
+      "比喻",
+      "外交",
+      "穀梁傳",
+      "虞國",
+      "郭國",
+      "僖公"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      },
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋公羊傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋公羊傳/僖公",
+        "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
     "slug": "商人之四方",
     "title": "Merchants Travel for Profit While Scholars Neglect Righteousness / 商人之四方",
     "summary": "Mozi criticizes scholars who fail to practice righteousness despite having no obstacles, unlike merchants who brave dangers for profit.",
@@ -6668,6 +6879,44 @@
         "title": "禮記 · 少儀",
         "url": "https://zh.wikisource.org/wiki/禮記/少儀",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "問田",
+    "title": "問田",
+    "summary": "記田鳩與堂谿公之問對，論仁義不可為法。",
+    "tags": [
+      "法家",
+      "仁義批判",
+      "韓非子"
+    ],
+    "sources": [
+      {
+        "chapter": "17",
+        "plugin": "wikisource",
+        "title": "韓非子 · 17",
+        "url": "https://zh.wikisource.org/wiki/韓非子/17",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "問辯",
+    "title": "問辯",
+    "summary": "論言從而行、行從而言之理，以明言行不可飾。",
+    "tags": [
+      "法家",
+      "名實",
+      "韓非子"
+    ],
+    "sources": [
+      {
+        "chapter": "17",
+        "plugin": "wikisource",
+        "title": "韓非子 · 17",
+        "url": "https://zh.wikisource.org/wiki/韓非子/17",
+        "work": "韓非子"
       }
     ]
   },
@@ -6774,6 +7023,25 @@
         "title": "抱朴子 · 卷13",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "善救",
+    "title": "善救",
+    "summary": "諸侯救許、救齊，《穀梁》皆善之。",
+    "tags": [
+      "穀梁傳",
+      "褒貶",
+      "征伐"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
       }
     ]
   },
@@ -8747,6 +9015,25 @@
     ]
   },
   {
+    "slug": "天王崩",
+    "title": "天王崩",
+    "summary": "天子曰崩，諸侯曰薨，禮有等差。",
+    "tags": [
+      "穀梁傳",
+      "喪禮",
+      "天子"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
     "slug": "天賊",
     "title": "Tianzei (Heavenly Outcast) / 天賊",
     "summary": "A Mozi concept denoting those who oppose Heaven's will and practice discrimination, resulting in Heaven's punishment.",
@@ -8878,6 +9165,25 @@
         "title": "墨子 · 親士",
         "url": "https://zh.wikisource.org/wiki/墨子/親士",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "夫人薨不地",
+    "title": "夫人薨不地",
+    "summary": "夫人薨於夷，不地者，為變故之地故也。",
+    "tags": [
+      "穀梁傳",
+      "喪禮",
+      "書法"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
       }
     ]
   },
@@ -9855,6 +10161,25 @@
     ]
   },
   {
+    "slug": "定法",
+    "title": "定法",
+    "summary": "定法術之分，明公私之辨，申公法以禁私行。",
+    "tags": [
+      "法家",
+      "法治",
+      "韓非子"
+    ],
+    "sources": [
+      {
+        "chapter": "17",
+        "plugin": "wikisource",
+        "title": "韓非子 · 17",
+        "url": "https://zh.wikisource.org/wiki/韓非子/17",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "定爵",
     "title": "定爵",
     "summary": "戰前定爵位、申教令、治軍紀，以七政四守為法。",
@@ -10328,7 +10653,8 @@
     "tags": [
       "修身",
       "警戒",
-      "密康公母"
+      "密康公母",
+      "部:其他"
     ],
     "sources": [
       {
@@ -10518,7 +10844,8 @@
       "天象",
       "預兆",
       "伯陽父",
-      "周"
+      "周",
+      "部:其他"
     ],
     "sources": [
       {
@@ -10644,6 +10971,25 @@
         "title": "禮記 · 文王世子",
         "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "師救齊",
+    "title": "師救齊",
+    "summary": "師救齊、狄救齊，皆善之。",
+    "tags": [
+      "穀梁傳",
+      "征伐",
+      "褒美"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
       }
     ]
   },
@@ -11127,6 +11473,25 @@
         "title": "孟子 · 公孫丑上",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "德厚者流光",
+    "title": "德厚者流光",
+    "summary": "德厚者廟祀遠播，德薄者廟祀淺近。",
+    "tags": [
+      "穀梁傳",
+      "德行",
+      "宗廟"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
       }
     ]
   },
@@ -11691,7 +12056,8 @@
     "tags": [
       "韓非",
       "君權",
-      "馭臣"
+      "馭臣",
+      "部:子"
     ],
     "sources": [
       {
@@ -12839,7 +13205,8 @@
     "tags": [
       "韓非",
       "法家",
-      "治國"
+      "治國",
+      "部:子"
     ],
     "sources": [
       {
@@ -13267,6 +13634,25 @@
     ]
   },
   {
+    "slug": "梁亡自亡",
+    "title": "梁亡，自亡也",
+    "summary": "梁亡乃自取滅亡，非有外力加之。",
+    "tags": [
+      "亡國",
+      "穀梁傳",
+      "評議"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
     "slug": "梓匠規矩",
     "title": "Craftsman's Rules / 梓匠輪輿能與人規矩",
     "summary": "Mencius uses the analogy of craftsmen sharing tools but not skill, to illustrate that moral instruction provides principles but cannot transmit virtue.",
@@ -13470,6 +13856,25 @@
     ]
   },
   {
+    "slug": "正名而已",
+    "title": "正名而已矣",
+    "summary": "梁亡之責，在己不在人；直書其實，正名分而已。",
+    "tags": [
+      "正名",
+      "穀梁傳",
+      "書法"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
     "slug": "正心",
     "title": "正心",
     "summary": "去喜怒哀樂之偏，使心有所主而不蔽",
@@ -13595,6 +14000,26 @@
         "title": "墨子 · 七患",
         "url": "https://zh.wikisource.org/wiki/墨子/七患",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "歸之于",
+    "title": "歸之于",
+    "summary": "歸于者罪未定，歸之于者罪已定。",
+    "tags": [
+      "司法",
+      "執法",
+      "諸侯",
+      "僖公"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋公羊傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋公羊傳/僖公",
+        "work": "春秋公羊傳"
       }
     ]
   },
@@ -13918,7 +14343,8 @@
       "民本",
       "地理",
       "伯陽父",
-      "治道"
+      "治道",
+      "部:史"
     ],
     "sources": [
       {
@@ -14074,6 +14500,25 @@
         "title": "抱朴子 · 卷17",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "沙鹿崩",
+    "title": "沙鹿崩",
+    "summary": "沙鹿崩，志其變也，重之也。",
+    "tags": [
+      "穀梁傳",
+      "災異",
+      "書法"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
       }
     ]
   },
@@ -14642,6 +15087,25 @@
     ]
   },
   {
+    "slug": "潰之為言",
+    "title": "潰之為言，上下不相得也",
+    "summary": "蔡潰者，上下離心不相親附之謂。",
+    "tags": [
+      "書法",
+      "穀梁傳",
+      "潰亂"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
     "slug": "澡身浴德",
     "title": "澡身而浴德",
     "summary": "儒者以清水沐浴身體，以道義沐浴心德，滌除尘垢，以待清明。",
@@ -14816,6 +15280,25 @@
         "title": "禮記 · 三年問",
         "url": "https://zh.wikisource.org/wiki/禮記/三年問",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "為賢者諱",
+    "title": "為賢者諱也",
+    "summary": "賢者有功，雖有小過，聖人為之隱諱。",
+    "tags": [
+      "書法",
+      "穀梁傳",
+      "褒貶"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
       }
     ]
   },
@@ -15581,6 +16064,25 @@
         "title": "墨子 · 尚賢下",
         "url": "https://zh.wikisource.org/wiki/墨子/尚賢下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "疑戰而曰敗",
+    "title": "疑戰而曰敗",
+    "summary": "疑戰而書敗，以見內中國之義。",
+    "tags": [
+      "穀梁傳",
+      "書法",
+      "征伐"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
       }
     ]
   },
@@ -16883,7 +17385,8 @@
       "孝道",
       "修身",
       "穆仲",
-      "宣王"
+      "宣王",
+      "部:子"
     ],
     "sources": [
       {
@@ -17315,6 +17818,25 @@
     ]
   },
   {
+    "slug": "美齊侯之功",
+    "title": "美齊侯之功",
+    "summary": "城邢之役，美化齊桓存亡繼絕之功。",
+    "tags": [
+      "齊桓公",
+      "穀梁傳",
+      "褒美"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
     "slug": "義-儒學-之",
     "title": "義-儒學-之",
     "summary": "The user asks: \"Write a one-line summary for this article:\" The article is about the concept of \"義\" (righteousness) in Confucian and Mohist thought, with excerpts from Mencius and Mozi, discussing how righteousness is more valuable than everything else, referencing the significance of the word \"義\" and its role in moral conduct and governance, and how the Mohist view includes \"兼愛\" (impartial care). The article includes Chinese and Japanese translations.\n\nWe need to produce a one-line summary (i.e., a succinct sentence that captures the gist). Should be short but comprehensive. The article compares Confucian and Mohist perspectives on righteousness, highlighting its supreme value, and emphasizing that acting for the greater good and for the sake of the world is the highest ideal.\n\nWe need to be mindful that the user is speaking Chinese, the article is in Chinese with some Japanese. Likely the answer should be in Chinese, or could be bilingual. The user wrote the article in Chinese and Japanese. We should produce a concise one-sentence summary in Chinese.\n\nThus: \"Both Confucian and Mohist thinkers regard righteousness (義) as the supreme virtue, outweighing personal gain and even life, and they emphasize that pursuing righteousness for the benefit of the world",
@@ -17486,7 +18008,8 @@
       "治道",
       "德治",
       "兵戎",
-      "先王"
+      "先王",
+      "部:子"
     ],
     "sources": [
       {
@@ -18752,7 +19275,8 @@
       "治道",
       "理財",
       "厲王",
-      "榮夷公"
+      "榮夷公",
+      "部:子"
     ],
     "sources": [
       {
@@ -18879,7 +19403,8 @@
       "外交",
       "五服",
       "諸侯",
-      "朝聘"
+      "朝聘",
+      "部:其他"
     ],
     "sources": [
       {
@@ -19142,6 +19667,25 @@
         "title": "墨子 · 節葬下",
         "url": "https://zh.wikisource.org/wiki/墨子/節葬下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "葵丘之盟",
+    "title": "葵丘之盟",
+    "summary": "葵丘之盟，美桓公能明天子之禁。",
+    "tags": [
+      "葵丘",
+      "齊桓公",
+      "穀梁傳"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
       }
     ]
   },
@@ -19837,6 +20381,25 @@
     ]
   },
   {
+    "slug": "言次非救",
+    "title": "言次非救也",
+    "summary": "救邢之師，當書「救」，不當書「次」。",
+    "tags": [
+      "書法",
+      "穀梁傳",
+      "征伐"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
     "slug": "言而履之禮",
     "title": "言而履之禮",
     "summary": "言而履之謂之禮，行而樂之謂之樂。",
@@ -19961,6 +20524,25 @@
         "title": "商君書 · 卷一",
         "url": "https://zh.wikisource.org/wiki/商君書/卷一",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "詭使",
+    "title": "詭使",
+    "summary": "詭所施之使，明賞罰之所以行，以詰名實之所歸。",
+    "tags": [
+      "法家",
+      "統治術",
+      "韓非子"
+    ],
+    "sources": [
+      {
+        "chapter": "17",
+        "plugin": "wikisource",
+        "title": "韓非子 · 17",
+        "url": "https://zh.wikisource.org/wiki/韓非子/17",
+        "work": "韓非子"
       }
     ]
   },
@@ -20132,6 +20714,25 @@
         "title": "商君書 · 卷五",
         "url": "https://zh.wikisource.org/wiki/商君書/卷五",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "說疑",
+    "title": "說疑",
+    "summary": "說姦臣之姦狀，明八姦之目，以清君側之姦。",
+    "tags": [
+      "法家",
+      "姦臣",
+      "韓非子"
+    ],
+    "sources": [
+      {
+        "chapter": "17",
+        "plugin": "wikisource",
+        "title": "韓非子 · 17",
+        "url": "https://zh.wikisource.org/wiki/韓非子/17",
+        "work": "韓非子"
       }
     ]
   },
@@ -21391,6 +21992,21 @@
     ]
   },
   {
+    "slug": "遂繼事",
+    "title": "遂，繼事也",
+    "summary": "遂者，承前事而繼行之辭。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
     "slug": "遇會聘誓盟",
     "title": "Diplomatic Meeting Categories / 遇會聘誓盟——諸侯外交會見之制",
     "summary": "The five categories of inter-state diplomatic engagements in Zhou ritual protocol: ad hoc meetings, scheduled assemblies, envoys, oaths, and covenants.",
@@ -21580,7 +22196,8 @@
       "忠義",
       "邵公",
       "宣王",
-      "犧牲"
+      "犧牲",
+      "部:子"
     ],
     "sources": [
       {
@@ -21624,7 +22241,8 @@
       "春秋",
       "鄭國",
       "惠王",
-      "內亂"
+      "內亂",
+      "部:經"
     ],
     "sources": [
       {
@@ -22030,6 +22648,25 @@
     ]
   },
   {
+    "slug": "閔雨",
+    "title": "閔雨",
+    "summary": "閔雨者，有志乎民者也。",
+    "tags": [
+      "穀梁傳",
+      "民本",
+      "詞義"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
     "slug": "防民之口甚於防川",
     "title": "防民之口甚於防川",
     "summary": "阻塞民言為害甚於防堵河流",
@@ -22037,7 +22674,8 @@
       "治道",
       "民本",
       "諫諍",
-      "邵公"
+      "邵公",
+      "部:子"
     ],
     "sources": [
       {
@@ -22155,6 +22793,25 @@
     ]
   },
   {
+    "slug": "隕石于宋",
+    "title": "隕石于宋",
+    "summary": "隕石，先隕而後石，經先數而後物。",
+    "tags": [
+      "穀梁傳",
+      "天象",
+      "書法"
+    ],
+    "sources": [
+      {
+        "chapter": "僖公",
+        "plugin": "wikisource",
+        "title": "春秋穀梁傳 · 僖公",
+        "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
+        "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
     "slug": "隱淪之道",
     "title": "隱淪之道",
     "summary": "述神隱變化諸術。",
@@ -22195,6 +22852,25 @@
         "title": "抱朴子 · 卷11",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷11",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "難勢",
+    "title": "難勢",
+    "summary": "論勢之難兼，申慎子之說，以破兼堯之說。",
+    "tags": [
+      "法家",
+      "政治哲學",
+      "韓非子"
+    ],
+    "sources": [
+      {
+        "chapter": "17",
+        "plugin": "wikisource",
+        "title": "韓非子 · 17",
+        "url": "https://zh.wikisource.org/wiki/韓非子/17",
+        "work": "韓非子"
       }
     ]
   },
