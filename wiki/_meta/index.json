@@ -2005,6 +2005,25 @@
     ]
   },
   {
+    "slug": "不日不月",
+    "title": "不日不月",
+    "summary": "役久不可以日計、以月計。",
+    "tags": [
+      "行役",
+      "離別",
+      "久淹"
+    ],
+    "sources": [
+      {
+        "chapter": "君子于役",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子于役",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子于役",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "不期而至",
     "title": "不期而至",
     "summary": "遠國不期而至，以見諸侯皆來至也。",
@@ -8860,6 +8879,26 @@
     ]
   },
   {
+    "slug": "儦儦俟俟",
+    "title": "儦儦俟俟",
+    "summary": "獸行疾速與遲緩之貌。",
+    "tags": [
+      "田獵",
+      "野獸",
+      "詩經",
+      "詞義"
+    ],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "優施教驪姬遠太子",
     "title": "優施教驪姬遠太子",
     "summary": "優施謂申生精潔易辱，可先施讒以遠之。",
@@ -11920,6 +11959,26 @@
     ]
   },
   {
+    "slug": "副笄六珈",
+    "title": "副笄六珈",
+    "summary": "夫人之首飾，副-{zh-tw:於}-笄而以六珈為飾",
+    "tags": [
+      "詩經",
+      "服飾",
+      "首飾",
+      "禮制"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "劉光祿考校國語",
     "title": "劉光祿考校國語",
     "summary": "漢成帝時，劉光祿始更考校《國語》，是正疑謬。",
@@ -14633,6 +14692,27 @@
     ]
   },
   {
+    "slug": "吉日",
+    "title": "吉日",
+    "summary": "述宣王獵前卜日、祭禱、選馬、馳逐、射獸、燕饗之事。",
+    "tags": [
+      "詩經",
+      "田獵",
+      "宣王",
+      "燕饗",
+      "祭祀"
+    ],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "吉甫燕喜",
     "title": "吉甫燕喜",
     "summary": "凱旋燕飲，慶功之樂。",
@@ -15058,6 +15138,26 @@
     ]
   },
   {
+    "slug": "君子于役",
+    "title": "君子于役",
+    "summary": "大夫傷君子久役未歸，託言雞棲羊下以寫思念之情。",
+    "tags": [
+      "詩經",
+      "行役",
+      "思念",
+      "君子"
+    ],
+    "sources": [
+      {
+        "chapter": "君子于役",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子于役",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子于役",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "君子五教",
     "title": "君子五教 / Five Types of Teaching by the Superior Person / 君子五教",
     "summary": "Mencius's classification of five methods by which the junzi imparts teaching,",
@@ -15071,6 +15171,27 @@
         "title": "孟子 · 盡心上",
         "url": "https://zh.wikisource.org/wiki/孟子/盡心上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "君子偕老",
+    "title": "君子偕老",
+    "summary": "刺衛夫人失德而美君子服飾之盛",
+    "tags": [
+      "詩經",
+      "衛風",
+      "夫婦之道",
+      "德行",
+      "服飾"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
       }
     ]
   },
@@ -22777,6 +22898,45 @@
     ]
   },
   {
+    "slug": "如之何勿思",
+    "title": "如之何勿思",
+    "summary": "暮景在目，君子不歸，思念烏可已邪。",
+    "tags": [
+      "思念",
+      "離別",
+      "行役"
+    ],
+    "sources": [
+      {
+        "chapter": "君子于役",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子于役",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子于役",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "如山如河",
+    "title": "如山如河",
+    "summary": "德行厚重深廣之喻",
+    "tags": [
+      "詩經",
+      "德行",
+      "山水",
+      "比喻"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "妾不衣帛馬不食粟",
     "title": "妾不衣帛馬不食粟",
     "summary": "居上位者當與民同苦樂，不可以奢靡示眾。",
@@ -22898,6 +23058,25 @@
         "title": "禮記 · 少儀",
         "url": "https://zh.wikisource.org/wiki/禮記/少儀",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "委委佗佗",
+    "title": "委委佗佗",
+    "summary": "行止端莊之貌",
+    "tags": [
+      "詩經",
+      "容止",
+      "德行"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
       }
     ]
   },
@@ -23292,6 +23471,25 @@
     ]
   },
   {
+    "slug": "子之不淑云如之何",
+    "title": "子之不淑，云如之何",
+    "summary": "責夫人有服飾而無德行",
+    "tags": [
+      "詩經",
+      "刺詩",
+      "德行"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "子之明不受國",
     "title": "子之明不受國",
     "summary": "燕王噲好賢而授國於子之，致國大亂",
@@ -23311,6 +23509,25 @@
         "title": "韓非子 · 二柄",
         "url": "https://zh.wikisource.org/wiki/韓非子/二柄",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "子之清揚",
+    "title": "子之清揚",
+    "summary": "目清明而眉上揚，狀容美",
+    "tags": [
+      "詩經",
+      "容止",
+      "容貌"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
       }
     ]
   },
@@ -25708,6 +25925,21 @@
     ]
   },
   {
+    "slug": "射侯-之",
+    "title": "射侯-之",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "射侯",
     "title": "射侯 / The Archery Target Rite / 射侯",
     "summary": "天子大射之禮，射以選諸侯，觀德行而定賞罰。",
@@ -26492,6 +26724,25 @@
         "title": "抱朴子 · 卷20",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷20",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "展如之人兮邦之媛",
+    "title": "展如之人兮，邦之媛也",
+    "summary": "嘆此人之美為邦國之淑女",
+    "tags": [
+      "詩經",
+      "美女",
+      "邦國"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
       }
     ]
   },
@@ -28396,6 +28647,25 @@
     ]
   },
   {
+    "slug": "從其羣醜",
+    "title": "從其羣醜",
+    "summary": "驅逐羣獸，以從獵事。",
+    "tags": [
+      "田獵",
+      "驅獸",
+      "詩經"
+    ],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "從心所念更無是非",
     "title": "從心所念更無是非",
     "summary": "修道之深境界，心念自然合道",
@@ -29313,6 +29583,26 @@
         "title": "抱朴子 · 卷24",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷24",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "悉率左右",
+    "title": "悉率左右",
+    "summary": "左右夾驅，悉聚禽獸以供射獵。",
+    "tags": [
+      "田獵",
+      "驅獸",
+      "詩經",
+      "射禮"
+    ],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
       }
     ]
   },
@@ -30824,6 +31114,25 @@
     ]
   },
   {
+    "slug": "揚且之皙",
+    "title": "揚且之晳也",
+    "summary": "額廣而色白之貌",
+    "tags": [
+      "詩經",
+      "容止",
+      "容貌"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "揚權",
     "title": "揚權",
     "summary": "揚其權柄，人主之要務也。",
@@ -32213,6 +32522,26 @@
     ]
   },
   {
+    "slug": "既伯既禱",
+    "title": "既伯既禱",
+    "summary": "田事之先，祭馬祖而行禱也。",
+    "tags": [
+      "祭祀",
+      "田獵",
+      "馬祖",
+      "詩經"
+    ],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "既優既渥",
     "title": "既優既渥",
     "summary": "雨澤充洽，滋潤及物，歲以有年",
@@ -32229,6 +32558,44 @@
         "plugin": "wikisource",
         "title": "詩經 · 信南山",
         "url": "https://zh.wikisource.org/wiki/詩經/信南山",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "既差我馬",
+    "title": "既差我馬",
+    "summary": "揀選良馬，以備田獵。",
+    "tags": [
+      "田獵",
+      "馬政",
+      "詩經"
+    ],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "既張我弓既挾我矢",
+    "title": "既張我弓，既挾我矢",
+    "summary": "射獵之事，弓矢既備，蓄勢而發。",
+    "tags": [
+      "射禮",
+      "田獵",
+      "詩經"
+    ],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
         "work": "詩經"
       }
     ]
@@ -34031,6 +34398,44 @@
         "title": "史記 · 卷011",
         "url": "https://zh.wikisource.org/wiki/史記/卷011",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "曷其有佸",
+    "title": "曷其有佸",
+    "summary": "何時得與君子會合。",
+    "tags": [
+      "行役",
+      "離別",
+      "會合"
+    ],
+    "sources": [
+      {
+        "chapter": "君子于役",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子于役",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子于役",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "曷至哉",
+    "title": "曷至哉",
+    "summary": "行人役久，問歸期而不可得。",
+    "tags": [
+      "行役",
+      "歸期",
+      "思念"
+    ],
+    "sources": [
+      {
+        "chapter": "君子于役",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子于役",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子于役",
+        "work": "詩經"
       }
     ]
   },
@@ -36573,6 +36978,13 @@
         "title": "禮記 · 王制",
         "url": "https://zh.wikisource.org/wiki/禮記/王制",
         "work": "禮記"
+      },
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
       }
     ]
   },
@@ -39217,6 +39629,27 @@
     ]
   },
   {
+    "slug": "漆沮之從",
+    "title": "漆沮之從",
+    "summary": "循漆沮之水，致之天子之所。",
+    "tags": [
+      "地理",
+      "田獵",
+      "詩經",
+      "漆水",
+      "沮水"
+    ],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "漢末道微俗弊",
     "title": "漢末道微俗弊",
     "summary": "抱朴子痛論東漢末年風俗敗壞、道德淪喪之世道。",
@@ -40244,6 +40677,21 @@
     ]
   },
   {
+    "slug": "燕禮-之",
+    "title": "燕禮-之",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "燕禮",
     "title": "燕禮 / The Banquet Ritual (燕禮)",
     "summary": "諸侯朝聘之後與群臣共食之禮，以明君臣之義、辨貴賤之分。",
@@ -40919,6 +41367,26 @@
     ]
   },
   {
+    "slug": "玉之瑱也",
+    "title": "玉之瑱也",
+    "summary": "玉製之充耳，垂於耳旁",
+    "tags": [
+      "詩經",
+      "服飾",
+      "玉器",
+      "禮制"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "玉在山而草木潤",
     "title": "玉在山而草木潤",
     "summary": "賢者在位，其德澤被於物；猶玉在山而生草木之潤。",
@@ -41197,6 +41665,25 @@
         "title": "禮記 · 緇衣",
         "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "玼兮玼兮",
+    "title": "玼兮玼兮",
+    "summary": "翟衣色澤鮮明之貌",
+    "tags": [
+      "詩經",
+      "服飾",
+      "顏色"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
       }
     ]
   },
@@ -41717,6 +42204,26 @@
         "plugin": "wikisource",
         "title": "詩經 · 七月",
         "url": "https://zh.wikisource.org/wiki/詩經/七月",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "田車既好四牡孔阜",
+    "title": "田車既好，四牡孔阜",
+    "summary": "車備馬健，田事之資已具。",
+    "tags": [
+      "田獵",
+      "車馬",
+      "詩經",
+      "宣王"
+    ],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
         "work": "詩經"
       }
     ]
@@ -42394,6 +42901,26 @@
         "title": "六韜",
         "url": "https://zh.wikisource.org/wiki/六韜",
         "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "發彼小豝殪此大兕",
+    "title": "發彼小豝，殪此大兕",
+    "summary": "射中小豕，斃彼大兕，言田獵之獲。",
+    "tags": [
+      "田獵",
+      "射獵",
+      "詩經",
+      "野獸"
+    ],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
       }
     ]
   },
@@ -43294,6 +43821,25 @@
         "title": "國語 · 卷17",
         "url": "https://zh.wikisource.org/wiki/國語/卷17",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "瞻彼中原",
+    "title": "瞻彼中原",
+    "summary": "望中原之野，禽獸繁殖之地。",
+    "tags": [
+      "田獵",
+      "地理",
+      "詩經"
+    ],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
       }
     ]
   },
@@ -46851,6 +47397,44 @@
     ]
   },
   {
+    "slug": "羊牛下來",
+    "title": "羊牛下來",
+    "summary": "暮時羊牛群下，以比物之有所歸。",
+    "tags": [
+      "起興",
+      "行役",
+      "暮景"
+    ],
+    "sources": [
+      {
+        "chapter": "君子于役",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子于役",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子于役",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "羊牛下括",
+    "title": "羊牛下括",
+    "summary": "暮時羊牛群下而合，以比君子之未得合。",
+    "tags": [
+      "起興",
+      "行役",
+      "離別"
+    ],
+    "sources": [
+      {
+        "chapter": "君子于役",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子于役",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子于役",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "羊黔",
     "title": "Yangqian: Elevated Earthwork Siege / 羊黔",
     "summary": "A siege technique where attackers build raised earth platforms to overlook and assault city walls.",
@@ -48532,6 +49116,25 @@
     ]
   },
   {
+    "slug": "胡然而天也胡然而帝也",
+    "title": "胡然而天也，胡然而帝也",
+    "summary": "問何以儼然如天帝，歎其德不稱",
+    "tags": [
+      "詩經",
+      "刺詩",
+      "天帝"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "胡瞻爾庭有縣貆",
     "title": "胡瞻爾庭有縣貆",
     "summary": "庭中懸掛之物皆民力所出，在位者何功而享之。",
@@ -49971,6 +50574,25 @@
     ]
   },
   {
+    "slug": "苟無飢渴",
+    "title": "苟無飢渴",
+    "summary": "祝行人保嗇，無飢渴以終歸。",
+    "tags": [
+      "祝願",
+      "行役",
+      "思念"
+    ],
+    "sources": [
+      {
+        "chapter": "君子于役",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子于役",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子于役",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "苦逸之復數之常",
     "title": "苦逸之復數之常",
     "summary": "苦者夢逸、逸者夢苦，迭為消長，理之常也。",
@@ -50831,6 +51453,25 @@
         "title": "國語 · 卷06",
         "url": "https://zh.wikisource.org/wiki/國語/卷06",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "蒙彼縐絺是紲袢",
+    "title": "蒙彼縐絺，是紲袢也",
+    "summary": "覆彼細葛以為夏日之服",
+    "tags": [
+      "詩經",
+      "服飾",
+      "葛布"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
       }
     ]
   },
@@ -53888,6 +54529,25 @@
     ]
   },
   {
+    "slug": "象之揥也",
+    "title": "象之揥也",
+    "summary": "象牙製之箸，可以摘髮",
+    "tags": [
+      "詩經",
+      "服飾",
+      "象牙器"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "象刑",
     "title": "象刑",
     "summary": "堯舜象以典刑，流宥五刑，鞭扑贖刑各有差。",
@@ -53904,6 +54564,21 @@
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "象服是宜",
+    "title": "象服是宜",
+    "summary": "象骨飾之禮服宜於夫人",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
       }
     ]
   },
@@ -56117,6 +56792,25 @@
     ]
   },
   {
+    "slug": "辭益惋而意益深",
+    "title": "辭益惋而意益深",
+    "summary": "責、問、惜三者循序而深",
+    "tags": [
+      "詩經",
+      "注解",
+      "文辭"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "辭過",
     "title": "辭過 / On Rejecting Excesses",
     "summary": "Mozi's critique of five areas where modern rulers indulge in extravagance beyond necessity.",
@@ -57679,6 +58373,26 @@
         "title": "史記 · 卷008",
         "url": "https://zh.wikisource.org/wiki/史記/卷008",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "酌醴",
+    "title": "酌醴",
+    "summary": "田獵既畢，酌酒以燕饗。",
+    "tags": [
+      "燕饗",
+      "詩經",
+      "酒禮",
+      "宣王"
+    ],
+    "sources": [
+      {
+        "chapter": "吉日",
+        "plugin": "wikisource",
+        "title": "詩經 · 吉日",
+        "url": "https://zh.wikisource.org/wiki/詩經/吉日",
+        "work": "詩經"
       }
     ]
   },
@@ -59613,6 +60327,44 @@
     ]
   },
   {
+    "slug": "雞棲于塒",
+    "title": "雞棲于塒",
+    "summary": "暮雞返塒，以興行人不及歸。",
+    "tags": [
+      "起興",
+      "行役",
+      "暮景"
+    ],
+    "sources": [
+      {
+        "chapter": "君子于役",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子于役",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子于役",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "雞棲于桀",
+    "title": "雞棲于桀",
+    "summary": "暮時雞棲于桀，以比物之得所。",
+    "tags": [
+      "起興",
+      "行役",
+      "暮景"
+    ],
+    "sources": [
+      {
+        "chapter": "君子于役",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子于役",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子于役",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "離會不致",
     "title": "離會不致",
     "summary": "離會者非兩君相會，乃大夫出會，故不書至。",
@@ -61364,6 +62116,25 @@
         "title": "三略",
         "url": "https://zh.wikisource.org/wiki/三略",
         "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "鬒髮如雲不屑髢",
+    "title": "鬒髮如雲，不屑髢也",
+    "summary": "髮黑如雲不以假髮為美",
+    "tags": [
+      "詩經",
+      "容飾",
+      "頭髮"
+    ],
+    "sources": [
+      {
+        "chapter": "君子偕老",
+        "plugin": "wikisource",
+        "title": "詩經 · 君子偕老",
+        "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
+        "work": "詩經"
       }
     ]
   },
