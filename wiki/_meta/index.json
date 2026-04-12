@@ -22,6 +22,26 @@
     ]
   },
   {
+    "slug": "一人有慶兆民賴之",
+    "title": "一人有慶兆民賴之",
+    "summary": "天子一人有善政，則兆民蒙其福澤。",
+    "tags": [
+      "荀子",
+      "天子",
+      "善政",
+      "民本"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "一法而不求智固術而不慕信",
     "title": "一法而不求智固術而不慕信",
     "summary": "明主行法不求人智，守術不慕虛信，法度昭然，羣臣自不敢姦欺。",
@@ -837,6 +857,26 @@
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "上以飾賢良而明貴賤",
+    "title": "上以飾賢良而明貴賤",
+    "summary": "禮義明貴賤，上以飾賢良，下以飾長幼",
+    "tags": [
+      "荀子",
+      "禮",
+      "貴賤",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -2085,7 +2125,9 @@
     "slug": "乾谿之亂",
     "title": "乾谿之亂",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -2093,6 +2135,26 @@
         "title": "國語 · 卷17",
         "url": "https://zh.wikisource.org/wiki/國語/卷17",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "亂世以族論罪以世舉賢",
+    "title": "以族論罪以世舉賢",
+    "summary": "亂世之弊，罰不及犯而罪延三族，賞不及賢而世祿其後嗣。",
+    "tags": [
+      "荀子",
+      "亂世",
+      "賞罰",
+      "批判"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
       }
     ]
   },
@@ -2923,6 +2985,26 @@
     ]
   },
   {
+    "slug": "人主不能獨",
+    "title": "人主不能獨",
+    "summary": "人主不可以獨，必賴卿相輔佐",
+    "tags": [
+      "荀子",
+      "君道",
+      "任賢",
+      "輔佐"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "人主有二患",
     "title": "人主有二患",
     "summary": "任賢則臣乘以劫君，妄舉則事沮不勝",
@@ -3358,6 +3440,26 @@
         "title": "司馬法",
         "url": "https://zh.wikisource.org/wiki/司馬法",
         "work": "司馬法"
+      }
+    ]
+  },
+  {
+    "slug": "仁者仁此義者分此",
+    "title": "仁者仁此義者分此",
+    "summary": "仁者以愛賢為仁，義者以分明為義，各有所守而成治道。",
+    "tags": [
+      "荀子",
+      "仁",
+      "義",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
       }
     ]
   },
@@ -3952,6 +4054,26 @@
     ]
   },
   {
+    "slug": "以禮分施",
+    "title": "以禮分施",
+    "summary": "為君以禮分施無偏，為臣以禮侍君忠順",
+    "tags": [
+      "荀子",
+      "君道",
+      "禮",
+      "分施"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "以賞禁以刑勸",
     "title": "以賞禁以刑勸",
     "summary": "王者以賞禁、以刑勸，求過不求善，藉刑以去刑",
@@ -4254,7 +4376,9 @@
     "slug": "伍舉",
     "title": "伍舉",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -4275,7 +4399,8 @@
       "靈王",
       "伍舉",
       "臺榭",
-      "國語"
+      "國語",
+      "部:其他"
     ],
     "sources": [
       {
@@ -4813,6 +4938,26 @@
     ]
   },
   {
+    "slug": "便嬖左右",
+    "title": "便嬖左右",
+    "summary": "人主之近習，為窺遠收眾之門戶",
+    "tags": [
+      "荀子",
+      "君道",
+      "近習",
+      "任賢"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "俗儒",
     "title": "俗儒",
     "summary": "俗儒者，繆學雜舉，略法先王而行僞同於世俗，不能別是非，欺愚者以衣食者也。",
@@ -4982,6 +5127,13 @@
         "plugin": "wikisource",
         "title": "荀子 · 修身篇",
         "url": "https://zh.wikisource.org/wiki/荀子/修身篇",
+        "work": "荀子"
+      },
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
         "work": "荀子"
       }
     ]
@@ -5223,6 +5375,25 @@
         "title": "墨子 · 備城門",
         "url": "https://zh.wikisource.org/wiki/墨子/備城門",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "備而不矜",
+    "title": "備而不矜",
+    "summary": "聖人備具萬善而不自矜，故天下莫能與之争功。",
+    "tags": [
+      "荀子",
+      "聖人",
+      "德行"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
       }
     ]
   },
@@ -5563,6 +5734,26 @@
         "title": "吳子",
         "url": "https://zh.wikisource.org/wiki/吳子",
         "work": "吳子"
+      }
+    ]
+  },
+  {
+    "slug": "先時者殺無赦",
+    "title": "先時者殺無赦",
+    "summary": "賞罰及時，不失其時",
+    "tags": [
+      "荀子",
+      "賞罰",
+      "治道",
+      "刑賞"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -5944,6 +6135,26 @@
         "title": "六韜",
         "url": "https://zh.wikisource.org/wiki/六韜",
         "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "兩堯不能相王",
+    "title": "兩堯不能相王",
+    "summary": "同道者相成，異道者相傾",
+    "tags": [
+      "荀子",
+      "治道",
+      "同道",
+      "任賢"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -6379,6 +6590,26 @@
         "title": "春秋公羊傳 · 桓公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/桓公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "公道達而私門塞",
+    "title": "公道達而私門塞",
+    "summary": "明分職則公道通達而私門閉塞",
+    "tags": [
+      "荀子",
+      "治道",
+      "公私",
+      "官制"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -6945,6 +7176,25 @@
     ]
   },
   {
+    "slug": "凡人自得罪",
+    "title": "凡人自得罪",
+    "summary": "人皆自取其罪，非天之所加，善惡之報在己而不在命。",
+    "tags": [
+      "荀子",
+      "善惡報應",
+      "自作自受"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "凱弟君子",
     "title": "凱弟君子",
     "summary": "詩所述和樂近善之君子，堪為民之父母。",
@@ -7132,6 +7382,26 @@
         "title": "商君書 · 卷二",
         "url": "https://zh.wikisource.org/wiki/商君書/卷二",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "刑當罪爵當賢",
+    "title": "刑當罪爵當賢",
+    "summary": "刑罰與罪行相稱，爵賞與賢德相當，此治世之通義也。",
+    "tags": [
+      "荀子",
+      "刑賞",
+      "正義",
+      "治世"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
       }
     ]
   },
@@ -8009,6 +8279,26 @@
     ]
   },
   {
+    "slug": "原清則流清",
+    "title": "原清則流清",
+    "summary": "源清則流清，治道之本在於本源之清",
+    "tags": [
+      "荀子",
+      "治道",
+      "民本",
+      "源流"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "去十者",
     "title": "去十者",
     "summary": "詩書禮樂等十者不去，國必削亡",
@@ -8434,6 +8724,26 @@
         "title": "國語 · 卷10",
         "url": "https://zh.wikisource.org/wiki/國語/卷10",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "取人有道用人有法",
+    "title": "取人有道用人有法",
+    "summary": "取人參之以禮，用人禁之以等",
+    "tags": [
+      "荀子",
+      "君道",
+      "任賢",
+      "取人"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -9278,6 +9588,26 @@
     ]
   },
   {
+    "slug": "君子者法之原",
+    "title": "君子者法之原",
+    "summary": "法以君子為本，無君子則法失其用",
+    "tags": [
+      "荀子",
+      "治道",
+      "君子",
+      "法原"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "君子能亦好不能亦好",
     "title": "君子能亦好，不能亦好",
     "summary": "君子無論能否，皆出於善；小人無論能否，皆出於醜。",
@@ -9315,6 +9645,46 @@
         "title": "春秋穀梁傳 · 僖公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "君射則臣決",
+    "title": "君射則臣決",
+    "summary": "上行而下效，居上者當正己",
+    "tags": [
+      "荀子",
+      "治道",
+      "上行下效",
+      "君道"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "君者民之原",
+    "title": "君者民之原",
+    "summary": "君為民之源，愛民利民乃治國之本",
+    "tags": [
+      "荀子",
+      "君道",
+      "民本",
+      "治國"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -9441,7 +9811,9 @@
     "slug": "吳國之亡-之",
     "title": "吳國之亡-之",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷18",
@@ -10954,6 +11326,25 @@
     ]
   },
   {
+    "slug": "四海之內無客禮",
+    "title": "四海之內無客禮",
+    "summary": "天子於四海之內，無敵體，無迎送之儀，此天下獨尊之義。",
+    "tags": [
+      "荀子",
+      "天子",
+      "禮制"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "四端",
     "title": "四端",
     "summary": "惻隱、羞惡、辭讓、是非之心，乃仁義禮智之端，猶人之有四肢，擴充則可保四海。",
@@ -11739,6 +12130,13 @@
         "plugin": "wikisource",
         "title": "荀子 · 不苟篇",
         "url": "https://zh.wikisource.org/wiki/荀子/不苟篇",
+        "work": "荀子"
+      },
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
         "work": "荀子"
       }
     ]
@@ -13073,6 +13471,25 @@
     ]
   },
   {
+    "slug": "天子至備",
+    "title": "天子至備",
+    "summary": "天子至重至佚，無所求於人，而天下之至備咸集焉。",
+    "tags": [
+      "荀子",
+      "天子",
+      "君主論"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "天德",
     "title": "天德 / 天德",
     "summary": "The virtue attained by following Heaven's will, the opposite of 天賊.",
@@ -14230,7 +14647,9 @@
     "slug": "子囊",
     "title": "子囊",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -14250,7 +14669,8 @@
       "楚國",
       "子囊",
       "恭王",
-      "國語"
+      "國語",
+      "部:子"
     ],
     "sources": [
       {
@@ -15355,6 +15775,13 @@
         "title": "商君書 · 卷五",
         "url": "https://zh.wikisource.org/wiki/商君書/卷五",
         "work": "商君書"
+      },
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -15760,6 +16187,26 @@
     ]
   },
   {
+    "slug": "審之禮",
+    "title": "審之禮",
+    "summary": "治國之道，貴在審禮",
+    "tags": [
+      "荀子",
+      "禮",
+      "治道",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "審合刑名",
     "title": "審合刑名",
     "summary": "人主禁姦之本，在考核言行是否相符",
@@ -15992,6 +16439,26 @@
     ]
   },
   {
+    "slug": "尊聖者王貴賢者霸",
+    "title": "尊聖者王貴賢者霸",
+    "summary": "尊聖則王，貴賢則霸，慢賢則亡，治亂成敗繫於用賢之一途。",
+    "tags": [
+      "荀子",
+      "霸道",
+      "王道",
+      "尊賢"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "尊讓絜敬",
     "title": "Respect, Yielding, Purity, and Reverence / 尊讓絜敬",
     "summary": "君子相接之道的四個要素：尊讓而不爭，絜敬而不慢。",
@@ -16218,6 +16685,53 @@
         "title": "墨子 · 尚賢中",
         "url": "https://zh.wikisource.org/wiki/墨子/尚賢中",
         "work": "墨子"
+      },
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "尚賢使能之為長功",
+    "title": "尚賢使能之為長功",
+    "summary": "尚賢使能為功業長久之本",
+    "tags": [
+      "荀子",
+      "尚賢",
+      "功業",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "尚賢使能等貴賤分親疏序長幼",
+    "title": "尚賢使能等貴賤分親疏序長幼",
+    "summary": "先王以賢能、貴賤、親疏、長幼四者為治世之綱紀。",
+    "tags": [
+      "政治哲學",
+      "荀子",
+      "先王之道",
+      "社會秩序"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
       }
     ]
   },
@@ -16307,7 +16821,8 @@
       "楚國",
       "屈建",
       "屈到",
-      "國語"
+      "國語",
+      "部:其他"
     ],
     "sources": [
       {
@@ -16492,7 +17007,9 @@
     "slug": "左史倚相",
     "title": "左史倚相",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:史"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -16513,7 +17030,8 @@
       "楚國",
       "左史倚相",
       "司馬子期",
-      "國語"
+      "國語",
+      "部:子"
     ],
     "sources": [
       {
@@ -16534,7 +17052,8 @@
       "楚國",
       "左史倚相",
       "申公子亹",
-      "國語"
+      "國語",
+      "部:子"
     ],
     "sources": [
       {
@@ -17121,7 +17640,9 @@
     "slug": "弗躬弗親庶民弗信",
     "title": "弗躬弗親庶民弗信",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -17683,6 +18204,26 @@
     ]
   },
   {
+    "slug": "德厚者進而佞說者止",
+    "title": "德厚者進而佞說者止",
+    "summary": "任賢退佞，治道之要",
+    "tags": [
+      "荀子",
+      "治道",
+      "任賢",
+      "退佞"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "德為福之基",
     "title": "德為福之基",
     "summary": "天道無親，唯德是授；無德之福，如無基之墉，壞亡無日。",
@@ -18050,6 +18591,26 @@
     ]
   },
   {
+    "slug": "惟明主為能愛其所愛",
+    "title": "惟明主為能愛其所愛",
+    "summary": "明主能愛其所愛，闇主必危其所愛",
+    "tags": [
+      "荀子",
+      "明主",
+      "闇主",
+      "君道"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "惟時惟幾",
     "title": "惟時惟幾",
     "summary": "記禹警戒舜慎在位之辭",
@@ -18318,6 +18879,33 @@
         "title": "六韜",
         "url": "https://zh.wikisource.org/wiki/六韜",
         "work": "六韜"
+      },
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "愛民而安好士而榮",
+    "title": "愛民而安好士而榮",
+    "summary": "愛民與好士，二者並行為君之要",
+    "tags": [
+      "荀子",
+      "君道",
+      "愛民",
+      "好士"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -18516,7 +19104,8 @@
     "tags": [
       "復讎",
       "事君",
-      "禮"
+      "禮",
+      "部:經"
     ],
     "sources": [
       {
@@ -19495,7 +20084,9 @@
     "slug": "文王至於日中昃不皇暇食",
     "title": "文王至於日中昃不皇暇食",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -19765,6 +20356,26 @@
         "title": "六韜",
         "url": "https://zh.wikisource.org/wiki/六韜",
         "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "明分職",
+    "title": "明分職",
+    "summary": "明分職則公道達而私門塞",
+    "tags": [
+      "荀子",
+      "治道",
+      "分職",
+      "官制"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -20569,6 +21180,26 @@
     ]
   },
   {
+    "slug": "普天之下莫非王土",
+    "title": "普天之下莫非王土",
+    "summary": "天子奄有四海，無遠弗屆，此天下共主之義。",
+    "tags": [
+      "荀子",
+      "天子",
+      "天下一家",
+      "詩經"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "智-儒學-之",
     "title": "智-儒學-之",
     "summary": "The user asks: \"Write a one-line summary for this article: # 智-儒學-之 ...\" The article is about the concept of \"智\" (wisdom) in Confucianism, referencing Mencius, discussing the concept of是非之心 (sense of right and wrong) as the \"端\" (beginning) of wisdom, referencing Zai Wo, Zigong, You Ruo, who \"智足以知聖人\"; also \"術不可不慎\",\"選擇不處仁，焉得智\", clarifying that wisdom and benevolent practice (仁) are interdependent. So need to summarize in one line.\n\nThe content: \"In Mencius, wisdom originates from the moral sense of right and wrong, and wise individuals such as Zai Wo, Zigong, and You Ruo demonstrate that wisdom and benevolence are mutually reinforcing.\"\n\nOne-line summary: \"Mencius defines wisdom as the moral sense of right and wrong, and illustrates that true wisdom requires the cultivation of benevolence, as exemplified by the insights of Zai Wo, Zigong, and You Ruo.\"\n\nWe must output just that line. Provide concise but accurate. It's Chinese article, but they ask in English presumably. But can also be Chinese. They wrote article in",
@@ -21099,6 +21730,26 @@
     ]
   },
   {
+    "slug": "材人",
+    "title": "材人",
+    "summary": "量材授官，各當其分",
+    "tags": [
+      "荀子",
+      "官制",
+      "任賢",
+      "材人"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "材士",
     "title": "材士 / Skilled Warriors / 材士",
     "summary": "墨子所述城中技藝精湛之戰士，以其家人為質而養之。",
@@ -21184,7 +21835,9 @@
     "slug": "析公臣",
     "title": "析公臣",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -21447,7 +22100,9 @@
     "slug": "椒舉",
     "title": "椒舉",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -22151,7 +22806,11 @@
       "墨學",
       "尚賢",
       "治國",
-      "部:子"
+      "部:子",
+      "荀子",
+      "賢才",
+      "任賢",
+      "治道"
     ],
     "sources": [
       {
@@ -22167,6 +22826,13 @@
         "title": "國語 · 卷18",
         "url": "https://zh.wikisource.org/wiki/國語/卷18",
         "work": "國語"
+      },
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -22697,6 +23363,13 @@
         "title": "墨子 · 親士",
         "url": "https://zh.wikisource.org/wiki/墨子/親士",
         "work": "墨子"
+      },
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -22839,6 +23512,26 @@
         "title": "文子 · 卷十二",
         "url": "https://zh.wikisource.org/wiki/文子/卷十二",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "治人無治法",
+    "title": "治人無治法",
+    "summary": "國之治亂在人而不在法",
+    "tags": [
+      "荀子",
+      "治道",
+      "人治",
+      "法治"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -23250,6 +23943,25 @@
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "淑人君子其儀不忒",
+    "title": "淑人君子其儀不忒",
+    "summary": "君子之德儀恆常不忒，足以為四國之表率。",
+    "tags": [
+      "荀子",
+      "君子",
+      "詩教"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
       }
     ]
   },
@@ -24668,7 +25380,9 @@
     "slug": "王孫啟",
     "title": "王孫啟",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -25099,6 +25813,25 @@
     ]
   },
   {
+    "slug": "由其道則人得其所好",
+    "title": "由其道則人得其所好",
+    "summary": "百姓循道則得所欲，違道則遇所惡，故治世賞罰行而姦宄息。",
+    "tags": [
+      "荀子",
+      "治道",
+      "民欲"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "由生而生",
     "title": "由生而生",
     "summary": "生死皆有其道，常與不幸之別也",
@@ -25124,7 +25857,9 @@
     "slug": "申公巫臣",
     "title": "申公巫臣",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -25144,7 +25879,8 @@
       "太子",
       "楚國",
       "申叔時",
-      "國語"
+      "國語",
+      "部:子"
     ],
     "sources": [
       {
@@ -25554,7 +26290,9 @@
     "slug": "白公勝必亂楚國-之",
     "title": "白公勝必亂楚國-之",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷18",
@@ -25569,7 +26307,9 @@
     "slug": "白公子張",
     "title": "白公子張",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -25589,7 +26329,8 @@
       "楚國",
       "靈王",
       "白公子張",
-      "國語"
+      "國語",
+      "部:子"
     ],
     "sources": [
       {
@@ -25659,6 +26400,26 @@
         "title": "韓非子 · 五蠹",
         "url": "https://zh.wikisource.org/wiki/韓非子/五蠹",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "百川沸騰山冢崒崩",
+    "title": "百川沸騰山冢崒崩",
+    "summary": "詩言亂世之象，川沸山崩，喻禮法不行而災異並作。",
+    "tags": [
+      "荀子",
+      "詩教",
+      "亂世",
+      "警戒"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
       }
     ]
   },
@@ -25939,7 +26700,9 @@
     "slug": "睿聖武公",
     "title": "睿聖武公",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -25989,6 +26752,13 @@
         "title": "史記 · 卷002",
         "url": "https://zh.wikisource.org/wiki/史記/卷002",
         "work": "史記"
+      },
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -26030,6 +26800,25 @@
         "title": "列子 · 周穆王篇",
         "url": "https://zh.wikisource.org/wiki/列子/周穆王篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "知所貴知所利",
+    "title": "知所貴知所利",
+    "summary": "聖王之臣，知所貴者能用賢，知所利者能用事。",
+    "tags": [
+      "荀子",
+      "君臣",
+      "用賢"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
       }
     ]
   },
@@ -27553,7 +28342,9 @@
     "slug": "穀陽豉愛子反之勞而獻飲焉以斃於鄢",
     "title": "穀陽豉愛子反之勞而獻飲焉以斃於鄢",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -28613,6 +29404,13 @@
         "title": "抱朴子 · 卷13",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -28955,6 +29753,26 @@
         "title": "墨子 · 非樂上",
         "url": "https://zh.wikisource.org/wiki/墨子/非樂上",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "聖王在上分義行乎下",
+    "title": "聖王在上分義行乎下",
+    "summary": "聖王居上位而分義明於下，則天下有恥而姦亂不作。",
+    "tags": [
+      "荀子",
+      "聖王",
+      "分義",
+      "治世"
+    ],
+    "sources": [
+      {
+        "chapter": "君子篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君子篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
+        "work": "荀子"
       }
     ]
   },
@@ -29438,6 +30256,46 @@
     ]
   },
   {
+    "slug": "能群",
+    "title": "能群",
+    "summary": "君者，能群也；善生養、班治、顯設、藩飾之四能",
+    "tags": [
+      "荀子",
+      "君道",
+      "治道",
+      "能群"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "脩身未嘗聞為國",
+    "title": "脩身未嘗聞為國",
+    "summary": "治國本於修身",
+    "tags": [
+      "荀子",
+      "修身",
+      "治道",
+      "為國"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "臣作股肱耳目",
     "title": "臣作股肱耳目",
     "summary": "堯以臣為股肱耳目，各司其職，輔助天子。",
@@ -29526,6 +30384,26 @@
         "title": "禮記 · 曲禮上",
         "url": "https://zh.wikisource.org/wiki/禮記/曲禮上",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "自古及今未有不如此而不亂",
+    "title": "自古及今未有不如此而不亂",
+    "summary": "不任賢才而親不肖，必致禍亂",
+    "tags": [
+      "荀子",
+      "治道",
+      "任賢",
+      "亂亡"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -29653,6 +30531,26 @@
       "部:其他"
     ],
     "sources": []
+  },
+  {
+    "slug": "至道大形",
+    "title": "至道大形",
+    "summary": "隆禮至法，國有常治",
+    "tags": [
+      "荀子",
+      "治道",
+      "隆禮",
+      "至法"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
   },
   {
     "slug": "致女",
@@ -30274,7 +31172,9 @@
     "slug": "芋尹申亥從靈王之欲以隕於乾谿",
     "title": "芋尹申亥從靈王之欲以隕於乾谿",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -30514,7 +31414,9 @@
     "slug": "范無宇",
     "title": "范無宇",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -30534,7 +31436,8 @@
       "楚國",
       "靈王",
       "范無宇",
-      "國語"
+      "國語",
+      "部:其他"
     ],
     "sources": [
       {
@@ -31122,7 +32025,8 @@
       "晉國",
       "蔡聲子",
       "椒舉",
-      "國語"
+      "國語",
+      "部:子"
     ],
     "sources": [
       {
@@ -31184,7 +32088,8 @@
     "tags": [
       "吳國",
       "藍尹亹",
-      "吳將斃"
+      "吳將斃",
+      "部:其他"
     ],
     "sources": [
       {
@@ -31203,7 +32108,8 @@
     "tags": [
       "昭王",
       "藍尹亹",
-      "避君"
+      "避君",
+      "部:其他"
     ],
     "sources": [
       {
@@ -32086,7 +32992,8 @@
     "tags": [
       "祭祀",
       "犧牲",
-      "禮制"
+      "禮制",
+      "部:經"
     ],
     "sources": [
       {
@@ -32970,6 +33877,26 @@
         "title": "墨子 · 七患",
         "url": "https://zh.wikisource.org/wiki/墨子/七患",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "賞不用而民勸",
+    "title": "賞不用而民勸",
+    "summary": "上好禮義，則賞罰不用而民化",
+    "tags": [
+      "荀子",
+      "治道",
+      "賞罰",
+      "教化"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -34995,7 +35922,9 @@
     "slug": "違若敖之欲",
     "title": "違若敖之欲",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -35978,6 +36907,26 @@
     ]
   },
   {
+    "slug": "闇主",
+    "title": "闇主",
+    "summary": "不親賢人，偏聽近習，必致危亡",
+    "tags": [
+      "荀子",
+      "君道",
+      "闇主",
+      "賢才"
+    ],
+    "sources": [
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
+      }
+    ]
+  },
+  {
     "slug": "阪泉之野",
     "title": "阪泉之野",
     "summary": "黃帝與炎帝三戰之地，黃帝脩德而有其志。",
@@ -36454,7 +37403,9 @@
     "slug": "雍子",
     "title": "雍子",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子"
+    ],
     "sources": [
       {
         "chapter": "卷17",
@@ -36643,6 +37594,13 @@
         "title": "禮記 · 經解",
         "url": "https://zh.wikisource.org/wiki/禮記/經解",
         "work": "禮記"
+      },
+      {
+        "chapter": "君道篇",
+        "plugin": "wikisource",
+        "title": "荀子 · 君道篇",
+        "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
+        "work": "荀子"
       }
     ]
   },
@@ -37508,7 +38466,8 @@
     "tags": [
       "聚斂",
       "亡國",
-      "積怨"
+      "積怨",
+      "部:其他"
     ],
     "sources": [
       {
@@ -37728,7 +38687,8 @@
     "tags": [
       "辭讓",
       "魯陽文子",
-      "祭祀"
+      "祭祀",
+      "部:子"
     ],
     "sources": [
       {
