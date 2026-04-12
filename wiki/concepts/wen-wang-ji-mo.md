@@ -1,13 +1,74 @@
 ---
+content_legacy: '## English
+
+
+  "文王既沒，文不在茲乎" (After King Wen has passed, does not the cultural tradition reside
+  in me?) is a famous statement from the Analects (論語·子罕 9:5), spoken by Confucius
+  during his imprisonment in Kuang.
+
+
+  ### Etymology and Meaning
+
+
+  - **文王** (Wén Wáng): King Wen of Zhou, the Confucian paragon of sage-kingship
+
+  - **沒** (mò): "To die" (same as 歿)
+
+  - **茲** (zī): "This," referring to Confucius himself
+
+  - **文** (wén): "Cultural tradition" or "refinement" — the complete cultural and
+  moral heritage from Yao, Shun, Yu, Tang, Wen, and Wu
+
+
+  The full passage reads:
+
+
+  > 文王既沒，文不在茲乎？天之將喪斯文也，後死者不得與於斯文也；天之未喪斯文也，匡人其如予何？
+
+
+  ### Historical Context
+
+
+  Confucius uttered these words while traveling through Kuang (匡), where he was mistakenly
+  mistaken for a man who had previously violated the area, leading to his disciples
+  being surrounded and endangered. Rather than fearing for his life, Confucius declared
+  his confidence in divine Providence — if Heaven intended to destroy the cultural
+  tradition (斯文), then he would not have been entrusted with it; if Heaven did not
+  so intend, the people of Kuang could do him no harm.
+
+
+  ### Philosophical Significance
+
+
+  This passage reveals:
+
+
+  1. **Self-assignment of cultural mission**: Confucius explicitly claims to be the
+  inheritor and transmitter of the Zhou cultural tradition
+
+  2. **Faith in Providence**: His confidence rests not on personal power but on Heaven''s
+  will (天)
+
+  3. **Identification with 斯文**: The "cultural refinement" that began with the Three
+  Sovereigns and Five Emperors, now embodied in Confucius himself
+
+
+  This aligns with the Zhongyong''s (中庸) teaching on 聖人 and 誠 — the sage who fulfills
+  his nature and thereby assists in the transformation of all things.
+
+
+  ---'
 created: '2026-04-10T11:11:40.777738+00:00'
+sanitized_at: '2026-04-12T16:17:26.739723'
 sources:
 - created: '2026-04-10T11:11:40.689608+00:00'
   plugin: qa
   question: 文王既沒，文不在茲乎？ 何意味？
   title: 文王既沒，文不在茲乎？ 何意味？
   url: ''
-summary: Confucius's declaration that the cultural tradition resides in him after
-  King Wen's passing, exemplifying his sense of mission to transmit the Way.
+summary: ''
+summary_legacy: Confucius's declaration that the cultural tradition resides in him
+  after King Wen's passing, exemplifying his sense of mission to transmit the Way.
 tags:
 - 論語
 - 孔子
@@ -19,39 +80,6 @@ tags:
 title: 文王既沒文不在茲乎
 updated: '2026-04-10T11:11:40.777751+00:00'
 ---
-
-## English
-
-"文王既沒，文不在茲乎" (After King Wen has passed, does not the cultural tradition reside in me?) is a famous statement from the Analects (論語·子罕 9:5), spoken by Confucius during his imprisonment in Kuang.
-
-### Etymology and Meaning
-
-- **文王** (Wén Wáng): King Wen of Zhou, the Confucian paragon of sage-kingship
-- **沒** (mò): "To die" (same as 歿)
-- **茲** (zī): "This," referring to Confucius himself
-- **文** (wén): "Cultural tradition" or "refinement" — the complete cultural and moral heritage from Yao, Shun, Yu, Tang, Wen, and Wu
-
-The full passage reads:
-
-> 文王既沒，文不在茲乎？天之將喪斯文也，後死者不得與於斯文也；天之未喪斯文也，匡人其如予何？
-
-### Historical Context
-
-Confucius uttered these words while traveling through Kuang (匡), where he was mistakenly mistaken for a man who had previously violated the area, leading to his disciples being surrounded and endangered. Rather than fearing for his life, Confucius declared his confidence in divine Providence — if Heaven intended to destroy the cultural tradition (斯文), then he would not have been entrusted with it; if Heaven did not so intend, the people of Kuang could do him no harm.
-
-### Philosophical Significance
-
-This passage reveals:
-
-1. **Self-assignment of cultural mission**: Confucius explicitly claims to be the inheritor and transmitter of the Zhou cultural tradition
-2. **Faith in Providence**: His confidence rests not on personal power but on Heaven's will (天)
-3. **Identification with 斯文**: The "cultural refinement" that began with the Three Sovereigns and Five Emperors, now embodied in Confucius himself
-
-This aligns with the Zhongyong's (中庸) teaching on 聖人 and 誠 — the sage who fulfills his nature and thereby assists in the transformation of all things.
-
----
-
-## 中文
 
 「文王既沒，文不在茲乎」，語出《論語·子罕》，為孔子厄於匡時所發之辭。
 
