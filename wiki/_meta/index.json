@@ -2057,6 +2057,27 @@
     ]
   },
   {
+    "slug": "不以小大量大",
+    "title": "不以小大量大",
+    "summary": "巨象之瘦，不同羔羊之肥；四瀆之濁，不方甕水之清。以小量大，謬矣。",
+    "tags": [
+      "抱朴子",
+      "比喻",
+      "博觀",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷43",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷43",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷43",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "不以微薄廢禮",
     "title": "不以微薄廢禮",
     "summary": "物雖菲薄，禮不可闕。",
@@ -2663,6 +2684,26 @@
         "plugin": "wikisource",
         "title": "詩經 · 苕之華",
         "url": "https://zh.wikisource.org/wiki/詩經/苕之華",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "不妬忌",
+    "title": "不妬忌",
+    "summary": "后妃逮下之德，子孫衆多之本。",
+    "tags": [
+      "詩經",
+      "后妃",
+      "德行",
+      "螽斯"
+    ],
+    "sources": [
+      {
+        "chapter": "螽斯",
+        "plugin": "wikisource",
+        "title": "詩經 · 螽斯",
+        "url": "https://zh.wikisource.org/wiki/詩經/螽斯",
         "work": "詩經"
       }
     ]
@@ -3418,6 +3459,27 @@
         "plugin": "wikisource",
         "title": "詩經 · 北山",
         "url": "https://zh.wikisource.org/wiki/詩經/北山",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "不知命",
+    "title": "不知命",
+    "summary": "淫奔之由，在乎不明天命之正。",
+    "tags": [
+      "詩經",
+      "天命",
+      "淫奔",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蝃蝀",
+        "plugin": "wikisource",
+        "title": "詩經 · 蝃蝀",
+        "url": "https://zh.wikisource.org/wiki/詩經/蝃蝀",
         "work": "詩經"
       }
     ]
@@ -8690,7 +8752,9 @@
       "蓼蕭",
       "美德",
       "壽考",
-      "喜樂"
+      "喜樂",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -11385,7 +11449,8 @@
     "tags": [
       "政事",
       "仕隱",
-      "論道"
+      "論道",
+      "部:子"
     ],
     "sources": [
       {
@@ -13048,6 +13113,48 @@
     ]
   },
   {
+    "slug": "倡予和女",
+    "title": "倡予和女",
+    "summary": "君先倡而臣繼和，喻上下相應之義。",
+    "tags": [
+      "詩經",
+      "君臣",
+      "唱和",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蘀兮",
+        "plugin": "wikisource",
+        "title": "詩經 · 蘀兮",
+        "url": "https://zh.wikisource.org/wiki/詩經/蘀兮",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "倡予要女",
+    "title": "倡予要女",
+    "summary": "唱與會合，喻上下同聲相應。",
+    "tags": [
+      "詩經",
+      "君臣",
+      "唱和",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蘀兮",
+        "plugin": "wikisource",
+        "title": "詩經 · 蘀兮",
+        "url": "https://zh.wikisource.org/wiki/詩經/蘀兮",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "倬彼雲漢-之",
     "title": "倬彼雲漢-之",
     "summary": "",
@@ -13150,6 +13257,26 @@
         "title": "韓非子 · 備內",
         "url": "https://zh.wikisource.org/wiki/韓非子/備內",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "偏嗜酸甜莫賞其味",
+    "title": "偏嗜酸甜莫賞其味",
+    "summary": "偏嗜一隅者，不足以識大全。喻學者專執一業則無由通子書之深旨。",
+    "tags": [
+      "比喻",
+      "為學",
+      "狹見",
+      "抱朴子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷44",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷44",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷44",
+        "work": "抱朴子"
       }
     ]
   },
@@ -17081,7 +17208,9 @@
       "小雅",
       "蓼蕭",
       "君德",
-      "恩澤"
+      "恩澤",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -20257,7 +20386,9 @@
       "詩經",
       "蓼莪",
       "起興",
-      "失親"
+      "失親",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -21904,6 +22035,9 @@
       "詩經",
       "責讓",
       "衞臣",
+      "兄弟",
+      "稱謂",
+      "臣下",
       "部:經",
       "部:經/詩類"
     ],
@@ -21913,6 +22047,13 @@
         "plugin": "wikisource",
         "title": "詩經 · 旄丘",
         "url": "https://zh.wikisource.org/wiki/詩經/旄丘",
+        "work": "詩經"
+      },
+      {
+        "chapter": "蘀兮",
+        "plugin": "wikisource",
+        "title": "詩經 · 蘀兮",
+        "url": "https://zh.wikisource.org/wiki/詩經/蘀兮",
         "work": "詩經"
       }
     ]
@@ -26539,7 +26680,9 @@
       "蓼蕭",
       "車馬",
       "禮儀",
-      "和鳴"
+      "和鳴",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -32994,6 +33137,27 @@
     ]
   },
   {
+    "slug": "大無信",
+    "title": "大無信",
+    "summary": "淫奔之人，背棄信義，無從一而終之操。",
+    "tags": [
+      "詩經",
+      "淫奔",
+      "信義",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蝃蝀",
+        "plugin": "wikisource",
+        "title": "詩經 · 蝃蝀",
+        "url": "https://zh.wikisource.org/wiki/詩經/蝃蝀",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "大田多稼",
     "title": "大田多稼",
     "summary": "盛言農田耕耘之備",
@@ -36208,7 +36372,10 @@
       "女子",
       "出嫁",
       "有行",
-      "部:子"
+      "詩經",
+      "禮義",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -36223,6 +36390,13 @@
         "plugin": "wikisource",
         "title": "詩經 · 竹竿",
         "url": "https://zh.wikisource.org/wiki/詩經/竹竿",
+        "work": "詩經"
+      },
+      {
+        "chapter": "蝃蝀",
+        "plugin": "wikisource",
+        "title": "詩經 · 蝃蝀",
+        "url": "https://zh.wikisource.org/wiki/詩經/蝃蝀",
         "work": "詩經"
       }
     ]
@@ -38164,11 +38338,11 @@
       "宋國",
       "篡權",
       "刑德",
-      "部:子",
-      "部:子/法家類",
       "賞罰",
       "權臣",
-      "篡弒"
+      "篡弒",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -39597,7 +39771,8 @@
     "tags": [
       "喻言",
       "實用",
-      "得失"
+      "得失",
+      "部:子"
     ],
     "sources": [
       {
@@ -40820,7 +40995,9 @@
       "小雅",
       "蓼蕭",
       "禮儀",
-      "親睦"
+      "親睦",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -40849,6 +41026,26 @@
         "plugin": "wikisource",
         "title": "詩經 · 桃夭",
         "url": "https://zh.wikisource.org/wiki/詩經/桃夭",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "宜爾子孫",
+    "title": "宜爾子孫",
+    "summary": "祝人多子興盛之辭。",
+    "tags": [
+      "詩經",
+      "子孫",
+      "祝頌",
+      "螽斯"
+    ],
+    "sources": [
+      {
+        "chapter": "螽斯",
+        "plugin": "wikisource",
+        "title": "詩經 · 螽斯",
+        "url": "https://zh.wikisource.org/wiki/詩經/螽斯",
         "work": "詩經"
       }
     ]
@@ -41919,7 +42116,9 @@
       "小雅",
       "蓼蕭",
       "恩寵",
-      "安撫"
+      "安撫",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -42761,6 +42960,27 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "小大之辨",
+    "title": "小大之辨",
+    "summary": "量大者無嫌乎多，量小者不足以議宏博。",
+    "tags": [
+      "抱朴子",
+      "博學",
+      "論衡",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷43",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷43",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷43",
         "work": "抱朴子"
       }
     ]
@@ -45926,7 +46146,9 @@
       "延陵卓子",
       "造父",
       "御馬",
-      "賞譽毀罰"
+      "賞譽毀罰",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -46602,7 +46824,8 @@
     "tags": [
       "風俗",
       "直諫",
-      "著作"
+      "著作",
+      "部:其他"
     ],
     "sources": [
       {
@@ -50404,6 +50627,27 @@
     ]
   },
   {
+    "slug": "懷昏姻",
+    "title": "懷昏姻",
+    "summary": "奔者之心，唯在婚姻，不顧禮義。",
+    "tags": [
+      "詩經",
+      "淫奔",
+      "婚姻",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蝃蝀",
+        "plugin": "wikisource",
+        "title": "詩經 · 蝃蝀",
+        "url": "https://zh.wikisource.org/wiki/詩經/蝃蝀",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "懸爵而賣",
     "title": "懸爵而賣",
     "summary": "靈獻之世，官如肆肆，財多者位尊，風頹教沮。",
@@ -52011,6 +52255,26 @@
     ]
   },
   {
+    "slug": "振振",
+    "title": "振振",
+    "summary": "仁厚之貌，子孫盛多之象。",
+    "tags": [
+      "詩經",
+      "德行",
+      "子孫",
+      "螽斯"
+    ],
+    "sources": [
+      {
+        "chapter": "螽斯",
+        "plugin": "wikisource",
+        "title": "詩經 · 螽斯",
+        "url": "https://zh.wikisource.org/wiki/詩經/螽斯",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "振振君子",
     "title": "振振君子",
     "summary": "誠信忠厚之貌",
@@ -52632,6 +52896,26 @@
         "title": "詩經 · 擊鼓",
         "url": "https://zh.wikisource.org/wiki/詩經/擊鼓",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "操水救火針灸攻疾",
+    "title": "操水救火針灸攻疾",
+    "summary": "器術雖異，而功效則同。喻百家殊途而皆有益於世。",
+    "tags": [
+      "比喻",
+      "學術",
+      "方法",
+      "抱朴子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷44",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷44",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷44",
+        "work": "抱朴子"
       }
     ]
   },
@@ -53681,7 +53965,9 @@
       "聚怨",
       "欺誑",
       "詩經",
-      "大雅"
+      "大雅",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -54522,7 +54808,9 @@
       "韓非子",
       "方吾子",
       "禮制",
-      "權勢"
+      "權勢",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -54571,6 +54859,27 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "於我歸處",
+    "title": "於我歸處",
+    "summary": "不知所歸之憂歎。",
+    "tags": [
+      "詩經",
+      "歸宿",
+      "生死",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蜉蝣",
+        "plugin": "wikisource",
+        "title": "詩經 · 蜉蝣",
+        "url": "https://zh.wikisource.org/wiki/詩經/蜉蝣",
+        "work": "詩經"
       }
     ]
   },
@@ -55282,7 +55591,8 @@
     "tags": [
       "喻言",
       "救急",
-      "遠近"
+      "遠近",
+      "部:其他"
     ],
     "sources": [
       {
@@ -58830,7 +59140,9 @@
       "小雅",
       "蓼蕭",
       "恩遇",
-      "安樂"
+      "安樂",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -59261,6 +59573,27 @@
         "title": "墨子 · 迎敵祠",
         "url": "https://zh.wikisource.org/wiki/墨子/迎敵祠",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "朝隮于西",
+    "title": "朝隮于西",
+    "summary": "朝虹見西，崇朝而雨，喻女子之淫奔不能有成。",
+    "tags": [
+      "詩經",
+      "虹",
+      "淫奔",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蝃蝀",
+        "plugin": "wikisource",
+        "title": "詩經 · 蝃蝀",
+        "url": "https://zh.wikisource.org/wiki/詩經/蝃蝀",
+        "work": "詩經"
       }
     ]
   },
@@ -63158,6 +63491,21 @@
     ]
   },
   {
+    "slug": "正經子書相輔-之",
+    "title": "正經子書相輔-之",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷44",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷44",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷44",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "正經子書相輔",
     "title": "正經與子書相輔",
     "summary": "正經為道義淵海，子書為增深川流，二者殊途同歸。",
@@ -64619,7 +64967,9 @@
       "蓼莪",
       "孝道",
       "孤子",
-      "歎恨"
+      "歎恨",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -68260,7 +68610,8 @@
     "tags": [
       "莊周",
       "譏刺",
-      "虛實"
+      "虛實",
+      "部:子"
     ],
     "sources": [
       {
@@ -68569,7 +68920,9 @@
       "潘壽",
       "燕國",
       "說客",
-      "篡國"
+      "篡國",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -69529,7 +69882,9 @@
       "小雅",
       "蓼蕭",
       "恩寵",
-      "榮耀"
+      "榮耀",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -71197,7 +71552,9 @@
       "蓼莪",
       "父母",
       "鞠養",
-      "恩德"
+      "恩德",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -75474,7 +75831,10 @@
     "tags": [
       "學術",
       "諸子百家",
-      "部:子"
+      "部:子",
+      "百家",
+      "子書",
+      "抱朴子"
     ],
     "sources": [
       {
@@ -75482,6 +75842,13 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷32",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷32",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷44",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷44",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷44",
         "work": "抱朴子"
       }
     ]
@@ -80835,7 +81202,8 @@
     "tags": [
       "為文",
       "立言",
-      "教化"
+      "教化",
+      "部:集"
     ],
     "sources": [
       {
@@ -83161,6 +83529,26 @@
     ]
   },
   {
+    "slug": "繩繩",
+    "title": "繩繩",
+    "summary": "戒慎恭恪之貌，子孫相承而不絕。",
+    "tags": [
+      "詩經",
+      "德行",
+      "戒慎",
+      "螽斯"
+    ],
+    "sources": [
+      {
+        "chapter": "螽斯",
+        "plugin": "wikisource",
+        "title": "詩經 · 螽斯",
+        "url": "https://zh.wikisource.org/wiki/詩經/螽斯",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "繼弒君不言即位",
     "title": "繼弒君不言即位",
     "summary": "先君不以道終，嗣君不忍即位，以正繼承之義。",
@@ -83213,7 +83601,9 @@
       "蓼莪",
       "孤子",
       "孝道",
-      "恥辱"
+      "恥辱",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -89227,7 +89617,8 @@
     "tags": [
       "為文",
       "實學",
-      "言辯"
+      "言辯",
+      "部:其他"
     ],
     "sources": [
       {
@@ -89463,7 +89854,9 @@
       "小雅",
       "蓼蕭",
       "福澤",
-      "天下"
+      "天下",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -90231,7 +90624,9 @@
       "小雅",
       "蓼蕭",
       "起興",
-      "恩澤"
+      "恩澤",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -90252,7 +90647,9 @@
       "小雅",
       "朝會",
       "宴饗",
-      "頌美"
+      "頌美",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -90464,7 +90861,9 @@
       "傷周室",
       "殷鑒",
       "毛詩",
-      "大雅"
+      "大雅",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -91396,6 +91795,90 @@
     ]
   },
   {
+    "slug": "蜉蝣之羽",
+    "title": "蜉蝣之羽",
+    "summary": "以蜉蝣羽翼之美，興人生危脆之歎。",
+    "tags": [
+      "詩經",
+      "興寄",
+      "生死",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蜉蝣",
+        "plugin": "wikisource",
+        "title": "詩經 · 蜉蝣",
+        "url": "https://zh.wikisource.org/wiki/詩經/蜉蝣",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "蜉蝣之翼",
+    "title": "蜉蝣之翼",
+    "summary": "喻外在之美不過一時。",
+    "tags": [
+      "詩經",
+      "興寄",
+      "比喻",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蜉蝣",
+        "plugin": "wikisource",
+        "title": "詩經 · 蜉蝣",
+        "url": "https://zh.wikisource.org/wiki/詩經/蜉蝣",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "蜉蝣之詩",
+    "title": "詩經·蜉蝣",
+    "summary": "以朝生暮死之蟲，興國小無依之歎。",
+    "tags": [
+      "詩經",
+      "曹風",
+      "興寄",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蜉蝣",
+        "plugin": "wikisource",
+        "title": "詩經 · 蜉蝣",
+        "url": "https://zh.wikisource.org/wiki/詩經/蜉蝣",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "蜉蝣掘閱",
+    "title": "蜉蝣掘閱",
+    "summary": "狀蜉蝣初生穴出之態，以興人生危脆。",
+    "tags": [
+      "詩經",
+      "興寄",
+      "昆蟲",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蜉蝣",
+        "plugin": "wikisource",
+        "title": "詩經 · 蜉蝣",
+        "url": "https://zh.wikisource.org/wiki/詩經/蜉蝣",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "蜾蠃負之",
     "title": "蜾蠃負之",
     "summary": "蜾蠃銜負螟蛉以養，比善人之能成其子。",
@@ -91411,6 +91894,49 @@
         "plugin": "wikisource",
         "title": "詩經 · 小宛",
         "url": "https://zh.wikisource.org/wiki/詩經/小宛",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "蝃蝀",
+    "title": "蝃蝀",
+    "summary": "詩經篇名，刺淫奔之詩，以虹象女子之非禮。",
+    "tags": [
+      "詩經",
+      "國風",
+      "衛風",
+      "淫奔",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蝃蝀",
+        "plugin": "wikisource",
+        "title": "詩經 · 蝃蝀",
+        "url": "https://zh.wikisource.org/wiki/詩經/蝃蝀",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "蝃蝀在東",
+    "title": "蝃蝀在東",
+    "summary": "虹現於東，人莫敢指，喻淫奔之行將見非於世。",
+    "tags": [
+      "詩經",
+      "虹",
+      "淫奔",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蝃蝀",
+        "plugin": "wikisource",
+        "title": "詩經 · 蝃蝀",
+        "url": "https://zh.wikisource.org/wiki/詩經/蝃蝀",
         "work": "詩經"
       }
     ]
@@ -91453,6 +91979,46 @@
         "plugin": "wikisource",
         "title": "詩經 · 小宛",
         "url": "https://zh.wikisource.org/wiki/詩經/小宛",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "螽斯",
+    "title": "螽斯",
+    "summary": "詩以蝗蟲之多子喻后妃不妬、子孫繁盛之祥。",
+    "tags": [
+      "詩經",
+      "興象",
+      "子孫",
+      "后妃"
+    ],
+    "sources": [
+      {
+        "chapter": "螽斯",
+        "plugin": "wikisource",
+        "title": "詩經 · 螽斯",
+        "url": "https://zh.wikisource.org/wiki/詩經/螽斯",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "蟄蟄",
+    "title": "蟄蟄",
+    "summary": "聚會衆多之貌。",
+    "tags": [
+      "詩經",
+      "興象",
+      "聚會",
+      "螽斯"
+    ],
+    "sources": [
+      {
+        "chapter": "螽斯",
+        "plugin": "wikisource",
+        "title": "詩經 · 螽斯",
+        "url": "https://zh.wikisource.org/wiki/詩經/螽斯",
         "work": "詩經"
       }
     ]
@@ -92219,6 +92785,27 @@
         "title": "荀子 · 子道篇",
         "url": "https://zh.wikisource.org/wiki/荀子/子道篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "衣裳楚楚",
+    "title": "衣裳楚楚",
+    "summary": "喻事物之華美終難久恃。",
+    "tags": [
+      "詩經",
+      "興象",
+      "物象",
+      "部:經",
+      "部:經/易類"
+    ],
+    "sources": [
+      {
+        "chapter": "蜉蝣",
+        "plugin": "wikisource",
+        "title": "詩經 · 蜉蝣",
+        "url": "https://zh.wikisource.org/wiki/詩經/蜉蝣",
+        "work": "詩經"
       }
     ]
   },
@@ -93981,6 +94568,13 @@
         "title": "列子 · 說符篇",
         "url": "https://zh.wikisource.org/wiki/列子/說符篇",
         "work": "列子"
+      },
+      {
+        "chapter": "卷43",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷43",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷43",
+        "work": "抱朴子"
       }
     ]
   },
@@ -94214,7 +94808,8 @@
     "tags": [
       "言行",
       "迂闊",
-      "論道"
+      "論道",
+      "部:子"
     ],
     "sources": [
       {
@@ -94857,6 +95452,28 @@
         "plugin": "wikisource",
         "title": "詩經 · 蒹葭",
         "url": "https://zh.wikisource.org/wiki/詩經/蒹葭",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "詩經蘀兮",
+    "title": "詩經·蘀兮",
+    "summary": "《詩經·鄭風》篇名，二章，章四句，以風葉之喻刺君弱臣強。",
+    "tags": [
+      "詩經",
+      "鄭風",
+      "興象",
+      "君臣",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蘀兮",
+        "plugin": "wikisource",
+        "title": "詩經 · 蘀兮",
+        "url": "https://zh.wikisource.org/wiki/詩經/蘀兮",
         "work": "詩經"
       }
     ]
@@ -102396,6 +103013,27 @@
     ]
   },
   {
+    "slug": "采采衣服",
+    "title": "采采衣服",
+    "summary": "形容服飾華美之盛。",
+    "tags": [
+      "詩經",
+      "服飾",
+      "興象",
+      "部:經",
+      "部:經/易類"
+    ],
+    "sources": [
+      {
+        "chapter": "蜉蝣",
+        "plugin": "wikisource",
+        "title": "詩經 · 蜉蝣",
+        "url": "https://zh.wikisource.org/wiki/詩經/蜉蝣",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "釋老莊之意",
     "title": "釋老莊之意",
     "summary": "當世聖明，宜去老莊之說不急者，精究六經之正道。",
@@ -104908,7 +105546,8 @@
     "tags": [
       "喻言",
       "為文",
-      "虛實"
+      "虛實",
+      "部:其他"
     ],
     "sources": [
       {
@@ -105411,7 +106050,9 @@
       "小雅",
       "蓼蕭",
       "起興",
-      "恩澤"
+      "恩澤",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -105432,7 +106073,9 @@
       "小雅",
       "蓼蕭",
       "起興",
-      "恩澤"
+      "恩澤",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -105453,7 +106096,9 @@
       "小雅",
       "蓼蕭",
       "起興",
-      "恩澤"
+      "恩澤",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -105474,7 +106119,9 @@
       "小雅",
       "蓼蕭",
       "起興",
-      "恩澤"
+      "恩澤",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -106323,7 +106970,9 @@
       "小雅",
       "蓼蕭",
       "車馬",
-      "威儀"
+      "威儀",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -107036,6 +107685,27 @@
         "title": "抱朴子 · 卷13",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "風吹落葉",
+    "title": "風吹落葉",
+    "summary": "以風喻在上者，吹落葉而落葉應之，喻君倡臣和之義。",
+    "tags": [
+      "詩經",
+      "風喻",
+      "君臣",
+      "部:經",
+      "部:經/詩類"
+    ],
+    "sources": [
+      {
+        "chapter": "蘀兮",
+        "plugin": "wikisource",
+        "title": "詩經 · 蘀兮",
+        "url": "https://zh.wikisource.org/wiki/詩經/蘀兮",
+        "work": "詩經"
       }
     ]
   },
@@ -109632,6 +110302,27 @@
         "title": "禮記 · 服問",
         "url": "https://zh.wikisource.org/wiki/禮記/服問",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "麻衣如雪",
+    "title": "麻衣如雪",
+    "summary": "喻喪服之白，以興悲感。",
+    "tags": [
+      "詩經",
+      "服飾",
+      "興象",
+      "部:經",
+      "部:經/易類"
+    ],
+    "sources": [
+      {
+        "chapter": "蜉蝣",
+        "plugin": "wikisource",
+        "title": "詩經 · 蜉蝣",
+        "url": "https://zh.wikisource.org/wiki/詩經/蜉蝣",
+        "work": "詩經"
       }
     ]
   },
