@@ -58,6 +58,27 @@
     ]
   },
   {
+    "slug": "you-fei-jun-zi",
+    "title": "有斐君子 / The Elegant Gentleman",
+    "summary": "The Confucian exposition from Da Xue on the ideal gentleman, whose virtues of scholarly discussion, self-cultivation, reverent caution, and dignified bearing exemplify 止於至善.",
+    "tags": [
+      "confucianism",
+      "daxue",
+      "self-cultivation",
+      "virtue",
+      "shijing"
+    ],
+    "sources": [
+      {
+        "created": "2026-04-12T15:32:49.191689+00:00",
+        "plugin": "qa",
+        "question": "「如切如磋」者，道學也；「如琢如磨」者，自脩也；「瑟兮僩兮」者，恂慄也；「赫兮喧兮」者，威儀也；「有斐君子，終不可諠兮」者，道盛德至善，民之不能忘也。何意味？",
+        "title": "「如切如磋」者，道學也；「如琢如磨」者，自脩也；「瑟兮僩兮」者，恂慄也；「赫兮喧兮」者，威儀也；「有斐君子，終不可諠兮」者，道盛德至善，民之不能忘也。何意味？",
+        "url": ""
+      }
+    ]
+  },
+  {
     "slug": "一之日觱發",
     "title": "一之日觱發",
     "summary": "十一月之風，寒而且厲也。",
@@ -3526,6 +3547,21 @@
     ]
   },
   {
+    "slug": "二十五弦箜篌瑟",
+    "title": "二十五弦箜篌瑟",
+    "summary": "塞南越後，用樂舞益召歌兒，作二十五弦及箜篌瑟。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "二子乘舟",
     "title": "二子乘舟",
     "summary": "詠衞宣公二子伋、壽爭相赴死，國人哀思而作。",
@@ -3791,6 +3827,25 @@
         "title": "墨子 · 尚同上",
         "url": "https://zh.wikisource.org/wiki/墨子/尚同上",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "五利將軍",
+    "title": "五利將軍",
+    "summary": "欒大佩六印，貴振天下，后以妄言無驗被誅。",
+    "tags": [
+      "方士",
+      "漢武",
+      "欒大"
+    ],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -6538,6 +6593,21 @@
     ]
   },
   {
+    "slug": "伐南越以泰一靈旗",
+    "title": "伐南越以泰一靈旗",
+    "summary": "為伐南越造靈旗，以牡荊畫幡日月北斗登龍，象天一三星。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "伐吳會稽",
     "title": "伐吳會稽 / The Siege of Kuaiji and Wu's Defeat / 呉を伐ち会稽に聚める",
     "summary": "The historical account of how King Goujian of Yue defeated and besieged Wu at Kuaiji (會稽), leading to Wu's eventual destruction.",
@@ -7660,6 +7730,27 @@
     ]
   },
   {
+    "slug": "信以發志",
+    "title": "信以發志",
+    "summary": "孚信感通，善志乃彰。",
+    "tags": [
+      "周易",
+      "大有",
+      "爻辭",
+      "六五",
+      "德行"
+    ],
+    "sources": [
+      {
+        "chapter": "大有",
+        "plugin": "wikisource",
+        "title": "周易 · 大有",
+        "url": "https://zh.wikisource.org/wiki/周易/大有",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "信及豚魚",
     "title": "信及豚魚",
     "summary": "至誠之感，達於微物，無遠弗屆。",
@@ -8250,6 +8341,27 @@
     ]
   },
   {
+    "slug": "傲兀不檢為弘偉",
+    "title": "傲兀不檢為弘偉",
+    "summary": "諷當世黑白倒置，以姦為直，以忠為迂，美惡之名實俱亡。",
+    "tags": [
+      "顛倒是非",
+      "價值觀",
+      "世風",
+      "抱朴子",
+      "諷刺"
+    ],
+    "sources": [
+      {
+        "chapter": "卷33",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷33",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷33",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "傷之十五事",
     "title": "傷之十五事",
     "summary": "十五事皆足傷身，養生者當戒之。",
@@ -8574,6 +8686,21 @@
     ]
   },
   {
+    "slug": "元封元年",
+    "title": "元封元年",
+    "summary": "寶鼎出，有司言當為元鼎，以今年為元封元年。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "元戎十乘",
     "title": "元戎十乘",
     "summary": "兵車之盛，率師以先。",
@@ -8790,6 +8917,25 @@
     ]
   },
   {
+    "slug": "先迷失道後順得常",
+    "title": "先迷失道，後順得常",
+    "summary": "君子先行則迷，後順則得常道。",
+    "tags": [
+      "周易",
+      "坤卦",
+      "彖辭"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "先進後進",
     "title": "先進後進",
     "summary": "夫子自謂從先進之禮樂，不從後進之溫文。",
@@ -8924,6 +9070,26 @@
         "title": "禮記 · 服問",
         "url": "https://zh.wikisource.org/wiki/禮記/服問",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "兕觥",
+    "title": "兕觥",
+    "summary": "犀角所制之酒器。",
+    "tags": [
+      "詩經",
+      "禮器",
+      "酒器",
+      "犀角"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
       }
     ]
   },
@@ -9637,6 +9803,21 @@
     ]
   },
   {
+    "slug": "公孫卿候神",
+    "title": "公孫卿候神",
+    "summary": "公孫卿持節候名山，言夜見巨人跡，以待神仙。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "公孫固言於宋襄公",
     "title": "公孫固言於宋襄公",
     "summary": "公孫固贊重耳之美，宋襄公贈馬以厚之。",
@@ -9654,6 +9835,21 @@
         "title": "國語 · 卷10",
         "url": "https://zh.wikisource.org/wiki/國語/卷10",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "公孫弘",
+    "title": "公孫弘",
+    "summary": "竇太后崩後，上徵文學之士公孫弘等。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -11349,6 +11545,26 @@
     ]
   },
   {
+    "slug": "剛健文明",
+    "title": "剛健文明",
+    "summary": "德兼剛強與文雅，應天時而行。",
+    "tags": [
+      "周易",
+      "大有",
+      "德行",
+      "彖辭"
+    ],
+    "sources": [
+      {
+        "chapter": "大有",
+        "plugin": "wikisource",
+        "title": "周易 · 大有",
+        "url": "https://zh.wikisource.org/wiki/周易/大有",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "剛掩",
     "title": "剛掩",
     "summary": "陽剛被陰柔所掩，九五之中道不行",
@@ -12089,6 +12305,47 @@
     ]
   },
   {
+    "slug": "匪其彭",
+    "title": "匪其彭",
+    "summary": "盛大而不矜，知止以遠害。",
+    "tags": [
+      "周易",
+      "大有",
+      "爻辭",
+      "九四"
+    ],
+    "sources": [
+      {
+        "chapter": "大有",
+        "plugin": "wikisource",
+        "title": "周易 · 大有",
+        "url": "https://zh.wikisource.org/wiki/周易/大有",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "匪咎艱貞",
+    "title": "匪咎艱貞",
+    "summary": "无交害者不為咎，知艱守正者終得无咎。",
+    "tags": [
+      "周易",
+      "大有",
+      "爻辭",
+      "初九",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "大有",
+        "plugin": "wikisource",
+        "title": "周易 · 大有",
+        "url": "https://zh.wikisource.org/wiki/周易/大有",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "匪媒不得",
     "title": "匪媒不得",
     "summary": "娶妻無媒則不得成，喻禮法之不可闕",
@@ -12548,7 +12805,9 @@
       "鹿鳴之什",
       "亡辭之詩",
       "孝道",
-      "六笙詩"
+      "六笙詩",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -12738,6 +12997,26 @@
     ]
   },
   {
+    "slug": "卷耳",
+    "title": "卷耳",
+    "summary": "《詩經》國風周南篇，詠后妃思念賢臣行役之苦。",
+    "tags": [
+      "詩經",
+      "周南",
+      "國風",
+      "懷人"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "卿大夫日卒",
     "title": "卿大夫日卒",
     "summary": "大夫日卒，正也；稱公弟叔仲，賢也。",
@@ -12823,6 +13102,21 @@
         "title": "列子 · 力命篇",
         "url": "https://zh.wikisource.org/wiki/列子/力命篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "厚德載物",
+    "title": "厚德載物",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
       }
     ]
   },
@@ -13874,6 +14168,25 @@
     ]
   },
   {
+    "slug": "吁",
+    "title": "吁",
+    "summary": "憂愁感嘆之辭。",
+    "tags": [
+      "詩經",
+      "情感",
+      "感嘆"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "各正性命",
     "title": "各正性命",
     "summary": "天道變化，萬物各稟其性命之正，保合大和。",
@@ -14194,6 +14507,46 @@
         "title": "文子 · 卷二",
         "url": "https://zh.wikisource.org/wiki/文子/卷二",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "后土祠",
+    "title": "后土祠",
+    "summary": "孝武東巡，立后土祠於汾陰脽上，親望拜如上帝禮。",
+    "tags": [
+      "祠祀",
+      "后土",
+      "汾陰",
+      "漢武"
+    ],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "后妃之志",
+    "title": "后妃之志",
+    "summary": "毛詩序言此詩所述，乃后妃輔佐君子之志。",
+    "tags": [
+      "詩經",
+      "毛詩序",
+      "后妃",
+      "賢能"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
       }
     ]
   },
@@ -14791,6 +15144,40 @@
         "plugin": "wikisource",
         "title": "周易 · 否",
         "url": "https://zh.wikisource.org/wiki/周易/否",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "含弘光大",
+    "title": "含弘光大",
+    "summary": "坤德含弘，光大萬物，品物咸亨。",
+    "tags": [
+      "周易",
+      "坤卦",
+      "彖辭"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "含章可貞",
+    "title": "含章可貞",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
         "work": "周易"
       }
     ]
@@ -15721,6 +16108,25 @@
         "title": "論語 · 爲政第二",
         "url": "https://zh.wikisource.org/wiki/論語/爲政第二",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "周行",
+    "title": "周行",
+    "summary": "大道也。",
+    "tags": [
+      "詩經",
+      "地理",
+      "道路"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
       }
     ]
   },
@@ -17868,6 +18274,21 @@
     ]
   },
   {
+    "slug": "地道无成",
+    "title": "地道无成",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "地道迎穴",
     "title": "地道迎穴",
     "summary": "敵為穴以入，我亟遣穴師迎而穴之，內弩以待。",
@@ -17978,6 +18399,230 @@
         "plugin": "wikisource",
         "title": "周易 · 坎",
         "url": "https://zh.wikisource.org/wiki/周易/坎",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "坤",
+    "title": "坤",
+    "summary": "地道至柔，承天而生，厚德載物。",
+    "tags": [
+      "周易",
+      "六十四卦",
+      "坤卦"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "坤之文言",
+    "title": "坤之文言",
+    "summary": "坤文言分釋六爻，闡發坤德精義。",
+    "tags": [
+      "周易",
+      "十翼",
+      "坤卦"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "坤厚載物",
+    "title": "坤厚載物",
+    "summary": "坤以厚德承載萬物。",
+    "tags": [
+      "周易",
+      "坤卦",
+      "象辭"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "坤文言-地道",
+    "title": "坤文言　地道无成",
+    "summary": "地道柔順，无成代終。",
+    "tags": [
+      "周易",
+      "坤文言",
+      "坤卦"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "坤文言-括囊",
+    "title": "坤文言　括囊之義",
+    "summary": "括囊慎謹，天地閉塞之時。",
+    "tags": [
+      "周易",
+      "坤文言",
+      "坤卦"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "坤文言-敬義",
+    "title": "坤文言　敬義之德",
+    "summary": "敬以直內，義以方外。",
+    "tags": [
+      "周易",
+      "坤文言",
+      "坤卦"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "坤文言-積善",
+    "title": "坤文言　積善之家",
+    "summary": "善惡之積，漸以成殃。",
+    "tags": [
+      "周易",
+      "坤文言",
+      "坤卦"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "坤文言-黃裳",
+    "title": "坤文言　黃裳之義",
+    "summary": "黃中通理，美之至也。",
+    "tags": [
+      "周易",
+      "坤文言",
+      "坤卦"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "坤文言-龍戰",
+    "title": "坤文言　龍戰之義",
+    "summary": "陰疑於陽必戰，天玄地黃。",
+    "tags": [
+      "周易",
+      "坤文言",
+      "坤卦"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "坤文言",
+    "title": "坤文言",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "坤至柔而動也剛",
+    "title": "坤至柔而動也剛",
+    "summary": "坤之為道，至柔而動則剛，至靜而德則方。",
+    "tags": [
+      "周易",
+      "坤文言",
+      "坤卦"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "坤道其順乎",
+    "title": "坤道其順乎",
+    "summary": "坤道之要，在於柔順，承天而時行。",
+    "tags": [
+      "周易",
+      "坤文言",
+      "坤卦"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
         "work": "周易"
       }
     ]
@@ -19003,6 +19648,25 @@
     ]
   },
   {
+    "slug": "壯于大輿之輹",
+    "title": "壯于大輿之輹",
+    "summary": "壯於大車之軸，喻力有所歸也。",
+    "tags": [
+      "大壯",
+      "爻辭",
+      "大壯九四"
+    ],
+    "sources": [
+      {
+        "chapter": "大壯",
+        "plugin": "wikisource",
+        "title": "周易 · 大壯",
+        "url": "https://zh.wikisource.org/wiki/周易/大壯",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "壹同",
     "title": "壹同天下之義 / Unification of Standards Under Heaven / 天下の義の統一",
     "summary": "The principle that rulers at each level must unify the standards of right and wrong within their jurisdiction, creating ordered governance.",
@@ -19061,6 +19725,26 @@
         "title": "商君書 · 卷三",
         "url": "https://zh.wikisource.org/wiki/商君書/卷三",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "壽宮神君",
+    "title": "壽宮神君",
+    "summary": "設壽宮奉神君，神君最貴者太一，時去時來，聞其音而不見其人。",
+    "tags": [
+      "祠祀",
+      "神君",
+      "漢武",
+      "太一"
+    ],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -19863,6 +20547,26 @@
     ]
   },
   {
+    "slug": "大車以載",
+    "title": "大車以載",
+    "summary": "任重道遠，積中不敗。",
+    "tags": [
+      "周易",
+      "大有",
+      "爻辭",
+      "九二"
+    ],
+    "sources": [
+      {
+        "chapter": "大有",
+        "plugin": "wikisource",
+        "title": "周易 · 大有",
+        "url": "https://zh.wikisource.org/wiki/周易/大有",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "大閱",
     "title": "大閱",
     "summary": "八月壬午，大閱，簡車馬也。",
@@ -20277,6 +20981,25 @@
         "plugin": "wikisource",
         "title": "周易 · 咸",
         "url": "https://zh.wikisource.org/wiki/周易/咸",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "天地閉賢人隱",
+    "title": "天地閉，賢人隱",
+    "summary": "天地變化則草木蕃，天地閉塞則賢人隱。",
+    "tags": [
+      "周易",
+      "坤文言",
+      "坤卦"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
         "work": "周易"
       }
     ]
@@ -21209,6 +21932,21 @@
     ]
   },
   {
+    "slug": "奉車子侯",
+    "title": "奉車子侯",
+    "summary": "霍子侯為奉車子侯，從天子登泰山封禪，暴病一日而死。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "奔喪不及殯",
     "title": "奔喪不及殯",
     "summary": "奔喪者不及見殯，則先之墓哭，遂除服而歸。",
@@ -21363,7 +22101,10 @@
       "姦邪",
       "抱朴子",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "忠賢",
+      "黨錮",
+      "亡國"
     ],
     "sources": [
       {
@@ -21371,6 +22112,13 @@
         "plugin": "wikisource",
         "title": "抱朴子 · 卷15",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
+        "work": "抱朴子"
+      },
+      {
+        "chapter": "卷33",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷33",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷33",
         "work": "抱朴子"
       }
     ]
@@ -22559,6 +23307,21 @@
     ]
   },
   {
+    "slug": "孝武皇帝初即位",
+    "title": "孝武皇帝初即位",
+    "summary": "孝武皇帝初即位，尤敬鬼神之祀，祠灶求仙，封禪改正度。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "季冶致祿",
     "title": "季冶致祿",
     "summary": "季冶追卞人而歸其祿，以為受欺君之祿而立其朝，非所能事。",
@@ -23377,6 +24140,40 @@
     ]
   },
   {
+    "slug": "安期生",
+    "title": "安期生",
+    "summary": "安期生為海上僊人，食臣棗大如瓜，通道蓬萊，合則見人，不合則隱。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "安貞之吉",
+    "title": "安貞之吉",
+    "summary": "安於正固，則吉。坤德柔順，應地无疆。",
+    "tags": [
+      "周易",
+      "坤卦",
+      "彖辭"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "宋人及楚人平",
     "title": "宋人及楚人平",
     "summary": "司馬子反與華元各以誠實相告，遂罷楚圍。公羊傳美之，以為大夫能平其國。",
@@ -24184,6 +24981,41 @@
     ]
   },
   {
+    "slug": "寶鼎",
+    "title": "寶鼎",
+    "summary": "汾陰得鼎，光潤龍變，天子以為受命之祥瑞，因以名年。",
+    "tags": [
+      "祥瑞",
+      "鼎",
+      "漢武",
+      "汾陰"
+    ],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "寶鼎神筴",
+    "title": "寶鼎神筴",
+    "summary": "黃帝得寶鼎神筴，迎日推筴，終而復始，皇帝敬拜見焉。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "封功臣謀士",
     "title": "封功臣謀士",
     "summary": "武王克殷，封功臣謀士及先聖之後，師尚父為首封，營丘曰齊，曲阜曰魯。",
@@ -24199,6 +25031,21 @@
         "plugin": "wikisource",
         "title": "史記 · 卷004",
         "url": "https://zh.wikisource.org/wiki/史記/卷004",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "封泰山下東方",
+    "title": "封泰山下東方",
+    "summary": "封於泰山下東方，行如郊祠泰一之禮，廣丈二尺，高九尺，玉牒書秘。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
         "work": "史記"
       }
     ]
@@ -25055,6 +25902,21 @@
     ]
   },
   {
+    "slug": "履霜堅冰至",
+    "title": "履霜堅冰至",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "屨校滅趾",
     "title": "屨校滅趾",
     "summary": "足械沒趾，小刑止惡，不行也",
@@ -25142,6 +26004,40 @@
         "title": "抱朴子 · 卷15",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "崇高邑",
+    "title": "崇高邑",
+    "summary": "登中嶽太室，從官聞「萬歲」聲，因封三百戶奉祠，命曰崇高邑。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "崔嵬",
+    "title": "崔嵬",
+    "summary": "高峻之山也。",
+    "tags": [
+      "詩經",
+      "地理",
+      "山川"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
       }
     ]
   },
@@ -25269,6 +26165,26 @@
         "title": "禮記 · 王制",
         "url": "https://zh.wikisource.org/wiki/禮記/王制",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "巡郡縣侵尋泰山",
+    "title": "巡郡縣侵尋泰山",
+    "summary": "天子始巡郡縣，封禪之議起於郡縣之巡。",
+    "tags": [
+      "封禪",
+      "泰山",
+      "漢武",
+      "巡守"
+    ],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -26204,6 +27120,21 @@
     ]
   },
   {
+    "slug": "建元",
+    "title": "建元",
+    "summary": "孝武即位，以建元名年，緣年號紀元之制始此。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "引兌",
     "title": "引兌",
     "summary": "援引他人以相悅，邪道引長，其德未光。",
@@ -27091,6 +28022,25 @@
     ]
   },
   {
+    "slug": "德合无疆",
+    "title": "德合无疆",
+    "summary": "坤德厚重，與地之无疆相合。",
+    "tags": [
+      "周易",
+      "坤卦",
+      "彖辭"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "德教者黼黻之祭服",
     "title": "德教者黼黻之祭服，刑罰者捍刃之甲胄",
     "summary": "喻仁政與刑罰相須為用，不可偏廢",
@@ -27108,6 +28058,21 @@
         "title": "抱朴子 · 卷14",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "德星昭衍",
+    "title": "德星昭衍",
+    "summary": "望氣者言建漢家封禪，天其報德星，天子郊拜泰一時贊饗之辭。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -27440,6 +28405,26 @@
         "title": "孟子 · 離婁下",
         "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "思古君子官賢人",
+    "title": "思古君子官賢人",
+    "summary": "魯詩說此詩之旨，在思古之君子能官任賢人。",
+    "tags": [
+      "詩經",
+      "魯詩說",
+      "賢人",
+      "官職"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
       }
     ]
   },
@@ -28899,6 +29884,21 @@
     ]
   },
   {
+    "slug": "括囊无咎",
+    "title": "括囊无咎",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "持三日糧",
     "title": "持三日糧",
     "summary": "項羽渡河救鉅鹿，破釜沈釜，持三日糧以示士卒必死之心。",
@@ -28958,6 +29958,21 @@
         "title": "國語 · 卷21",
         "url": "https://zh.wikisource.org/wiki/國語/卷21",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "振兵澤旅",
+    "title": "振兵澤旅",
+    "summary": "古者先振兵澤旅，然後封禪，孝武遂北巡勒兵而還祭黃帝冢。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -29823,6 +30838,25 @@
     ]
   },
   {
+    "slug": "敬義立而德不孤",
+    "title": "敬義立而德不孤",
+    "summary": "君子敬以直內，義以方外，敬義並立則德不孤。",
+    "tags": [
+      "周易",
+      "坤文言",
+      "坤卦"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "敬賢於請",
     "title": "敬賢於請",
     "summary": "敬賢者以請益為貴，不以得位為先。",
@@ -29982,6 +31016,25 @@
         "title": "六韜",
         "url": "https://zh.wikisource.org/wiki/六韜",
         "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "文成將軍",
+    "title": "文成將軍",
+    "summary": "少翁以鬼神方見上，拜為文成將軍，后以偽書被誅。",
+    "tags": [
+      "方士",
+      "漢武",
+      "少翁"
+    ],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -30860,6 +31913,21 @@
     ]
   },
   {
+    "slug": "明堂城南",
+    "title": "明堂城南",
+    "summary": "趙綰王臧欲議古立明堂城南，以朝諸侯，事未就而敗。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "明師之恩",
     "title": "明師之恩",
     "summary": "明師之恩過於天地重於父母，不可不崇求",
@@ -31069,6 +32137,27 @@
     ]
   },
   {
+    "slug": "明辨晰也",
+    "title": "明辨晰也",
+    "summary": "智光照朗，善惡分明。",
+    "tags": [
+      "周易",
+      "大有",
+      "爻辭",
+      "九四",
+      "德行"
+    ],
+    "sources": [
+      {
+        "chapter": "大有",
+        "plugin": "wikisource",
+        "title": "周易 · 大有",
+        "url": "https://zh.wikisource.org/wiki/周易/大有",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "明鏡照魅",
     "title": "明鏡照魅",
     "summary": "古之入山道士以明鏡懸於背後，可辨老魅與山神。",
@@ -31225,6 +32314,27 @@
         "title": "孟子 · 離婁下",
         "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "易而无備",
+    "title": "易而无備",
+    "summary": "平易近人，不設防範而自威。",
+    "tags": [
+      "周易",
+      "大有",
+      "爻辭",
+      "六五",
+      "德行"
+    ],
+    "sources": [
+      {
+        "chapter": "大有",
+        "plugin": "wikisource",
+        "title": "周易 · 大有",
+        "url": "https://zh.wikisource.org/wiki/周易/大有",
+        "work": "周易"
       }
     ]
   },
@@ -33107,6 +34217,21 @@
     ]
   },
   {
+    "slug": "柏梁臺",
+    "title": "柏梁臺",
+    "summary": "孝武作柏梁臺、銅柱、承露僊人掌之屬，以求神仙。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "染絲之喻",
     "title": "The Silk Dyeing Metaphor / 染絲之喻",
     "summary": "墨子以染絲為喻，闡明人受師友影響之理。",
@@ -33276,6 +34401,40 @@
         "title": "三略",
         "url": "https://zh.wikisource.org/wiki/三略",
         "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "柔順利貞",
+    "title": "柔順利貞",
+    "summary": "坤之德，柔順而利於正固。",
+    "tags": [
+      "周易",
+      "坤卦",
+      "象辭"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "栗太子廢",
+    "title": "栗太子廢",
+    "summary": "孝景七年，栗太子被廢為臨江王，膠東王得立為太子。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -33808,6 +34967,21 @@
     ]
   },
   {
+    "slug": "樂成侯",
+    "title": "樂成侯",
+    "summary": "樂成侯上書言欒大，欒大遂見天子，拜為五利將軍。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "樂者樂也",
     "title": "樂者樂也 / Music Is Joy",
     "summary": "The philosophical principle that music fundamentally expresses and induces joy, distinguishing proper music from mere sound.",
@@ -33926,6 +35100,21 @@
         "title": "春秋公羊傳 · 桓公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/桓公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "欒大",
+    "title": "欒大",
+    "summary": "欒大以方術見上，佩六印貴振天下，後以妄言被誅。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -34119,6 +35308,25 @@
         "title": "春秋穀梁傳 · 僖公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/僖公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "正大而天地之情可見",
+    "title": "正大而天地之情可見",
+    "summary": "正直而廣大，天地之道於是見焉。",
+    "tags": [
+      "大壯",
+      "彖辭",
+      "天道"
+    ],
+    "sources": [
+      {
+        "chapter": "大壯",
+        "plugin": "wikisource",
+        "title": "周易 · 大壯",
+        "url": "https://zh.wikisource.org/wiki/周易/大壯",
+        "work": "周易"
       }
     ]
   },
@@ -35236,6 +36444,44 @@
     ]
   },
   {
+    "slug": "永傷",
+    "title": "永傷",
+    "summary": "久久悲傷之謂。",
+    "tags": [
+      "詩經",
+      "悲傷",
+      "情感"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "永懷",
+    "title": "永懷",
+    "summary": "久久思念之謂。",
+    "tags": [
+      "詩經",
+      "思念",
+      "情感"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "求之以貌責之以妍",
     "title": "求之以貌責之以妍",
     "summary": "俗人務在皮膚，不料心誌，徒睹外形之粗簡，不能察精神之淵邈。",
@@ -35357,6 +36603,26 @@
     ]
   },
   {
+    "slug": "求賢審官",
+    "title": "求賢審官",
+    "summary": "后妃輔佐君子，當選拔賢才，審察百官。",
+    "tags": [
+      "詩經",
+      "賢能",
+      "官職",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "求道在志之篤",
     "title": "求道在志之篤",
     "summary": "修道貴志之堅笃，不貴近效；患志之不篤，務近忘遠。",
@@ -35434,6 +36700,21 @@
         "plugin": "wikisource",
         "title": "史記 · 卷011",
         "url": "https://zh.wikisource.org/wiki/史記/卷011",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "汾陰得鼎",
+    "title": "汾陰得鼎",
+    "summary": "汾陰巫錦於魏脽后土營旁得鼎，迎至甘泉，天子以為神瑞。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
         "work": "史記"
       }
     ]
@@ -35953,6 +37234,25 @@
     ]
   },
   {
+    "slug": "泰一",
+    "title": "泰一",
+    "summary": "天神貴者曰泰一，漢武郊祀以為至高之神。",
+    "tags": [
+      "祠祀",
+      "漢武",
+      "天神"
+    ],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "泰山其頹",
     "title": "Confucius's Death Song / 泰山其頹",
     "summary": "Confucius sang of the collapse of mountains and great men upon sensing his imminent death.",
@@ -35984,6 +37284,21 @@
         "title": "春秋穀梁傳 · 哀公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/哀公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "泰山封禪",
+    "title": "泰山封禪",
+    "summary": "孝武封禪泰山，祭天也；禪肅然山，祭地也；遂巡郡縣而還。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -36260,6 +37575,21 @@
         "title": "抱朴子 · 卷11",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷11",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "深澤侯主方",
+    "title": "深澤侯主方",
+    "summary": "少君故深澤侯舍人，以主方入侍，匿其年及所生長，常自謂七十。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -36796,6 +38126,27 @@
     ]
   },
   {
+    "slug": "漢末道微俗弊",
+    "title": "漢末道微俗弊",
+    "summary": "抱朴子痛論東漢末年風俗敗壞、道德淪喪之世道。",
+    "tags": [
+      "漢末",
+      "風俗",
+      "道德",
+      "抱朴子",
+      "批評"
+    ],
+    "sources": [
+      {
+        "chapter": "卷33",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷33",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷33",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "潛龍勿用",
     "title": "潛龍勿用",
     "summary": "陽氣潛藏，龍德隱而不見，聖人未遇其時也。",
@@ -36974,6 +38325,26 @@
         "title": "抱朴子 · 卷04",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷04",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "火在天上",
+    "title": "火在天上",
+    "summary": "火高照而天下明，盛大之象。",
+    "tags": [
+      "周易",
+      "大有",
+      "象辭",
+      "天道"
+    ],
+    "sources": [
+      {
+        "chapter": "大有",
+        "plugin": "wikisource",
+        "title": "周易 · 大有",
+        "url": "https://zh.wikisource.org/wiki/周易/大有",
+        "work": "周易"
       }
     ]
   },
@@ -37997,6 +39368,25 @@
     ]
   },
   {
+    "slug": "牝馬之貞",
+    "title": "牝馬之貞",
+    "summary": "坤之利貞，取象牝馬，柔順而可行地无疆。",
+    "tags": [
+      "周易",
+      "坤卦",
+      "象數"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "物不至者則不反",
     "title": "物不至者則不反",
     "summary": "物未極則不知返，患未至則不知戒",
@@ -38356,6 +39746,25 @@
         "title": "韓非子 · 主道",
         "url": "https://zh.wikisource.org/wiki/韓非子/主道",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "玄黃",
+    "title": "玄黃",
+    "summary": "馬病目眩之謂。",
+    "tags": [
+      "詩經",
+      "馬",
+      "疾病"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
       }
     ]
   },
@@ -38836,6 +40245,25 @@
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "用六",
+    "title": "用六",
+    "summary": "坤卦用六，利永貞，以大終。",
+    "tags": [
+      "周易",
+      "坤卦",
+      "專名"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
       }
     ]
   },
@@ -39584,6 +41012,44 @@
     ]
   },
   {
+    "slug": "痡",
+    "title": "痡",
+    "summary": "人疲病也。",
+    "tags": [
+      "詩經",
+      "人",
+      "疲病"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "瘏",
+    "title": "瘏",
+    "summary": "馬疲病也。",
+    "tags": [
+      "詩經",
+      "馬",
+      "疲病"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "瘨弧箕服",
     "title": "瘨弧箕服",
     "summary": "童謠之驗，周亡之兆。",
@@ -39740,7 +41206,11 @@
       "地理",
       "西巡",
       "部:史",
-      "部:史/地理類"
+      "部:史/地理類",
+      "祠祀",
+      "封禪",
+      "漢武",
+      "雍"
     ],
     "sources": [
       {
@@ -39748,6 +41218,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
         "work": "史記"
       }
     ]
@@ -39971,6 +41448,26 @@
         "plugin": "wikisource",
         "title": "史記 · 卷004",
         "url": "https://zh.wikisource.org/wiki/史記/卷004",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "白鹿皮幣",
+    "title": "白鹿皮幣",
+    "summary": "天子苑有白鹿以其皮為幣，以發瑞應，造白金焉。",
+    "tags": [
+      "祥瑞",
+      "貨幣",
+      "漢武",
+      "白鹿"
+    ],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
         "work": "史記"
       }
     ]
@@ -40435,6 +41932,21 @@
         "title": "史記 · 卷006",
         "url": "https://zh.wikisource.org/wiki/史記/卷006",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "直方大",
+    "title": "直方大",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
       }
     ]
   },
@@ -40932,6 +42444,25 @@
     ]
   },
   {
+    "slug": "砠",
+    "title": "砠",
+    "summary": "有土之石山也。",
+    "tags": [
+      "詩經",
+      "地理",
+      "山川"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "破琴剿弦",
     "title": "破琴剿弦",
     "summary": "古之破琴剿弦者，諒有以而然。",
@@ -41196,6 +42727,21 @@
     ]
   },
   {
+    "slug": "神君長陵女子",
+    "title": "神君長陵女子",
+    "summary": "長陵女子以子死悲哀，見神於先後宛若，宛若祠之，其後子孫尊顯。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "神莫大於化道",
     "title": "神莫大於化道，福莫長於無禍",
     "summary": "神之至者，在於與道化合；福之大者，在於終身無祸。",
@@ -41262,6 +42808,25 @@
         "title": "墨子 · 明鬼下",
         "url": "https://zh.wikisource.org/wiki/墨子/明鬼下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "祠灶",
+    "title": "祠灶",
+    "summary": "祠灶致物，化沙為金，以求神仙不死之術。",
+    "tags": [
+      "方術",
+      "祠祀",
+      "漢武"
+    ],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -42748,6 +44313,21 @@
     ]
   },
   {
+    "slug": "積善之家必有餘慶",
+    "title": "積善之家必有餘慶",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "積善成德",
     "title": "積善成德",
     "summary": "積累小善以成大德，積累小學以成大學。",
@@ -42873,6 +44453,21 @@
         "title": "墨子 · 備突",
         "url": "https://zh.wikisource.org/wiki/墨子/備突",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "竇太后治黃老言",
+    "title": "竇太后治黃老言",
+    "summary": "竇太后崇黃老而抑儒術，案誅趙綰王臧，諸所興為者皆廢。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -45424,6 +47019,21 @@
     ]
   },
   {
+    "slug": "肅然山",
+    "title": "肅然山",
+    "summary": "封禪後禪於泰山下阯東北肅然山，如祭后土之禮。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "肅肅兔罝-之",
     "title": "肅肅兔罝-之",
     "summary": "",
@@ -45745,6 +47355,21 @@
     ]
   },
   {
+    "slug": "膠東王",
+    "title": "膠東王",
+    "summary": "孝景四年，皇子為膠東王；七年，立為太子；十六年即位，是為孝武皇帝。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "臣作股肱耳目",
     "title": "臣作股肱耳目",
     "summary": "堯以臣為股肱耳目，各司其職，輔助天子。",
@@ -45857,6 +47482,27 @@
         "title": "荀子 · 君道篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "自天佑之",
+    "title": "自天佑之",
+    "summary": "天助賢善，吉无不利。",
+    "tags": [
+      "周易",
+      "大有",
+      "爻辭",
+      "上九",
+      "天道"
+    ],
+    "sources": [
+      {
+        "chapter": "大有",
+        "plugin": "wikisource",
+        "title": "周易 · 大有",
+        "url": "https://zh.wikisource.org/wiki/周易/大有",
+        "work": "周易"
       }
     ]
   },
@@ -45980,6 +47626,25 @@
         "title": "抱朴子 · 卷01",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷01",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "至哉坤元",
+    "title": "至哉坤元",
+    "summary": "坤之元德，萬物資生。",
+    "tags": [
+      "周易",
+      "坤卦",
+      "彖辭"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
       }
     ]
   },
@@ -46729,6 +48394,25 @@
         "title": "墨子 · 親士",
         "url": "https://zh.wikisource.org/wiki/墨子/親士",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "艱則吉",
+    "title": "艱則吉",
+    "summary": "處困而不失其守，終以艱亨。",
+    "tags": [
+      "大壯",
+      "爻辭",
+      "處世"
+    ],
+    "sources": [
+      {
+        "chapter": "大壯",
+        "plugin": "wikisource",
+        "title": "周易 · 大壯",
+        "url": "https://zh.wikisource.org/wiki/周易/大壯",
+        "work": "周易"
       }
     ]
   },
@@ -48009,6 +49693,21 @@
     ]
   },
   {
+    "slug": "薄誘忌",
+    "title": "薄誘忌",
+    "summary": "毫人薄誘忌奏祠泰一方，天子令太祝立祠長安東南郊。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "薪柴杜外",
     "title": "薪柴杜外",
     "summary": "城外薪木柴搏，廣厚足以任城，以堵禦敵人之攻城器械。",
@@ -48430,6 +50129,25 @@
         "title": "墨子 · 非攻上",
         "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "虺隤",
+    "title": "虺隤",
+    "summary": "馬疲極至病之謂。",
+    "tags": [
+      "詩經",
+      "馬",
+      "疲病"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
       }
     ]
   },
@@ -49090,6 +50808,25 @@
         "title": "禮記 · 杂记上",
         "url": "https://zh.wikisource.org/wiki/禮記/杂记上",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "西南得朋東北喪朋",
+    "title": "西南得朋，東北喪朋",
+    "summary": "坤之利西南則得朋，東北則喪朋，以柔道與類同行也。",
+    "tags": [
+      "周易",
+      "坤卦",
+      "方位"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
       }
     ]
   },
@@ -51950,6 +53687,21 @@
     ]
   },
   {
+    "slug": "趙綰王臧",
+    "title": "趙綰王臧",
+    "summary": "趙綰、王臧以文學為公卿，議立明堂草封禪事，竇太后不好儒術，皆案誅之。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "趙襄子伐狄勝而懼",
     "title": "趙襄子使新稚穆子伐狄",
     "summary": "戰勝而懼福祿之非所當得",
@@ -52983,6 +54735,13 @@
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
         "work": "史記"
+      },
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -53675,6 +55434,26 @@
     ]
   },
   {
+    "slug": "遏惡揚善",
+    "title": "遏惡揚善",
+    "summary": "止邪枉、彰善德，以順天命。",
+    "tags": [
+      "周易",
+      "大有",
+      "修身",
+      "天道"
+    ],
+    "sources": [
+      {
+        "chapter": "大有",
+        "plugin": "wikisource",
+        "title": "周易 · 大有",
+        "url": "https://zh.wikisource.org/wiki/周易/大有",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "遐覽",
     "title": "遐覽",
     "summary": "廣索異書之名目，以待好道者知所求。",
@@ -54018,6 +55797,21 @@
         "title": "國語 · 卷01",
         "url": "https://zh.wikisource.org/wiki/國語/卷01",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "郊見五畤",
+    "title": "郊見五畤",
+    "summary": "天子初至雍，郊見五畤，後常三歲一郊。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -54790,6 +56584,26 @@
     ]
   },
   {
+    "slug": "金罍",
+    "title": "金罍",
+    "summary": "青铜酒器之名。",
+    "tags": [
+      "詩經",
+      "禮器",
+      "酒器",
+      "青铜器"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
+      }
+    ]
+  },
+  {
     "slug": "金銀可作",
     "title": "金銀可作",
     "summary": "黃金白銀可由煉化而得，非自然而已。",
@@ -55244,6 +57058,27 @@
         "title": "國語 · 卷05",
         "url": "https://zh.wikisource.org/wiki/國語/卷05",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "閹官秉國",
+    "title": "閹官秉國",
+    "summary": "斥閹宦竊權，秉持國政，廢興由己，禍及天下。",
+    "tags": [
+      "閹官",
+      "宦官",
+      "漢末",
+      "權奸",
+      "抱朴子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷33",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷33",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷33",
+        "work": "抱朴子"
       }
     ]
   },
@@ -56761,6 +58596,25 @@
     ]
   },
   {
+    "slug": "非禮弗履",
+    "title": "非禮弗履",
+    "summary": "君子以禮制壯，壯而不越禮乃可。",
+    "tags": [
+      "大壯",
+      "象辭",
+      "禮義"
+    ],
+    "sources": [
+      {
+        "chapter": "大壯",
+        "plugin": "wikisource",
+        "title": "周易 · 大壯",
+        "url": "https://zh.wikisource.org/wiki/周易/大壯",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "非長生難聞道難",
     "title": "非長生難，聞道難",
     "summary": "非長生難，聞道難；非聞道難，行之難；非行之難，終之難。",
@@ -56929,6 +58783,25 @@
         "title": "國語 · 卷13",
         "url": "https://zh.wikisource.org/wiki/國語/卷13",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "頃筐",
+    "title": "頃筐",
+    "summary": "斜口淺筐，形近簸箕。",
+    "tags": [
+      "詩經",
+      "器物",
+      "農具"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
       }
     ]
   },
@@ -57417,6 +59290,27 @@
     ]
   },
   {
+    "slug": "養豺狼殲驎虞",
+    "title": "養豺狼殲驎虞",
+    "summary": "斥當軸者獎賞顛倒，嫉害賢良而庇護姦惡。",
+    "tags": [
+      "賞罰",
+      "賢愚",
+      "姦邪",
+      "抱朴子",
+      "批評"
+    ],
+    "sources": [
+      {
+        "chapter": "卷33",
+        "plugin": "wikisource",
+        "title": "抱朴子 · 卷33",
+        "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷33",
+        "work": "抱朴子"
+      }
+    ]
+  },
+  {
     "slug": "餕",
     "title": "The Post-Sacrifice Feast (Jun) / 餕",
     "summary": "The \"Jun\" feast, eaten after the sacrificial ceremony, represents the final and democratic phase of the ritual, distributing blessings to all participants regardless of rank.",
@@ -57555,6 +59449,26 @@
         "title": "周易 · 中孚",
         "url": "https://zh.wikisource.org/wiki/周易/中孚",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "馬瘏僕痡",
+    "title": "馬瘏僕痡",
+    "summary": "馬病僕病，喻行役之苦。",
+    "tags": [
+      "詩經",
+      "行役",
+      "艱苦",
+      "僕從"
+    ],
+    "sources": [
+      {
+        "chapter": "卷耳",
+        "plugin": "wikisource",
+        "title": "詩經 · 卷耳",
+        "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
+        "work": "詩經"
       }
     ]
   },
@@ -58471,6 +60385,25 @@
     ]
   },
   {
+    "slug": "黃中通理",
+    "title": "黃中通理",
+    "summary": "君子黃中通理，美在其中，發於事業。",
+    "tags": [
+      "周易",
+      "坤文言",
+      "坤卦"
+    ],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
+      }
+    ]
+  },
+  {
     "slug": "黃帝",
     "title": "黃帝",
     "summary": "軒轅氏，代神農為天子，肇造文明，功被華夏。",
@@ -58501,6 +60434,26 @@
     ]
   },
   {
+    "slug": "黃帝僊登于天",
+    "title": "黃帝僊登于天",
+    "summary": "公孫卿引申功之言，述黃帝鑄鼎僊去之事，以證封禪可致神仙。",
+    "tags": [
+      "黃帝",
+      "神仙",
+      "封禪",
+      "漢武"
+    ],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "黃帝橋山之塚",
     "title": "黃帝橋山之塚",
     "summary": "黃帝服神丹之後龍來迎之，群臣追慕；其葬於橋山，乃仙去非死，猶有廟墓之類。",
@@ -58514,6 +60467,13 @@
         "title": "抱朴子 · 卷13",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
       }
     ]
   },
@@ -58654,6 +60614,21 @@
         "title": "抱朴子 · 卷11",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷11",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "黃裳元吉",
+    "title": "黃裳元吉",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
+        "work": "周易"
       }
     ]
   },
@@ -58815,6 +60790,41 @@
     ]
   },
   {
+    "slug": "鼎湖",
+    "title": "鼎湖",
+    "summary": "黃帝鑄鼎荊山，龍垂胡髯下迎，後世因名其處曰鼎湖。",
+    "tags": [
+      "黃帝",
+      "神仙",
+      "鼎",
+      "傳說"
+    ],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "鼎湖弓烏號",
+    "title": "鼎湖弓烏號",
+    "summary": "黃帝上天，百姓抱其弓與龍胡髯號，後世名其處曰鼎湖，其弓曰烏號。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "鼎銘",
     "title": "Inscriptions on Ritual Vessels / 鼎銘",
     "summary": "The Confucian practice of inscribing bronze vessels with records of ancestors' virtue and achievements, serving as a means of moral education and familial remembrance.",
@@ -58954,6 +60964,21 @@
     ]
   },
   {
+    "slug": "齊桓公柏寢",
+    "title": "齊桓公柏寢",
+    "summary": "少君識得古銅器為齊桓公十年陳於柏寢之物，一宮盡駭，以為神人。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷012",
+        "plugin": "wikisource",
+        "title": "史記 · 卷012",
+        "url": "https://zh.wikisource.org/wiki/史記/卷012",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "齊桓有天下之大節",
     "title": "齊桓公有天下之大節",
     "summary": "桓公之霸，在能用管仲、知人任賢，此天下之大知大決。",
@@ -59055,6 +61080,21 @@
         "plugin": "wikisource",
         "title": "周易 · 乾",
         "url": "https://zh.wikisource.org/wiki/周易/乾",
+        "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "龍戰于野",
+    "title": "龍戰于野",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "坤",
+        "plugin": "wikisource",
+        "title": "周易 · 坤",
+        "url": "https://zh.wikisource.org/wiki/周易/坤",
         "work": "周易"
       }
     ]
