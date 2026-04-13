@@ -534,7 +534,9 @@
     "tags": [
       "管子",
       "農業",
-      "積儲"
+      "積儲",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -4457,7 +4459,9 @@
     "tags": [
       "管子",
       "農業",
-      "社會"
+      "社會",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -12008,7 +12012,9 @@
     "tags": [
       "管子",
       "哲學",
-      "名實"
+      "名實",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -13071,7 +13077,9 @@
     "tags": [
       "管子",
       "治國",
-      "官制"
+      "官制",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -13113,7 +13121,9 @@
       "管子",
       "治道",
       "五帝",
-      "政論"
+      "政論",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -14594,6 +14604,25 @@
         "title": "詩經 · 北風",
         "url": "https://zh.wikisource.org/wiki/詩經/北風",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "亟變而不變",
+    "title": "亟變而不變",
+    "summary": "世事亟變而治道有常，唯通變乃能守常。",
+    "tags": [
+      "管子",
+      "治道",
+      "通變"
+    ],
+    "sources": [
+      {
+        "chapter": "第79篇國準",
+        "plugin": "wikisource",
+        "title": "管子 · 第79篇國準",
+        "url": "https://zh.wikisource.org/wiki/管子/第79篇國準",
+        "work": "管子"
       }
     ]
   },
@@ -17633,9 +17662,9 @@
       "權威",
       "名譽",
       "管仲",
+      "號令",
       "部:子",
-      "部:子/法家類",
-      "號令"
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -17903,6 +17932,25 @@
         "title": "抱朴子 · 卷32",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷32",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "以其所所能託其所不能",
+    "title": "以其所所能託其所不能",
+    "summary": "以其所所能託其所不能，若舟之與車。",
+    "tags": [
+      "治術",
+      "比喻",
+      "智慧"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -34617,7 +34665,10 @@
       "管子",
       "治道",
       "兼聽",
-      "變通"
+      "變通",
+      "部:子",
+      "部:子/法家類",
+      "通變"
     ],
     "sources": [
       {
@@ -34625,6 +34676,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第79篇國准",
         "url": "https://zh.wikisource.org/wiki/管子/第79篇國准",
+        "work": "管子"
+      },
+      {
+        "chapter": "第79篇國準",
+        "plugin": "wikisource",
+        "title": "管子 · 第79篇國準",
+        "url": "https://zh.wikisource.org/wiki/管子/第79篇國準",
         "work": "管子"
       }
     ]
@@ -35656,7 +35714,9 @@
       "管子",
       "經濟",
       "幣制",
-      "理財"
+      "理財",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -35664,6 +35724,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第79篇國准",
         "url": "https://zh.wikisource.org/wiki/管子/第79篇國准",
+        "work": "管子"
+      },
+      {
+        "chapter": "第79篇國準",
+        "plugin": "wikisource",
+        "title": "管子 · 第79篇國準",
+        "url": "https://zh.wikisource.org/wiki/管子/第79篇國準",
         "work": "管子"
       }
     ]
@@ -35931,7 +35998,9 @@
     "tags": [
       "貨幣",
       "財政策",
-      "封建"
+      "封建",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -41004,7 +41073,9 @@
     "tags": [
       "管子",
       "社會",
-      "救濟"
+      "救濟",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -51677,6 +51748,25 @@
     ]
   },
   {
+    "slug": "周公朝窮巷",
+    "title": "周公朝窮巷",
+    "summary": "周公旦所朝於窮巷之中、甕牖之下者七十人。",
+    "tags": [
+      "周公",
+      "尊賢",
+      "禮下"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "周公東征",
     "title": "周公東征",
     "summary": "周公帥師東伐，三年歸來，歸士美之而作是詩。",
@@ -53357,6 +53447,13 @@
         "title": "韓非子 · 存韓",
         "url": "https://zh.wikisource.org/wiki/韓非子/存韓",
         "work": "韓非子"
+      },
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -54571,6 +54668,25 @@
     ]
   },
   {
+    "slug": "善持勝",
+    "title": "善持勝",
+    "summary": "善持勝者，以術彊弱，不以力聞。",
+    "tags": [
+      "治術",
+      "老子",
+      "無為"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "善持勢者蚤絶其姦萌",
     "title": "善持勢者蚤絶其姦萌",
     "summary": "姦者行久成積，明主當蚤絶之",
@@ -55181,7 +55297,10 @@
       "論說",
       "治道",
       "部:子",
-      "部:子/雜家類"
+      "部:子/雜家類",
+      "說術",
+      "遊說",
+      "治術"
     ],
     "sources": [
       {
@@ -55189,6 +55308,32 @@
         "plugin": "wikisource",
         "title": "呂氏春秋 · 卷二十一",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十一",
+        "work": "呂氏春秋"
+      },
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "善說者陳其勢言其方",
+    "title": "善說者陳其勢言其方",
+    "summary": "善說者陳其勢，言其方，見人之急，若自在危厄之中。",
+    "tags": [
+      "說術",
+      "遊說",
+      "智慧"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
         "work": "呂氏春秋"
       }
     ]
@@ -58162,6 +58307,25 @@
     ]
   },
   {
+    "slug": "因時",
+    "title": "因時",
+    "summary": "智者舉事必因時，時不可必成，其人事則不廣。",
+    "tags": [
+      "治術",
+      "天時",
+      "權謀"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "因時之所自然而不可強為",
     "title": "因時之所自然而不可強為",
     "summary": "聖人乘時而動，不逆其勢；桀之力可以制禽獸，而不可以勝湯。",
@@ -58557,7 +58721,9 @@
       "管子",
       "治國",
       "時宜",
-      "政論"
+      "政論",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -58565,6 +58731,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第79篇國准",
         "url": "https://zh.wikisource.org/wiki/管子/第79篇國准",
+        "work": "管子"
+      },
+      {
+        "chapter": "第79篇國準",
+        "plugin": "wikisource",
+        "title": "管子 · 第79篇國準",
+        "url": "https://zh.wikisource.org/wiki/管子/第79篇國準",
         "work": "管子"
       }
     ]
@@ -58721,7 +58894,9 @@
     "tags": [
       "管子",
       "治國",
-      "機微"
+      "機微",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -61195,6 +61370,25 @@
         "title": "詩經 · 緜",
         "url": "https://zh.wikisource.org/wiki/詩經/緜",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "堯不以帝見善綣",
+    "title": "堯不以帝見善綣",
+    "summary": "堯不以帝見善綃，北面而問焉，此之謂至公。",
+    "tags": [
+      "堯",
+      "尊賢",
+      "至公"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -64457,7 +64651,9 @@
     "tags": [
       "管子",
       "經濟",
-      "輕重"
+      "輕重",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -72400,7 +72596,10 @@
       "管子",
       "治道",
       "察變",
-      "觀人"
+      "觀人",
+      "部:子",
+      "部:子/法家類",
+      "觀察"
     ],
     "sources": [
       {
@@ -72408,6 +72607,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第79篇國准",
         "url": "https://zh.wikisource.org/wiki/管子/第79篇國准",
+        "work": "管子"
+      },
+      {
+        "chapter": "第79篇國準",
+        "plugin": "wikisource",
+        "title": "管子 · 第79篇國準",
+        "url": "https://zh.wikisource.org/wiki/管子/第79篇國準",
         "work": "管子"
       }
     ]
@@ -76088,6 +76294,26 @@
     ]
   },
   {
+    "slug": "孔子哭子路",
+    "title": "孔子哭子路於中庭",
+    "summary": "夫子哭子路，進使者問故，既聞醢之遂命覆醢",
+    "tags": [
+      "孔子",
+      "子路",
+      "師弟",
+      "喪禮"
+    ],
+    "sources": [
+      {
+        "chapter": "檀弓上",
+        "plugin": "wikisource",
+        "title": "禮記 · 檀弓上",
+        "url": "https://zh.wikisource.org/wiki/禮記/檀弓上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "孔子射於矍相之圃",
     "title": "孔子射於矍相之圃",
     "summary": "",
@@ -79347,7 +79573,10 @@
     "slug": "守大夫",
     "title": "守大夫",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
     "sources": [
       {
         "chapter": "第76篇山至數",
@@ -79362,7 +79591,10 @@
     "slug": "守天下之數",
     "title": "守天下之數",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
     "sources": [
       {
         "chapter": "第76篇山至數",
@@ -82071,6 +82303,26 @@
         "title": "韓非子 · 飭令",
         "url": "https://zh.wikisource.org/wiki/韓非子/飭令",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "宿草",
+    "title": "朋友之墓有宿草而不哭",
+    "summary": "朋友之喪，宿草既陳，哀當已矣",
+    "tags": [
+      "禮",
+      "喪禮",
+      "朋友",
+      "時節"
+    ],
+    "sources": [
+      {
+        "chapter": "檀弓上",
+        "plugin": "wikisource",
+        "title": "禮記 · 檀弓上",
+        "url": "https://zh.wikisource.org/wiki/禮記/檀弓上",
+        "work": "禮記"
       }
     ]
   },
@@ -87289,7 +87541,9 @@
     "tags": [
       "管子",
       "治國",
-      "輕重"
+      "輕重",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -95640,6 +95894,25 @@
     ]
   },
   {
+    "slug": "德幾無小",
+    "title": "德幾無小",
+    "summary": "德幾無小；宣孟德一士猶活其身，而況德萬人乎。",
+    "tags": [
+      "德",
+      "報恩",
+      "善報"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "德廣所及",
     "title": "德廣所及",
     "summary": "德化之廣，無遠弗屆，被及南國。",
@@ -103109,6 +103382,25 @@
     ]
   },
   {
+    "slug": "拜而後稽顙",
+    "title": "拜而後稽顙",
+    "summary": "論喪禮拜稽之先後，順與至之別",
+    "tags": [
+      "禮",
+      "喪禮",
+      "檀弓"
+    ],
+    "sources": [
+      {
+        "chapter": "檀弓上",
+        "plugin": "wikisource",
+        "title": "禮記 · 檀弓上",
+        "url": "https://zh.wikisource.org/wiki/禮記/檀弓上",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "拜賜之師",
     "title": "拜賜之師",
     "summary": "晉人稱秦師為「拜賜之師」，蓋彭衙之敗，秦人前嘗拜受晉人賜命，今乃敗報之。",
@@ -103179,7 +103471,10 @@
       "持勝",
       "憂者所以為昌",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "政治",
+      "治道",
+      "慎微"
     ],
     "sources": [
       {
@@ -103188,6 +103483,13 @@
         "title": "列子 · 說符篇",
         "url": "https://zh.wikisource.org/wiki/列子/說符篇",
         "work": "列子"
+      },
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -112186,6 +112488,25 @@
     ]
   },
   {
+    "slug": "昭文君禮張儀",
+    "title": "昭文君禮張儀",
+    "summary": "昭文君資張儀至秦，惠王說而相之，張儀之力也。",
+    "tags": [
+      "昭文君",
+      "張儀",
+      "禮賢"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "昭明有融",
     "title": "昭明有融",
     "summary": "光耀昭著，其明融遍。",
@@ -112699,7 +113020,10 @@
       "管子",
       "治道",
       "時機",
-      "聖人之術"
+      "聖人之術",
+      "部:子",
+      "部:子/法家類",
+      "應時"
     ],
     "sources": [
       {
@@ -112707,6 +113031,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第79篇國准",
         "url": "https://zh.wikisource.org/wiki/管子/第79篇國准",
+        "work": "管子"
+      },
+      {
+        "chapter": "第79篇國準",
+        "plugin": "wikisource",
+        "title": "管子 · 第79篇國準",
+        "url": "https://zh.wikisource.org/wiki/管子/第79篇國準",
         "work": "管子"
       }
     ]
@@ -116856,6 +117187,25 @@
         "title": "韓非子 · 揚榷",
         "url": "https://zh.wikisource.org/wiki/韓非子/揚榷",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "有道之士固驕人主",
+    "title": "有道之士固驕人主",
+    "summary": "有道之士固驕人主，賢主則不然，士雖驕之，而己愈禮之。",
+    "tags": [
+      "治道",
+      "尊賢",
+      "君臣"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -121106,6 +121456,13 @@
         "title": "韓非子 · 難一",
         "url": "https://zh.wikisource.org/wiki/韓非子/難一",
         "work": "韓非子"
+      },
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -125799,6 +126156,13 @@
         "title": "史記 · 卷004",
         "url": "https://zh.wikisource.org/wiki/史記/卷004",
         "work": "史記"
+      },
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -126211,7 +126575,9 @@
     "tags": [
       "管子",
       "農業",
-      "積儲"
+      "積儲",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -135453,7 +135819,9 @@
       "天下",
       "政體",
       "部:子",
-      "部:子/墨家類"
+      "部:子/墨家類",
+      "夏桀",
+      "仁政"
     ],
     "sources": [
       {
@@ -135476,6 +135844,13 @@
         "title": "荀子 · 正論篇",
         "url": "https://zh.wikisource.org/wiki/荀子/正論篇",
         "work": "荀子"
+      },
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -140318,7 +140693,10 @@
       "管子",
       "治道",
       "理財",
-      "民本"
+      "民本",
+      "部:子",
+      "部:子/法家類",
+      "民力"
     ],
     "sources": [
       {
@@ -140326,6 +140704,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第79篇國准",
         "url": "https://zh.wikisource.org/wiki/管子/第79篇國准",
+        "work": "管子"
+      },
+      {
+        "chapter": "第79篇國準",
+        "plugin": "wikisource",
+        "title": "管子 · 第79篇國準",
+        "url": "https://zh.wikisource.org/wiki/管子/第79篇國準",
         "work": "管子"
       }
     ]
@@ -144109,7 +144494,9 @@
     "tags": [
       "管子",
       "經濟",
-      "貨幣"
+      "貨幣",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -146284,6 +146671,25 @@
     ]
   },
   {
+    "slug": "用文武",
+    "title": "用文武",
+    "summary": "用武則以力勝，用文則以德勝，文武盡勝，何敵之不服。",
+    "tags": [
+      "文武",
+      "治道",
+      "德力"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "用晦而明",
     "title": "用晦而明",
     "summary": "君子蒞眾，在能用晦，乃所以全明也。",
@@ -147233,6 +147639,25 @@
         "title": "史記 · 卷046",
         "url": "https://zh.wikisource.org/wiki/史記/卷046",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "田贊衣補衣",
+    "title": "田贊衣補衣",
+    "summary": "田贊衣補衣而說荊王，以甲兵之害諷其好衣以甲。",
+    "tags": [
+      "說術",
+      "諷諫",
+      "田贊"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -154642,7 +155067,9 @@
     "tags": [
       "管子",
       "農業",
-      "救荒"
+      "救荒",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -159891,7 +160318,10 @@
       "管子",
       "治道",
       "經濟",
-      "山澤"
+      "山澤",
+      "部:子",
+      "部:子/法家類",
+      "開墾"
     ],
     "sources": [
       {
@@ -159899,6 +160329,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第79篇國准",
         "url": "https://zh.wikisource.org/wiki/管子/第79篇國准",
+        "work": "管子"
+      },
+      {
+        "chapter": "第79篇國準",
+        "plugin": "wikisource",
+        "title": "管子 · 第79篇國準",
+        "url": "https://zh.wikisource.org/wiki/管子/第79篇國準",
         "work": "管子"
       }
     ]
@@ -160735,6 +161172,25 @@
         "plugin": "wikisource",
         "title": "呂氏春秋 · 卷二十四",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十四",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "管子能因",
+    "title": "管子能因",
+    "summary": "管子恐魯止而殺己，欲速至齊，乃唱而人和，因勢利導。",
+    "tags": [
+      "管仲",
+      "機變",
+      "智慧"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
         "work": "呂氏春秋"
       }
     ]
@@ -172390,6 +172846,13 @@
         "title": "韓非子 · 難一",
         "url": "https://zh.wikisource.org/wiki/韓非子/難一",
         "work": "韓非子"
+      },
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -179324,7 +179787,9 @@
     "tags": [
       "經濟",
       "理財",
-      "輕重"
+      "輕重",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -181696,7 +182161,9 @@
       "法治",
       "子反",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "義",
+      "治道"
     ],
     "sources": [
       {
@@ -181712,6 +182179,13 @@
         "title": "韓非子 · 飾邪",
         "url": "https://zh.wikisource.org/wiki/韓非子/飾邪",
         "work": "韓非子"
+      },
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -185088,7 +185562,11 @@
       "管子",
       "治道",
       "變通",
-      "時宜"
+      "時宜",
+      "部:子",
+      "部:子/法家類",
+      "治國",
+      "時變"
     ],
     "sources": [
       {
@@ -185096,6 +185574,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第79篇國准",
         "url": "https://zh.wikisource.org/wiki/管子/第79篇國准",
+        "work": "管子"
+      },
+      {
+        "chapter": "第79篇國準",
+        "plugin": "wikisource",
+        "title": "管子 · 第79篇國準",
+        "url": "https://zh.wikisource.org/wiki/管子/第79篇國準",
         "work": "管子"
       }
     ]
@@ -188232,6 +188717,25 @@
         "title": "韓非子 · 說難",
         "url": "https://zh.wikisource.org/wiki/韓非子/說難",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "說之不聽任不獨在所說",
+    "title": "說之不聽任不獨在所說",
+    "summary": "說之不聽也，任不獨在所說，亦在說者。",
+    "tags": [
+      "說術",
+      "遊說",
+      "責任"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -211922,6 +212426,25 @@
     ]
   },
   {
+    "slug": "順風而呼",
+    "title": "順風而呼",
+    "summary": "順風而呼，聲不加疾也；際高而望，目不加明也；所因便也。",
+    "tags": [
+      "治術",
+      "比喻",
+      "因勢"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "須賈說穰侯",
     "title": "須賈說穰侯",
     "summary": "魏大夫說穰侯勿圍大梁，引衛趙之鑒，陳天幸不可恃之理，穰侯善之罷圍。",
@@ -212400,7 +212923,10 @@
       "亡國",
       "假道伐虢",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "義利",
+      "治道",
+      "權謀"
     ],
     "sources": [
       {
@@ -212409,6 +212935,13 @@
         "title": "韓非子 · 十過",
         "url": "https://zh.wikisource.org/wiki/韓非子/十過",
         "work": "韓非子"
+      },
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -215683,6 +216216,25 @@
     ]
   },
   {
+    "slug": "魏文侯見段干木",
+    "title": "魏文侯見段干木",
+    "summary": "魏文侯見段干木，立倦而不敢息，反見翟黃，踞於堂而與之言。",
+    "tags": [
+      "魏文侯",
+      "段干木",
+      "尊賢"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十五",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十五",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "魏文侯軾賢",
     "title": "魏文侯軾賢",
     "summary": "賢者在位，鄰國不加兵。",
@@ -218290,7 +218842,9 @@
       "黃帝",
       "治道",
       "去害",
-      "安民"
+      "安民",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
