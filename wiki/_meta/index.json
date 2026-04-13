@@ -2817,6 +2817,28 @@
     ]
   },
   {
+    "slug": "上池之水",
+    "title": "上池之水",
+    "summary": "長桑君所予禁方，以之上池（即露水）服藥，三十日後乃能透視。",
+    "tags": [
+      "扁鵲",
+      "醫學",
+      "禁方",
+      "史記",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷105",
+        "plugin": "wikisource",
+        "title": "史記 · 卷105",
+        "url": "https://zh.wikisource.org/wiki/史記/卷105",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "上法而不上賢",
     "title": "上法而不上賢",
     "summary": "治國當法，不當尚賢。尚賢則亂，任法則治。",
@@ -3450,7 +3472,8 @@
       "梁孝王",
       "景帝",
       "法制",
-      "議論"
+      "議論",
+      "部:其他"
     ],
     "sources": [
       {
@@ -5622,7 +5645,8 @@
     "tags": [
       "德行",
       "躬行",
-      "言教"
+      "言教",
+      "部:其他"
     ],
     "sources": [
       {
@@ -6131,6 +6155,27 @@
         "title": "抱朴子 · 卷32",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷32",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "世喪道道喪世",
+    "title": "世喪道，道喪世",
+    "summary": "世與道交相喪，離道之世無以興道，離世之道無以見用",
+    "tags": [
+      "莊子",
+      "道世",
+      "衰世",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "繕性",
+        "plugin": "wikisource",
+        "title": "莊子 · 繕性",
+        "url": "https://zh.wikisource.org/wiki/莊子/繕性",
+        "work": "莊子"
       }
     ]
   },
@@ -7334,6 +7379,26 @@
         "title": "周易 · 萃",
         "url": "https://zh.wikisource.org/wiki/周易/萃",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "久竹生青寧",
+    "title": "久竹生青寧",
+    "summary": "萬物生化之序，由微至著，遞相轉化，久竹生青寧，青寧生程，程生馬，馬生人。",
+    "tags": [
+      "道家",
+      "莊子",
+      "變化",
+      "萬物"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
       }
     ]
   },
@@ -9850,6 +9915,27 @@
     ]
   },
   {
+    "slug": "五色診病",
+    "title": "五色診病",
+    "summary": "倉公受黃帝、扁鵲脈書，知人死生決嫌疑定可治，皆以五色觀面部以為據。",
+    "tags": [
+      "倉公",
+      "醫學",
+      "診法",
+      "史記",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷105",
+        "plugin": "wikisource",
+        "title": "史記 · 卷105",
+        "url": "https://zh.wikisource.org/wiki/史記/卷105",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "五芝",
     "title": "五芝",
     "summary": "石、木、草、肉、菌五芝，乃仙藥之屬，各有百許種。",
@@ -10127,6 +10213,27 @@
         "title": "周易 · 井",
         "url": "https://zh.wikisource.org/wiki/周易/井",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "井蛙不可以語海",
+    "title": "井蛙不可以語海",
+    "summary": "拘於虛者，不可以語於大海。喻見識受限之人難曉大道。",
+    "tags": [
+      "莊子",
+      "寓言",
+      "見識",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
       }
     ]
   },
@@ -10449,6 +10556,26 @@
         "title": "抱朴子 · 卷16",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷16",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "交際何心",
+    "title": "交際何心",
+    "summary": "萬章問交際之道，孟子以恭為本，而不受不義之賜。",
+    "tags": [
+      "孟子",
+      "交際",
+      "恭",
+      "禮"
+    ],
+    "sources": [
+      {
+        "chapter": "萬章下",
+        "plugin": "wikisource",
+        "title": "孟子 · 萬章下",
+        "url": "https://zh.wikisource.org/wiki/孟子/萬章下",
+        "work": "孟子"
       }
     ]
   },
@@ -11643,6 +11770,26 @@
     ]
   },
   {
+    "slug": "仁也者人也",
+    "title": "仁也者人也",
+    "summary": "仁即人道，合而言之即是天道。",
+    "tags": [
+      "仁義",
+      "人道",
+      "天道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "盡心下",
+        "plugin": "wikisource",
+        "title": "孟子 · 盡心下",
+        "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
     "slug": "仁人盡節為小人所賊",
     "title": "仁人盡節為小人所賊",
     "summary": "仁人竭盡忠節，反為小人危害。",
@@ -12709,6 +12856,26 @@
     ]
   },
   {
+    "slug": "以其所不愛及其所愛",
+    "title": "以其所不愛及其所愛",
+    "summary": "斥梁惠王驅民殉地、以子弟殉敵之不仁。",
+    "tags": [
+      "仁義",
+      "政事",
+      "征伐",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "盡心下",
+        "plugin": "wikisource",
+        "title": "孟子 · 盡心下",
+        "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
     "slug": "以其所不解者為虛誕",
     "title": "以其所不解者為虛誕",
     "summary": "賞快者譽之以好，不曉者毀之以惡，自然之理。",
@@ -13124,6 +13291,26 @@
         "title": "抱朴子 · 卷52",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷52",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "以己養養鳥",
+    "title": "以己養養鳥",
+    "summary": "以己之所好養物，非以物之所宜養之也；治天下者亦然。",
+    "tags": [
+      "道家",
+      "莊子",
+      "政治哲學",
+      "養生"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
       }
     ]
   },
@@ -14287,6 +14474,27 @@
         "title": "韓非子 · 解老",
         "url": "https://zh.wikisource.org/wiki/韓非子/解老",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "以道觀之物無貴賤",
+    "title": "以道觀之物無貴賤",
+    "summary": "從道之視角觀之，萬物本無貴賤之分；貴賤生於世俗之比較。",
+    "tags": [
+      "莊子",
+      "哲學",
+      "相對論",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
       }
     ]
   },
@@ -16267,6 +16475,26 @@
     ]
   },
   {
+    "slug": "位卑而言高罪",
+    "title": "位卑而言高，罪也",
+    "summary": "孟子明仕者當稱其位，位卑而言高，是為罪也。",
+    "tags": [
+      "孟子",
+      "仕",
+      "位",
+      "恭"
+    ],
+    "sources": [
+      {
+        "chapter": "萬章下",
+        "plugin": "wikisource",
+        "title": "孟子 · 萬章下",
+        "url": "https://zh.wikisource.org/wiki/孟子/萬章下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
     "slug": "位當也",
     "title": "位當也",
     "summary": "居得其位，無有過差。",
@@ -17994,6 +18222,27 @@
     ]
   },
   {
+    "slug": "俗學復初",
+    "title": "俗學以求復其初",
+    "summary": "借世俗之學以圖復返本性，適足以益蔽",
+    "tags": [
+      "莊子",
+      "心性",
+      "蔽蒙",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "繕性",
+        "plugin": "wikisource",
+        "title": "莊子 · 繕性",
+        "url": "https://zh.wikisource.org/wiki/莊子/繕性",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "俗民不能生生",
     "title": "俗民不能生生",
     "summary": "俗民既不能生生，而務所以煞生；以有盡之物，供無已之耗，猶不供也。",
@@ -18764,6 +19013,27 @@
         "title": "史記 · 卷062",
         "url": "https://zh.wikisource.org/wiki/史記/卷062",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "倒置之民",
+    "title": "倒置之民",
+    "summary": "以物為本、以己為末，是為本末倒置之人",
+    "tags": [
+      "莊子",
+      "異化",
+      "蔽蒙",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "繕性",
+        "plugin": "wikisource",
+        "title": "莊子 · 繕性",
+        "url": "https://zh.wikisource.org/wiki/莊子/繕性",
+        "work": "莊子"
       }
     ]
   },
@@ -20117,7 +20387,8 @@
     "tags": [
       "儒學",
       "批評",
-      "文質"
+      "文質",
+      "部:其他"
     ],
     "sources": [
       {
@@ -21601,7 +21872,8 @@
       "禮儀",
       "匍匐",
       "恭謹",
-      "石慶"
+      "石慶",
+      "部:史"
     ],
     "sources": [
       {
@@ -23519,6 +23791,28 @@
         "title": "莊子 · 則陽",
         "url": "https://zh.wikisource.org/wiki/莊子/則陽",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "六不治",
+    "title": "六不治",
+    "summary": "驕恣、輕財、飲食不適、陰陽並、形羸不服藥、信巫不信醫，則病不可治。",
+    "tags": [
+      "醫學",
+      "治病",
+      "養生",
+      "史記",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷105",
+        "plugin": "wikisource",
+        "title": "史記 · 卷105",
+        "url": "https://zh.wikisource.org/wiki/史記/卷105",
+        "work": "史記"
       }
     ]
   },
@@ -25835,7 +26129,8 @@
       "任安",
       "武功",
       "分別平",
-      "智略"
+      "智略",
+      "部:經"
     ],
     "sources": [
       {
@@ -26874,7 +27169,8 @@
       "丞相司直",
       "三河",
       "姦利",
-      "刺舉"
+      "刺舉",
+      "部:其他"
     ],
     "sources": [
       {
@@ -28782,7 +29078,8 @@
     "summary": "屈膝下拜，以表恭敬。",
     "tags": [
       "禮儀",
-      "跪拜"
+      "跪拜",
+      "部:經"
     ],
     "sources": [
       {
@@ -30363,6 +30660,26 @@
     ]
   },
   {
+    "slug": "南面王樂",
+    "title": "南面王樂",
+    "summary": "死之樂，髑髙所述，謂無君無臣，與天地同春秋，雖南面王樂不能過也。",
+    "tags": [
+      "道家",
+      "莊子",
+      "死亡觀",
+      "快樂"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "博學詳說",
     "title": "博學詳說",
     "summary": "博學而詳說者，將以反說約也。",
@@ -30605,6 +30922,27 @@
         "title": "詩經 · 清人",
         "url": "https://zh.wikisource.org/wiki/詩經/清人",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "危然處其所",
+    "title": "危然處其所而反其性",
+    "summary": "修德者安然居處，返乎本性，不以外物動其心",
+    "tags": [
+      "莊子",
+      "修身",
+      "安時處順",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "繕性",
+        "plugin": "wikisource",
+        "title": "莊子 · 繕性",
+        "url": "https://zh.wikisource.org/wiki/莊子/繕性",
+        "work": "莊子"
       }
     ]
   },
@@ -34264,6 +34602,26 @@
     ]
   },
   {
+    "slug": "名止於實",
+    "title": "名止於實",
+    "summary": "名當止於實，義當設於適，不可強同。",
+    "tags": [
+      "道家",
+      "莊子",
+      "名實",
+      "政治哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "名正物定",
     "title": "名正物定",
     "summary": "名正則物定，名倚則物徒",
@@ -37201,6 +37559,26 @@
     ]
   },
   {
+    "slug": "周于利",
+    "title": "周于利",
+    "summary": "蓄積厚者雖凶年不忘利，操守固者雖邪世不能亂。",
+    "tags": [
+      "修身",
+      "處世",
+      "德行",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "盡心下",
+        "plugin": "wikisource",
+        "title": "孟子 · 盡心下",
+        "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
     "slug": "周亞夫將兵",
     "title": "周亞夫將兵",
     "summary": "太尉周亞夫受命帥師平定七國之亂，為景朝功之首。",
@@ -37566,6 +37944,26 @@
         "title": "詩經 · 黍離",
         "url": "https://zh.wikisource.org/wiki/詩經/黍離",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "周室班爵祿",
+    "title": "周室班爵祿",
+    "summary": "孟子述周代爵祿之制，天子以至士凡五等，祿以代耕。",
+    "tags": [
+      "孟子",
+      "周制",
+      "爵祿",
+      "制度"
+    ],
+    "sources": [
+      {
+        "chapter": "萬章下",
+        "plugin": "wikisource",
+        "title": "孟子 · 萬章下",
+        "url": "https://zh.wikisource.org/wiki/孟子/萬章下",
+        "work": "孟子"
       }
     ]
   },
@@ -38807,6 +39205,26 @@
     ]
   },
   {
+    "slug": "唯予與汝知而未嘗死",
+    "title": "唯予與汝知而未嘗死",
+    "summary": "列子與髑髏之問答，謂未嘗死亦未嘗生，乃化人之觀也。",
+    "tags": [
+      "道家",
+      "列子",
+      "生死觀",
+      "齊物"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "唯酒食是議",
     "title": "唯酒食是議",
     "summary": "女子之職，議在酒食。",
@@ -39622,7 +40040,9 @@
       "老子",
       "韓非子",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "莊子",
+      "富貴"
     ],
     "sources": [
       {
@@ -39638,6 +40058,13 @@
         "title": "韓非子 · 解老",
         "url": "https://zh.wikisource.org/wiki/韓非子/解老",
         "work": "韓非子"
+      },
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
       }
     ]
   },
@@ -40039,6 +40466,27 @@
         "title": "史記 · 卷090",
         "url": "https://zh.wikisource.org/wiki/史記/卷090",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "喪己於物",
+    "title": "喪己於物，失性於俗",
+    "summary": "溺於外物、染於俗習，則本性亡焉，是謂倒置之民",
+    "tags": [
+      "莊子",
+      "修身",
+      "異化",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "繕性",
+        "plugin": "wikisource",
+        "title": "莊子 · 繕性",
+        "url": "https://zh.wikisource.org/wiki/莊子/繕性",
+        "work": "莊子"
       }
     ]
   },
@@ -40464,6 +40912,26 @@
         "title": "抱朴子 · 卷25",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷25",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "嘻亦樂亦樂",
+    "title": "嘻亦樂亦樂",
+    "summary": "世俗之所樂，舉群趣者，誙誙然如將不得已，而皆曰樂者，吾未之樂也，亦未之不樂也。",
+    "tags": [
+      "道家",
+      "莊子",
+      "快樂",
+      "世俗"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
       }
     ]
   },
@@ -43319,7 +43787,9 @@
     "slug": "垂涕恤獄",
     "title": "垂涕恤獄",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷103",
@@ -43620,6 +44090,27 @@
         "title": "孟子 · 公孫丑下",
         "url": "https://zh.wikisource.org/wiki/孟子/公孫丑下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "埳井之鼃",
+    "title": "埳井之鼃",
+    "summary": "埳井之蛙向海鱉夸耀井樂，海鱉告以海之千里千里之深，鼃聞而驚自失。喻小知不足以語大道。",
+    "tags": [
+      "莊子",
+      "寓言",
+      "見識",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
       }
     ]
   },
@@ -44882,7 +45373,9 @@
     "slug": "塞侯微巧",
     "title": "塞侯微巧",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷103",
@@ -45837,6 +46330,27 @@
         "title": "韓非子 · 外儲說左下",
         "url": "https://zh.wikisource.org/wiki/韓非子/外儲說左下",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "夔憐蚿",
+    "title": "夔憐蚿",
+    "summary": "一足之夔羨多足之蚿，蚿自不知所以然。喻各稟天機，強較則惑。",
+    "tags": [
+      "莊子",
+      "寓言",
+      "天機",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
       }
     ]
   },
@@ -48840,6 +49354,27 @@
     ]
   },
   {
+    "slug": "天子之劍",
+    "title": "天子之劍",
+    "summary": "以天下為劍，上決浮雲，下絕地紀。",
+    "tags": [
+      "莊子",
+      "說劍",
+      "政治哲學",
+      "天子",
+      "劍"
+    ],
+    "sources": [
+      {
+        "chapter": "說劍",
+        "plugin": "wikisource",
+        "title": "莊子 · 說劍",
+        "url": "https://zh.wikisource.org/wiki/莊子/說劍",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "天子之義",
     "title": "天子之義",
     "summary": "天子之義法天地，士民之義奉父母；禮與法表裏，文與武左右。",
@@ -50205,7 +50740,10 @@
     "slug": "太史公曰",
     "title": "太史公曰",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
     "sources": [
       {
         "chapter": "卷103",
@@ -50220,7 +50758,10 @@
     "slug": "太史公曰仲尼有言君子欲訥於言而敏於行",
     "title": "太史公曰仲尼有言君子欲訥於言而敏於行",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
     "sources": [
       {
         "chapter": "卷103",
@@ -55071,6 +55612,26 @@
     ]
   },
   {
+    "slug": "孔子之仕",
+    "title": "孔子之仕",
+    "summary": "孟子記孔子出處之節，以見聖人行道有時，去魯遲遲，仕魯獵較，皆有其義。",
+    "tags": [
+      "孟子",
+      "孔子",
+      "出處",
+      "仕止"
+    ],
+    "sources": [
+      {
+        "chapter": "萬章下",
+        "plugin": "wikisource",
+        "title": "孟子 · 萬章下",
+        "url": "https://zh.wikisource.org/wiki/孟子/萬章下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
     "slug": "孔子作陬操",
     "title": "作陬操",
     "summary": "孔子為哀悼賢者而作琴曲。",
@@ -55388,6 +55949,28 @@
         "title": "史記 · 卷047",
         "url": "https://zh.wikisource.org/wiki/史記/卷047",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "孔子遊匡",
+    "title": "孔子遊匡",
+    "summary": "孔子困於匡，宋人圍之，而言窮通有命，知時勢之必然，故安然不懼。",
+    "tags": [
+      "莊子",
+      "寓言",
+      "孔子",
+      "勇",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
       }
     ]
   },
@@ -56157,7 +56740,8 @@
     "tags": [
       "德行",
       "孝道",
-      "恭謹"
+      "恭謹",
+      "部:子"
     ],
     "sources": [
       {
@@ -62267,6 +62851,28 @@
     ]
   },
   {
+    "slug": "尸蹷",
+    "title": "尸蹷",
+    "summary": "表象如死而實非死，乃陽氣入陰中、經絡氣閉所致，太子之病是也。",
+    "tags": [
+      "扁鵲",
+      "醫學",
+      "病證",
+      "史記",
+      "部:經",
+      "部:經/易類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷105",
+        "plugin": "wikisource",
+        "title": "史記 · 卷105",
+        "url": "https://zh.wikisource.org/wiki/史記/卷105",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "尹吉",
     "title": "尹吉",
     "summary": "古之姓氏，尹氏與吉氏，皆周世舊族",
@@ -65784,6 +66390,27 @@
         "title": "韓非子 · 難言",
         "url": "https://zh.wikisource.org/wiki/韓非子/難言",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "庶人之劍",
+    "title": "庶人之劍",
+    "summary": "匹夫之勇，上斬頸領，下決肝肺，無益國事。",
+    "tags": [
+      "莊子",
+      "說劍",
+      "政治哲學",
+      "庶人",
+      "劍"
+    ],
+    "sources": [
+      {
+        "chapter": "說劍",
+        "plugin": "wikisource",
+        "title": "莊子 · 說劍",
+        "url": "https://zh.wikisource.org/wiki/莊子/說劍",
+        "work": "莊子"
       }
     ]
   },
@@ -69383,6 +70010,27 @@
     ]
   },
   {
+    "slug": "德和道理",
+    "title": "德，和也；道，理也",
+    "summary": "德者天和，道者大理，天地之序在此",
+    "tags": [
+      "莊子",
+      "德",
+      "道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "繕性",
+        "plugin": "wikisource",
+        "title": "莊子 · 繕性",
+        "url": "https://zh.wikisource.org/wiki/莊子/繕性",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "德廣所及",
     "title": "德廣所及",
     "summary": "德化之廣，無遠弗屆，被及南國。",
@@ -70544,6 +71192,26 @@
     ]
   },
   {
+    "slug": "忠諫不聽蹲循勿爭",
+    "title": "忠諫不聽蹲循勿爭",
+    "summary": "忠臣強諫以殘其形，不爭則名亦不成，蓋進退之義也。",
+    "tags": [
+      "道家",
+      "莊子",
+      "忠臣",
+      "進退"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "忯忯戚醮",
     "title": "忯忯戚醮",
     "summary": "貪財積貨而不能舍，中心戚戚，憂慮交積。",
@@ -71629,6 +72297,27 @@
     ]
   },
   {
+    "slug": "恬養知",
+    "title": "以恬養知",
+    "summary": "以恬靜涵養智慧，乃古之治道者之法",
+    "tags": [
+      "莊子",
+      "修身",
+      "恬淡",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "繕性",
+        "plugin": "wikisource",
+        "title": "莊子 · 繕性",
+        "url": "https://zh.wikisource.org/wiki/莊子/繕性",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "恭儉偋五兵",
     "title": "恭儉偋五兵",
     "summary": "恭謹節儉之德，勝於戈矛之利。",
@@ -71678,7 +72367,8 @@
     "tags": [
       "德行",
       "恭謹",
-      "石氏"
+      "石氏",
+      "部:其他"
     ],
     "sources": [
       {
@@ -75979,6 +76669,26 @@
     ]
   },
   {
+    "slug": "掊斗折衡",
+    "title": "掊斗折衡",
+    "summary": "毀量器折秤桿，則民無所爭；絕聖智法度，乃可弭盜。",
+    "tags": [
+      "莊子",
+      "無為",
+      "返璞",
+      "爭奪"
+    ],
+    "sources": [
+      {
+        "chapter": "胠篋",
+        "plugin": "wikisource",
+        "title": "莊子 · 胠篋",
+        "url": "https://zh.wikisource.org/wiki/莊子/胠篋",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "掌夢",
     "title": "掌夢",
     "summary": "巫陽自言其職在主掌夢兆",
@@ -77349,7 +78059,9 @@
     "slug": "敏行訥言",
     "title": "敏行訥言",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷103",
@@ -78489,6 +79201,27 @@
         "title": "詩經 · 江漢",
         "url": "https://zh.wikisource.org/wiki/詩經/江漢",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "文滅質博溺心",
+    "title": "文滅質，博溺心",
+    "summary": "文飾繁博之學，足以湮滅本質、沈溺心靈",
+    "tags": [
+      "莊子",
+      "文飾",
+      "蔽蒙",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "繕性",
+        "plugin": "wikisource",
+        "title": "莊子 · 繕性",
+        "url": "https://zh.wikisource.org/wiki/莊子/繕性",
+        "work": "莊子"
       }
     ]
   },
@@ -83888,7 +84621,8 @@
       "田仁",
       "智略",
       "才能",
-      "議論"
+      "議論",
+      "部:其他"
     ],
     "sources": [
       {
@@ -84083,11 +84817,11 @@
       "暴虐",
       "失德",
       "幽王",
-      "部:其他",
       "田叔",
       "梁孝王",
       "袁盎",
-      "法制"
+      "法制",
+      "部:其他"
     ],
     "sources": [
       {
@@ -84145,6 +84879,27 @@
         "title": "史記 · 卷026",
         "url": "https://zh.wikisource.org/wiki/史記/卷026",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "曲士不可以語道",
+    "title": "曲士不可以語道",
+    "summary": "束於教化之偏士，不可以語大道。與[[井蛙不可以語海]]對舉，喻見限之蔽。",
+    "tags": [
+      "莊子",
+      "寓言",
+      "見識",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
       }
     ]
   },
@@ -86376,7 +87131,8 @@
       "智略",
       "取人",
       "木偶",
-      "議論"
+      "議論",
+      "部:子"
     ],
     "sources": [
       {
@@ -88479,6 +89235,26 @@
     ]
   },
   {
+    "slug": "柳生其左肘",
+    "title": "柳生其左肘",
+    "summary": "滑介叔觀化，左肘忽生柳枝，乃以觀化之理自解。",
+    "tags": [
+      "道家",
+      "莊子",
+      "觀化",
+      "疾病"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "栗太子廢",
     "title": "栗太子廢",
     "summary": "孝景七年，栗太子被廢為臨江王，膠東王得立為太子。",
@@ -90525,6 +91301,26 @@
     ]
   },
   {
+    "slug": "樂全得志",
+    "title": "樂全之謂得志",
+    "summary": "內心完足無虧，乃真得志，非軒冕之謂",
+    "tags": [
+      "莊子",
+      "得意",
+      "修身",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "繕性",
+        "plugin": "wikisource",
+        "title": "莊子 · 繕性",
+        "url": "https://zh.wikisource.org/wiki/莊子/繕性",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "樂只君子",
     "title": "樂只君子",
     "summary": "樂只君子，迭詠三章，頌君子逮下之福。",
@@ -91412,7 +92208,8 @@
       "武帝",
       "太子",
       "觀望",
-      "忠義"
+      "忠義",
+      "部:子"
     ],
     "sources": [
       {
@@ -94389,6 +95186,26 @@
     ]
   },
   {
+    "slug": "民貴",
+    "title": "民貴",
+    "summary": "民為邦本，社稷次之，君為輕。",
+    "tags": [
+      "民本",
+      "政事",
+      "君臣",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "盡心下",
+        "plugin": "wikisource",
+        "title": "孟子 · 盡心下",
+        "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
     "slug": "水上行道術",
     "title": "水上行道術",
     "summary": "習閉氣或服蔥涕桂丸，可步行水上；通天犀角亦能辟水。",
@@ -95401,7 +96218,8 @@
       "任安",
       "智略",
       "議論",
-      "治官"
+      "治官",
+      "部:其他"
     ],
     "sources": [
       {
@@ -95758,6 +96576,27 @@
         "title": "詩經 · 葛藟",
         "url": "https://zh.wikisource.org/wiki/詩經/葛藟",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "河伯觀海",
+    "title": "河伯觀海",
+    "summary": "河伯自喜涇流之大，及見北海，乃知己之渺小，因望洋而歎。",
+    "tags": [
+      "莊子",
+      "寓言",
+      "自知",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
       }
     ]
   },
@@ -98140,6 +98979,27 @@
     ]
   },
   {
+    "slug": "混芒之世",
+    "title": "混芒之中",
+    "summary": "太古之世，民渾沌芒昧，與道合一",
+    "tags": [
+      "莊子",
+      "太古",
+      "至一",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "繕性",
+        "plugin": "wikisource",
+        "title": "莊子 · 繕性",
+        "url": "https://zh.wikisource.org/wiki/莊子/繕性",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "清且漣猗",
     "title": "清且漣猗",
     "summary": "河水清澈，波紋自如，以喻君子之行當如水之清白。",
@@ -100514,6 +101374,28 @@
     ]
   },
   {
+    "slug": "火齊湯",
+    "title": "火齊湯",
+    "summary": "倉公治病所用火煮之湯藥，可治湧疝、風癉客脬等疾。",
+    "tags": [
+      "倉公",
+      "醫學",
+      "藥方",
+      "史記",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷105",
+        "plugin": "wikisource",
+        "title": "史記 · 卷105",
+        "url": "https://zh.wikisource.org/wiki/史記/卷105",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "灼灼其華",
     "title": "灼灼其華",
     "summary": "華之盛而明，灼然可見。",
@@ -100812,6 +101694,26 @@
         "title": "孟子 · 滕文公上",
         "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "為形也亦愚哉",
+    "title": "為形也亦愚哉",
+    "summary": "世俗之人，逐富貴安厚味，殊不知大憂以懼，勞形傷生，愚莫大焉。",
+    "tags": [
+      "道家",
+      "莊子",
+      "養生",
+      "富貴"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
       }
     ]
   },
@@ -101355,6 +102257,26 @@
     ]
   },
   {
+    "slug": "烈士為天下",
+    "title": "烈士為天下",
+    "summary": "烈士見善於天下，而不足以活身；善與否，未可定也。",
+    "tags": [
+      "道家",
+      "莊子",
+      "烈士",
+      "善"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "烈祖",
     "title": "烈祖",
     "summary": "功烈之祖，商家稱成湯也",
@@ -101800,6 +102722,27 @@
         "title": "詩經 · 采芑",
         "url": "https://zh.wikisource.org/wiki/詩經/采芑",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "無以人滅天",
+    "title": "無以人滅天",
+    "summary": "人為之事不可毀天然之性，當順物之自然而返其真。",
+    "tags": [
+      "莊子",
+      "哲學",
+      "自然",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
       }
     ]
   },
@@ -103507,6 +104450,26 @@
         "title": "荀子 · 子道篇",
         "url": "https://zh.wikisource.org/wiki/荀子/子道篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "爭讓之禮貴賤有時",
+    "title": "爭讓之禮貴賤有時",
+    "summary": "堯舜讓而帝、之噲讓而絕，湯武爭而王、白公爭而滅；貴賤因時，非永恆之定制。",
+    "tags": [
+      "莊子",
+      "哲學",
+      "時變",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
       }
     ]
   },
@@ -106756,7 +107719,11 @@
       "自生",
       "萬物生成",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "道家",
+      "莊子",
+      "生死觀",
+      "氣化"
     ],
     "sources": [
       {
@@ -106765,6 +107732,13 @@
         "title": "列子 · 天瑞篇",
         "url": "https://zh.wikisource.org/wiki/列子/天瑞篇",
         "work": "列子"
+      },
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
       }
     ]
   },
@@ -107465,7 +108439,9 @@
       "田叔",
       "田仁",
       "任安",
-      "列傳"
+      "列傳",
+      "部:史",
+      "部:史/傳記類"
     ],
     "sources": [
       {
@@ -113839,6 +114815,27 @@
     ]
   },
   {
+    "slug": "神龜曳尾",
+    "title": "神龜曳尾",
+    "summary": "楚王欲以相位累莊子，莊子以神龜為喻，寧生而曳尾塗中，不願死而留骨廟堂。喻軒冕祿位不如自然之樂。",
+    "tags": [
+      "莊子",
+      "寓言",
+      "隱逸",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "神龜見夢",
     "title": "神龜見夢",
     "summary": "神龜能見夢於元君，而不能避余且之網；智知七十二鑽，而不能避刳腸之患。",
@@ -114923,6 +115920,26 @@
     ]
   },
   {
+    "slug": "禮樂偏行天下亂",
+    "title": "禮樂徧行，則天下亂矣",
+    "summary": "禮樂之行有其時，強行於世則足以亂天下",
+    "tags": [
+      "莊子",
+      "禮樂",
+      "治道",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "繕性",
+        "plugin": "wikisource",
+        "title": "莊子 · 繕性",
+        "url": "https://zh.wikisource.org/wiki/莊子/繕性",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "禮禁亂之所由生",
     "title": "禮禁亂之所由生",
     "summary": "",
@@ -115760,6 +116777,24 @@
     ]
   },
   {
+    "slug": "秋水",
+    "title": "秋水",
+    "summary": "《莊子》外篇第十七，以河伯北海若之問答，論大小、盈虛、貴賤之相對，通於道而不執名言。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "秦之先",
     "title": "秦之先",
     "summary": "記秦先祖出自帝顓頊苗裔，歷柏翳、蜚廉、造父至非子之世系。",
@@ -116507,7 +117542,9 @@
       "變化",
       "宇宙論",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "道家",
+      "莊子"
     ],
     "sources": [
       {
@@ -116516,6 +117553,13 @@
         "title": "列子 · 天瑞篇",
         "url": "https://zh.wikisource.org/wiki/列子/天瑞篇",
         "work": "列子"
+      },
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
       }
     ]
   },
@@ -122924,6 +123968,25 @@
     ]
   },
   {
+    "slug": "聖之清聖之任聖之和聖之時",
+    "title": "聖之清者、聖之任者、聖之和者、聖之時者",
+    "summary": "孟子以清、任、和、時四端，論古聖賢處世之道各有異宜。",
+    "tags": [
+      "孟子",
+      "聖人",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "萬章下",
+        "plugin": "wikisource",
+        "title": "孟子 · 萬章下",
+        "url": "https://zh.wikisource.org/wiki/孟子/萬章下",
+        "work": "孟子"
+      }
+    ]
+  },
+  {
     "slug": "聖事有剖判",
     "title": "聖事有剖判",
     "summary": "聖道可分，非必總而兼之。",
@@ -123286,6 +124349,26 @@
         "title": "墨子 · 節用上",
         "url": "https://zh.wikisource.org/wiki/墨子/節用上",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "聖人生大盜起",
+    "title": "聖人生大盜起",
+    "summary": "聖智之教愈隆，姦盜之術愈備，二者相待而生。",
+    "tags": [
+      "莊子",
+      "悖論",
+      "盜賊",
+      "聖智"
+    ],
+    "sources": [
+      {
+        "chapter": "胠篋",
+        "plugin": "wikisource",
+        "title": "莊子 · 胠篋",
+        "url": "https://zh.wikisource.org/wiki/莊子/胠篋",
+        "work": "莊子"
       }
     ]
   },
@@ -124828,6 +125911,28 @@
         "title": "抱朴子 · 卷06",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷06",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "肺消癉",
+    "title": "肺消癉",
+    "summary": "山跗所患之消渴重證，加以寒熱，倉公言其死不治，蓋五藏高遠之處發病，脈不平而代。",
+    "tags": [
+      "倉公",
+      "醫學",
+      "病證",
+      "史記",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷105",
+        "plugin": "wikisource",
+        "title": "史記 · 卷105",
+        "url": "https://zh.wikisource.org/wiki/史記/卷105",
+        "work": "史記"
       }
     ]
   },
@@ -126438,6 +127543,46 @@
         "title": "韓非子 · 難言",
         "url": "https://zh.wikisource.org/wiki/韓非子/難言",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "至樂",
+    "title": "至樂",
+    "summary": "天下之至樂，在乎無為；無為則是非定、生死齊，而樂至矣。",
+    "tags": [
+      "道家",
+      "莊子",
+      "快樂",
+      "無為"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "至樂無樂",
+    "title": "至樂無樂",
+    "summary": "至極之樂，非世俗所謂樂，乃無樂之樂也。",
+    "tags": [
+      "道家",
+      "莊子",
+      "快樂",
+      "超越"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
       }
     ]
   },
@@ -129498,6 +130643,8 @@
       "楚威王",
       "辭祿",
       "逍遙",
+      "寓言",
+      "隱逸",
       "部:子",
       "部:子/道家類"
     ],
@@ -129508,6 +130655,13 @@
         "title": "史記 · 卷063",
         "url": "https://zh.wikisource.org/wiki/史記/卷063",
         "work": "史記"
+      },
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
       }
     ]
   },
@@ -130474,7 +131628,10 @@
       "機",
       "轉化",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "道家",
+      "莊子",
+      "變化"
     ],
     "sources": [
       {
@@ -130483,6 +131640,13 @@
         "title": "列子 · 天瑞篇",
         "url": "https://zh.wikisource.org/wiki/列子/天瑞篇",
         "work": "列子"
+      },
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
       }
     ]
   },
@@ -130530,6 +131694,47 @@
     ]
   },
   {
+    "slug": "萬物職職皆從無為殖",
+    "title": "萬物職職皆從無為殖",
+    "summary": "萬物繁多，各有所職，然皆從無為而生化，天地無為而無不為。",
+    "tags": [
+      "道家",
+      "莊子",
+      "無為",
+      "萬物"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "萬物齊一",
+    "title": "萬物齊一",
+    "summary": "萬物本齊，大小、壽夭、貴賤皆相對之見，非道之實相。",
+    "tags": [
+      "莊子",
+      "哲學",
+      "齊物",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "萬物齊死",
     "title": "萬物齊死",
     "summary": "楊朱以為賢愚貴賤之人，生雖異而死則同，腐骨一矣，莫若趣及當生。",
@@ -130559,7 +131764,8 @@
       "石氏",
       "漢初",
       "官制",
-      "家風"
+      "家風",
+      "部:子"
     ],
     "sources": [
       {
@@ -130575,7 +131781,9 @@
     "slug": "萬石孝謹",
     "title": "萬石孝謹",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷103",
@@ -133857,6 +135065,27 @@
     ]
   },
   {
+    "slug": "蛇憐風",
+    "title": "蛇憐風",
+    "summary": "蛇行有足似，風動無形無有，然大風能折木蜚屋。喻小不勝之中有大勝在。",
+    "tags": [
+      "莊子",
+      "寓言",
+      "相對",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "蛾傅",
     "title": "蛾傅",
     "summary": "蛾傅，敵人蟻聚攻城之術，廣五百步、上術三千人。",
@@ -136020,6 +137249,26 @@
     ]
   },
   {
+    "slug": "褚小者不可以懷大",
+    "title": "褚小者不可以懷大",
+    "summary": "器小者不可以受大，道各有所成，形各有所適，不可損益。",
+    "tags": [
+      "孔子",
+      "顔淵",
+      "比喻",
+      "局限"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "襄公如楚",
     "title": "襄公如楚及漢聞康王卒欲還",
     "summary": "魯襄公如楚，聞康王卒欲還，大夫皆欲還，唯叔仲昭伯以為當因其喪以示畏名從眾。",
@@ -137087,6 +138336,28 @@
     ]
   },
   {
+    "slug": "視垣一方",
+    "title": "視垣一方",
+    "summary": "扁鵲飲上池之水三十日後，所獲透視之能，可以視見牆垣另一方之人。",
+    "tags": [
+      "扁鵲",
+      "醫學",
+      "奇能",
+      "史記",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷105",
+        "plugin": "wikisource",
+        "title": "史記 · 卷105",
+        "url": "https://zh.wikisource.org/wiki/史記/卷105",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "視學",
     "title": "視學",
     "summary": "天子視學，大昕鼓徵，祭先師先聖，遂設三老五更之席位。",
@@ -137354,6 +138625,26 @@
         "title": "周易 · 萃",
         "url": "https://zh.wikisource.org/wiki/周易/萃",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "觀化",
+    "title": "觀化",
+    "summary": "觀萬物之變化，順其自然，則死生一觀，無所惡焉。",
+    "tags": [
+      "道家",
+      "莊子",
+      "變化",
+      "死亡"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
       }
     ]
   },
@@ -139873,6 +141164,26 @@
     ]
   },
   {
+    "slug": "說劍",
+    "title": "說劍",
+    "summary": "莊子以劍喻政，勸趙文王止好鬥之習。",
+    "tags": [
+      "莊子",
+      "說劍",
+      "寓言",
+      "政治哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "說劍",
+        "plugin": "wikisource",
+        "title": "莊子 · 說劍",
+        "url": "https://zh.wikisource.org/wiki/莊子/說劍",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "說大人則藐之",
     "title": "說大人則藐之",
     "summary": "",
@@ -140401,6 +141712,27 @@
         "title": "荀子 · 臣道篇",
         "url": "https://zh.wikisource.org/wiki/荀子/臣道篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "諸侯之劍",
+    "title": "諸侯之劍",
+    "summary": "以賢士為劍之部件，一震而四封賓服。",
+    "tags": [
+      "莊子",
+      "說劍",
+      "政治哲學",
+      "諸侯",
+      "劍"
+    ],
+    "sources": [
+      {
+        "chapter": "說劍",
+        "plugin": "wikisource",
+        "title": "莊子 · 說劍",
+        "url": "https://zh.wikisource.org/wiki/莊子/說劍",
+        "work": "莊子"
       }
     ]
   },
@@ -141799,6 +143131,26 @@
         "title": "周易 · 剝",
         "url": "https://zh.wikisource.org/wiki/周易/剝",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "貴戚之卿異姓之卿",
+    "title": "貴戚之卿與異姓之卿",
+    "summary": "孟子論卿有二等，貴戚易位，異姓則去，其義各異。",
+    "tags": [
+      "孟子",
+      "卿",
+      "諫",
+      "君臣"
+    ],
+    "sources": [
+      {
+        "chapter": "萬章下",
+        "plugin": "wikisource",
+        "title": "孟子 · 萬章下",
+        "url": "https://zh.wikisource.org/wiki/孟子/萬章下",
+        "work": "孟子"
       }
     ]
   },
@@ -143819,7 +145171,8 @@
       "孟舒",
       "貫高",
       "趙王敖",
-      "忠義"
+      "忠義",
+      "部:其他"
     ],
     "sources": [
       {
@@ -147787,6 +149140,27 @@
     ]
   },
   {
+    "slug": "逮德下衰",
+    "title": "逮德下衰",
+    "summary": "德運遞降，世道隨之陵夷",
+    "tags": [
+      "莊子",
+      "衰世",
+      "德運",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "繕性",
+        "plugin": "wikisource",
+        "title": "莊子 · 繕性",
+        "url": "https://zh.wikisource.org/wiki/莊子/繕性",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "進以正",
     "title": "進以正",
     "summary": "漸進之道以正為本",
@@ -150609,7 +151983,8 @@
     "tags": [
       "德行",
       "醇厚",
-      "醇謹"
+      "醇謹",
+      "部:其他"
     ],
     "sources": [
       {
@@ -150625,7 +152000,9 @@
     "slug": "醇謹-之",
     "title": "醇謹-之",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷103",
@@ -150644,7 +152021,8 @@
       "德行",
       "醇謹",
       "醇謹",
-      "醇厚"
+      "醇厚",
+      "部:其他"
     ],
     "sources": [
       {
@@ -151698,6 +153076,26 @@
         "title": "詩經 · 卷耳",
         "url": "https://zh.wikisource.org/wiki/詩經/卷耳",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "金聲玉振",
+    "title": "金聲而玉振之",
+    "summary": "孟子以鐘聲始終、玉磬收韻，比喻聖智兼備之功。",
+    "tags": [
+      "孟子",
+      "聖智",
+      "儒學",
+      "樂"
+    ],
+    "sources": [
+      {
+        "chapter": "萬章下",
+        "plugin": "wikisource",
+        "title": "孟子 · 萬章下",
+        "url": "https://zh.wikisource.org/wiki/孟子/萬章下",
+        "work": "孟子"
       }
     ]
   },
@@ -154315,6 +155713,28 @@
     ]
   },
   {
+    "slug": "隨俗為變",
+    "title": "隨俗為變",
+    "summary": "扁鵲行醫隨地之俗，見貴則為帶下醫，見愛老人則為耳目痹醫，見愛小兒則為小兒醫。",
+    "tags": [
+      "扁鵲",
+      "醫學",
+      "治事",
+      "史記",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷105",
+        "plugin": "wikisource",
+        "title": "史記 · 卷105",
+        "url": "https://zh.wikisource.org/wiki/史記/卷105",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "隨風巽",
     "title": "隨風巽",
     "summary": "風與風相隨，君子申命行事之象也。",
@@ -154492,6 +155912,27 @@
         "title": "楚辭 · 惜誓",
         "url": "https://zh.wikisource.org/wiki/楚辭/惜誓",
         "work": "楚辭"
+      }
+    ]
+  },
+  {
+    "slug": "隱故不自隱",
+    "title": "隱，故不自隱",
+    "summary": "真隱者非自為隱，時命大謬則隱焉",
+    "tags": [
+      "莊子",
+      "隱士",
+      "時命",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "繕性",
+        "plugin": "wikisource",
+        "title": "莊子 · 繕性",
+        "url": "https://zh.wikisource.org/wiki/莊子/繕性",
+        "work": "莊子"
       }
     ]
   },
@@ -159690,6 +161131,46 @@
     ]
   },
   {
+    "slug": "髐然有形",
+    "title": "髐然有形",
+    "summary": "髑髏空枯，髐然有形，狀其枯朽而立之貌。",
+    "tags": [
+      "莊子",
+      "髑髏",
+      "死亡",
+      "形容"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "髑髏見夢",
+    "title": "髑髏見夢",
+    "summary": "莊子見髑髏，夢聞死之樂，蓋生死之論也。",
+    "tags": [
+      "莊子",
+      "死亡",
+      "夢",
+      "髑髏"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "體-墨學",
     "title": "體",
     "summary": "",
@@ -161294,6 +162775,27 @@
     ]
   },
   {
+    "slug": "鯈魚出游從容",
+    "title": "鯈魚出游從容",
+    "summary": "莊周與惠子濠梁之辯，「子非魚」之問，「請循其本」之答。喻認知相對，而樂在會心。",
+    "tags": [
+      "莊子",
+      "寓言",
+      "認知",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "鱒",
     "title": "鱒",
     "summary": "魚名，腹背之魚",
@@ -161458,6 +162960,26 @@
         "title": "荀子 · 哀公篇",
         "url": "https://zh.wikisource.org/wiki/荀子/哀公篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "鳥聞之而飛",
+    "title": "鳥聞之而飛",
+    "summary": "咸池九韶之樂，張之洞庭之野，鳥聞之而飛，獸聞之而走，魚聞之而下入，蓋物各有所好，不能強同。",
+    "tags": [
+      "道家",
+      "莊子",
+      "音樂",
+      "萬物"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
       }
     ]
   },
@@ -162152,6 +163674,27 @@
         "title": "詩經 · 鵲巢",
         "url": "https://zh.wikisource.org/wiki/詩經/鵲巢",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "鵷鶵過焉",
+    "title": "鵷鶵過焉",
+    "summary": "鵷鶵非梧桐不止、非練實不食、過南海而北海；鴟得腐鼠而嚇之。喻以小人之腑度君子之志。",
+    "tags": [
+      "莊子",
+      "寓言",
+      "志向",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "秋水",
+        "plugin": "wikisource",
+        "title": "莊子 · 秋水",
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "work": "莊子"
       }
     ]
   },
@@ -163371,6 +164914,26 @@
         "title": "詩經 · 有駜",
         "url": "https://zh.wikisource.org/wiki/詩經/有駜",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "鼓盆而歌",
+    "title": "鼓盆而歌",
+    "summary": "莊子妻死，箕踞鼓盆而歌，以為生死如四時行焉。",
+    "tags": [
+      "莊子",
+      "死亡",
+      "達觀",
+      "妻子"
+    ],
+    "sources": [
+      {
+        "chapter": "至樂",
+        "plugin": "wikisource",
+        "title": "莊子 · 至樂",
+        "url": "https://zh.wikisource.org/wiki/莊子/至樂",
+        "work": "莊子"
       }
     ]
   },
