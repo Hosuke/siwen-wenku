@@ -298,6 +298,21 @@
     ]
   },
   {
+    "slug": "一心可以事百君",
+    "title": "一心可以事百君",
+    "summary": "一心可以事百君，三心不可以事一君。順愛不懈可以使百姓，強暴不忠不可以使一人。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "晏子春秋 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/晏子春秋/卷四",
+        "work": "晏子春秋"
+      }
+    ]
+  },
+  {
     "slug": "一手獨拍",
     "title": "一手獨拍",
     "summary": "君臣相須，一人不能成事。",
@@ -2712,7 +2727,10 @@
       "書法",
       "義例",
       "部:經",
-      "部:經/春秋類"
+      "部:經/春秋類",
+      "農業",
+      "耕耘",
+      "呂氏春秋"
     ],
     "sources": [
       {
@@ -2721,6 +2739,13 @@
         "title": "春秋穀梁傳 · 哀公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/哀公",
         "work": "春秋穀梁傳"
+      },
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -3959,6 +3984,25 @@
         "title": "管子 · 第31篇君臣下",
         "url": "https://zh.wikisource.org/wiki/管子/第31篇君臣下",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "上田棄畝下田棄甽",
+    "title": "上田棄畝下田棄甽",
+    "summary": "述田畝之耕法。",
+    "tags": [
+      "農業",
+      "耕耘",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -10388,7 +10432,9 @@
     "tags": [
       "自力",
       "道",
-      "治道"
+      "治道",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -12223,7 +12269,9 @@
     "tags": [
       "五政",
       "四時",
-      "農事"
+      "農事",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -12391,6 +12439,27 @@
         "title": "商君書 · 卷二",
         "url": "https://zh.wikisource.org/wiki/商君書/卷二",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "五漫漫六惛惛",
+    "title": "五漫漫，六惛惛",
+    "summary": "時令之理幽微，庸主茫昧，唯聖人乃能知之。",
+    "tags": [
+      "四時",
+      "聖人",
+      "治道",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第40篇四時",
+        "plugin": "wikisource",
+        "title": "管子 · 第40篇四時",
+        "url": "https://zh.wikisource.org/wiki/管子/第40篇四時",
+        "work": "管子"
       }
     ]
   },
@@ -12901,6 +12970,25 @@
         "title": "淮南子 · 本經訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/本經訓",
         "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "五鍾",
+    "title": "五鍾",
+    "summary": "黃帝制五鍾，配五行，調五聲，以正天時。",
+    "tags": [
+      "五行",
+      "音律",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第41篇五行",
+        "plugin": "wikisource",
+        "title": "管子 · 第41篇五行",
+        "url": "https://zh.wikisource.org/wiki/管子/第41篇五行",
+        "work": "管子"
       }
     ]
   },
@@ -14708,6 +14796,24 @@
     ]
   },
   {
+    "slug": "人與天調",
+    "title": "人與天調",
+    "summary": "人與天氣相和諧，則天地之美自生。",
+    "tags": [
+      "天人關係",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第41篇五行",
+        "plugin": "wikisource",
+        "title": "管子 · 第41篇五行",
+        "url": "https://zh.wikisource.org/wiki/管子/第41篇五行",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "人言善亦勿聽",
     "title": "人言善亦勿聽",
     "summary": "聖人虛心待物，不先立善惡之名，任其自然。",
@@ -15896,7 +16002,9 @@
     "tags": [
       "令",
       "四時",
-      "治道"
+      "治道",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -26562,6 +26670,21 @@
     ]
   },
   {
+    "slug": "先民而後身",
+    "title": "先民而後身",
+    "summary": "長保威強之道，先民而後身，先施而後誅。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "晏子春秋 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/晏子春秋/卷四",
+        "work": "晏子春秋"
+      }
+    ]
+  },
+  {
     "slug": "先王之游",
     "title": "先王之游",
     "summary": "遊有正邪之分，春補農事、秋濟不足為正，師行掠民、縱樂忘返為邪。",
@@ -30097,6 +30220,24 @@
     ]
   },
   {
+    "slug": "六多",
+    "title": "六多",
+    "summary": "人有六多，溝通天地，斡旋陰陽。",
+    "tags": [
+      "天人",
+      "宇宙觀"
+    ],
+    "sources": [
+      {
+        "chapter": "第41篇五行",
+        "plugin": "wikisource",
+        "title": "管子 · 第41篇五行",
+        "url": "https://zh.wikisource.org/wiki/管子/第41篇五行",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "六失",
     "title": "六失",
     "summary": "",
@@ -32519,7 +32660,9 @@
     "tags": [
       "冬令",
       "政事",
-      "斂藏"
+      "斂藏",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -32574,7 +32717,9 @@
     "tags": [
       "冬令",
       "四時",
-      "逆政"
+      "逆政",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -33549,7 +33694,9 @@
     "tags": [
       "刑德",
       "四時",
-      "治道"
+      "治道",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -33568,7 +33715,9 @@
     "tags": [
       "刑德",
       "四時",
-      "災異"
+      "災異",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -33576,6 +33725,25 @@
         "plugin": "wikisource",
         "title": "管子 · 第40篇四時",
         "url": "https://zh.wikisource.org/wiki/管子/第40篇四時",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "刑政",
+    "title": "刑與政",
+    "summary": "刑以弊民，政以命民，功用各異。",
+    "tags": [
+      "管子",
+      "治道",
+      "刑賞"
+    ],
+    "sources": [
+      {
+        "chapter": "第43篇正",
+        "plugin": "wikisource",
+        "title": "管子 · 第43篇正",
+        "url": "https://zh.wikisource.org/wiki/管子/第43篇正",
         "work": "管子"
       }
     ]
@@ -36130,7 +36298,9 @@
     "tags": [
       "四時",
       "治道",
-      "聖王"
+      "聖王",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -37123,6 +37293,21 @@
         "title": "管子 · 七法",
         "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "化為一心",
+    "title": "化為一心",
+    "summary": "魯國之化，撟而為一心，曾無與二。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "晏子春秋 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/晏子春秋/卷四",
+        "work": "晏子春秋"
       }
     ]
   },
@@ -39921,6 +40106,25 @@
         "title": "荀子 · 性惡篇",
         "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "厚之為寶",
+    "title": "厚之為寶",
+    "summary": "述耕時之貴。",
+    "tags": [
+      "農業",
+      "農時",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -44390,7 +44594,9 @@
     "tags": [
       "名實",
       "道",
-      "盛名"
+      "盛名",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -44609,6 +44815,25 @@
         "title": "淮南子 · 墜形訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/墜形訓",
         "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "后稷教耕織",
+    "title": "后稷教耕織",
+    "summary": "述后稷以耕織為本教。",
+    "tags": [
+      "后稷",
+      "農業",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -45080,6 +45305,13 @@
         "title": "史記 · 卷127",
         "url": "https://zh.wikisource.org/wiki/史記/卷127",
         "work": "史記"
+      },
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "晏子春秋 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/晏子春秋/卷四",
+        "work": "晏子春秋"
       }
     ]
   },
@@ -49709,6 +49941,25 @@
     ]
   },
   {
+    "slug": "唐尚敵羞為史",
+    "title": "唐尚敵羞為史",
+    "summary": "述唐尚以道義為重，不屑虛祿。",
+    "tags": [
+      "寓言",
+      "德操",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "唐易之言弋",
     "title": "唐易之言弋",
     "summary": "弋者謹廪，猶人主之謹法令；虚静無為乃治國之本",
@@ -52902,7 +53153,9 @@
     "tags": [
       "四時",
       "三政",
-      "治道"
+      "治道",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -53345,7 +53598,9 @@
     "tags": [
       "刑德",
       "四時",
-      "治道"
+      "治道",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -53386,7 +53641,9 @@
     "tags": [
       "四時",
       "治道",
-      "陰陽"
+      "陰陽",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -53426,7 +53683,9 @@
     "tags": [
       "四時",
       "陰陽",
-      "天道"
+      "天道",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -54497,6 +54756,44 @@
     ]
   },
   {
+    "slug": "國士之容",
+    "title": "國士之容",
+    "summary": "述國士所具之德操。",
+    "tags": [
+      "士容",
+      "德操",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "國士之容若鍾玉陵木",
+    "title": "國士之容若鍾玉陵木",
+    "summary": "以玉、木喻君子之德。",
+    "tags": [
+      "士容",
+      "寓言",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "國容不入軍",
     "title": "國容不入軍",
     "summary": "國之禮儀不入軍中，軍之威儀不入國中，各守其分。",
@@ -54876,6 +55173,25 @@
         "title": "國語 · 卷16",
         "url": "https://zh.wikisource.org/wiki/國語/卷16",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "土行御",
+    "title": "土行御",
+    "summary": "土行之令，循戊子而行，天子當寬刑慎罰，以養民力。",
+    "tags": [
+      "五行",
+      "時令",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第41篇五行",
+        "plugin": "wikisource",
+        "title": "管子 · 第41篇五行",
+        "url": "https://zh.wikisource.org/wiki/管子/第41篇五行",
+        "work": "管子"
       }
     ]
   },
@@ -59004,7 +59320,9 @@
     "tags": [
       "夏令",
       "四時",
-      "逆政"
+      "逆政",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -60821,6 +61139,25 @@
     ]
   },
   {
+    "slug": "大義不成有成已",
+    "title": "大義不成有成已",
+    "summary": "述聖賢務大之旨。",
+    "tags": [
+      "治道",
+      "務大",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "大者寬小者局",
     "title": "大者寬，小者局",
     "summary": "事物各有分限，大者有餘，小者不足。",
@@ -61714,6 +62051,25 @@
         "title": "史記 · 卷077",
         "url": "https://zh.wikisource.org/wiki/史記/卷077",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "天下大亂無有安國",
+    "title": "天下大亂無有安國",
+    "summary": "述小大相依之理。",
+    "tags": [
+      "政治",
+      "治道",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -64297,7 +64653,9 @@
     "tags": [
       "宇宙論",
       "道家",
-      "生成"
+      "生成",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -71883,6 +72241,25 @@
     ]
   },
   {
+    "slug": "孟夏始耕冬至後菖生",
+    "title": "孟夏始耕冬至後菖生",
+    "summary": "述農時之節。",
+    "tags": [
+      "農業",
+      "農時",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "孟姜孟弋孟庸",
     "title": "孟姜孟弋孟庸",
     "summary": "詩中所思之三美人，姓族殊異，蓋泛指世族之女以諷淫風。",
@@ -73285,7 +73662,9 @@
     "tags": [
       "安命",
       "處世",
-      "順道"
+      "順道",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -75297,6 +75676,26 @@
         "title": "史記 · 卷085",
         "url": "https://zh.wikisource.org/wiki/史記/卷085",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "客偽飾田駰辨",
+    "title": "客偽飾田駰辨",
+    "summary": "述田駰窺破來客之偽飾。",
+    "tags": [
+      "寓言",
+      "辨偽",
+      "田駰",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -77339,7 +77738,9 @@
     "tags": [
       "任賢",
       "明聖",
-      "天賞"
+      "天賞",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -78309,7 +78710,9 @@
     "tags": [
       "精神",
       "專一",
-      "感通"
+      "感通",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -78546,6 +78949,21 @@
         "title": "禮記 · 鄉飲酒義",
         "url": "https://zh.wikisource.org/wiki/禮記/鄉飲酒義",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "尊賢不退不肖",
+    "title": "尊賢不退不肖",
+    "summary": "君子大義，富貴不傲物，貧窮不易行，尊賢而不退不肖。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "晏子春秋 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/晏子春秋/卷四",
+        "work": "晏子春秋"
       }
     ]
   },
@@ -84458,6 +84876,21 @@
     ]
   },
   {
+    "slug": "廉政行水",
+    "title": "廉政行水",
+    "summary": "廉政而長久者，其行如水。水清清，其濁無不雩途，其清無不灑除，是以長久。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "晏子春秋 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/晏子春秋/卷四",
+        "work": "晏子春秋"
+      }
+    ]
+  },
+  {
     "slug": "廉讓為美德",
     "title": "廉讓為美德",
     "summary": "晏子以廉讓勸田桓子勿分欒高之家，以防禍及。",
@@ -87107,7 +87540,9 @@
     "tags": [
       "兵法",
       "無為",
-      "聖人"
+      "聖人",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -87324,10 +87759,10 @@
       "一",
       "宇宙觀",
       "道家",
-      "部:子",
-      "部:子/雜家類",
       "無為",
-      "聖人"
+      "聖人",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -87513,6 +87948,44 @@
         "title": "周易 · 中孚",
         "url": "https://zh.wikisource.org/wiki/周易/中孚",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "得時之禾",
+    "title": "得時之禾",
+    "summary": "述禾麥黍稻麻菽得時、失時之別。",
+    "tags": [
+      "農業",
+      "農時",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "得時失時",
+    "title": "得時失時",
+    "summary": "述農時得失之辨。",
+    "tags": [
+      "農業",
+      "農時",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -88766,7 +89239,9 @@
     "tags": [
       "刑德",
       "四時",
-      "治道"
+      "治道",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -92891,6 +93366,21 @@
     ]
   },
   {
+    "slug": "愛民樂民",
+    "title": "愛民樂民",
+    "summary": "意莫高於愛民，行莫厚於樂民；意莫下於刻民，行莫賤於害身。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "晏子春秋 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/晏子春秋/卷四",
+        "work": "晏子春秋"
+      }
+    ]
+  },
+  {
     "slug": "愛民而安好士而榮",
     "title": "愛民而安好士而榮",
     "summary": "愛民與好士，二者並行為君之要",
@@ -96942,7 +97432,9 @@
     "tags": [
       "聖人",
       "無為",
-      "德行"
+      "德行",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -98989,6 +99481,25 @@
         "title": "抱朴子 · 卷45",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷45",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "敬時愛日",
+    "title": "敬時愛日",
+    "summary": "述農時之當敬。",
+    "tags": [
+      "農業",
+      "治道",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -101345,7 +101856,9 @@
     "tags": [
       "日德",
       "南方",
-      "夏令"
+      "夏令",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -101364,7 +101877,9 @@
     "tags": [
       "日德",
       "賞",
-      "夏令"
+      "夏令",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -103667,7 +104182,9 @@
     "tags": [
       "星德",
       "東方",
-      "春令"
+      "春令",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -103686,7 +104203,9 @@
     "tags": [
       "五政",
       "四時",
-      "干支"
+      "干支",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -103961,6 +104480,27 @@
         "title": "史記 · 卷038",
         "url": "https://zh.wikisource.org/wiki/史記/卷038",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "春行春政",
+    "title": "春行春政",
+    "summary": "春當行風令，若逆時令則雕殘。",
+    "tags": [
+      "春令",
+      "四時",
+      "逆政",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第40篇四時",
+        "plugin": "wikisource",
+        "title": "管子 · 第40篇四時",
+        "url": "https://zh.wikisource.org/wiki/管子/第40篇四時",
+        "work": "管子"
       }
     ]
   },
@@ -107286,7 +107826,9 @@
     "tags": [
       "月德",
       "北方",
-      "冬令"
+      "冬令",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -107305,7 +107847,9 @@
     "tags": [
       "月德",
       "罰",
-      "冬令"
+      "冬令",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -107324,7 +107868,9 @@
     "tags": [
       "政事",
       "三政",
-      "治道"
+      "治道",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -109559,6 +110105,25 @@
     ]
   },
   {
+    "slug": "木行御",
+    "title": "木行御",
+    "summary": "木行之令，循甲子而行，天子當行仁政，禁殺伐。",
+    "tags": [
+      "五行",
+      "時令",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第41篇五行",
+        "plugin": "wikisource",
+        "title": "管子 · 第41篇五行",
+        "url": "https://zh.wikisource.org/wiki/管子/第41篇五行",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "木雞",
     "title": "木雞",
     "summary": "鬬雞至於無變若木雞者，其德全矣，異雞无敢應者。",
@@ -109852,6 +110417,25 @@
         "title": "荀子 · 荀子序",
         "url": "https://zh.wikisource.org/wiki/荀子/荀子序",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "末盛本搖",
+    "title": "末盛本搖",
+    "summary": "述工商末業興則農業廢。",
+    "tags": [
+      "農業",
+      "治道",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -116666,11 +117250,11 @@
       "心術",
       "道家哲學",
       "文子",
-      "部:子",
-      "部:子/道家類",
       "人性",
       "正邪",
-      "德行"
+      "德行",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -117303,7 +117887,9 @@
     "tags": [
       "治亂",
       "刑賞",
-      "存亡"
+      "存亡",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -117410,7 +117996,9 @@
     "tags": [
       "土德",
       "中央",
-      "四時"
+      "四時",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -117429,7 +118017,9 @@
     "tags": [
       "歲德",
       "和",
-      "雨"
+      "雨",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -119310,6 +119900,25 @@
     ]
   },
   {
+    "slug": "民事本於農",
+    "title": "民事本於農",
+    "summary": "述農為立國之本。",
+    "tags": [
+      "農業",
+      "治道",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "民人以食為天",
     "title": "民人以食為天",
     "summary": "酈生以民食喻天，言治國當知根本所在。",
@@ -120023,6 +120632,25 @@
         "title": "楚辭 · 惜誓",
         "url": "https://zh.wikisource.org/wiki/楚辭/惜誓",
         "work": "楚辭"
+      }
+    ]
+  },
+  {
+    "slug": "水行御",
+    "title": "水行御",
+    "summary": "水行之令，循壬子而行，天子當斂藏萬物，戒興作。",
+    "tags": [
+      "五行",
+      "時令",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第41篇五行",
+        "plugin": "wikisource",
+        "title": "管子 · 第41篇五行",
+        "url": "https://zh.wikisource.org/wiki/管子/第41篇五行",
+        "work": "管子"
       }
     ]
   },
@@ -122653,6 +123281,25 @@
     ]
   },
   {
+    "slug": "法德",
+    "title": "法與德",
+    "summary": "法遏民之志意，德養民之善性。",
+    "tags": [
+      "管子",
+      "治道",
+      "教化"
+    ],
+    "sources": [
+      {
+        "chapter": "第43篇正",
+        "plugin": "wikisource",
+        "title": "管子 · 第43篇正",
+        "url": "https://zh.wikisource.org/wiki/管子/第43篇正",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "法愛於人",
     "title": "法愛於人",
     "summary": "法之於人可愛，猶愛親也。愛法則興，枉法則害。",
@@ -123534,6 +124181,25 @@
         "title": "韓非子 · 八奸",
         "url": "https://zh.wikisource.org/wiki/韓非子/八奸",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "流連之遊荒亡之行",
+    "title": "流連之遊荒亡之行",
+    "summary": "流連者，從下歷時而不反；荒亡者，從樂而不歸。聖王無此二者。",
+    "tags": [
+      "治國",
+      "警戒",
+      "遊豫"
+    ],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "晏子春秋 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/晏子春秋/卷四",
+        "work": "晏子春秋"
       }
     ]
   },
@@ -127672,6 +128338,25 @@
     ]
   },
   {
+    "slug": "火行御",
+    "title": "火行御",
+    "summary": "火行之令，循丙子而行，天子當修外交，通天下。",
+    "tags": [
+      "五行",
+      "時令",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第41篇五行",
+        "plugin": "wikisource",
+        "title": "管子 · 第41篇五行",
+        "url": "https://zh.wikisource.org/wiki/管子/第41篇五行",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "火起乃穿井",
     "title": "火起乃穿井",
     "summary": "臨渴掘井，火起穿井，喻事至乃圖，悔之無及。",
@@ -128339,7 +129024,9 @@
     "tags": [
       "四時",
       "治道",
-      "亡國"
+      "亡國",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -128677,6 +129364,25 @@
         "plugin": "wikisource",
         "title": "晏子春秋 · 卷三",
         "url": "https://zh.wikisource.org/wiki/晏子春秋/卷三",
+        "work": "晏子春秋"
+      }
+    ]
+  },
+  {
+    "slug": "為臣九節",
+    "title": "為臣九節",
+    "summary": "晏子言為臣之道有九節，見善必通、稱身居位、體貴側賤，皆其要也。",
+    "tags": [
+      "臣道",
+      "修身",
+      "九節"
+    ],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "晏子春秋 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/晏子春秋/卷四",
         "work": "晏子春秋"
       }
     ]
@@ -131368,6 +132074,25 @@
         "title": "詩經 · 北山",
         "url": "https://zh.wikisource.org/wiki/詩經/北山",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "燕爵不知禍將及",
+    "title": "燕爵不知禍將及",
+    "summary": "以燕爵喻臣子不知禍難之將至。",
+    "tags": [
+      "寓言",
+      "禍福",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -138091,6 +138816,25 @@
     ]
   },
   {
+    "slug": "畝欲廣平甽欲小清",
+    "title": "畝欲廣平甽欲小清",
+    "summary": "述田疇之形制。",
+    "tags": [
+      "農業",
+      "田制",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "番禺負山",
     "title": "番禺負山",
     "summary": "任囂謂番禺據嶺海之勝，足建國以觀天下之變。",
@@ -141588,6 +142332,25 @@
     ]
   },
   {
+    "slug": "省耕實",
+    "title": "省耕實",
+    "summary": "春省耕而補不足，謂之遊；秋省實而助不給，謂之豫。",
+    "tags": [
+      "治國",
+      "愛民",
+      "遊豫"
+    ],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "晏子春秋 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/晏子春秋/卷四",
+        "work": "晏子春秋"
+      }
+    ]
+  },
+  {
     "slug": "眇能視",
     "title": "眇能視",
     "summary": "目偏而猶可見，幽人守正則吉，常道未失也。",
@@ -141664,9 +142427,9 @@
       "大宗師",
       "理想人格",
       "養生",
+      "太一",
       "部:子",
-      "部:子/道家類",
-      "太一"
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -146675,7 +147438,9 @@
     "tags": [
       "秋令",
       "四時",
-      "逆政"
+      "逆政",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -147717,6 +148482,25 @@
         "title": "國語 · 卷21",
         "url": "https://zh.wikisource.org/wiki/國語/卷21",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "稼生於塵殖於堅",
+    "title": "稼生於塵殖於堅",
+    "summary": "述播種耕耘之法。",
+    "tags": [
+      "農業",
+      "播種",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -154949,6 +155733,25 @@
     ]
   },
   {
+    "slug": "耕之大方",
+    "title": "耕之大方",
+    "summary": "述耕耘之五法。",
+    "tags": [
+      "農業",
+      "耕耘",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "耕戰-之",
     "title": "耕戰-之",
     "summary": "",
@@ -154963,6 +155766,25 @@
         "title": "商君書 · 卷五",
         "url": "https://zh.wikisource.org/wiki/商君書/卷五",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "耕道",
+    "title": "耕道",
+    "summary": "述耕耘之正道在人、地、天之和。",
+    "tags": [
+      "農業",
+      "哲學",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -156321,7 +157143,9 @@
     "tags": [
       "天人感應",
       "災異",
-      "聖王"
+      "聖王",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -156352,6 +157176,27 @@
         "title": "荀子 · 君子篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "聖王所以免於天地之誅",
+    "title": "聖王所以免於天地之誅",
+    "summary": "修德修刑修和修生，可免天地之罰。",
+    "tags": [
+      "聖王",
+      "天人",
+      "免誅",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第40篇四時",
+        "plugin": "wikisource",
+        "title": "管子 · 第40篇四時",
+        "url": "https://zh.wikisource.org/wiki/管子/第40篇四時",
+        "work": "管子"
       }
     ]
   },
@@ -161602,6 +162447,26 @@
         "title": "墨子 · 親士",
         "url": "https://zh.wikisource.org/wiki/墨子/親士",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "良狗志在麋鹿",
+    "title": "良狗志在麋鹿",
+    "summary": "喻大才者志在遠大，不屑細事。",
+    "tags": [
+      "寓言",
+      "相狗",
+      "志大",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -167717,7 +168582,9 @@
     "tags": [
       "道家",
       "處世",
-      "虛靜"
+      "虛靜",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -169485,7 +170352,9 @@
     "tags": [
       "四時",
       "政令",
-      "災異"
+      "災異",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -170855,6 +171724,25 @@
     ]
   },
   {
+    "slug": "被瞻不死亡",
+    "title": "被瞻不死亡",
+    "summary": "述被瞻以道不行釋不死亡之義。",
+    "tags": [
+      "寓言",
+      "臣道",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "被髮而無卷領",
     "title": "被髮而無卷領",
     "summary": "古者質樸，無禮義之繁，民物大和。",
@@ -171822,7 +172710,9 @@
     "tags": [
       "賞罰",
       "治道",
-      "貴賤"
+      "貴賤",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -180286,7 +181176,9 @@
     "tags": [
       "神話",
       "龍",
-      "境界"
+      "境界",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -184141,7 +185033,9 @@
     "tags": [
       "辰德",
       "西方",
-      "秋令"
+      "秋令",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -185305,7 +186199,9 @@
     "tags": [
       "御",
       "道家",
-      "技藝"
+      "技藝",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -186983,6 +187879,25 @@
     ]
   },
   {
+    "slug": "道明",
+    "title": "道以明",
+    "summary": "道以明之，則民曉理而不爭。",
+    "tags": [
+      "管子",
+      "治道",
+      "無為"
+    ],
+    "sources": [
+      {
+        "chapter": "第43篇正",
+        "plugin": "wikisource",
+        "title": "管子 · 第43篇正",
+        "url": "https://zh.wikisource.org/wiki/管子/第43篇正",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "道書之重",
     "title": "道書之重",
     "summary": "道書之重，莫過於三皇內文五嶽真形圖。",
@@ -187076,7 +187991,9 @@
     "tags": [
       "道",
       "德",
-      "宇宙生成"
+      "宇宙生成",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -190786,6 +191703,25 @@
     ]
   },
   {
+    "slug": "野禁五事",
+    "title": "野禁五事",
+    "summary": "述田野之五禁。",
+    "tags": [
+      "農業",
+      "禁令",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷二十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "野與市爭民",
     "title": "野與市爭民",
     "summary": "治國當明分工，農事為本。",
@@ -191016,6 +191952,25 @@
         "title": "孟子 · 萬章下",
         "url": "https://zh.wikisource.org/wiki/孟子/萬章下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "金行御",
+    "title": "金行御",
+    "summary": "金行之令，循庚子而行，天子當修武備，謹誅伐。",
+    "tags": [
+      "五行",
+      "時令",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第41篇五行",
+        "plugin": "wikisource",
+        "title": "管子 · 第41篇五行",
+        "url": "https://zh.wikisource.org/wiki/管子/第41篇五行",
+        "work": "管子"
       }
     ]
   },
@@ -193634,7 +194589,9 @@
     "tags": [
       "感應",
       "陰陽",
-      "意志"
+      "意志",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -193740,7 +194697,9 @@
     "tags": [
       "陰陽",
       "刑德",
-      "天道"
+      "天道",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -204415,6 +205374,25 @@
         "title": "史記 · 卷012",
         "url": "https://zh.wikisource.org/wiki/史記/卷012",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "黃帝得六相",
+    "title": "黃帝得六相",
+    "summary": "黃帝得六相以治天下，分掌天道、地利及四方。",
+    "tags": [
+      "黃帝",
+      "六相",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第41篇五行",
+        "plugin": "wikisource",
+        "title": "管子 · 第41篇五行",
+        "url": "https://zh.wikisource.org/wiki/管子/第41篇五行",
+        "work": "管子"
       }
     ]
   },
