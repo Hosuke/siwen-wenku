@@ -2025,7 +2025,8 @@
       "爵位",
       "年齡",
       "德行",
-      "治道"
+      "治道",
+      "部:子"
     ],
     "sources": [
       {
@@ -2068,7 +2069,9 @@
       "地理",
       "田榮",
       "項羽",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -2914,7 +2917,9 @@
     "tags": [
       "莊子",
       "修身",
-      "真人"
+      "真人",
+      "部:子",
+      "部:子/儒家類"
     ],
     "sources": [
       {
@@ -8113,7 +8118,9 @@
     "tags": [
       "莊子",
       "孝道",
-      "真"
+      "真",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -8263,7 +8270,9 @@
       "義烈",
       "從死",
       "門客",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -9252,7 +9261,9 @@
       "齊國",
       "義烈",
       "從死",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -12878,6 +12889,21 @@
     ]
   },
   {
+    "slug": "以智治國國之賊也-之",
+    "title": "以智治國國之賊也-之",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "難三",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難三",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難三",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "以杞包瓜含章",
     "title": "以杞包瓜含章",
     "summary": "九五爻辭，杞葉包瓜，含蓄章美，喻聖人含弘光大之德。",
@@ -13757,6 +13783,13 @@
         "title": "抱朴子 · 卷12",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
       }
     ]
   },
@@ -14132,6 +14165,20 @@
         "title": "抱朴子 · 卷52",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷52",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
+      },
+      {
+        "chapter": "難三",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難三",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難三",
+        "work": "韓非子"
       }
     ]
   },
@@ -19518,7 +19565,9 @@
       "齊國",
       "兄弟",
       "王",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -20885,6 +20934,26 @@
     ]
   },
   {
+    "slug": "全德之君子",
+    "title": "全德之君子",
+    "summary": "真人之德，天貌虛懷，容物而不累於物。",
+    "tags": [
+      "莊子",
+      "真人",
+      "德行",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "田子方",
+        "plugin": "wikisource",
+        "title": "莊子 · 田子方",
+        "url": "https://zh.wikisource.org/wiki/莊子/田子方",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "兩堯不能相王",
     "title": "兩堯不能相王",
     "summary": "同道者相成，異道者相傾",
@@ -21148,7 +21217,9 @@
     "tags": [
       "莊子",
       "修身",
-      "鑒人"
+      "鑒人",
+      "部:子",
+      "部:子/儒家類"
     ],
     "sources": [
       {
@@ -26660,6 +26731,13 @@
         "title": "國語 · 卷10",
         "url": "https://zh.wikisource.org/wiki/國語/卷10",
         "work": "國語"
+      },
+      {
+        "chapter": "難三",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難三",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難三",
+        "work": "韓非子"
       }
     ]
   },
@@ -31725,7 +31803,9 @@
     "tags": [
       "莊子",
       "傳道",
-      "妙道"
+      "妙道",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -32972,6 +33052,26 @@
         "title": "國語 · 卷04",
         "url": "https://zh.wikisource.org/wiki/國語/卷04",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "君人者勞於索人佚於使人",
+    "title": "君人者勞於索人佚於使人",
+    "summary": "君人者，以索賢為勞，以使人為佚，任賢使能則天下易治。",
+    "tags": [
+      "任賢",
+      "為君",
+      "桓公",
+      "韓非"
+    ],
+    "sources": [
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
       }
     ]
   },
@@ -35498,7 +35598,9 @@
       "管叔",
       "兄弟",
       "過失",
-      "修身"
+      "修身",
+      "部:子",
+      "部:子/儒家類"
     ],
     "sources": [
       {
@@ -38146,6 +38248,25 @@
     ]
   },
   {
+    "slug": "單以反一日之無故而不可得",
+    "title": "單以反一日之無故而不可得",
+    "summary": "患至而圖，則無及已。",
+    "tags": [
+      "道家",
+      "修身",
+      "名利"
+    ],
+    "sources": [
+      {
+        "chapter": "盜跖",
+        "plugin": "wikisource",
+        "title": "莊子 · 盜跖",
+        "url": "https://zh.wikisource.org/wiki/莊子/盜跖",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "單厥心",
     "title": "單厥心",
     "summary": "竭盡其心，以成基命之功。",
@@ -39556,7 +39677,9 @@
     "tags": [
       "莊子",
       "政治",
-      "治道"
+      "治道",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -39868,6 +39991,21 @@
         "plugin": "wikisource",
         "title": "韓非子 · 揚榷",
         "url": "https://zh.wikisource.org/wiki/韓非子/揚榷",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "因物以治物-之",
+    "title": "因物以治物-之",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "難三",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難三",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難三",
         "work": "韓非子"
       }
     ]
@@ -41592,7 +41730,9 @@
       "治道",
       "得道",
       "封疆",
-      "政治哲學"
+      "政治哲學",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -45732,7 +45872,11 @@
       "信數",
       "觀行",
       "必然",
-      "部:其他"
+      "部:其他",
+      "治道",
+      "三難",
+      "管仲",
+      "韓非子"
     ],
     "sources": [
       {
@@ -45740,6 +45884,13 @@
         "plugin": "wikisource",
         "title": "韓非子 · 觀行",
         "url": "https://zh.wikisource.org/wiki/韓非子/觀行",
+        "work": "韓非子"
+      },
+      {
+        "chapter": "難三",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難三",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難三",
         "work": "韓非子"
       }
     ]
@@ -50777,7 +50928,9 @@
       "民心",
       "地利",
       "人和",
-      "守國"
+      "守國",
+      "部:經",
+      "部:經/四書類"
     ],
     "sources": [
       {
@@ -52203,7 +52356,10 @@
       "聽獄",
       "治姦",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "子產",
+      "察姦",
+      "觀人"
     ],
     "sources": [
       {
@@ -58127,6 +58283,26 @@
     ]
   },
   {
+    "slug": "射之射非不射之射",
+    "title": "射之射非不射之射",
+    "summary": "技術之射與無心之射，截然有間。",
+    "tags": [
+      "莊子",
+      "射藝",
+      "至人",
+      "無為"
+    ],
+    "sources": [
+      {
+        "chapter": "田子方",
+        "plugin": "wikisource",
+        "title": "莊子 · 田子方",
+        "url": "https://zh.wikisource.org/wiki/莊子/田子方",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "射侯-之",
     "title": "射侯-之",
     "summary": "",
@@ -62687,6 +62863,25 @@
     ]
   },
   {
+    "slug": "平為福有餘為害",
+    "title": "平為福有餘為害",
+    "summary": "知足則平，平則為福；有餘而不知止，反足為害。",
+    "tags": [
+      "道家",
+      "修身",
+      "名利"
+    ],
+    "sources": [
+      {
+        "chapter": "盜跖",
+        "plugin": "wikisource",
+        "title": "莊子 · 盜跖",
+        "url": "https://zh.wikisource.org/wiki/莊子/盜跖",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "平王之孫",
     "title": "平王之孫",
     "summary": "周室正統後裔，非東遷之平王。",
@@ -64449,7 +64644,9 @@
     "tags": [
       "莊子",
       "仁",
-      "禍福"
+      "禍福",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -64862,7 +65059,9 @@
       "梁",
       "中立",
       "楚漢",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -67672,6 +67871,25 @@
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "忯忯戚醮",
+    "title": "忯忯戚醮",
+    "summary": "貪財積貨而不能舍，中心戚戚，憂慮交積。",
+    "tags": [
+      "道家",
+      "修身",
+      "名利"
+    ],
+    "sources": [
+      {
+        "chapter": "盜跖",
+        "plugin": "wikisource",
+        "title": "莊子 · 盜跖",
+        "url": "https://zh.wikisource.org/wiki/莊子/盜跖",
+        "work": "莊子"
       }
     ]
   },
@@ -72962,7 +73180,8 @@
     "tags": [
       "樊噲",
       "鴻門",
-      "勇猛"
+      "勇猛",
+      "部:其他"
     ],
     "sources": [
       {
@@ -80097,6 +80316,13 @@
         "title": "史記 · 卷064",
         "url": "https://zh.wikisource.org/wiki/史記/卷064",
         "work": "史記"
+      },
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
       }
     ]
   },
@@ -80848,7 +81074,8 @@
     "tags": [
       "孔子",
       "禮",
-      "賢"
+      "賢",
+      "部:集"
     ],
     "sources": [
       {
@@ -92963,6 +93190,25 @@
     ]
   },
   {
+    "slug": "法術",
+    "title": "法術",
+    "summary": "法布百姓，術藏胷中；法莫如顯，術不欲見。",
+    "tags": [
+      "法術",
+      "治道",
+      "韓非子"
+    ],
+    "sources": [
+      {
+        "chapter": "難三",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難三",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難三",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "法術之士與當途之臣不相容",
     "title": "法術之士與當途之臣不相容",
     "summary": "法術之士與當途之臣利害相反，不能兩立。",
@@ -93640,7 +93886,9 @@
       "田橫",
       "齊國",
       "賢名",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -97035,7 +97283,8 @@
       "治道",
       "賢士",
       "去就",
-      "道義"
+      "道義",
+      "部:子"
     ],
     "sources": [
       {
@@ -97578,7 +97827,9 @@
       "田橫",
       "齊國",
       "烹殺",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -98226,6 +98477,25 @@
         "title": "詩經 · 漢廣",
         "url": "https://zh.wikisource.org/wiki/詩經/漢廣",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "無恥者富多信者顯",
+    "title": "無恥者富多信者顯",
+    "summary": "世之所貴，不在德行，而在無恥與多言。",
+    "tags": [
+      "道家",
+      "名利",
+      "世情"
+    ],
+    "sources": [
+      {
+        "chapter": "盜跖",
+        "plugin": "wikisource",
+        "title": "莊子 · 盜跖",
+        "url": "https://zh.wikisource.org/wiki/莊子/盜跖",
+        "work": "莊子"
       }
     ]
   },
@@ -99557,7 +99827,9 @@
       "禮儀",
       "孝道",
       "君臣",
-      "修身"
+      "修身",
+      "部:經",
+      "部:經/四書類"
     ],
     "sources": [
       {
@@ -103443,7 +103715,9 @@
       "齊國",
       "將軍",
       "義烈",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -103464,7 +103738,9 @@
       "高節",
       "田橫",
       "賓客",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -103485,7 +103761,9 @@
       "尊嚴",
       "恥辱",
       "氣節",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -103506,7 +103784,9 @@
       "齊國",
       "復國",
       "自立",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -106375,6 +106655,25 @@
     ]
   },
   {
+    "slug": "皐華泉混混",
+    "title": "皐華泉混混",
+    "summary": "富人馮氣自矜，不知取與之道，反以有餘為樂而招害。",
+    "tags": [
+      "道家",
+      "養生",
+      "名利"
+    ],
+    "sources": [
+      {
+        "chapter": "盜跖",
+        "plugin": "wikisource",
+        "title": "莊子 · 盜跖",
+        "url": "https://zh.wikisource.org/wiki/莊子/盜跖",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "皐門",
     "title": "皐門",
     "summary": "",
@@ -107055,6 +107354,26 @@
     ]
   },
   {
+    "slug": "目擊而道存",
+    "title": "目擊而道存",
+    "summary": "以目相視，道已昭然，不待言說。",
+    "tags": [
+      "莊子",
+      "孔子",
+      "溫伯雪子",
+      "境界"
+    ],
+    "sources": [
+      {
+        "chapter": "田子方",
+        "plugin": "wikisource",
+        "title": "莊子 · 田子方",
+        "url": "https://zh.wikisource.org/wiki/莊子/田子方",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "盱豫",
     "title": "盱豫",
     "summary": "仰視逸豫，位不當而悔隨之。",
@@ -107497,7 +107816,9 @@
     "tags": [
       "莊子",
       "情性",
-      "精誠"
+      "精誠",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -107928,6 +108249,26 @@
     ]
   },
   {
+    "slug": "知下",
+    "title": "知下",
+    "summary": "知下明則禁於微，姦無積則公私分，而國不貧。",
+    "tags": [
+      "治道",
+      "知下",
+      "察姦",
+      "韓非子"
+    ],
+    "sources": [
+      {
+        "chapter": "難三",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難三",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難三",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "知人之難",
     "title": "知人之難",
     "summary": "",
@@ -107969,6 +108310,13 @@
         "title": "抱朴子 · 卷52",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷52",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "難三",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難三",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難三",
+        "work": "韓非子"
       }
     ]
   },
@@ -112573,6 +112921,26 @@
     ]
   },
   {
+    "slug": "窕言與窕貨",
+    "title": "窕言與窕貨",
+    "summary": "言語辨悅而不度於義者為窕言，無山林澤谷之利而入多者為窕貨，君子不聽不受。",
+    "tags": [
+      "李克",
+      "中山",
+      "辯言",
+      "法治"
+    ],
+    "sources": [
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "窮有八極達有三必",
     "title": "窮有八極達有三必",
     "summary": "材美者困於八極，通達者賴乎三者",
@@ -113367,6 +113735,13 @@
         "title": "韓非子 · 十過",
         "url": "https://zh.wikisource.org/wiki/韓非子/十過",
         "work": "韓非子"
+      },
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
       }
     ]
   },
@@ -113394,6 +113769,13 @@
         "title": "莊子 · 徐無鬼",
         "url": "https://zh.wikisource.org/wiki/莊子/徐無鬼",
         "work": "莊子"
+      },
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
       }
     ]
   },
@@ -120380,7 +120762,9 @@
       "得士",
       "門客",
       "義烈",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -120814,6 +121198,26 @@
     ]
   },
   {
+    "slug": "臣之力與君之力",
+    "title": "臣之力與君之力",
+    "summary": "霸王之功，非專臣之力，亦非專君之力，乃君臣俱有力焉。",
+    "tags": [
+      "君臣",
+      "霸王之功",
+      "叔向",
+      "師曠"
+    ],
+    "sources": [
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "臣事君子事父妻事夫",
     "title": "臣事君，子事父，妻事夫",
     "summary": "臣、子、妻各盡其分，天下治；逆之，天下亂。",
@@ -120911,7 +121315,8 @@
     "tags": [
       "樊噲",
       "忠義",
-      "鴻門"
+      "鴻門",
+      "部:其他"
     ],
     "sources": [
       {
@@ -123728,7 +124133,9 @@
     "tags": [
       "莊子",
       "仁",
-      "真"
+      "真",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -125332,7 +125739,9 @@
     "tags": [
       "莊子",
       "道",
-      "聖人"
+      "聖人",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -125642,6 +126051,13 @@
         "title": "史記 · 卷047",
         "url": "https://zh.wikisource.org/wiki/史記/卷047",
         "work": "史記"
+      },
+      {
+        "chapter": "難三",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難三",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難三",
+        "work": "韓非子"
       }
     ]
   },
@@ -126207,7 +126623,9 @@
       "韓信",
       "齊",
       "計謀",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -129347,6 +129765,27 @@
     ]
   },
   {
+    "slug": "行人燭過",
+    "title": "行人燭過",
+    "summary": "趙簡子之臣，曉以君不能則士無弊、賞刑明則士用命之理。",
+    "tags": [
+      "行人",
+      "燭過",
+      "趙簡子",
+      "春秋",
+      "臣論"
+    ],
+    "sources": [
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "行僻自用亡身之至",
     "title": "行僻自用亡身之至",
     "summary": "乖僻自用，慢待諸侯，必亡其身。",
@@ -131425,6 +131864,13 @@
         "plugin": "wikisource",
         "title": "韓非子 · 說林上",
         "url": "https://zh.wikisource.org/wiki/韓非子/說林上",
+        "work": "韓非子"
+      },
+      {
+        "chapter": "難三",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難三",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難三",
         "work": "韓非子"
       }
     ]
@@ -136486,7 +136932,9 @@
     "tags": [
       "莊子",
       "真",
-      "性情"
+      "性情",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -137036,6 +137484,26 @@
     ]
   },
   {
+    "slug": "賞厚而信人輕敵與刑重而必人不北",
+    "title": "賞厚而信人輕敵與刑重而必人不北",
+    "summary": "賞厚信則人輕敵而敢戰，刑重必則人畏威而不敗逃。",
+    "tags": [
+      "賞罰",
+      "治軍",
+      "行人燭過",
+      "趙簡子"
+    ],
+    "sources": [
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "賞同罰異",
     "title": "賞同罰異",
     "summary": "賞善之至在乎同所好，罰惡之至在乎異所惡。",
@@ -137118,6 +137586,25 @@
         "title": "墨子 · 尚賢下",
         "url": "https://zh.wikisource.org/wiki/墨子/尚賢下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "賞無功而不誅過",
+    "title": "賞無功而不誅過",
+    "summary": "賞賜無功則民偷幸，不誅過錯則民易為非，亂之所由生也。",
+    "tags": [
+      "賞罰",
+      "治亂",
+      "韓非"
+    ],
+    "sources": [
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
       }
     ]
   },
@@ -137336,6 +137823,13 @@
         "plugin": "wikisource",
         "title": "韓非子 · 有度",
         "url": "https://zh.wikisource.org/wiki/韓非子/有度",
+        "work": "韓非子"
+      },
+      {
+        "chapter": "難三",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難三",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難三",
         "work": "韓非子"
       }
     ]
@@ -138353,7 +138847,9 @@
       "出身",
       "布衣",
       "王侯",
-      "史記"
+      "史記",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -138765,6 +139261,13 @@
         "title": "國語 · 卷15",
         "url": "https://zh.wikisource.org/wiki/國語/卷15",
         "work": "國語"
+      },
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
       }
     ]
   },
@@ -139151,6 +139654,25 @@
     ]
   },
   {
+    "slug": "踊貴而屨賤",
+    "title": "踊貴而屨賤",
+    "summary": "刑罰繁苛則踊貴而常履賤，以見濫刑之弊。",
+    "tags": [
+      "晏子",
+      "刑法",
+      "濫刑"
+    ],
+    "sources": [
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
+      }
+    ]
+  },
+  {
     "slug": "蹇之時用",
     "title": "蹇之時用",
     "summary": "聖人因蹇以成德，其用至大。",
@@ -139510,6 +140032,26 @@
         "title": "抱朴子 · 卷38",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷38",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "身貴於隸",
+    "title": "身貴於隸",
+    "summary": "身者我之本，爵祿者外之隸，不可同日而語。",
+    "tags": [
+      "莊子",
+      "孫叔敖",
+      "達觀",
+      "生死"
+    ],
+    "sources": [
+      {
+        "chapter": "田子方",
+        "plugin": "wikisource",
+        "title": "莊子 · 田子方",
+        "url": "https://zh.wikisource.org/wiki/莊子/田子方",
+        "work": "莊子"
       }
     ]
   },
@@ -141307,7 +141849,9 @@
     "tags": [
       "莊子",
       "修身",
-      "無累"
+      "無累",
+      "部:子",
+      "部:子/儒家類"
     ],
     "sources": [
       {
@@ -142519,6 +143063,27 @@
     ]
   },
   {
+    "slug": "遊心物之初",
+    "title": "遊心於物之初",
+    "summary": "心遊於萬物之本始，則得至美至樂之境。",
+    "tags": [
+      "莊子",
+      "老子",
+      "孔子",
+      "道",
+      "境界"
+    ],
+    "sources": [
+      {
+        "chapter": "田子方",
+        "plugin": "wikisource",
+        "title": "莊子 · 田子方",
+        "url": "https://zh.wikisource.org/wiki/莊子/田子方",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "遊方之外",
     "title": "遊方之外",
     "summary": "方之外者，視死生如晝夜，不以世俗之禮自拘。",
@@ -142592,9 +143157,9 @@
       "過失",
       "君子",
       "孟子",
+      "修身之道",
       "部:經",
-      "部:經/四書類",
-      "修身之道"
+      "部:經/四書類"
     ],
     "sources": [
       {
@@ -144867,6 +145432,26 @@
     ]
   },
   {
+    "slug": "醯雞與",
+    "title": "醯雞與",
+    "summary": "目之所見有限，不知天地之大全。",
+    "tags": [
+      "莊子",
+      "境界",
+      "認知",
+      "孔子"
+    ],
+    "sources": [
+      {
+        "chapter": "田子方",
+        "plugin": "wikisource",
+        "title": "莊子 · 田子方",
+        "url": "https://zh.wikisource.org/wiki/莊子/田子方",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "采唐采麥采葑",
     "title": "采唐采麥采葑",
     "summary": "以采-{zh-cn:（唐、麥、葑）}-起興，寓相思之情於草木之中。",
@@ -146783,6 +147368,13 @@
         "title": "荀子 · 君道篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
         "work": "荀子"
+      },
+      {
+        "chapter": "難二",
+        "plugin": "wikisource",
+        "title": "韓非子 · 難二",
+        "url": "https://zh.wikisource.org/wiki/韓非子/難二",
+        "work": "韓非子"
       }
     ]
   },
