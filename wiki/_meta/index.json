@@ -487,6 +487,27 @@
     ]
   },
   {
+    "slug": "一朝兩城下",
+    "title": "一朝兩城下",
+    "summary": "德行無積而驟勝，亡且及之",
+    "tags": [
+      "趙襄子",
+      "憂懼",
+      "持勝",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "一本二本",
     "title": "一本二本",
     "summary": "天之生物使之一本，愛親為本，愛人為末",
@@ -3029,7 +3050,9 @@
     "tags": [
       "食材",
       "烹飪",
-      "滋味"
+      "滋味",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -4864,6 +4887,27 @@
         "title": "韓非子 · 說疑",
         "url": "https://zh.wikisource.org/wiki/韓非子/說疑",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "不以其所養害其養",
+    "title": "不以其所養害其養",
+    "summary": "聖王不以養人者害人",
+    "tags": [
+      "大王亶父",
+      "去國",
+      "養生",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -7582,6 +7626,27 @@
         "title": "周易 · 未濟",
         "url": "https://zh.wikisource.org/wiki/周易/未濟",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "不義得之",
+    "title": "不義得之",
+    "summary": "不義而得之，不能施人，患必至矣",
+    "tags": [
+      "義",
+      "施予",
+      "白公",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -15080,6 +15145,28 @@
         "title": "呂氏春秋 · 卷十九",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
         "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "亡羊而喻",
+    "title": "亡羊而喻",
+    "summary": "臧者讀書，穀者博塞，事業不同，亡羊則均。以喻殉名殉利各異，而失性同歸。",
+    "tags": [
+      "莊子",
+      "寓言",
+      "殉名",
+      "殉利",
+      "性命",
+      "哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "駢拇",
+        "plugin": "wikisource",
+        "title": "莊子 · 駢拇",
+        "url": "https://zh.wikisource.org/wiki/莊子/駢拇",
+        "work": "莊子"
       }
     ]
   },
@@ -22825,6 +22912,28 @@
     ]
   },
   {
+    "slug": "伯夷盜跖同道",
+    "title": "伯夷盜跖同道",
+    "summary": "伯夷死名，盜跖死利，所殉不同，而殘生傷性均也。",
+    "tags": [
+      "莊子",
+      "伯夷",
+      "盜跖",
+      "殉",
+      "性命",
+      "寓言"
+    ],
+    "sources": [
+      {
+        "chapter": "駢拇",
+        "plugin": "wikisource",
+        "title": "莊子 · 駢拇",
+        "url": "https://zh.wikisource.org/wiki/莊子/駢拇",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "伯夷隘",
     "title": "伯夷隘",
     "summary": "伯夷非其君不事，然其心狹隘；柳下惠不羞污君，然其行不恭。隘與不恭，君子不由。",
@@ -27028,7 +27137,9 @@
     "tags": [
       "治學",
       "修身",
-      "用眾"
+      "用眾",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -29046,6 +29157,27 @@
       "禮記",
       "郊特牲",
       "禮",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "郊特牲",
+        "plugin": "wikisource",
+        "title": "禮記 · 郊特牲",
+        "url": "https://zh.wikisource.org/wiki/禮記/郊特牲",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "先啬與司啬",
+    "title": "先嗇與司嗇",
+    "summary": "農事之嗇，先嗇播種，司嗇督斂，祭祀所以報功。",
+    "tags": [
+      "祭祀",
+      "農耕",
+      "神祇",
       "部:經",
       "部:經/禮類"
     ],
@@ -39948,6 +40080,27 @@
     ]
   },
   {
+    "slug": "勸力之歌",
+    "title": "勸力之歌",
+    "summary": "號子之歌，適時合用，勝於淫聲",
+    "tags": [
+      "翟煎",
+      "邪許",
+      "合宜",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "勸飯之說",
     "title": "勸飯之說",
     "summary": "不務本業而好末事，譬如勸餓人以美食，終不能活。",
@@ -46344,6 +46497,27 @@
     ]
   },
   {
+    "slug": "古之君子必報之",
+    "title": "古之君子必報之",
+    "summary": "恩德施於人者，必有以報之，此仁義之至也。",
+    "tags": [
+      "仁義",
+      "報德",
+      "君子",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "郊特牲",
+        "plugin": "wikisource",
+        "title": "禮記 · 郊特牲",
+        "url": "https://zh.wikisource.org/wiki/禮記/郊特牲",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "古之子書能勝今之作者",
     "title": "古之子書能勝今之作者",
     "summary": "古書猶學者之山淵，可供漁獵采伐，非今所能輕蔑。",
@@ -51812,6 +51986,27 @@
     ]
   },
   {
+    "slug": "吳起論屈宜若",
+    "title": "吳起論屈宜若",
+    "summary": "吳起變法改制，屈宜若以為逆天戾理",
+    "tags": [
+      "吳起",
+      "屈宜若",
+      "變法",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "吳進矣",
     "title": "吳進矣",
     "summary": "吳夷狄之國，辭卑稱而居尊位，黃池之會乃進乎中國。",
@@ -53728,6 +53923,132 @@
     ]
   },
   {
+    "slug": "哀之發於容體",
+    "title": "哀之發於容體",
+    "summary": "居喪之容，隨喪服之差而異。",
+    "tags": [
+      "喪服",
+      "禮儀",
+      "哀禮",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "間傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 間傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/間傳",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "哀之發於居處",
+    "title": "哀之發於居處",
+    "summary": "居喪居處，視喪服之差而異其倚廬、屋堽、寢席之制。",
+    "tags": [
+      "喪禮",
+      "居處",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "間傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 間傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/間傳",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "哀之發於聲音",
+    "title": "哀之發於聲音",
+    "summary": "居喪之哭，視喪服之差而有往而不反、而反、三曲而偯之異。",
+    "tags": [
+      "喪禮",
+      "哭聲",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "間傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 間傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/間傳",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "哀之發於衣服",
+    "title": "哀之發於衣服",
+    "summary": "居喪衣服，視喪服之差而異其升數。",
+    "tags": [
+      "喪服",
+      "布料",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "間傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 間傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/間傳",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "哀之發於言語",
+    "title": "哀之發於言語",
+    "summary": "居喪言語，視喪服之差而別以唯、對、言、議之等。",
+    "tags": [
+      "喪禮",
+      "言語",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "間傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 間傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/間傳",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "哀之發於飲食",
+    "title": "哀之發於飲食",
+    "summary": "居喪飲食，視喪服之差而別以不食、再不食之節。",
+    "tags": [
+      "喪禮",
+      "飲食",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "間傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 間傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/間傳",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "哀姜",
     "title": "哀姜",
     "summary": "",
@@ -55406,6 +55727,9 @@
       "治術",
       "老子",
       "無為",
+      "持勝",
+      "憂患",
+      "孔墨",
       "部:子",
       "部:子/雜家類"
     ],
@@ -55416,6 +55740,13 @@
         "title": "呂氏春秋 · 卷十五",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
         "work": "呂氏春秋"
+      },
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -58642,6 +58973,27 @@
         "plugin": "wikisource",
         "title": "淮南子 · 本經訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/本經訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "四累之上",
+    "title": "四累之上",
+    "summary": "使天下皆欲愛利之心，賢於勇有力",
+    "tags": [
+      "惠孟",
+      "宋康王",
+      "無為",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
         "work": "淮南子"
       }
     ]
@@ -63831,6 +64183,25 @@
     ]
   },
   {
+    "slug": "士三月葬卒哭",
+    "title": "士三月而葬，是月也卒哭",
+    "summary": "記士、大夫、諸侯葬期卒哭之異，虞祭次數之差。",
+    "tags": [
+      "禮制",
+      "葬禮",
+      "卒哭"
+    ],
+    "sources": [
+      {
+        "chapter": "雜記下",
+        "plugin": "wikisource",
+        "title": "禮記 · 雜記下",
+        "url": "https://zh.wikisource.org/wiki/禮記/雜記下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "士不可用以將予人",
     "title": "士不可用，以將予人",
     "summary": "士不任事，是將之過。",
@@ -64212,6 +64583,27 @@
         "title": "管子 · 第19篇中匡",
         "url": "https://zh.wikisource.org/wiki/管子/第19篇中匡",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "壹介之善",
+    "title": "壹介之善",
+    "summary": "桓公取人，不以其小惡忘其大美",
+    "tags": [
+      "桓公",
+      "寧越",
+      "知人",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -73111,6 +73503,27 @@
     ]
   },
   {
+    "slug": "女媧七十化",
+    "title": "女媧七十化",
+    "summary": "傳說女媧摶土造人，一日七十化。",
+    "tags": [
+      "神話",
+      "創世",
+      "女媧",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "說林訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 說林訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/說林訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "女子之祥",
     "title": "女子之祥",
     "summary": "虺蛇入夢，生女之兆。",
@@ -78641,7 +79054,9 @@
     "tags": [
       "禮制",
       "服飾",
-      "節令"
+      "節令",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -78681,7 +79096,9 @@
     "tags": [
       "節令",
       "政令",
-      "陰陽五行"
+      "陰陽五行",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -78700,7 +79117,9 @@
     "tags": [
       "政令",
       "節令",
-      "災異"
+      "災異",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -78719,7 +79138,9 @@
     "tags": [
       "政令",
       "節令",
-      "災異"
+      "災異",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -78736,11 +79157,11 @@
     "title": "孟夏行秋令",
     "summary": "孟夏行秋令則苦雨數來五穀不滋，行冬令則草木蚤枯，行春令則蟲蝗為災。",
     "tags": [
-      "部:經",
-      "部:經/禮類",
       "政令",
       "節令",
-      "災異"
+      "災異",
+      "部:經",
+      "部:經/禮類"
     ],
     "sources": [
       {
@@ -86231,10 +86652,10 @@
       "師道",
       "儒學",
       "禮制",
-      "部:經",
-      "部:經/禮類",
       "教育",
-      "治學"
+      "治學",
+      "部:經",
+      "部:經/禮類"
     ],
     "sources": [
       {
@@ -86856,6 +87277,27 @@
         "title": "管子 · 第28篇參患",
         "url": "https://zh.wikisource.org/wiki/管子/第28篇參患",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "小惑易方大惑易性",
+    "title": "小惑易方大惑易性",
+    "summary": "小惑變方向，大惑變本性；世之殉物者，皆失其性命之情。",
+    "tags": [
+      "莊子",
+      "迷惑",
+      "性命",
+      "殉物",
+      "哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "駢拇",
+        "plugin": "wikisource",
+        "title": "莊子 · 駢拇",
+        "url": "https://zh.wikisource.org/wiki/莊子/駢拇",
+        "work": "莊子"
       }
     ]
   },
@@ -88915,6 +89357,27 @@
         "title": "尹文子 · 序",
         "url": "https://zh.wikisource.org/wiki/尹文子/序",
         "work": "尹文子"
+      }
+    ]
+  },
+  {
+    "slug": "山雲蒸柱礎潤",
+    "title": "山雲蒸柱礎潤",
+    "summary": "雲蒸於山則礎潤，伏苓掘則兔絲死，物之類也。",
+    "tags": [
+      "自然",
+      "感應",
+      "物類",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "說林訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 說林訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/說林訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -93538,6 +94001,27 @@
     ]
   },
   {
+    "slug": "弗安而安",
+    "title": "弗安而安",
+    "summary": "不言可安則周自安",
+    "tags": [
+      "杜赫",
+      "安天下",
+      "無為",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "弗弗之臣",
     "title": "弗弗之臣",
     "summary": "",
@@ -94239,6 +94723,27 @@
     ]
   },
   {
+    "slug": "強臺之樂",
+    "title": "強臺之樂",
+    "summary": "聖王薄德，不當大樂",
+    "tags": [
+      "莊王",
+      "令尹子佩",
+      "無為",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "强本事去無用",
     "title": "强本事去無用",
     "summary": "明主之務，在於强本業、去無用之物，使民富國治。",
@@ -94558,6 +95063,27 @@
     ]
   },
   {
+    "slug": "形之不形",
+    "title": "形之不形者",
+    "summary": "形者生於不形，道為萬物之始",
+    "tags": [
+      "道",
+      "形神",
+      "始終",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "形偊不必愚",
     "title": "形偊不必愚",
     "summary": "貌望豐偉者不必賢，形器尪瘁者不必愚。",
@@ -94766,6 +95292,27 @@
         "title": "孟子 · 盡心上",
         "url": "https://zh.wikisource.org/wiki/孟子/盡心上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "形若槁骸",
+    "title": "形若槁骸",
+    "summary": "至人忘形抱神，與萬物為一",
+    "tags": [
+      "被衣",
+      "至人",
+      "坐忘",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -96260,6 +96807,27 @@
         "title": "周易 · 恒",
         "url": "https://zh.wikisource.org/wiki/周易/恒",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "從之",
+    "title": "從之",
+    "summary": "不能自勝則從之，神無怨焉",
+    "tags": [
+      "詹子",
+      "中山公子牟",
+      "重生",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -102024,7 +102592,9 @@
     "tags": [
       "修身",
       "俟時",
-      "天命"
+      "天命",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -102386,6 +102956,27 @@
         "title": "周易 · 大畜",
         "url": "https://zh.wikisource.org/wiki/周易/大畜",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "應變而動",
+    "title": "應變而動",
+    "summary": "事者應變而動，知時者無常行",
+    "tags": [
+      "徐馮",
+      "王壽",
+      "知時",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -108582,6 +109173,27 @@
     ]
   },
   {
+    "slug": "數戰數勝",
+    "title": "數戰數勝亡",
+    "summary": "數戰民疲，數勝主驕，驕主疲民必亡",
+    "tags": [
+      "李克",
+      "魏武侯",
+      "勝亡",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "數披其木",
     "title": "數披其木",
     "summary": "數披其木，毋使木枝扶疏塞公閭",
@@ -109506,6 +110118,27 @@
         "title": "抱朴子 · 卷14",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "斬衰變服受布",
+    "title": "斬衰變服受布",
+    "summary": "斬衰變服，受布之節，男子除首帶、婦女除帶之異。",
+    "tags": [
+      "喪服",
+      "變服",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "間傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 間傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/間傳",
+        "work": "禮記"
       }
     ]
   },
@@ -114750,6 +115383,27 @@
     ]
   },
   {
+    "slug": "晉伐楚三舍",
+    "title": "晉伐楚三舍",
+    "summary": "莊王引過謝師，晉師夜還",
+    "tags": [
+      "楚莊王",
+      "晉師",
+      "引過",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "晉假道伐虢",
     "title": "晉假道伐虢",
     "summary": "晉以璧馬假道於虞，連滅虢、虞。",
@@ -116689,6 +117343,27 @@
         "title": "史記 · 卷026",
         "url": "https://zh.wikisource.org/wiki/史記/卷026",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "曲則全",
+    "title": "曲則全",
+    "summary": "厘負羈施恩惠於重耳，重耳反國乃不伐其里",
+    "tags": [
+      "厘負羈",
+      "重耳",
+      "報恩",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -119042,6 +119717,25 @@
     ]
   },
   {
+    "slug": "朋友虞附而退",
+    "title": "朋友，虞附而退",
+    "summary": "記吊禮有五等，親疏遞退，朋友虞附而退。",
+    "tags": [
+      "禮制",
+      "朋友",
+      "吊禮"
+    ],
+    "sources": [
+      {
+        "chapter": "雜記下",
+        "plugin": "wikisource",
+        "title": "禮記 · 雜記下",
+        "url": "https://zh.wikisource.org/wiki/禮記/雜記下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "朋友講習",
     "title": "朋友講習",
     "summary": "君子觀麗澤之象，以朋友之道相與講學習禮。",
@@ -120158,7 +120852,9 @@
     "tags": [
       "本末",
       "求賢",
-      "烹飪"
+      "烹飪",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -124152,6 +124848,27 @@
     ]
   },
   {
+    "slug": "楊子哭逵墨子泣練絲",
+    "title": "楊子哭逵墨子泣練絲",
+    "summary": "楊朱見歧路而悲，墨翟見練絲而泣，懼其亂也。",
+    "tags": [
+      "楊朱",
+      "墨翟",
+      "歧路",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "說林訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 說林訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/說林訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "楊子過宋東之逆旅",
     "title": "楊子過於宋東之逆旅",
     "summary": "行賢而去自賢之心，焉往而不美",
@@ -127070,6 +127787,27 @@
         "title": "管子 · 七法",
         "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "正女形壹女視",
+    "title": "正女形，壹女視",
+    "summary": "形正視一，則天和將至",
+    "tags": [
+      "被衣",
+      "齧缺",
+      "修道",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -133429,6 +134167,27 @@
         "title": "文子 · 卷十一",
         "url": "https://zh.wikisource.org/wiki/文子/卷十一",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "治國有禮",
+    "title": "治國有禮",
+    "summary": "治國之要，在禮不在文辯",
+    "tags": [
+      "治國",
+      "禮",
+      "文辯",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -142525,6 +143284,27 @@
     ]
   },
   {
+    "slug": "無材可為材",
+    "title": "無材可為材",
+    "summary": "無材者無所可用，乃可以為天下用",
+    "tags": [
+      "無為",
+      "材用",
+      "道術",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "無樂無知",
     "title": "無樂無知",
     "summary": "絕去喜怒嗜欲，復歸本性之真樂真知",
@@ -144390,6 +145170,27 @@
         "plugin": "wikisource",
         "title": "禮記 · 三年問",
         "url": "https://zh.wikisource.org/wiki/禮記/三年問",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "父母之喪既殯後之禮",
+    "title": "父母之喪既殯後之禮",
+    "summary": "父母之喪，既殯至大祥，飲食居處之漸復。",
+    "tags": [
+      "喪禮",
+      "飲食",
+      "居處",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "間傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 間傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/間傳",
         "work": "禮記"
       }
     ]
@@ -167190,6 +167991,25 @@
     ]
   },
   {
+    "slug": "縣子論三年期年之喪",
+    "title": "縣子曰：三年之喪，如斬；期之喪，如剡",
+    "summary": "喻三年之喪慟甚，如刀之斬；期年之喪哀殺，如刀之剡。",
+    "tags": [
+      "禮制",
+      "喪服",
+      "縣子"
+    ],
+    "sources": [
+      {
+        "chapter": "雜記下",
+        "plugin": "wikisource",
+        "title": "禮記 · 雜記下",
+        "url": "https://zh.wikisource.org/wiki/禮記/雜記下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "縣火",
     "title": "縣火",
     "summary": "懸火以禦敵入之術。",
@@ -167896,6 +168716,27 @@
         "title": "詩經 · 君子于役",
         "url": "https://zh.wikisource.org/wiki/詩經/君子于役",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "羊肉羶",
+    "title": "羊肉羶",
+    "summary": "物各有所嗜，羊肉羶而蟻慕之。",
+    "tags": [
+      "物理",
+      "好惡",
+      "自然之性",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "說林訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 說林訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/說林訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -170210,6 +171051,27 @@
     ]
   },
   {
+    "slug": "聖人之糟粕",
+    "title": "聖人之糟粕",
+    "summary": "聖人之言存乎糟粕，精微之道已隨聖人而沒",
+    "tags": [
+      "輪扁",
+      "桓公",
+      "書本",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "聖人之過",
     "title": "聖人之過",
     "summary": "聖人毀道德以為仁義，屈折禮樂以匡天下，是聖人之過，猶伯樂之治馬、工匠之造器也。",
@@ -170691,7 +171553,9 @@
     "tags": [
       "教育",
       "修身",
-      "治學"
+      "治學",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -173188,6 +174052,27 @@
     ]
   },
   {
+    "slug": "能為社稷忍羞",
+    "title": "能為社稷忍羞",
+    "summary": "賢臣能為社稷忍受一時之辱",
+    "tags": [
+      "趙簡子",
+      "襄子",
+      "社稷",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "能群",
     "title": "能群",
     "summary": "君者，能群也；善生養、班治、顯設、藩飾之四能",
@@ -173941,6 +174826,27 @@
         "title": "管子 · 第67篇明法解",
         "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "臣請當之",
+    "title": "臣請當之",
+    "summary": "子罕辭賞讓怨，而宋君竟失國",
+    "tags": [
+      "子罕",
+      "宋君",
+      "利器",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -175019,6 +175925,9 @@
       "道",
       "言語",
       "治道",
+      "老子",
+      "至言",
+      "不言",
       "部:子",
       "部:子/道家類"
     ],
@@ -175036,6 +175945,13 @@
         "title": "呂氏春秋 · 卷十八",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十八",
         "work": "呂氏春秋"
+      },
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -176976,6 +177892,27 @@
         "title": "荀子 · 法行篇",
         "url": "https://zh.wikisource.org/wiki/荀子/法行篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "良馬千萬",
+    "title": "良馬千萬",
+    "summary": "九方皋相馬，得其精而忘其粗",
+    "tags": [
+      "伯樂",
+      "九方皋",
+      "相馬",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -184057,6 +184994,27 @@
     ]
   },
   {
+    "slug": "蛩蛩駏驢",
+    "title": "蛩蛩駏驢",
+    "summary": "以所能託所不能，獸亦有義",
+    "tags": [
+      "寓言",
+      "互助",
+      "獸道",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "蛾傅",
     "title": "蛾傅",
     "summary": "蛾傅，敵人蟻聚攻城之術，廣五百步、上術三千人。",
@@ -184248,6 +185206,48 @@
         "title": "詩經 · 蜉蝣",
         "url": "https://zh.wikisource.org/wiki/詩經/蜉蝣",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "蜡八之義",
+    "title": "蜡八之義",
+    "summary": "歲十二月，合聚萬物而索饗之，仁義之至也。",
+    "tags": [
+      "祭祀",
+      "蜡祭",
+      "仁義",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "郊特牲",
+        "plugin": "wikisource",
+        "title": "禮記 · 郊特牲",
+        "url": "https://zh.wikisource.org/wiki/禮記/郊特牲",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "蜡八以記四方",
+    "title": "蜡八以記四方",
+    "summary": "蜡八之祭，所以記四方年之順成與否，謹民財焉。",
+    "tags": [
+      "祭祀",
+      "蜡祭",
+      "理民",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "郊特牲",
+        "plugin": "wikisource",
+        "title": "禮記 · 郊特牲",
+        "url": "https://zh.wikisource.org/wiki/禮記/郊特牲",
+        "work": "禮記"
       }
     ]
   },
@@ -186568,6 +187568,25 @@
     ]
   },
   {
+    "slug": "衰裳之制",
+    "title": "衰裳之制",
+    "summary": "記練祥之祭，主人受賓之酢而變服。",
+    "tags": [
+      "禮制",
+      "喪服",
+      "練祥"
+    ],
+    "sources": [
+      {
+        "chapter": "雜記下",
+        "plugin": "wikisource",
+        "title": "禮記 · 雜記下",
+        "url": "https://zh.wikisource.org/wiki/禮記/雜記下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "袁婁之盟",
     "title": "袁婁之盟",
     "summary": "齊國佐辭嚴以拒晉，郤克感悟而許盟。",
@@ -188448,6 +189467,25 @@
     ]
   },
   {
+    "slug": "視君母妻比兄弟",
+    "title": "視君之母與妻，比之兄弟",
+    "summary": "臣於君之母妻，視其兄弟之喪禮。",
+    "tags": [
+      "禮制",
+      "喪服",
+      "君臣"
+    ],
+    "sources": [
+      {
+        "chapter": "雜記下",
+        "plugin": "wikisource",
+        "title": "禮記 · 雜記下",
+        "url": "https://zh.wikisource.org/wiki/禮記/雜記下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "視吾舌尚在不",
     "title": "視吾舌尚在不",
     "summary": "身遭困辱而志不撓，以舌在則身存，展縱橫之志。",
@@ -188565,7 +189603,9 @@
     "tags": [
       "教育",
       "師道",
-      "治學"
+      "治學",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -196724,6 +197764,27 @@
     ]
   },
   {
+    "slug": "贖人不受金",
+    "title": "贖人不受金",
+    "summary": "聖人行事可以移風易俗",
+    "tags": [
+      "子貢",
+      "孔子",
+      "贖人",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "赉秦粟",
     "title": "賑秦粟",
     "summary": "記晉饑，秦聽百里傒之言以船漕車轉賑晉粟，自雍至絳。",
@@ -201259,6 +202320,27 @@
     ]
   },
   {
+    "slug": "迎猫虎",
+    "title": "迎猫虎",
+    "summary": "蜡祭迎猫虎者，為其食田鼠田豕，報其除害之功。",
+    "tags": [
+      "祭祀",
+      "蜡祭",
+      "農事",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "郊特牲",
+        "plugin": "wikisource",
+        "title": "禮記 · 郊特牲",
+        "url": "https://zh.wikisource.org/wiki/禮記/郊特牲",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "迎秋",
     "title": "迎秋",
     "summary": "立秋之日，天子帥百官迎氣於西郊，行賞軍帥武人。",
@@ -202780,7 +203862,9 @@
     "tags": [
       "相遇",
       "待時",
-      "君臣"
+      "君臣",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -203593,6 +204677,27 @@
     ]
   },
   {
+    "slug": "道不可言",
+    "title": "道不可言",
+    "summary": "道不可聞、見、言，聞見言者皆非道",
+    "tags": [
+      "道",
+      "不可言",
+      "形而上",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "道應訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 道應訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "道不同於萬物",
     "title": "道不同於萬物",
     "summary": "道異於萬物，陰陽異於道，各有獨性",
@@ -204328,7 +205433,9 @@
     "tags": [
       "教育",
       "師道",
-      "教化"
+      "教化",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -204590,6 +205697,27 @@
     ]
   },
   {
+    "slug": "適人之適不自適其適",
+    "title": "適人之適不自適其適",
+    "summary": "得人之得而不自得其得，適人之適而不自適其適，實為同於淫僻。",
+    "tags": [
+      "莊子",
+      "自得",
+      "外喪",
+      "哲學",
+      "性命"
+    ],
+    "sources": [
+      {
+        "chapter": "駢拇",
+        "plugin": "wikisource",
+        "title": "莊子 · 駢拇",
+        "url": "https://zh.wikisource.org/wiki/莊子/駢拇",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "適其賜",
     "title": "適其賜",
     "summary": "欲為其地，必適其賜；不適其賜，亂人求益",
@@ -204648,6 +205776,27 @@
         "plugin": "wikisource",
         "title": "禮記 · 內則",
         "url": "https://zh.wikisource.org/wiki/禮記/內則",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "遭喪易服",
+    "title": "遭喪易服",
+    "summary": "遭異喪而變服，先重者除之，後輕者易之。",
+    "tags": [
+      "喪服",
+      "變服",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "間傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 間傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/間傳",
         "work": "禮記"
       }
     ]
@@ -215282,6 +216431,25 @@
     ]
   },
   {
+    "slug": "韠長三尺",
+    "title": "韠長三尺",
+    "summary": "記蔽膝之制，長廣尺寸、會帶、純飾之詳。",
+    "tags": [
+      "禮制",
+      "服飾",
+      "器物"
+    ],
+    "sources": [
+      {
+        "chapter": "雜記下",
+        "plugin": "wikisource",
+        "title": "禮記 · 雜記下",
+        "url": "https://zh.wikisource.org/wiki/禮記/雜記下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "音之感人",
     "title": "音之感人",
     "summary": "音之感人，應其情性，移風易俗。",
@@ -218336,6 +219504,27 @@
     ]
   },
   {
+    "slug": "駢拇之喻",
+    "title": "駢拇之喻",
+    "summary": "以駢拇枝指喻仁義之屬，非本性固有，實為多餘。",
+    "tags": [
+      "莊子",
+      "寓言",
+      "仁義",
+      "性與偽",
+      "哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "駢拇",
+        "plugin": "wikisource",
+        "title": "莊子 · 駢拇",
+        "url": "https://zh.wikisource.org/wiki/莊子/駢拇",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "駿奔走",
     "title": "駿奔走",
     "summary": "疾馳趨事，不敢怠惰也。",
@@ -220890,6 +222079,27 @@
         "title": "詩經 · 斯干",
         "url": "https://zh.wikisource.org/wiki/詩經/斯干",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "鳧脛鶴脛",
+    "title": "鳧脛鶴脛",
+    "summary": "鳧脛雖短，續之則憂；鶴脛雖長，斷之則悲。以喻物各有性，不可強齊。",
+    "tags": [
+      "莊子",
+      "自然",
+      "性",
+      "寓言",
+      "哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "駢拇",
+        "plugin": "wikisource",
+        "title": "莊子 · 駢拇",
+        "url": "https://zh.wikisource.org/wiki/莊子/駢拇",
+        "work": "莊子"
       }
     ]
   },
