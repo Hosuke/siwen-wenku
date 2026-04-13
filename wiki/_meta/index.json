@@ -2221,6 +2221,25 @@
     ]
   },
   {
+    "slug": "三幣",
+    "title": "三幣",
+    "summary": "珠玉為上幣，黃金為中幣，刀布為下幣。",
+    "tags": [
+      "經濟",
+      "貨幣",
+      "治國"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "三年不觀",
     "title": "三年不觀",
     "summary": "董仲舒下帷講誦，三年不觀於舍園，其精如此。",
@@ -7257,6 +7276,26 @@
     ]
   },
   {
+    "slug": "不籍而贍國",
+    "title": "不籍而贍國",
+    "summary": "循軌守時、官天財，則國用自足，不待橫賦於民。",
+    "tags": [
+      "管子",
+      "理財",
+      "治道",
+      "輕重"
+    ],
+    "sources": [
+      {
+        "chapter": "第74篇山國軌",
+        "plugin": "wikisource",
+        "title": "管子 · 第74篇山國軌",
+        "url": "https://zh.wikisource.org/wiki/管子/第74篇山國軌",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "不素食",
     "title": "不素食",
     "summary": "君子當食其功，不當无功而食，刺尸位者也。",
@@ -11478,6 +11517,25 @@
     ]
   },
   {
+    "slug": "予奪在君",
+    "title": "予奪在君",
+    "summary": "民之予奪皆在於君，致民愛戴上如日月。",
+    "tags": [
+      "治國",
+      "民本",
+      "君道"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "予思日孳孳",
     "title": "予思日孳孳",
     "summary": "記禹自述孳孳治水之志",
@@ -13563,6 +13621,25 @@
     ]
   },
   {
+    "slug": "五穀食米",
+    "title": "五穀食米",
+    "summary": "五穀為民之司命，貴賤之物隨之。",
+    "tags": [
+      "治國",
+      "農業",
+      "經濟"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "五紀",
     "title": "五紀",
     "summary": "歲、月、日、星辰、歷數，所以正天時也。",
@@ -13630,6 +13707,25 @@
         "title": "三略",
         "url": "https://zh.wikisource.org/wiki/三略",
         "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "五者不可畢用",
+    "title": "五者不可畢用",
+    "summary": "以室、以六畜、以田畝、以正人、以正戶籍之法不可盡用，王者當別求之。",
+    "tags": [
+      "治國",
+      "理財",
+      "租稅"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -13992,7 +14088,10 @@
     "slug": "五音不亂",
     "title": "五音不亂",
     "summary": "五音配五倫，亂則國亡。",
-    "tags": [],
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
     "sources": [
       {
         "chapter": "樂記",
@@ -14435,7 +14534,9 @@
     "tags": [
       "寓言",
       "道理",
-      "呂氏春秋"
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -26190,7 +26291,9 @@
       "國政",
       "理財",
       "外交",
-      "管仲"
+      "管仲",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -36219,6 +36322,26 @@
     ]
   },
   {
+    "slug": "別群軌相壤宜",
+    "title": "別群軌相壤宜",
+    "summary": "別土宜以定籍使民不移。",
+    "tags": [
+      "管子",
+      "治道",
+      "土宜",
+      "軌數"
+    ],
+    "sources": [
+      {
+        "chapter": "第74篇山國軌",
+        "plugin": "wikisource",
+        "title": "管子 · 第74篇山國軌",
+        "url": "https://zh.wikisource.org/wiki/管子/第74篇山國軌",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "利一害百民去城郭",
     "title": "利一害百民去城郭",
     "summary": "利一害百則民散，利一害萬則國思散；去一利百則人慕澤，去一利萬則政不亂。",
@@ -36303,6 +36426,21 @@
         "title": "呂氏春秋 · 卷二十二",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十二",
         "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "利有所并藏",
+    "title": "利有所并藏",
+    "summary": "人君不能散利，則財利有所并藏而民用不足。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -37941,7 +38079,10 @@
     "slug": "功成作樂",
     "title": "功成作樂",
     "summary": "王者功成作樂，治定制禮。",
-    "tags": [],
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
     "sources": [
       {
         "chapter": "樂記",
@@ -39560,7 +39701,9 @@
     "tags": [
       "隱逸",
       "德行",
-      "呂氏春秋"
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -56009,6 +56152,26 @@
     ]
   },
   {
+    "slug": "四務",
+    "title": "四務",
+    "summary": "君當守四時之務，豫備民之所用，以遏兼并之機。",
+    "tags": [
+      "管子",
+      "治國",
+      "農時",
+      "四時"
+    ],
+    "sources": [
+      {
+        "chapter": "第74篇山國軌",
+        "plugin": "wikisource",
+        "title": "管子 · 第74篇山國軌",
+        "url": "https://zh.wikisource.org/wiki/管子/第74篇山國軌",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "四卜非禮",
     "title": "四卜非禮",
     "summary": "郊祭卜牲，過三則非禮，蓋數至於五則為強。",
@@ -58170,6 +58333,25 @@
         "title": "詩經 · 民勞",
         "url": "https://zh.wikisource.org/wiki/詩經/民勞",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "國蓄",
+    "title": "國蓄",
+    "summary": "君當守其有餘以制不足，使民無累於上。",
+    "tags": [
+      "治國",
+      "理財",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -72808,7 +72990,10 @@
     "slug": "姦聲感人",
     "title": "姦聲感人",
     "summary": "姦聲應之而淫樂興，正聲應之而和樂興。",
-    "tags": [],
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
     "sources": [
       {
         "chapter": "樂記",
@@ -73108,7 +73293,9 @@
     "tags": [
       "為政",
       "威勢",
-      "呂氏春秋"
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -74100,7 +74287,10 @@
     "slug": "子夏論古樂新樂",
     "title": "子夏論古樂新樂",
     "summary": "古樂德音之謂，新樂姦聲以濫。",
-    "tags": [],
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
     "sources": [
       {
         "chapter": "樂記",
@@ -76433,7 +76623,9 @@
     "tags": [
       "墨學",
       "守信",
-      "呂氏春秋"
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -78121,6 +78313,25 @@
     ]
   },
   {
+    "slug": "守其本委",
+    "title": "守其本委",
+    "summary": "人君守其本委，則男女無不服籍。",
+    "tags": [
+      "治國",
+      "君道",
+      "理財"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "守分循理",
     "title": "守分循理",
     "summary": "",
@@ -79527,6 +79738,26 @@
     ]
   },
   {
+    "slug": "官天財",
+    "title": "官天財",
+    "summary": "不籍於民而贍國，在守四時、掌天財、循軌數。",
+    "tags": [
+      "管子",
+      "治國",
+      "理財",
+      "無為"
+    ],
+    "sources": [
+      {
+        "chapter": "第74篇山國軌",
+        "plugin": "wikisource",
+        "title": "管子 · 第74篇山國軌",
+        "url": "https://zh.wikisource.org/wiki/管子/第74篇山國軌",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "官少索者衆",
     "title": "官少而索者衆",
     "summary": "因能授祿錄功與官",
@@ -79555,7 +79786,9 @@
       "國政",
       "理財",
       "管仲",
-      "齊桓公"
+      "齊桓公",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -81448,6 +81681,25 @@
     ]
   },
   {
+    "slug": "寓於幣",
+    "title": "寓於幣",
+    "summary": "天子寓稅於幣，不籍於粟而利歸於上。",
+    "tags": [
+      "治國",
+      "貨幣",
+      "租稅"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "寓獎率",
     "title": "寓獎率",
     "summary": "以獎賞率勵賢者，以刑罰糾治姦邪。",
@@ -81466,6 +81718,25 @@
         "title": "詩經 · 振鷺",
         "url": "https://zh.wikisource.org/wiki/詩經/振鷺",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "寓稅於粟",
+    "title": "寓稅於粟",
+    "summary": "穀有常價，寓稅於其中，不顯而民自服。",
+    "tags": [
+      "治國",
+      "租稅",
+      "理財"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -86100,6 +86371,26 @@
         "title": "詩經 · 簡兮",
         "url": "https://zh.wikisource.org/wiki/詩經/簡兮",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "山租三等",
+    "title": "山租三等",
+    "summary": "因山林物宜而立三等之租，柴楂、室奉、棺槨之奉是也。",
+    "tags": [
+      "管子",
+      "稅制",
+      "山林",
+      "理財"
+    ],
+    "sources": [
+      {
+        "chapter": "第74篇山國軌",
+        "plugin": "wikisource",
+        "title": "管子 · 第74篇山國軌",
+        "url": "https://zh.wikisource.org/wiki/管子/第74篇山國軌",
+        "work": "管子"
       }
     ]
   },
@@ -94672,11 +94963,11 @@
       "德",
       "樂",
       "詩歌舞",
-      "部:史",
-      "部:史/正史類",
       "樂象",
       "德性",
-      "音樂"
+      "音樂",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -101587,6 +101878,25 @@
     ]
   },
   {
+    "slug": "抵國距國",
+    "title": "抵國距國",
+    "summary": "前後受敵者為抵為距，治當有輕重之策。",
+    "tags": [
+      "治國",
+      "軍事",
+      "地理"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "拂世以為行",
     "title": "拂世以為行",
     "summary": "聖王禁反上法制以成羣立名。",
@@ -102197,7 +102507,11 @@
     "summary": "凶歲振乏，赦罪散粟以食民也。",
     "tags": [
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "管子",
+      "輕重",
+      "振恤",
+      "治道"
     ],
     "sources": [
       {
@@ -102205,6 +102519,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第54篇入國",
         "url": "https://zh.wikisource.org/wiki/管子/第54篇入國",
+        "work": "管子"
+      },
+      {
+        "chapter": "第74篇山國軌",
+        "plugin": "wikisource",
+        "title": "管子 · 第74篇山國軌",
+        "url": "https://zh.wikisource.org/wiki/管子/第74篇山國軌",
         "work": "管子"
       }
     ]
@@ -104946,6 +105267,21 @@
         "title": "詩經 · 雲漢",
         "url": "https://zh.wikisource.org/wiki/詩經/雲漢",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "散積聚",
+    "title": "散積聚",
+    "summary": "君當散積聚、分並財利，以調民事。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -111760,11 +112096,11 @@
     "title": "晉文公",
     "summary": "",
     "tags": [
-      "部:史",
-      "部:史/正史類",
       "守信",
       "霸功",
-      "呂氏春秋"
+      "呂氏春秋",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -118005,11 +118341,11 @@
       "養生",
       "莊子",
       "達生",
-      "部:子",
-      "部:子/道家類",
       "寓言",
       "為政",
-      "呂氏春秋"
+      "呂氏春秋",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -121922,7 +122258,9 @@
     "tags": [
       "樂論",
       "禮樂",
-      "心性"
+      "心性",
+      "部:經",
+      "部:經/禮類"
     ],
     "sources": [
       {
@@ -124163,7 +124501,9 @@
       "國政",
       "理財",
       "鹽政",
-      "管仲"
+      "管仲",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -124869,6 +125209,25 @@
         "plugin": "wikisource",
         "title": "管子 · 第69篇乘馬數",
         "url": "https://zh.wikisource.org/wiki/管子/第69篇乘馬數",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "歲適美",
+    "title": "歲適美",
+    "summary": "豐歲市糶無予，荒歲則物貴人飢，治國當謹備之。",
+    "tags": [
+      "治國",
+      "荒政",
+      "農業"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
         "work": "管子"
       }
     ]
@@ -127003,6 +127362,21 @@
     ]
   },
   {
+    "slug": "民信親而死利",
+    "title": "民信親而死利",
+    "summary": "萬民皆信愛其親而必死於利，治者當順此情。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "民儇詗智慧欲自用不聽上",
     "title": "民儇詗智慧，欲自用，不聽上",
     "summary": "古之黔首惷愚易欺，今之民智慧自用，非賞罰不能治。",
@@ -127051,7 +127425,9 @@
     "tags": [
       "為政",
       "愛民",
-      "呂氏春秋"
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -127102,6 +127478,21 @@
         "plugin": "wikisource",
         "title": "管子 · 第44篇九變",
         "url": "https://zh.wikisource.org/wiki/管子/第44篇九變",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "民富不可以祿使",
+    "title": "民富不可以祿使",
+    "summary": "民富則不可以祿使，貧則不可以罰威。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
         "work": "管子"
       }
     ]
@@ -131780,7 +132171,9 @@
       "國政",
       "理財",
       "鹽政",
-      "齊桓公"
+      "齊桓公",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -132894,7 +133287,10 @@
     "slug": "清廟之瑟",
     "title": "清廟之瑟",
     "summary": "大樂至簡，有遺音遺味。",
-    "tags": [],
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
     "sources": [
       {
         "chapter": "樂記",
@@ -136793,6 +137189,21 @@
         "title": "文子 · 卷十二",
         "url": "https://zh.wikisource.org/wiki/文子/卷十二",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "為籠以守民",
+    "title": "為籠以守民",
+    "summary": "不通輕重之術，不可以為籠以守民。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -143807,6 +144218,26 @@
     ]
   },
   {
+    "slug": "環乘之幣",
+    "title": "環乘之幣",
+    "summary": "置公幣以調盈虛，使民有餘食者得以粟易幣。",
+    "tags": [
+      "管子",
+      "輕重",
+      "貨幣",
+      "理財"
+    ],
+    "sources": [
+      {
+        "chapter": "第74篇山國軌",
+        "plugin": "wikisource",
+        "title": "管子 · 第74篇山國軌",
+        "url": "https://zh.wikisource.org/wiki/管子/第74篇山國軌",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "瓊琚瓊瑤瓊玖",
     "title": "瓊琚瓊瑤瓊玖",
     "summary": "瓊玉之美，詩人所以表厚意也",
@@ -148384,6 +148815,25 @@
     ]
   },
   {
+    "slug": "百乘衢處",
+    "title": "百乘衢處",
+    "summary": "四面受敵之小國，實無尺壤之用。",
+    "tags": [
+      "治國",
+      "軍事",
+      "地理"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "百人事智而一人用力",
     "title": "百人事智而一人用力",
     "summary": "人皆趨文學言談之途，鮮肯務農征戰之力；如此則國貧兵弱，天下所以亂也。",
@@ -151951,7 +152401,9 @@
     "tags": [
       "法治",
       "忠孝",
-      "呂氏春秋"
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -155837,6 +156289,21 @@
     ]
   },
   {
+    "slug": "租籍",
+    "title": "租籍",
+    "summary": "租籍者彊求，租稅者所慮而請，治者去彊求、廢所慮。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "秦之先",
     "title": "秦之先",
     "summary": "記秦先祖出自帝顓頊苗裔，歷柏翳、蜚廉、造父至非子之世系。",
@@ -157014,6 +157481,40 @@
         "title": "詩經 · 東門之枌",
         "url": "https://zh.wikisource.org/wiki/詩經/東門之枌",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "穀有所藏",
+    "title": "穀有所藏",
+    "summary": "凶歲穀有所藏，而民有飢餓不食者。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "穀貴萬物賤",
+    "title": "穀貴萬物賤",
+    "summary": "五穀與萬物貴賤相敵，不俱平。",
+    "tags": [
+      "經濟",
+      "農業",
+      "輕重"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -166916,7 +167417,10 @@
     "slug": "聲淫及商",
     "title": "聲淫及商",
     "summary": "《武》音聲淫及商，遲之遲而又久。",
-    "tags": [],
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
     "sources": [
       {
         "chapter": "樂記",
@@ -170371,9 +170875,9 @@
       "治心",
       "治躬",
       "禮樂修身",
+      "樂化",
       "部:經",
-      "部:經/禮類",
-      "樂化"
+      "部:經/禮類"
     ],
     "sources": [
       {
@@ -174558,6 +175062,25 @@
     ]
   },
   {
+    "slug": "萬室之都必有萬鍾之藏",
+    "title": "萬室之都必有萬鍾之藏",
+    "summary": "都市當儲萬鍾之粟，以備凶荒。",
+    "tags": [
+      "治國",
+      "儲蓄",
+      "荒政"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "萬民一從",
     "title": "萬民一從",
     "summary": "信而勿同，則萬民一從",
@@ -174629,6 +175152,25 @@
         "title": "周易 · 謙",
         "url": "https://zh.wikisource.org/wiki/周易/謙",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "萬民無籍",
+    "title": "萬民無籍",
+    "summary": "善治者不籍於民，而國利自歸。",
+    "tags": [
+      "治國",
+      "理財",
+      "輕重"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -176154,6 +176696,21 @@
         "title": "墨子 · 辭過",
         "url": "https://zh.wikisource.org/wiki/墨子/辭過",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "蓄賈游市",
+    "title": "蓄賈游市",
+    "summary": "人君不能治，則蓄賈游市，乘民之不給，百倍其本。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -178513,6 +179070,25 @@
         "title": "墨子 · 號令",
         "url": "https://zh.wikisource.org/wiki/墨子/號令",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "號令為籍",
+    "title": "號令為籍",
+    "summary": "先王不求於民，而以號令斂財。",
+    "tags": [
+      "治國",
+      "號令",
+      "理財"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -180911,6 +181487,25 @@
     ]
   },
   {
+    "slug": "衡絕則重見",
+    "title": "衡絕則重見",
+    "summary": "物之衡準失常，則物價之輕重立見。",
+    "tags": [
+      "經濟",
+      "治國",
+      "輕重"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "衡聽顯幽重明退姦進良",
     "title": "衡聽顯幽重明退姦進良之術",
     "summary": "廣聽兼納，明辨忠姦，黜退邪佞，登進賢良之方。",
@@ -180972,6 +181567,25 @@
         "title": "詩經 · 衡門",
         "url": "https://zh.wikisource.org/wiki/詩經/衡門",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "衢國",
+    "title": "衢國",
+    "summary": "四面受敵之地，雖大必削。",
+    "tags": [
+      "治國",
+      "軍事",
+      "地理"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -181298,7 +181912,9 @@
     "tags": [
       "忠義",
       "智謀",
-      "呂氏春秋"
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -182234,6 +182850,21 @@
         "title": "莊子 · 天地",
         "url": "https://zh.wikisource.org/wiki/莊子/天地",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "見予不見奪",
+    "title": "見予不見奪",
+    "summary": "先王予之形可見，奪之理不可見。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -193490,6 +194121,26 @@
     ]
   },
   {
+    "slug": "軌守",
+    "title": "軌守",
+    "summary": "立軌數以統國，不通軌數則不可以為政。",
+    "tags": [
+      "管子",
+      "治國",
+      "軌數",
+      "輕重"
+    ],
+    "sources": [
+      {
+        "chapter": "第74篇山國軌",
+        "plugin": "wikisource",
+        "title": "管子 · 第74篇山國軌",
+        "url": "https://zh.wikisource.org/wiki/管子/第74篇山國軌",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "軍三單",
     "title": "軍三單",
     "summary": "公劉度地居民，行三單迭攻之法，以治軍旅也。",
@@ -193910,6 +194561,13 @@
         "title": "管子 · 第14篇法禁",
         "url": "https://zh.wikisource.org/wiki/管子/第14篇法禁",
         "work": "管子"
+      },
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -193931,6 +194589,25 @@
         "title": "抱朴子 · 卷16",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷16",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "輕斂散行",
+    "title": "輕斂散行",
+    "summary": "民有餘則斂之以輕，不足則散之以重。",
+    "tags": [
+      "治國",
+      "經濟",
+      "理財"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
       }
     ]
   },
@@ -194072,6 +194749,25 @@
     ]
   },
   {
+    "slug": "輕重之大利",
+    "title": "輕重之大利",
+    "summary": "以重射輕，以賤泄平，萬物之滿虛準平而不變。",
+    "tags": [
+      "治國",
+      "經濟",
+      "輕重"
+    ],
+    "sources": [
+      {
+        "chapter": "第73篇國蓄",
+        "plugin": "wikisource",
+        "title": "管子 · 第73篇國蓄",
+        "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "輕重之術",
     "title": "輕重之術",
     "summary": "人君當持重守靜，不可輕舉躁動。",
@@ -194081,7 +194777,11 @@
       "老子",
       "君道",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "管子",
+      "輕重",
+      "貨幣",
+      "治道"
     ],
     "sources": [
       {
@@ -194090,6 +194790,13 @@
         "title": "韓非子 · 喻老",
         "url": "https://zh.wikisource.org/wiki/韓非子/喻老",
         "work": "韓非子"
+      },
+      {
+        "chapter": "第74篇山國軌",
+        "plugin": "wikisource",
+        "title": "管子 · 第74篇山國軌",
+        "url": "https://zh.wikisource.org/wiki/管子/第74篇山國軌",
+        "work": "管子"
       }
     ]
   },
@@ -206350,7 +207057,9 @@
     "tags": [
       "德行",
       "隱逸",
-      "呂氏春秋"
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -209270,7 +209979,10 @@
     "slug": "音之感人",
     "title": "音之感人",
     "summary": "音之感人，應其情性，移風易俗。",
-    "tags": [],
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
     "sources": [
       {
         "chapter": "樂記",
@@ -215780,7 +216492,9 @@
       "理財",
       "鹽政",
       "鐵政",
-      "管仲"
+      "管仲",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -215788,6 +216502,26 @@
         "plugin": "wikisource",
         "title": "管子 · 第72篇海王",
         "url": "https://zh.wikisource.org/wiki/管子/第72篇海王",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "鹽鐵之筴",
+    "title": "鹽鐵之筴",
+    "summary": "以鹽鐵之利立軌官，不斂於民而國用足。",
+    "tags": [
+      "管子",
+      "輕重",
+      "鹽鐵",
+      "官山海"
+    ],
+    "sources": [
+      {
+        "chapter": "第74篇山國軌",
+        "plugin": "wikisource",
+        "title": "管子 · 第74篇山國軌",
+        "url": "https://zh.wikisource.org/wiki/管子/第74篇山國軌",
         "work": "管子"
       }
     ]
