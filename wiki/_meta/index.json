@@ -150,6 +150,25 @@
     ]
   },
   {
+    "slug": "一人耕而五人食",
+    "title": "一人耕而五人食",
+    "summary": "農功視人力多寡，此田筴相員之效。",
+    "tags": [
+      "農政",
+      "人功",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第69篇乘馬數",
+        "plugin": "wikisource",
+        "title": "管子 · 第69篇乘馬數",
+        "url": "https://zh.wikisource.org/wiki/管子/第69篇乘馬數",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "一以無貳是謂知道",
     "title": "一以無貳，是謂知道",
     "summary": "守道貴專一而不二，乃為真知大道。",
@@ -676,6 +695,24 @@
         "title": "抱朴子 · 卷50",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷50",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "一獻之禮",
+    "title": "一獻之禮",
+    "summary": "舅姑饗婦，以一獻之禮，奠酬而成。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -1931,6 +1968,7 @@
       "兵事",
       "威敵",
       "器械",
+      "法家",
       "部:子",
       "部:子/法家類"
     ],
@@ -1947,6 +1985,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第28篇參患",
         "url": "https://zh.wikisource.org/wiki/管子/第28篇參患",
+        "work": "管子"
+      },
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
         "work": "管子"
       }
     ]
@@ -2865,6 +2910,27 @@
         "title": "管子 · 第07篇版法",
         "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "三老五更",
+    "title": "三老五更",
+    "summary": "天子視學所設之席位，以貴老敬賢。",
+    "tags": [
+      "養老",
+      "三老",
+      "禮制",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
       }
     ]
   },
@@ -4385,6 +4451,48 @@
     ]
   },
   {
+    "slug": "下情上而道止",
+    "title": "下情上而道止",
+    "summary": "下情上而道止，謂之侵",
+    "tags": [
+      "侵主",
+      "明法",
+      "姦臣",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "下情不上通",
+    "title": "下情不上通",
+    "summary": "下情不上通，謂之塞",
+    "tags": [
+      "塞主",
+      "訊息",
+      "明法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "下愚之狂惑",
     "title": "下愚之狂惑",
     "summary": "效忠赴死不察禍福，雖烈而非上智之所取。",
@@ -5825,6 +5933,25 @@
     ]
   },
   {
+    "slug": "不待權輿",
+    "title": "不待權輿",
+    "summary": "有十勝之資，不待權謀而天下自定。",
+    "tags": [
+      "治道",
+      "權謀",
+      "自強"
+    ],
+    "sources": [
+      {
+        "chapter": "第71篇事語",
+        "plugin": "wikisource",
+        "title": "管子 · 第71篇事語",
+        "url": "https://zh.wikisource.org/wiki/管子/第71篇事語",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "不得四從",
     "title": "不得四從",
     "summary": "明君禁臣下四從之儀，載兵革者罪死不赦，以備不虞。",
@@ -6504,6 +6631,27 @@
     ]
   },
   {
+    "slug": "不淫意於法外",
+    "title": "不淫意於法外",
+    "summary": "明主治國，不淫意於法之外",
+    "tags": [
+      "法治",
+      "明法",
+      "私意",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "不測不克",
     "title": "不測不克",
     "summary": "王師深不可測，無可戰勝。",
@@ -6581,6 +6729,27 @@
         "plugin": "wikisource",
         "title": "管子 · 第15篇重令",
         "url": "https://zh.wikisource.org/wiki/管子/第15篇重令",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "不為惠於法之內",
+    "title": "不為惠於法之內",
+    "summary": "行賞誅罪皆依公法，不以私惠害法",
+    "tags": [
+      "明法",
+      "賞罰",
+      "公法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
         "work": "管子"
       }
     ]
@@ -8070,6 +8239,28 @@
     ]
   },
   {
+    "slug": "且懷且威",
+    "title": "且懷且威",
+    "summary": "兼施恩威，則民親之畏之，此為君道之大全。",
+    "tags": [
+      "管子",
+      "形勢解",
+      "君道",
+      "恩威",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第64篇形勢解",
+        "plugin": "wikisource",
+        "title": "管子 · 第64篇形勢解",
+        "url": "https://zh.wikisource.org/wiki/管子/第64篇形勢解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "且蘭君反",
     "title": "且蘭君反",
     "summary": "述且蘭君恐遠行而反，漢誅之遂平南夷置牂柯郡之事",
@@ -8266,6 +8457,7 @@
       "教育",
       "世子",
       "齒讓",
+      "齒學",
       "部:經",
       "部:經/禮類"
     ],
@@ -8658,6 +8850,8 @@
       "中央土",
       "黃帝",
       "土德",
+      "月令",
+      "五行",
       "部:子",
       "部:子/雜家類"
     ],
@@ -8668,6 +8862,13 @@
         "title": "呂氏春秋 · 卷六",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷六",
         "work": "呂氏春秋"
+      },
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -9484,6 +9685,27 @@
     ]
   },
   {
+    "slug": "主以譽為賞以毀為罰",
+    "title": "主以譽為賞以毀為罰",
+    "summary": "以譽賞、以毀罰，則姦臣得志，忠臣受害",
+    "tags": [
+      "明法",
+      "賞罰",
+      "姦臣",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "主位",
     "title": "主位",
     "summary": "居位者貴靜定虛心",
@@ -9928,6 +10150,69 @@
     ]
   },
   {
+    "slug": "主道明",
+    "title": "主道明",
+    "summary": "明主治國，在於君道彰明",
+    "tags": [
+      "治國",
+      "君道",
+      "明法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "主釋法以譽進能",
+    "title": "主釋法以譽進能",
+    "summary": "以譽進能則臣離上，以黨舉官則民務佼",
+    "tags": [
+      "明法",
+      "任賢",
+      "朋黨",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "主雖不身下為而守法為之",
+    "title": "主雖不身下為而守法為之",
+    "summary": "明主操術任臣，不躬親庶事，但守法可也",
+    "tags": [
+      "明法",
+      "君道",
+      "法治",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "乃亂乃萃",
     "title": "乃亂乃萃",
     "summary": "志亂則妄聚，亂終成萃",
@@ -10327,6 +10612,25 @@
         "title": "抱朴子 · 卷15",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "乘馬之准",
+    "title": "乘馬之准",
+    "summary": "物價齊同於天下，乃治國之標準。",
+    "tags": [
+      "輕重",
+      "物價",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第69篇乘馬數",
+        "plugin": "wikisource",
+        "title": "管子 · 第69篇乘馬數",
+        "url": "https://zh.wikisource.org/wiki/管子/第69篇乘馬數",
+        "work": "管子"
       }
     ]
   },
@@ -12795,6 +13099,27 @@
     ]
   },
   {
+    "slug": "五德終始",
+    "title": "五德終始",
+    "summary": "帝王迭興，天見祥瑞以示人，五行之德終始相代。",
+    "tags": [
+      "五行",
+      "天人",
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十三",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十三",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十三",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "五惑",
     "title": "五惑",
     "summary": "目、耳、鼻、口、心，各為一惑，沉溺則禍至。",
@@ -14101,6 +14426,27 @@
         "title": "列子 · 說符篇",
         "url": "https://zh.wikisource.org/wiki/列子/說符篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "亡鈇者疑隣",
+    "title": "亡鈇者疑隣",
+    "summary": "人有疑心，則視人之行皆若竊己。",
+    "tags": [
+      "認知",
+      "偏見",
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十三",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十三",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十三",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -16622,6 +16968,27 @@
     ]
   },
   {
+    "slug": "令出而留",
+    "title": "令出而留",
+    "summary": "令出而留，謂之壅",
+    "tags": [
+      "壅蔽",
+      "號令",
+      "明法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "令尚書給筆劄",
     "title": "令尚書給筆劄",
     "summary": "武帝許相如為天子游獵賦，令尚書給筆劄以書之。",
@@ -16733,6 +17100,27 @@
         "title": "史記 · 卷117",
         "url": "https://zh.wikisource.org/wiki/史記/卷117",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "令本不出",
+    "title": "令本不出",
+    "summary": "令本不出，則國非其國",
+    "tags": [
+      "號令",
+      "失勢",
+      "明法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
       }
     ]
   },
@@ -18247,6 +18635,25 @@
     ]
   },
   {
+    "slug": "以時行",
+    "title": "以時行",
+    "summary": "治國貴循天時，不失其序。",
+    "tags": [
+      "治國",
+      "天時",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第69篇乘馬數",
+        "plugin": "wikisource",
+        "title": "管子 · 第69篇乘馬數",
+        "url": "https://zh.wikisource.org/wiki/管子/第69篇乘馬數",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "以智力求者喻如奕棋",
     "title": "以智力求者喻如奕棋",
     "summary": "以智力求喻如奕棋，進退攻劫在我，棋之成敗決於主觀，非如博者之遇也。",
@@ -18610,6 +19017,7 @@
       "法制",
       "治國",
       "法治",
+      "明法",
       "部:子",
       "部:子/法家類"
     ],
@@ -18619,6 +19027,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第03篇權脩",
         "url": "https://zh.wikisource.org/wiki/管子/第03篇權脩",
+        "work": "管子"
+      },
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
         "work": "管子"
       }
     ]
@@ -19652,6 +20067,24 @@
     ]
   },
   {
+    "slug": "仲夏紀大",
+    "title": "命樂正習舞",
+    "summary": "孟春命樂正入學習舞，仲春上丁命樂正習舞釋菜，季春之末大合樂。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "仲夏行冬令",
     "title": "仲夏行冬令",
     "summary": "孟夏行冬令，則寒氣不效，災禍立至。",
@@ -19669,6 +20102,13 @@
         "title": "呂氏春秋 · 卷五",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷五",
         "work": "呂氏春秋"
+      },
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -20008,6 +20448,24 @@
     ]
   },
   {
+    "slug": "仲春行秋令",
+    "title": "仲春行秋令",
+    "summary": "仲春行秋令則大水寒氣揔至，行冬令則陽氣不勝，行夏令則大旱蟲螟。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "仲氏任只",
     "title": "仲氏任只",
     "summary": "仲氏誠信深遠，可託之以事。",
@@ -20065,6 +20523,24 @@
         "title": "抱朴子 · 卷03",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷03",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "仲秋行春令",
+    "title": "仲秋行春令",
+    "summary": "仲秋行春令則秋雨不降草木生榮，行夏令則蟄蟲不藏，行冬令則風災數起。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -21149,6 +21625,29 @@
         "plugin": "wikisource",
         "title": "管子 · 第02篇形勢",
         "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "伐矜好專",
+    "title": "伐矜好專",
+    "summary": "伐矜自功、不聽諫諍，乃治事之大禍。",
+    "tags": [
+      "管子",
+      "形勢解",
+      "治道",
+      "伐矜",
+      "聽諫",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第64篇形勢解",
+        "plugin": "wikisource",
+        "title": "管子 · 第64篇形勢解",
+        "url": "https://zh.wikisource.org/wiki/管子/第64篇形勢解",
         "work": "管子"
       }
     ]
@@ -22984,6 +23483,27 @@
     ]
   },
   {
+    "slug": "佼眾譽多",
+    "title": "佼眾譽多",
+    "summary": "佼眾譽多則姦蔽主",
+    "tags": [
+      "朋黨",
+      "姦臣",
+      "蔽主",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "使事不相干",
     "title": "使事不相干",
     "summary": "令臣下各守其職，不相侵越，則爭端自息，技藝自長。",
@@ -23441,6 +23961,48 @@
         "plugin": "wikisource",
         "title": "管子 · 第46篇明法",
         "url": "https://zh.wikisource.org/wiki/管子/第46篇明法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "使法擇人不自舉",
+    "title": "使法擇人不自舉",
+    "summary": "先王治國，使法擇人不自舉",
+    "tags": [
+      "明法",
+      "任賢",
+      "法治",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "使法量功不自度",
+    "title": "使法量功不自度",
+    "summary": "使法量功不自度，則賞罰各得其宜",
+    "tags": [
+      "明法",
+      "賞罰",
+      "法治",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
         "work": "管子"
       }
     ]
@@ -24854,6 +25416,24 @@
     ]
   },
   {
+    "slug": "修法制",
+    "title": "修法制",
+    "summary": "孟秋之月，命有司修法制，繕囹圄，禁姦邪，務搏執。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "修諸己以先四海",
     "title": "修諸己以先四海",
     "summary": "君人者當先修諸己，而後化導四方。",
@@ -26023,6 +26603,28 @@
         "title": "墨子 · 備蛾傅",
         "url": "https://zh.wikisource.org/wiki/墨子/備蛾傅",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "備長存乎在賢",
+    "title": "備長存乎在賢",
+    "summary": "君欲尊安，必賴賢佐。",
+    "tags": [
+      "管子",
+      "治國",
+      "賢佐",
+      "任賢",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
+        "work": "管子"
       }
     ]
   },
@@ -28756,6 +29358,27 @@
     ]
   },
   {
+    "slug": "內和理而後家可長久",
+    "title": "內和理而後家可長久",
+    "summary": "婦順備，則內和理；內和理，則家可長久。此聖王所以重昏禮也。",
+    "tags": [
+      "治家",
+      "婦順",
+      "和理",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "內外之分",
     "title": "內外之分",
     "summary": "",
@@ -28863,7 +29486,9 @@
     "tags": [
       "射禮",
       "修身",
-      "禮"
+      "禮",
+      "部:經",
+      "部:經/禮類"
     ],
     "sources": [
       {
@@ -29182,6 +29807,27 @@
         "title": "莊子 · 田子方",
         "url": "https://zh.wikisource.org/wiki/莊子/田子方",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "全生之說勝",
+    "title": "全生之說勝",
+    "summary": "尚全生則羣臣但求滋味聲色，禮義廉恥不立。",
+    "tags": [
+      "全生",
+      "養生",
+      "廉恥",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第65篇立政九敗解",
+        "plugin": "wikisource",
+        "title": "管子 · 第65篇立政九敗解",
+        "url": "https://zh.wikisource.org/wiki/管子/第65篇立政九敗解",
+        "work": "管子"
       }
     ]
   },
@@ -29829,6 +30475,27 @@
     ]
   },
   {
+    "slug": "公事不私議",
+    "title": "公事不私議",
+    "summary": "朝廷之事，不當私門議論。",
+    "tags": [
+      "言語",
+      "官守",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "公侯之事",
     "title": "公侯之事",
     "summary": "祭祀已故公侯之禮。",
@@ -29988,6 +30655,30 @@
         "title": "史記 · 卷004",
         "url": "https://zh.wikisource.org/wiki/史記/卷004",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "公叔痤遺言",
+    "title": "公叔痤遺言",
+    "summary": "公叔痤病中以鞅國事托惠王，惠王不以為然，卒失賢才。",
+    "tags": [
+      "公叔痤",
+      "魏",
+      "惠王",
+      "鞅",
+      "法家",
+      "悖",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十一",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十一",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十一",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -31416,6 +32107,24 @@
     ]
   },
   {
+    "slug": "六宮",
+    "title": "六宮",
+    "summary": "天子之后立六宮、三夫人、九嬪、二十七世婦、八十一御妻，以聽天下之內治。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "六家之要指",
     "title": "六家之要指",
     "summary": "司馬談綜論陰陽、儒、墨、名、法、道德六家之得失，以為道家最備。",
@@ -31505,6 +32214,8 @@
       "治道",
       "姦邪",
       "管子",
+      "治國",
+      "法家",
       "部:子",
       "部:子/法家類"
     ],
@@ -31514,6 +32225,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第15篇重令",
         "url": "https://zh.wikisource.org/wiki/管子/第15篇重令",
+        "work": "管子"
+      },
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
         "work": "管子"
       }
     ]
@@ -31719,6 +32437,30 @@
         "title": "抱朴子 · 卷17",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "六盜",
+    "title": "六盜",
+    "summary": "盜亦有道，具聖、勇、義、知時、智、仁六者，方成大盜。",
+    "tags": [
+      "盜",
+      "義",
+      "智",
+      "仁",
+      "勇",
+      "辯",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十一",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十一",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十一",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -31941,6 +32683,27 @@
       "昏禮",
       "儒學",
       "婚俗",
+      "夫婦",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "共牢而食合巹而酳",
+    "title": "共牢而食，合巹而酳",
+    "summary": "昏禮夫婦共食一牲、合飲一卮，以合體同尊卑而親之。",
+    "tags": [
+      "昏禮",
       "夫婦",
       "禮儀",
       "部:經",
@@ -33332,6 +34095,27 @@
     ]
   },
   {
+    "slug": "兼愛之說勝",
+    "title": "兼愛之說勝",
+    "summary": "尚兼愛則無別，賢將外奔，軍敗覆國。",
+    "tags": [
+      "兼愛",
+      "墨學",
+      "軍備",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第65篇立政九敗解",
+        "plugin": "wikisource",
+        "title": "管子 · 第65篇立政九敗解",
+        "url": "https://zh.wikisource.org/wiki/管子/第65篇立政九敗解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "兼服天下之心",
     "title": "兼服天下之心",
     "summary": "聖王兼待天下之心，無驕無忽無争無傷",
@@ -33948,6 +34732,24 @@
     ]
   },
   {
+    "slug": "冰益壯",
+    "title": "冰益壯",
+    "summary": "仲冬之月，冰益壯，地始坼，鶡旦不鳴，虎始交。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "冲風枯柯",
     "title": "冲風枯柯",
     "summary": "冲風赴林而枯柯先摧，喻邪侵正體因其本先傷。",
@@ -34085,6 +34887,27 @@
         "title": "荀子 · 君子篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "凡摯",
+    "title": "凡摯",
+    "summary": "摯者，下之於上、私情之饋也，等威有差。",
+    "tags": [
+      "禮儀",
+      "聘問",
+      "摯見",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
+        "work": "禮記"
       }
     ]
   },
@@ -37381,6 +38204,28 @@
     ]
   },
   {
+    "slug": "勇若此不若無勇",
+    "title": "勇若此不若無勇",
+    "summary": "齊之二勇士相遇，以肉相啖至死，此假勇也，不若無勇。",
+    "tags": [
+      "勇",
+      "義",
+      "齊",
+      "狂",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十一",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十一",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十一",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "動之溶之無為攻之",
     "title": "動之溶之",
     "summary": "動之溶之，無為而攻之",
@@ -37442,6 +38287,27 @@
         "title": "周易 · 困",
         "url": "https://zh.wikisource.org/wiki/周易/困",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "動無非法",
+    "title": "動無非法",
+    "summary": "動無非法者，所以禁過而外私",
+    "tags": [
+      "法治",
+      "禁姦",
+      "明法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
       }
     ]
   },
@@ -39625,6 +40491,25 @@
     ]
   },
   {
+    "slug": "十年之蓄",
+    "title": "國有十年之蓄",
+    "summary": "國家積十年之蓄，乃能富勝貧、勇勝怯、智勝愚。",
+    "tags": [
+      "治道",
+      "積蓄",
+      "國力"
+    ],
+    "sources": [
+      {
+        "chapter": "第71篇事語",
+        "plugin": "wikisource",
+        "title": "管子 · 第71篇事語",
+        "url": "https://zh.wikisource.org/wiki/管子/第71篇事語",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "十月納禾稼",
     "title": "十月納禾稼",
     "summary": "十月斂禾登穀，入於倉廩也。",
@@ -39685,6 +40570,27 @@
         "title": "詩經 · 十畝之間",
         "url": "https://zh.wikisource.org/wiki/詩經/十畝之間",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "十至於私人之門",
+    "title": "十至於私人之門",
+    "summary": "臣皆趨重臣之門，則令不行",
+    "tags": [
+      "朋黨",
+      "明法",
+      "治亂",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
       }
     ]
   },
@@ -43412,6 +44318,28 @@
     ]
   },
   {
+    "slug": "取人以己成事以質",
+    "title": "取人以己，成事以質",
+    "summary": "度己以恕，待人用稱；量事以實，用財以公。",
+    "tags": [
+      "管子",
+      "治國",
+      "修身",
+      "用人",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "取人有道用人有法",
     "title": "取人有道用人有法",
     "summary": "取人參之以禮，用人禁之以等",
@@ -44195,6 +45123,28 @@
     ]
   },
   {
+    "slug": "古今一也",
+    "title": "古今一也",
+    "summary": "天道無改，古今一道，循之則治，違之則亂。",
+    "tags": [
+      "管子",
+      "形勢解",
+      "天道",
+      "古今",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第64篇形勢解",
+        "plugin": "wikisource",
+        "title": "管子 · 第64篇形勢解",
+        "url": "https://zh.wikisource.org/wiki/管子/第64篇形勢解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "古今異情",
     "title": "古今異情",
     "summary": "妄言古今異情、治亂異道者，不足信也。",
@@ -44645,6 +45595,28 @@
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "召遠在脩近",
+    "title": "召遠在脩近",
+    "summary": "脩內而遠者自歸。",
+    "tags": [
+      "管子",
+      "治國",
+      "外交",
+      "脩德",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
+        "work": "管子"
       }
     ]
   },
@@ -46356,6 +47328,27 @@
     ]
   },
   {
+    "slug": "后立六宮聽內治",
+    "title": "后立六宮、三夫人、九嬪，聽天下之內治",
+    "summary": "天子之后立六宮以聽內治，明章婦順，天下內和而家理。",
+    "tags": [
+      "后妃",
+      "內治",
+      "六宮",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "吏偷官而外交",
     "title": "吏偷官而外交",
     "summary": "賢材懈怠有功者隳之亡國風",
@@ -47731,6 +48724,27 @@
     ]
   },
   {
+    "slug": "君臣之間明別則易治",
+    "title": "君臣之間明別則易治",
+    "summary": "君臣高下如天之與地，明別則令行禁止",
+    "tags": [
+      "君臣",
+      "明法",
+      "治道",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "君臣之際非父子之親",
     "title": "君臣之際非父子之親",
     "summary": "君臣以利相合，非以情相親，計數之所出也。",
@@ -47789,6 +48803,27 @@
         "title": "韓非子 · 飾邪",
         "url": "https://zh.wikisource.org/wiki/韓非子/飾邪",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "君臣共道",
+    "title": "君臣共道",
+    "summary": "君行臣道則亂，臣行主道則危",
+    "tags": [
+      "君臣",
+      "治亂",
+      "明法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
       }
     ]
   },
@@ -49227,6 +50262,30 @@
     ]
   },
   {
+    "slug": "吳起泣西河",
+    "title": "吳起泣西河",
+    "summary": "吳起聞召而去，望西河而泣，預見其將入於秦。",
+    "tags": [
+      "吳起",
+      "魏",
+      "西河",
+      "忠",
+      "讒",
+      "秦",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十一",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十一",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十一",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "吳起置表",
     "title": "吳起置表",
     "summary": "吳起立木於南門以示信，遂成賞罰必信之治。",
@@ -49971,6 +51030,8 @@
       "禮記",
       "西周",
       "儒學",
+      "攝政",
+      "天子",
       "部:經",
       "部:經/禮類"
     ],
@@ -50612,6 +51673,24 @@
     ]
   },
   {
+    "slug": "命有司趣民收斂",
+    "title": "命有司趣民收斂",
+    "summary": "仲秋之月，收斂之時，命有司督促民人收斂蓄積，勸種麥。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "命稟之星",
     "title": "命稟之星",
     "summary": "人之吉凶壽夭，定於結胎受氣之日所值之星宿。",
@@ -50629,6 +51708,28 @@
         "title": "抱朴子 · 卷12",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷12",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "命野虞",
+    "title": "命野虞",
+    "summary": "季春之月，命野虞循行原野，修利隄防，道達溝瀆，以備農事。",
+    "tags": [
+      "月令",
+      "季春",
+      "水利",
+      "農事",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -52168,6 +53269,27 @@
     ]
   },
   {
+    "slug": "問疾嘗藥",
+    "title": "問疾嘗藥",
+    "summary": "臣之事君，藥先嘗而後進。",
+    "tags": [
+      "君臣",
+      "侍疾",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "問者",
     "title": "問者",
     "summary": "設問以闡性惡之旨問答之體。",
@@ -53038,6 +54160,25 @@
     ]
   },
   {
+    "slug": "善為國者",
+    "title": "善為國者壤辟舉",
+    "summary": "善治國者，先闢土地、厚蓄積，使民留處、倉廩實。",
+    "tags": [
+      "治道",
+      "治法",
+      "總綱"
+    ],
+    "sources": [
+      {
+        "chapter": "第71篇事語",
+        "plugin": "wikisource",
+        "title": "管子 · 第71篇事語",
+        "url": "https://zh.wikisource.org/wiki/管子/第71篇事語",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "善為政者",
     "title": "善為政者",
     "summary": "善政之君能使田野闢、倉廩實、賢人進、姦民退，上下和同而有禮義。",
@@ -53471,6 +54612,9 @@
       "賞罰",
       "慎喜怒",
       "令行",
+      "管子",
+      "治國",
+      "喜怒",
       "部:子",
       "部:子/法家類"
     ],
@@ -53480,6 +54624,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第07篇版法",
         "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
+      },
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
         "work": "管子"
       }
     ]
@@ -53501,6 +54652,27 @@
         "plugin": "wikisource",
         "title": "管子 · 第07篇版法",
         "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "喜賞惡罰離公道",
+    "title": "喜賞惡罰離公道",
+    "summary": "喜賞惡罰之人，必離公道而行私術",
+    "tags": [
+      "明法",
+      "私術",
+      "姦臣",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
         "work": "管子"
       }
     ]
@@ -54618,6 +55790,28 @@
     ]
   },
   {
+    "slug": "四代言器",
+    "title": "四代言器",
+    "summary": "四代音樂之器，土鼓蕢桴葦龠，伊耆氏之樂；拊搏玉磬揩擊，大琴大瑟，中琴小瑟，四代之器。",
+    "tags": [
+      "音樂",
+      "樂器",
+      "四代",
+      "禮器",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "四傷百匿",
     "title": "四傷百匿",
     "summary": "言四者傷國之根，百匿為害之根也。",
@@ -54803,6 +55997,28 @@
         "title": "詩經 · 下泉",
         "url": "https://zh.wikisource.org/wiki/詩經/下泉",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "四塞世告至",
+    "title": "四塞世告至",
+    "summary": "四塞之國，逢其世及，遣使來告。",
+    "tags": [
+      "外交",
+      "四裔",
+      "邦交",
+      "告至",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
+        "work": "禮記"
       }
     ]
   },
@@ -55898,6 +57114,28 @@
     ]
   },
   {
+    "slug": "四說在愛施",
+    "title": "四說在愛施",
+    "summary": "愛施俱行，則君臣、朋友、兄弟、父子皆說。",
+    "tags": [
+      "管子",
+      "愛民",
+      "治國",
+      "人倫",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "四貴",
     "title": "四貴",
     "summary": "太后、穰侯、華陽君、涇陽君、高陵君，專秦之權者。",
@@ -55946,6 +57184,27 @@
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "四輔及三公",
+    "title": "四輔及三公",
+    "summary": "設四輔三公以教世子。",
+    "tags": [
+      "官制",
+      "世子",
+      "周禮",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
       }
     ]
   },
@@ -56696,6 +57955,69 @@
     ]
   },
   {
+    "slug": "國無人不務尊君",
+    "title": "國無人不務尊君",
+    "summary": "國无人者，家與家務相益，不務尊君",
+    "tags": [
+      "明法",
+      "朋黨",
+      "治亂",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "國無人而百官非任",
+    "title": "國無人而百官非任",
+    "summary": "屬數雖眾，非以尊君；百官雖具，非以任國",
+    "tags": [
+      "明法",
+      "任官",
+      "治國",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "國無儲在令",
+    "title": "國無儲在令",
+    "summary": "蓄積之亡，咎在政令之失，非天時之過",
+    "tags": [
+      "蓄積",
+      "政令",
+      "國本",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第68篇巨乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第68篇巨乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第68篇巨乘馬",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "國無怨民曰彊國",
     "title": "國無怨民曰彊國",
     "summary": "無怨民者乃為強國",
@@ -57012,6 +58334,24 @@
     ]
   },
   {
+    "slug": "土潤溽暑",
+    "title": "土潤溽暑",
+    "summary": "季夏之月，土潤溽暑，大雨時行，宜燒薙行水以殺草糞田。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "土與金木水火雜",
     "title": "土與金木水火雜",
     "summary": "萬物皆五行相雜而成。",
@@ -57095,6 +58435,27 @@
         "title": "詩經 · 子衿",
         "url": "https://zh.wikisource.org/wiki/詩經/子衿",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "在官言官",
+    "title": "在官言官",
+    "summary": "在其位，言其事，不及其餘。",
+    "tags": [
+      "言語",
+      "禮儀",
+      "官守",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
+        "work": "禮記"
       }
     ]
   },
@@ -57265,6 +58626,27 @@
         "title": "史記 · 卷055",
         "url": "https://zh.wikisource.org/wiki/史記/卷055",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "地不易其則",
+    "title": "地不易其則",
+    "summary": "地有其則，萬物生焉；主有其利，百姓安焉。",
+    "tags": [
+      "管子",
+      "形勢解",
+      "地道",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第64篇形勢解",
+        "plugin": "wikisource",
+        "title": "管子 · 第64篇形勢解",
+        "url": "https://zh.wikisource.org/wiki/管子/第64篇形勢解",
+        "work": "管子"
       }
     ]
   },
@@ -58639,6 +60021,28 @@
     ]
   },
   {
+    "slug": "執燭之禮",
+    "title": "執燭之禮",
+    "summary": "昏時燃燭執事，錯總遠近以承火，右手秉燭，左手正櫛，交坐毋倍尊者。",
+    "tags": [
+      "弟子",
+      "執燭",
+      "昏禮",
+      "夜誦",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第59篇弟子職",
+        "plugin": "wikisource",
+        "title": "管子 · 第59篇弟子職",
+        "url": "https://zh.wikisource.org/wiki/管子/第59篇弟子職",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "執燭抱燋",
     "title": "執燭抱燋",
     "summary": "",
@@ -59401,6 +60805,28 @@
     ]
   },
   {
+    "slug": "堯舜之臣不獨義",
+    "title": "堯舜之臣不獨義",
+    "summary": "賢臣盡忠，在乎得遇明君；遇暴則鄙，遇明則忠",
+    "tags": [
+      "君臣",
+      "堯舜",
+      "呂氏春秋",
+      "審分",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十七",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十七",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十七",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "堯舜之與桀跖其性一也",
     "title": "堯舜之與桀跖，其性一也",
     "summary": "聖凡善惡之別，不在性之分，而在為之積。",
@@ -59661,6 +61087,7 @@
       "聖王",
       "治道",
       "法先王",
+      "呂氏春秋",
       "部:子",
       "部:子/墨家類"
     ],
@@ -59706,6 +61133,13 @@
         "title": "韓非子 · 外儲說左下",
         "url": "https://zh.wikisource.org/wiki/韓非子/外儲說左下",
         "work": "韓非子"
+      },
+      {
+        "chapter": "卷十三",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十三",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十三",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -60517,6 +61951,25 @@
     ]
   },
   {
+    "slug": "壤辟舉",
+    "title": "壤辟舉則民留處",
+    "summary": "治國先務墾闢土地，使民安居樂業。",
+    "tags": [
+      "治道",
+      "農事",
+      "內政"
+    ],
+    "sources": [
+      {
+        "chapter": "第71篇事語",
+        "plugin": "wikisource",
+        "title": "管子 · 第71篇事語",
+        "url": "https://zh.wikisource.org/wiki/管子/第71篇事語",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "士不可用以將予人",
     "title": "士不可用，以將予人",
     "summary": "士不任事，是將之過。",
@@ -61090,6 +62543,24 @@
         "title": "史記 · 卷130",
         "url": "https://zh.wikisource.org/wiki/史記/卷130",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "壻執雁",
+    "title": "壻執雁",
+    "summary": "昏禮迎親之時，壻執雁入廟，再拜奠雁，蓋親受之於父母。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -62216,6 +63687,45 @@
         "title": "史記 · 卷111",
         "url": "https://zh.wikisource.org/wiki/史記/卷111",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "大合百縣秩芻",
+    "title": "大合百縣秩芻",
+    "summary": "季夏之月，命四監大合百縣之秩芻，以共皇天上帝四方之神。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "大合眾以事",
+    "title": "大合眾以事",
+    "summary": "天子視學，大合眾人以事，興有德。",
+    "tags": [
+      "視學",
+      "禮制",
+      "樂舞",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
       }
     ]
   },
@@ -63558,6 +65068,28 @@
     ]
   },
   {
+    "slug": "大飲烝",
+    "title": "大飲烝",
+    "summary": "孟冬之月，天子大飲烝，祈來年於天宗，大割祠於公社及門閭。",
+    "tags": [
+      "月令",
+      "孟冬",
+      "祭祀",
+      "祈福",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "大餘小餘",
     "title": "大餘小餘",
     "summary": "曆書以大餘記日，小餘記月，合之以成歲法。",
@@ -64033,6 +65565,8 @@
       "政治",
       "治道",
       "呂氏春秋",
+      "治亂",
+      "天下",
       "部:子",
       "部:子/雜家類"
     ],
@@ -64042,6 +65576,13 @@
         "plugin": "wikisource",
         "title": "呂氏春秋 · 卷二十六",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
+        "work": "呂氏春秋"
+      },
+      {
+        "chapter": "卷十三",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十三",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十三",
         "work": "呂氏春秋"
       }
     ]
@@ -65250,6 +66791,10 @@
       "禮制",
       "時令",
       "方位",
+      "月令",
+      "天子",
+      "政令",
+      "明堂",
       "部:子",
       "部:子/雜家類"
     ],
@@ -65260,6 +66805,53 @@
         "title": "淮南子 · 時則訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/時則訓",
         "work": "淮南子"
+      },
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "天子始裘",
+    "title": "天子始裘",
+    "summary": "孟冬之月，天氣上騰、地氣下降，天子始裘以禦寒。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "天子廟飾",
+    "title": "天子廟飾",
+    "summary": "天子廟飾之制，山節藻棁，復廟重檐，刮楹達鄉，反坫出尊，崇坫康圭，疏屏。",
+    "tags": [
+      "廟制",
+      "宮室",
+      "天子",
+      "禮制",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
+        "work": "禮記"
       }
     ]
   },
@@ -65286,6 +66878,66 @@
     ]
   },
   {
+    "slug": "天子理陽道后治陰德",
+    "title": "天子理陽道，后治陰德",
+    "summary": "天子理陽道以聽外治，后治陰德以聽內職，陰陽相須而成治道。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "天子立六官聽外治",
+    "title": "天子立六官、三公、九卿，聽天下之外治",
+    "summary": "天子立六官以聽外治，明章男教，外和而國治。",
+    "tags": [
+      "天子",
+      "外治",
+      "六官",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "天子聽男教后聽女順",
+    "title": "天子聽男教，后聽女順",
+    "summary": "天子理陽道而后治陰德，一陰一陽、相須而成，此盛德之要。",
+    "tags": [
+      "陰陽",
+      "夫婦",
+      "治道",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "天子至備",
     "title": "天子至備",
     "summary": "天子至重至佚，無所求於人，而天下之至備咸集焉。",
@@ -65303,6 +66955,70 @@
         "title": "荀子 · 君子篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君子篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "天子與后猶日之與月",
+    "title": "天子與后，猶日之與月",
+    "summary": "天子與后，猶日之與月、陰之與陽，相須而後成，不可偏廢。",
+    "tags": [
+      "陰陽",
+      "夫婦",
+      "天道",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "天子與后猶父之與母",
+    "title": "天子與后，猶父之與母",
+    "summary": "天子修男教，是父道；后修女順，是母道，故為天王服斬衰、為后服資衰。",
+    "tags": [
+      "父子",
+      "夫婦",
+      "治道",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "天子視學",
+    "title": "天子視學",
+    "summary": "天子親視太學，警眾養老，以成教化。",
+    "tags": [
+      "教育",
+      "天子",
+      "視學",
+      "養老",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
       }
     ]
   },
@@ -71231,6 +72947,9 @@
       "法治",
       "威權",
       "治道",
+      "威勢",
+      "明法",
+      "君道",
       "部:子",
       "部:子/法家類"
     ],
@@ -71240,6 +72959,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第46篇明法",
         "url": "https://zh.wikisource.org/wiki/管子/第46篇明法",
+        "work": "管子"
+      },
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
         "work": "管子"
       }
     ]
@@ -71630,6 +73356,27 @@
         "title": "詩經 · 東山",
         "url": "https://zh.wikisource.org/wiki/詩經/東山",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "婦降自阼階",
+    "title": "婦降自阼階",
+    "summary": "昏禮成後，舅姑降自西階，婦降自阼階，以著代終事舅姑之義。",
+    "tags": [
+      "昏禮",
+      "舅姑",
+      "閭門",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -74490,6 +76237,24 @@
     ]
   },
   {
+    "slug": "孟冬行春令",
+    "title": "孟冬行春令",
+    "summary": "孟冬行春令則凍閉不密地氣上泄，行夏令則國多暴風，行秋令則雪霜不時。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "孟嘗君",
     "title": "孟嘗君",
     "summary": "戰國四公子之首，好客養士，卒以薛邑終。",
@@ -74530,6 +76295,24 @@
         "title": "呂氏春秋 · 卷二十六",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
         "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "孟夏行秋令",
+    "title": "孟夏行秋令",
+    "summary": "孟夏行秋令則苦雨數來五穀不滋，行冬令則草木蚤枯，行春令則蟲蝗為災。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -74644,6 +76427,68 @@
     ]
   },
   {
+    "slug": "孟春不可以稱兵",
+    "title": "孟春不可以稱兵",
+    "summary": "孟春行戮則逆天殃，兵戎不起，不可從我始。",
+    "tags": [
+      "月令",
+      "孟春",
+      "兵戎",
+      "天殃",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "孟春行夏令",
+    "title": "孟春行夏令",
+    "summary": "孟春行夏令則風雨不時草木蚤落，行秋令則大疫，行冬令則水潦雪霜。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "孟秋行冬令",
+    "title": "孟秋行冬令",
+    "summary": "孟秋行冬令則陰氣大勝，介蟲敗穀，戎兵乃來。",
+    "tags": [
+      "月令",
+      "孟秋",
+      "災異",
+      "政令",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "孟軻闡其前荀卿振其後",
     "title": "孟軻闡其前，荀卿振其後",
     "summary": "孟子闡明於前，荀卿振作於後，儒學危而復存。",
@@ -74747,6 +76592,47 @@
         "title": "呂氏春秋 · 卷六",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷六",
         "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "季夏祀周公",
+    "title": "季夏祀周公",
+    "summary": "魯以季夏禘禮祀周公於大廟，用天子之禮。",
+    "tags": [
+      "祭祀",
+      "周公",
+      "禘禮",
+      "天子之禮",
+      "魯國",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "季夏行春令",
+    "title": "季夏行春令",
+    "summary": "季夏行春令則穀實鮮落，行秋令則丘隰水潦禾稼不熟，行冬令則風寒不時。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -74946,6 +76832,28 @@
         "title": "史記 · 卷047",
         "url": "https://zh.wikisource.org/wiki/史記/卷047",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "季春合樂",
+    "title": "季春合樂",
+    "summary": "季春之末，擇吉日大合樂，天子帥百官親往視之。",
+    "tags": [
+      "月令",
+      "季春",
+      "合樂",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -75167,6 +77075,24 @@
         "title": "莊子 · 則陽",
         "url": "https://zh.wikisource.org/wiki/莊子/則陽",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "季秋行夏令",
+    "title": "季秋行夏令",
+    "summary": "季秋行夏令則大水冬藏殃敗，行冬令則多盜賊，行春令則煖風來至。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -75506,6 +77432,28 @@
         "title": "韓非子 · 喻老",
         "url": "https://zh.wikisource.org/wiki/韓非子/喻老",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "學之為父子",
+    "title": "學之為父子",
+    "summary": "學所以明父子、君臣、長幼之義。",
+    "tags": [
+      "教育",
+      "禮義",
+      "父子",
+      "君臣",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
       }
     ]
   },
@@ -76822,6 +78770,28 @@
     ]
   },
   {
+    "slug": "安高在乎同利",
+    "title": "安高在乎同利",
+    "summary": "與天下同利者，乃可長安高位。",
+    "tags": [
+      "管子",
+      "治國",
+      "公利",
+      "天下",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "宋人及楚人平",
     "title": "宋人及楚人平",
     "summary": "司馬子反與華元各以誠實相告，遂罷楚圍。公羊傳美之，以為大夫能平其國。",
@@ -77344,6 +79314,28 @@
     ]
   },
   {
+    "slug": "官制遞增",
+    "title": "官制遞增",
+    "summary": "四代官制員額遞增，有虞五十，夏後百，殷二百，周三百。",
+    "tags": [
+      "官制",
+      "四代",
+      "制度",
+      "禮制",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "官少索者衆",
     "title": "官少而索者衆",
     "summary": "因能授祿錄功與官",
@@ -77555,6 +79547,25 @@
         "title": "詩經 · 定之方中",
         "url": "https://zh.wikisource.org/wiki/詩經/定之方中",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "定內持天下",
+    "title": "不定內不可以持天下",
+    "summary": "治國必先安定內政，未有內亂而能圖天下者。",
+    "tags": [
+      "治道",
+      "內政",
+      "本末"
+    ],
+    "sources": [
+      {
+        "chapter": "第71篇事語",
+        "plugin": "wikisource",
+        "title": "管子 · 第71篇事語",
+        "url": "https://zh.wikisource.org/wiki/管子/第71篇事語",
+        "work": "管子"
       }
     ]
   },
@@ -78364,7 +80375,10 @@
       "治國",
       "節用",
       "部:子",
-      "部:子/墨家類"
+      "部:子/墨家類",
+      "荒政",
+      "救荒",
+      "管子"
     ],
     "sources": [
       {
@@ -78380,6 +80394,13 @@
         "title": "墨子 · 辭過",
         "url": "https://zh.wikisource.org/wiki/墨子/辭過",
         "work": "墨子"
+      },
+      {
+        "chapter": "第69篇乘馬數",
+        "plugin": "wikisource",
+        "title": "管子 · 第69篇乘馬數",
+        "url": "https://zh.wikisource.org/wiki/管子/第69篇乘馬數",
+        "work": "管子"
       }
     ]
   },
@@ -79193,6 +81214,27 @@
     ]
   },
   {
+    "slug": "寒耕暑耘力歸於上",
+    "title": "寒耕暑耘力歸於上",
+    "summary": "農夫苦作以奉上，女工紡織以實府",
+    "tags": [
+      "農事",
+      "國家治理",
+      "輕重之術",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第68篇巨乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第68篇巨乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第68篇巨乘馬",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "寓獎率",
     "title": "寓獎率",
     "summary": "以獎賞率勵賢者，以刑罰糾治姦邪。",
@@ -79480,6 +81522,27 @@
         "title": "史記 · 卷129",
         "url": "https://zh.wikisource.org/wiki/史記/卷129",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "寢兵之說勝",
+    "title": "寢兵之說勝",
+    "summary": "廢武備則城郭毀、邊防弛，敵至莫之守。",
+    "tags": [
+      "國防",
+      "備預",
+      "亡國",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第65篇立政九敗解",
+        "plugin": "wikisource",
+        "title": "管子 · 第65篇立政九敗解",
+        "url": "https://zh.wikisource.org/wiki/管子/第65篇立政九敗解",
+        "work": "管子"
       }
     ]
   },
@@ -80659,7 +82722,10 @@
     "slug": "射於澤宮",
     "title": "射於澤宮",
     "summary": "天子將祭，先習射於澤以擇士，而後射於射宮，決定能否與祭。",
-    "tags": [],
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
     "sources": [
       {
         "chapter": "射義",
@@ -80698,7 +82764,9 @@
     "tags": [
       "射禮",
       "仁",
-      "修身"
+      "修身",
+      "部:經",
+      "部:經/禮類"
     ],
     "sources": [
       {
@@ -80714,7 +82782,10 @@
     "slug": "射為諸侯",
     "title": "射為諸侯",
     "summary": "射侯之射，即射為諸侯，天子以射選諸侯，諸侯以射朝天子。",
-    "tags": [],
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
     "sources": [
       {
         "chapter": "射義",
@@ -81142,6 +83213,27 @@
     ]
   },
   {
+    "slug": "專授則失",
+    "title": "專授則失",
+    "summary": "威勢刑罰不可旁落，否則有劫殺之患",
+    "tags": [
+      "威勢",
+      "專制",
+      "明法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "專於意一心",
     "title": "專於意一於心",
     "summary": "專注意志、守一其心，則智照遠近，鬼神亦為之教。",
@@ -81279,6 +83371,27 @@
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "尊君卑臣",
+    "title": "尊君卑臣",
+    "summary": "君尊臣卑，非計親疏，以威勢勝之",
+    "tags": [
+      "君臣",
+      "威勢",
+      "明法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
       }
     ]
   },
@@ -82064,6 +84177,27 @@
     ]
   },
   {
+    "slug": "小臣持祿不以官為事",
+    "title": "小臣持祿不以官為事",
+    "summary": "官失其能，由持祿養佼不以官為事",
+    "tags": [
+      "明法",
+      "失職",
+      "臣道",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "小臣楔齒角柶",
     "title": "小臣楔齒角柶",
     "summary": "始死，楔齒用角柶，綴足用燕几，所以正尸以待飯含。",
@@ -82334,6 +84468,28 @@
         "title": "史記 · 卷062",
         "url": "https://zh.wikisource.org/wiki/史記/卷062",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "少者之事",
+    "title": "少者之事",
+    "summary": "少年弟子黎明即作，先洒掃而後洗漱，執事恭敬，以待先生。",
+    "tags": [
+      "弟子",
+      "洒掃",
+      "早起",
+      "禮儀",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第59篇弟子職",
+        "plugin": "wikisource",
+        "title": "管子 · 第59篇弟子職",
+        "url": "https://zh.wikisource.org/wiki/管子/第59篇弟子職",
+        "work": "管子"
       }
     ]
   },
@@ -84050,6 +86206,27 @@
     ]
   },
   {
+    "slug": "崩薨卒死",
+    "title": "崩薨卒死",
+    "summary": "死亡之稱，因尊卑而異。",
+    "tags": [
+      "死亡",
+      "禮儀",
+      "等威",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "嶽降神",
     "title": "嶽降神",
     "summary": "山嶽降靈，生甫及申，為周藩翰。",
@@ -85714,6 +87891,10 @@
       "躬耕",
       "聖德",
       "舜",
+      "管子",
+      "聖人",
+      "德行",
+      "愛民",
       "部:史",
       "部:史/正史類"
     ],
@@ -85731,6 +87912,13 @@
         "title": "韓非子 · 難一",
         "url": "https://zh.wikisource.org/wiki/韓非子/難一",
         "work": "韓非子"
+      },
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
+        "work": "管子"
       }
     ]
   },
@@ -88569,6 +90757,28 @@
     ]
   },
   {
+    "slug": "弘演報肝",
+    "title": "弘演報肝",
+    "summary": "弘演剖腹以納懿公之肝，殺身以殉，卒存衛國之祀。",
+    "tags": [
+      "忠",
+      "弘演",
+      "衛懿公",
+      "殉君",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十一",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十一",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十一",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "弦章辭魚",
     "title": "弦章辭魚",
     "summary": "晏子沒後，景公溺於諛賞，弦章辭魚以諫，君子以為晏子之遺行。",
@@ -91374,6 +93584,27 @@
     ]
   },
   {
+    "slug": "御輪三周",
+    "title": "御輪三周",
+    "summary": "昏禮迎親，壻為婦御車，御輪三周，以明親迎之禮。",
+    "tags": [
+      "昏禮",
+      "迎親",
+      "御車",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "復",
     "title": "復",
     "summary": "",
@@ -91688,7 +93919,9 @@
     "tags": [
       "射禮",
       "樂",
-      "賢"
+      "賢",
+      "部:經",
+      "部:經/禮類"
     ],
     "sources": [
       {
@@ -93383,6 +95616,27 @@
     ]
   },
   {
+    "slug": "忠臣死於非罪",
+    "title": "忠臣死於非罪",
+    "summary": "忠臣死於非罪，邪臣起於非功",
+    "tags": [
+      "忠臣",
+      "姦臣",
+      "明法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "忠言拂耳",
     "title": "忠言拂耳",
     "summary": "喻忠言逆耳利於行，良藥苦口利於病",
@@ -94815,6 +97069,28 @@
     ]
   },
   {
+    "slug": "息寢之節",
+    "title": "息寢之節",
+    "summary": "先生將息，弟子敬奉枕席，問所趾俟；既息則各就其友，相切相磋，周而復始。",
+    "tags": [
+      "弟子",
+      "息寢",
+      "友誼",
+      "切磋",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第59篇弟子職",
+        "plugin": "wikisource",
+        "title": "管子 · 第59篇弟子職",
+        "url": "https://zh.wikisource.org/wiki/管子/第59篇弟子職",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "悉率左右",
     "title": "悉率左右",
     "summary": "左右夾驅，悉聚禽獸以供射獵。",
@@ -95768,6 +98044,28 @@
     ]
   },
   {
+    "slug": "愚則無敵",
+    "title": "愚則無敵",
+    "summary": "惑者自伐之精，不自知其愚而以不愚者為愚，此天下之大患。",
+    "tags": [
+      "愚",
+      "惑",
+      "忠言",
+      "自伐",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十一",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十一",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十一",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "愚者畏罪而不敢言",
     "title": "愚者畏罪而不敢言，智者無以讼",
     "summary": "明主之世，言有準的，故愚者不敢妄言，智者無所施其爭辩。",
@@ -96115,6 +98413,28 @@
         "title": "韓非子 · 南面",
         "url": "https://zh.wikisource.org/wiki/韓非子/南面",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "愛施之德",
+    "title": "愛施之德",
+    "summary": "兼愛無私，則民親上而事成。",
+    "tags": [
+      "管子",
+      "治國",
+      "愛民",
+      "德行",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
+        "work": "管子"
       }
     ]
   },
@@ -96547,6 +98867,28 @@
         "title": "淮南子 · 繆稱訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/繆稱訓",
         "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "慎子",
+    "title": "慎子",
+    "summary": "慎到，法家之醇者也，主張分定不偏，因勢任法",
+    "tags": [
+      "法家",
+      "慎到",
+      "呂氏春秋",
+      "慎勢",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十七",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十七",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十七",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -97313,6 +99655,9 @@
       "治事",
       "務實",
       "方法",
+      "管子",
+      "稱量",
+      "實事",
       "部:子",
       "部:子/法家類"
     ],
@@ -97322,6 +99667,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第07篇版法",
         "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
+      },
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
         "work": "管子"
       }
     ]
@@ -97456,6 +99808,27 @@
         "title": "管子 · 爲兵之數",
         "url": "https://zh.wikisource.org/wiki/管子/七法/爲兵之數",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "成婦禮明婦順",
+    "title": "成婦禮，明婦順",
+    "summary": "昏禮成婦之後，順於舅姑、和於室人，以成絲麻布帛之事、審守委積蓋藏。",
+    "tags": [
+      "昏禮",
+      "婦順",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -98150,6 +100523,27 @@
         "title": "墨子 · 所染",
         "url": "https://zh.wikisource.org/wiki/墨子/所染",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "所死者非罪所起者非功",
+    "title": "所死者非罪所起者非功",
+    "summary": "所死者非罪，所起者非功，則臣重私而輕公",
+    "tags": [
+      "賞罰",
+      "明法",
+      "治亂",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
       }
     ]
   },
@@ -99361,6 +101755,47 @@
     ]
   },
   {
+    "slug": "持流",
+    "title": "持流",
+    "summary": "王者持物價之流，無使外泄。",
+    "tags": [
+      "物價",
+      "輕重",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第69篇乘馬數",
+        "plugin": "wikisource",
+        "title": "管子 · 第69篇乘馬數",
+        "url": "https://zh.wikisource.org/wiki/管子/第69篇乘馬數",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "持滿者與天",
+    "title": "持滿者與天",
+    "summary": "明主法天之虛靜，故能長守富貴而不失。",
+    "tags": [
+      "管子",
+      "形勢解",
+      "天道",
+      "持盈",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第64篇形勢解",
+        "plugin": "wikisource",
+        "title": "管子 · 第64篇形勢解",
+        "url": "https://zh.wikisource.org/wiki/管子/第64篇形勢解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "持盈定傾節事",
     "title": "持盈定傾節事",
     "summary": "范蠡以持盈、定傾、節事三者為國家興衰之三要",
@@ -99675,6 +102110,25 @@
         "title": "周易 · 蠱",
         "url": "https://zh.wikisource.org/wiki/周易/蠱",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "振貧補不足",
+    "title": "振貧補不足",
+    "summary": "振救貧弱，補益匱乏，使下樂上。",
+    "tags": [
+      "救荒",
+      "扶貧",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第69篇乘馬數",
+        "plugin": "wikisource",
+        "title": "管子 · 第69篇乘馬數",
+        "url": "https://zh.wikisource.org/wiki/管子/第69篇乘馬數",
+        "work": "管子"
       }
     ]
   },
@@ -100393,6 +102847,28 @@
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "掩骼埋胔",
+    "title": "掩骼埋胔",
+    "summary": "孟春之月，禁止殺傷，掩埋枯骨，以順生氣。",
+    "tags": [
+      "月令",
+      "孟春",
+      "恤死",
+      "禁令",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -101834,6 +104310,27 @@
     ]
   },
   {
+    "slug": "教世子必以禮樂",
+    "title": "教世子必以禮樂",
+    "summary": "聖王教世子，以禮樂為本。",
+    "tags": [
+      "教育",
+      "禮樂",
+      "世子",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "教之六廢",
     "title": "教之六廢",
     "summary": "教化所以廢敗者六，君子當戒之。",
@@ -101921,6 +104418,27 @@
         "title": "詩經 · 緜蠻",
         "url": "https://zh.wikisource.org/wiki/詩經/緜蠻",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "教以婦德",
+    "title": "教以婦德、婦言、婦容、婦功",
+    "summary": "古者女子先嫁三月，於公宮或宗室受教，以成婦順。",
+    "tags": [
+      "女教",
+      "四德",
+      "昏禮",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -102013,6 +104531,27 @@
         "title": "周易 · 臨",
         "url": "https://zh.wikisource.org/wiki/周易/臨",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "教成祭之",
+    "title": "教成祭之",
+    "summary": "女子三月教成，祭於宗廟，牲用魚，芼之以蘋藻，以成婦順。",
+    "tags": [
+      "女教",
+      "祭祀",
+      "昏禮",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -102451,6 +104990,27 @@
         "title": "詩經 · 烝民",
         "url": "https://zh.wikisource.org/wiki/詩經/烝民",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "敬慎重正",
+    "title": "敬慎重正",
+    "summary": "昏禮納采、問名、納吉、納徵、請期，皆主人筵幾於廟而行之，敬慎重正之道也。",
+    "tags": [
+      "昏禮",
+      "禮儀",
+      "敬慎",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -104863,6 +107423,29 @@
     ]
   },
   {
+    "slug": "日夜分",
+    "title": "日夜分",
+    "summary": "仲春、仲秋陰陽相半，昼夜均停，當同度量、正權衡。",
+    "tags": [
+      "月令",
+      "陰陽",
+      "度量",
+      "仲春",
+      "仲秋",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "日夜醇酒",
     "title": "日夜醇酒",
     "summary": "參為相，日夜飲醇酒，不親細事。",
@@ -105219,6 +107802,27 @@
         "title": "詩經 · 召旻",
         "url": "https://zh.wikisource.org/wiki/詩經/召旻",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "日食修六官之職",
+    "title": "日食修六官之職",
+    "summary": "日食則天子素服，修六官之職，蕩天下之陽事，以應天道。",
+    "tags": [
+      "天道",
+      "災異",
+      "治道",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -106238,6 +108842,8 @@
       "方位",
       "夷狄",
       "封建",
+      "禮制",
+      "朝位",
       "部:經",
       "部:經/禮類"
     ],
@@ -106974,6 +109580,24 @@
     ]
   },
   {
+    "slug": "昏參中",
+    "title": "昏參中",
+    "summary": "孟春之月，日在營室，昏時參宿見於南方正中也。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "昏惑之君",
     "title": "昏惑之君",
     "summary": "昏君不明，或姑息，或酷烈，皆足以亡國。",
@@ -107029,6 +109653,8 @@
       "儒家",
       "婚禮",
       "儒學",
+      "禮義",
+      "根本",
       "部:經",
       "部:經/禮類"
     ],
@@ -107046,6 +109672,126 @@
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "昏禮將合二姓之好",
+    "title": "昏禮將合二姓之好",
+    "summary": "昏禮者，合二姓之好，上事宗廟、下繼後世之禮也。",
+    "tags": [
+      "昏禮",
+      "婚姻",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "昏禮祭醴",
+    "title": "祭醴",
+    "summary": "贊醴婦後，婦祭脯醢、祭醴，以成婦禮。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "昏禮納吉",
+    "title": "納吉",
+    "summary": "昏禮六禮之一，卜吉而定婚約。",
+    "tags": [
+      "昏禮",
+      "六禮",
+      "卜筮",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "昏禮納徵",
+    "title": "納徵",
+    "summary": "昏禮六禮之一，納徵以玄纁束帛，致婚姻之期。",
+    "tags": [
+      "昏禮",
+      "六禮",
+      "婚姻",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "昏禮納采",
+    "title": "納采",
+    "summary": "昏禮六禮之首，納采問名，主人筵幾於廟而行禮。",
+    "tags": [
+      "昏禮",
+      "六禮",
+      "婚姻",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "昏禮者將合二姓之好",
+    "title": "昏禮者，將合二姓之好",
+    "summary": "昏禮之上以事宗廟、下以繼後世，故君子重之。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -107075,6 +109821,45 @@
         "plugin": "wikisource",
         "title": "禮記 · 間傳",
         "url": "https://zh.wikisource.org/wiki/禮記/間傳",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "昏禮聽命於廟",
+    "title": "聽命於廟",
+    "summary": "昏禮六禮皆主人筵幾於廟，聽命於廟，以敬慎重正。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "昏禮請期",
+    "title": "請期",
+    "summary": "昏禮六禮之一，請期以成婚日。",
+    "tags": [
+      "昏禮",
+      "六禮",
+      "婚姻",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
         "work": "禮記"
       }
     ]
@@ -107159,6 +109944,24 @@
         "title": "周易 · 大有",
         "url": "https://zh.wikisource.org/wiki/周易/大有",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "易關市",
+    "title": "易關市",
+    "summary": "仲秋之月，易關市，來商旅，納貨賄，以便民事。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -107299,6 +110102,27 @@
     ]
   },
   {
+    "slug": "春事二十五日之內",
+    "title": "春事二十五日之內",
+    "summary": "播種之期促狹，失之則百畝皆廢",
+    "tags": [
+      "農時",
+      "耕作",
+      "國家蓄積",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第68篇巨乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第68篇巨乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第68篇巨乘馬",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "春仁夏忠秋急冬閉",
     "title": "春仁夏忠秋急冬閉",
     "summary": "順天之時，約地之宜，忠人之和，則風雨時、五穀實。",
@@ -107329,6 +110153,9 @@
       "干支",
       "政令",
       "治道",
+      "管子",
+      "形勢解",
+      "政務",
       "部:子",
       "部:子/法家類"
     ],
@@ -107345,6 +110172,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第53篇禁藏",
         "url": "https://zh.wikisource.org/wiki/管子/第53篇禁藏",
+        "work": "管子"
+      },
+      {
+        "chapter": "第64篇形勢解",
+        "plugin": "wikisource",
+        "title": "管子 · 第64篇形勢解",
+        "url": "https://zh.wikisource.org/wiki/管子/第64篇形勢解",
         "work": "管子"
       }
     ]
@@ -111102,6 +113936,27 @@
     ]
   },
   {
+    "slug": "月食修六宮之職",
+    "title": "月食修六宮之職",
+    "summary": "月食則后素服，修六宮之職，蕩天下之陰事，以應天道。",
+    "tags": [
+      "天道",
+      "災異",
+      "后妃",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "有人之形無人之情",
     "title": "有人之形無人之情",
     "summary": "聖人有生人之形，而無世俗之情，是乃近乎天。",
@@ -111766,6 +114621,27 @@
     ]
   },
   {
+    "slug": "有尋丈之數",
+    "title": "有尋丈之數",
+    "summary": "有尋丈之數者，不可差以長短",
+    "tags": [
+      "度量",
+      "法治",
+      "明法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "有尺寸而無意度",
     "title": "有尺寸而無意度",
     "summary": "裁斷事物當有一定之尺寸，不可憑私意臆測。",
@@ -111891,6 +114767,27 @@
         "title": "詩經 · 大東",
         "url": "https://zh.wikisource.org/wiki/詩經/大東",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "有權衡之稱",
+    "title": "有權衡之稱",
+    "summary": "有權衡之稱者，不可欺以輕重",
+    "tags": [
+      "法治",
+      "度量",
+      "明法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
       }
     ]
   },
@@ -112149,6 +115046,27 @@
         "title": "詩經 · 菀柳",
         "url": "https://zh.wikisource.org/wiki/詩經/菀柳",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "有虞之筴乘馬",
+    "title": "有虞之筴乘馬",
+    "summary": "虞國以穀斂散之法，國器皆資而民不知",
+    "tags": [
+      "理財",
+      "輕重",
+      "古法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第68篇巨乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第68篇巨乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第68篇巨乘馬",
+        "work": "管子"
       }
     ]
   },
@@ -114544,6 +117462,28 @@
     ]
   },
   {
+    "slug": "東序",
+    "title": "東序",
+    "summary": "周之大學，在王宮之東。",
+    "tags": [
+      "教育",
+      "大學",
+      "周禮",
+      "東序",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "東方之人",
     "title": "東方之人",
     "summary": "東方之人形性與地宜",
@@ -116429,10 +119369,10 @@
       "禮記",
       "儒學",
       "男子之事",
-      "部:經",
-      "部:經/禮類",
       "禮俗",
-      "出生"
+      "出生",
+      "部:經",
+      "部:經/禮類"
     ],
     "sources": [
       {
@@ -117473,6 +120413,28 @@
         "title": "禮記 · 喪大記",
         "url": "https://zh.wikisource.org/wiki/禮記/喪大記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "植固不動",
+    "title": "植固不動",
+    "summary": "心正意誠，則奇邪自息。",
+    "tags": [
+      "管子",
+      "治心",
+      "正己",
+      "修身",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
+        "work": "管子"
       }
     ]
   },
@@ -120650,6 +123612,28 @@
     ]
   },
   {
+    "slug": "正法直度",
+    "title": "正法直度",
+    "summary": "法度既正，賞罰乃行。",
+    "tags": [
+      "管子",
+      "治國",
+      "法治",
+      "賞罰",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "正紀",
     "title": "正紀",
     "summary": "能服信政，乃能正紀。",
@@ -121543,6 +124527,44 @@
         "plugin": "wikisource",
         "title": "管子 · 第57篇度地",
         "url": "https://zh.wikisource.org/wiki/管子/第57篇度地",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "歲藏一",
+    "title": "歲藏一十年而十",
+    "summary": "國家積蓄之道，歲歲藏糧，十年則十倍之。",
+    "tags": [
+      "理財",
+      "積蓄",
+      "經濟"
+    ],
+    "sources": [
+      {
+        "chapter": "第71篇事語",
+        "plugin": "wikisource",
+        "title": "管子 · 第71篇事語",
+        "url": "https://zh.wikisource.org/wiki/管子/第71篇事語",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "歲藏三分",
+    "title": "歲藏三分",
+    "summary": "國用歲儲三分，十年必有五年之餘。",
+    "tags": [
+      "理財",
+      "蓄積",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第69篇乘馬數",
+        "plugin": "wikisource",
+        "title": "管子 · 第69篇乘馬數",
+        "url": "https://zh.wikisource.org/wiki/管子/第69篇乘馬數",
         "work": "管子"
       }
     ]
@@ -122813,6 +125835,28 @@
     ]
   },
   {
+    "slug": "毋竭川澤",
+    "title": "毋竭川澤",
+    "summary": "仲春之月，禁竭川澤、漉陂池、焚山林，以護生氣。",
+    "tags": [
+      "月令",
+      "仲春",
+      "禁令",
+      "環境保護",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "毋蔽汝惡",
     "title": "毋蔽汝惡",
     "summary": "遮掩己過，賢者將不相助。",
@@ -122834,6 +125878,24 @@
     ]
   },
   {
+    "slug": "毋覆巢",
+    "title": "毋覆巢",
+    "summary": "孟春之月，禁伐木、覆巢、傷胎夭，以順生物之氣。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "毋訪于佞",
     "title": "毋訪于佞",
     "summary": "治國當遠佞人、諂者、暴者、讒者，四者用則君義亡。",
@@ -122851,6 +125913,24 @@
         "title": "管子 · 第11篇宙合",
         "url": "https://zh.wikisource.org/wiki/管子/第11篇宙合",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "毋起大眾",
+    "title": "毋起大眾",
+    "summary": "孟春、季夏之月，禁起大眾，以妨農事、搖養氣。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -123077,6 +126157,27 @@
         "title": "周易 · 比",
         "url": "https://zh.wikisource.org/wiki/周易/比",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "比周以相為慝",
+    "title": "比周以相為慝",
+    "summary": "比周相為慝，則忘主死黨以進其譽",
+    "tags": [
+      "朋黨",
+      "姦臣",
+      "明法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
       }
     ]
   },
@@ -124130,6 +127231,24 @@
         "title": "國語 · 卷01",
         "url": "https://zh.wikisource.org/wiki/國語/卷01",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "水始冰",
+    "title": "水始冰",
+    "summary": "孟冬之月，水始冰，地始凍，雉入大水為蜃，虹藏不見。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -127074,6 +130193,8 @@
       "法度",
       "度量",
       "法治",
+      "禁姦",
+      "明法",
       "部:子",
       "部:子/法家類"
     ],
@@ -127083,6 +130204,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第46篇明法",
         "url": "https://zh.wikisource.org/wiki/管子/第46篇明法",
+        "work": "管子"
+      },
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
         "work": "管子"
       }
     ]
@@ -130843,6 +133971,27 @@
         "title": "春秋穀梁傳 · 宣公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/宣公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "滅塞侵壅",
+    "title": "滅塞侵壅",
+    "summary": "滅塞侵壅皆生於法之不立",
+    "tags": [
+      "明法",
+      "治亂",
+      "法治",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
       }
     ]
   },
@@ -135101,6 +138250,25 @@
     ]
   },
   {
+    "slug": "無求於民",
+    "title": "無求於民",
+    "summary": "聖人之政，不以號令苛擾於民。",
+    "tags": [
+      "治道",
+      "無為",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第69篇乘馬數",
+        "plugin": "wikisource",
+        "title": "管子 · 第69篇乘馬數",
+        "url": "https://zh.wikisource.org/wiki/管子/第69篇乘馬數",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "無為之治",
     "title": "無為之治",
     "summary": "聖人正己而後行，不以法度拘民也。",
@@ -136275,7 +139443,9 @@
       "射禮",
       "燕禮",
       "鄉飲酒禮",
-      "教化"
+      "教化",
+      "部:經",
+      "部:經/禮類"
     ],
     "sources": [
       {
@@ -136947,6 +140117,13 @@
         "title": "詩經 · 蓼莪",
         "url": "https://zh.wikisource.org/wiki/詩經/蓼莪",
         "work": "詩經"
+      },
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -137182,6 +140359,28 @@
         "title": "史記 · 卷067",
         "url": "https://zh.wikisource.org/wiki/史記/卷067",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "版法",
+    "title": "版法",
+    "summary": "法天象時，以治天下之術。",
+    "tags": [
+      "管子",
+      "治國",
+      "法家",
+      "陰陽",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
+        "work": "管子"
       }
     ]
   },
@@ -137464,6 +140663,24 @@
     ]
   },
   {
+    "slug": "物勒工名",
+    "title": "物勒工名",
+    "summary": "百工造作器械，皆刻工匠之名於其上，以考其誠功。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "物各有所偏",
     "title": "物各有所偏",
     "summary": "謂萬物各有稟賦之偏，不能兼擅眾長，聖人用之當因其材而任之。",
@@ -137725,6 +140942,24 @@
         "title": "抱朴子 · 卷16",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "特豚饋",
+    "title": "特豚饋",
+    "summary": "舅姑入室，婦以特豚饋之，以明婦順。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -139683,6 +142918,27 @@
     ]
   },
   {
+    "slug": "王者不奪民時",
+    "title": "王者不奪民時",
+    "summary": "不侵農時則五穀興，五穀興則國治",
+    "tags": [
+      "治國",
+      "農時",
+      "王道",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第68篇巨乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第68篇巨乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第68篇巨乘馬",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "王者之人",
     "title": "王者之人",
     "summary": "王者之人，飾動以禮義，聽斷以類，明振毫末，舉措應變而不窮。",
@@ -140094,6 +143350,28 @@
         "title": "國語 · 卷04",
         "url": "https://zh.wikisource.org/wiki/國語/卷04",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "班馬政",
+    "title": "班馬政",
+    "summary": "季秋之月，大合樂、班馬政，田獵以習五戎。",
+    "tags": [
+      "月令",
+      "季秋",
+      "田獵",
+      "馬政",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -142597,6 +145875,27 @@
     ]
   },
   {
+    "slug": "男先於女",
+    "title": "男先於女",
+    "summary": "昏禮之道，男先於女，婿執雁以迎，敬受之於父母。",
+    "tags": [
+      "昏禮",
+      "婚姻原則",
+      "陰陽",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "男女之別",
     "title": "男女之別",
     "summary": "男女異居，內外有分，不相雜處",
@@ -143826,6 +147125,24 @@
     ]
   },
   {
+    "slug": "發倉廩",
+    "title": "發倉廩",
+    "summary": "季春之月，天子布德行惠，命有司發倉廩，賜貧窮，振乏絕。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "發啟",
     "title": "發啟",
     "summary": "聖人見微知著，聖人將動必有愚色，以陰陽之和取天下。",
@@ -144826,6 +148143,27 @@
     ]
   },
   {
+    "slug": "百官論職",
+    "title": "百官論職",
+    "summary": "百官奉法，非由君惠，賞罰必也",
+    "tags": [
+      "賞罰",
+      "百官",
+      "法治",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "百家之言不必悉減",
     "title": "百家之言不必悉減",
     "summary": "百家之言步起皆出碩儒成才士之手，不必悉減於古人。",
@@ -144896,6 +148234,27 @@
         "title": "列子 · 楊朱篇",
         "url": "https://zh.wikisource.org/wiki/列子/楊朱篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "百慮其家不一圖國",
+    "title": "百慮其家不一圖國",
+    "summary": "百慮其家不一圖國者，尸位素餐之臣",
+    "tags": [
+      "明法",
+      "臣道",
+      "失職",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
       }
     ]
   },
@@ -146309,6 +149668,29 @@
     ]
   },
   {
+    "slug": "直躬之信",
+    "title": "直躬之信",
+    "summary": "直躬以父竊羊而告之，孔子譏其借父名以取聲，而非真信。",
+    "tags": [
+      "信",
+      "孝",
+      "直躬",
+      "孔子",
+      "楚",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十一",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十一",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十一",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "直道",
     "title": "直道",
     "summary": "蒙恬所築，自九原至甘泉，塹山堙谷，千八百里，道未就。",
@@ -146395,6 +149777,25 @@
         "title": "史記 · 卷053",
         "url": "https://zh.wikisource.org/wiki/史記/卷053",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "相壤定籍而民不移",
+    "title": "相壤定籍而民不移",
+    "summary": "辨地之上下以定賦稅，民乃安居不徙。",
+    "tags": [
+      "土地",
+      "賦稅",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第69篇乘馬數",
+        "plugin": "wikisource",
+        "title": "管子 · 第69篇乘馬數",
+        "url": "https://zh.wikisource.org/wiki/管子/第69篇乘馬數",
+        "work": "管子"
       }
     ]
   },
@@ -148793,6 +152194,70 @@
     ]
   },
   {
+    "slug": "祈穀",
+    "title": "祈穀",
+    "summary": "天子於孟春元日祈穀於上帝，躬耕帝藉以勸農事。",
+    "tags": [
+      "月令",
+      "孟春",
+      "祈穀",
+      "躬耕",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祖廟既毀教於宗室",
+    "title": "祖廟既毀，教於宗室",
+    "summary": "祖廟既毀，女子則教於宗室，以成婦德、婦言、婦容、婦功。",
+    "tags": [
+      "女教",
+      "宗室",
+      "昏禮",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祖廟未毀教於公宮",
+    "title": "祖廟未毀，教於公宮",
+    "summary": "古者女子先嫁三月，祖廟未毀則教於公宮，以成婦順。",
+    "tags": [
+      "女教",
+      "公宮",
+      "昏禮",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "祖武",
     "title": "繩其祖武",
     "summary": "循行先人之跡，繼承先祖之志。",
@@ -148849,6 +152314,29 @@
         "title": "晏子春秋 · 卷三",
         "url": "https://zh.wikisource.org/wiki/晏子春秋/卷三",
         "work": "晏子春秋"
+      }
+    ]
+  },
+  {
+    "slug": "祝融作市",
+    "title": "祝融作市",
+    "summary": "火正祝融始造市集，以通天下之貨",
+    "tags": [
+      "發明",
+      "祝融",
+      "市集",
+      "呂氏春秋",
+      "勿躬",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十七",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十七",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十七",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -149290,6 +152778,29 @@
     ]
   },
   {
+    "slug": "祠于高禖",
+    "title": "祠于高禖",
+    "summary": "仲春之月，玄鳥至，天子以太牢祠於高禖，以求子嗣。",
+    "tags": [
+      "月令",
+      "仲春",
+      "高禖",
+      "祭祀",
+      "求子",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "祠官常奉",
     "title": "祠官常奉天地名山大川",
     "summary": "記秦并天下後祠官所常奉之名山大川及鬼神，雍州之域祠祀最盛。",
@@ -149584,6 +153095,50 @@
         "plugin": "wikisource",
         "title": "禮記 · 祭法",
         "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祭牲之別",
+    "title": "祭牲之別",
+    "summary": "祭祀所用之牲，天子、諸侯、大夫、士各有所宜。",
+    "tags": [
+      "祭祀",
+      "禮儀",
+      "牲牢",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祭牲尚色",
+    "title": "祭牲尚色",
+    "summary": "四代祭祀所用犧牲及酒醴，各有所尚。",
+    "tags": [
+      "祭祀",
+      "犧牲",
+      "四代",
+      "尚色",
+      "酒醴",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
         "work": "禮記"
       }
     ]
@@ -150563,6 +154118,27 @@
         "title": "史記 · 卷023",
         "url": "https://zh.wikisource.org/wiki/史記/卷023",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "禮始於冠本於昏",
+    "title": "禮始於冠，本於昏",
+    "summary": "禮之大體，始於冠禮、本於昏禮，重於喪祭，尊於朝聘，和於鄉射。",
+    "tags": [
+      "禮義",
+      "冠昏",
+      "根本",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -151600,6 +155176,27 @@
         "plugin": "wikisource",
         "title": "管子 · 第45篇任法",
         "url": "https://zh.wikisource.org/wiki/管子/第45篇任法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "私議自貴之說勝",
+    "title": "私議自貴之說勝",
+    "summary": "尚私議自貴則民退靜隱伏，令不行而禁不止。",
+    "tags": [
+      "私議",
+      "令制",
+      "政令",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第65篇立政九敗解",
+        "plugin": "wikisource",
+        "title": "管子 · 第65篇立政九敗解",
+        "url": "https://zh.wikisource.org/wiki/管子/第65篇立政九敗解",
         "work": "管子"
       }
     ]
@@ -153033,6 +156630,25 @@
     ]
   },
   {
+    "slug": "穀重而萬物輕",
+    "title": "穀重而萬物輕",
+    "summary": "穀價貴則百物賤，穀價賤則百物貴。",
+    "tags": [
+      "物價",
+      "穀粟",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第69篇乘馬數",
+        "plugin": "wikisource",
+        "title": "管子 · 第69篇乘馬數",
+        "url": "https://zh.wikisource.org/wiki/管子/第69篇乘馬數",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "穀陽豉愛子反之勞而獻飲焉以斃於鄢",
     "title": "穀陽豉愛子反之勞而獻飲焉以斃於鄢",
     "summary": "",
@@ -153895,6 +157511,27 @@
     ]
   },
   {
+    "slug": "立政九敗解",
+    "title": "立政九敗解",
+    "summary": "列國君當戒九事，犯之則城郭毀、法制亡、賢不用、姦人柄國。",
+    "tags": [
+      "立政",
+      "管子",
+      "亡國之道",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第65篇立政九敗解",
+        "plugin": "wikisource",
+        "title": "管子 · 第65篇立政九敗解",
+        "url": "https://zh.wikisource.org/wiki/管子/第65篇立政九敗解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "立本",
     "title": "立本",
     "summary": "立本者，先錯法以成俗，成俗而用具，三者必行於境內，而後兵可出。",
@@ -154401,6 +158038,27 @@
         "title": "詩經 · 采蘋",
         "url": "https://zh.wikisource.org/wiki/詩經/采蘋",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "筴乘馬",
+    "title": "筴乘馬",
+    "summary": "以穀與幣相準，國器皆資而不籍於民",
+    "tags": [
+      "經濟",
+      "輕重",
+      "國計",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第68篇巨乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第68篇巨乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第68篇巨乘馬",
+        "work": "管子"
       }
     ]
   },
@@ -155613,6 +159271,25 @@
     ]
   },
   {
+    "slug": "粟十而守五",
+    "title": "粟十而守五",
+    "summary": "存粮當存十分之五，足以守國。",
+    "tags": [
+      "理財",
+      "積蓄",
+      "守備"
+    ],
+    "sources": [
+      {
+        "chapter": "第71篇事語",
+        "plugin": "wikisource",
+        "title": "管子 · 第71篇事語",
+        "url": "https://zh.wikisource.org/wiki/管子/第71篇事語",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "粟土",
     "title": "粟土",
     "summary": "五粟之土為羣土之長，乾濕得中，無高下，葆澤以處，宜百物。",
@@ -155704,6 +159381,9 @@
       "農業",
       "民本",
       "理財",
+      "農本",
+      "國用",
+      "蓄積",
       "部:子",
       "部:子/法家類"
     ],
@@ -155720,6 +159400,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第53篇禁藏",
         "url": "https://zh.wikisource.org/wiki/管子/第53篇禁藏",
+        "work": "管子"
+      },
+      {
+        "chapter": "第68篇巨乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第68篇巨乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第68篇巨乘馬",
         "work": "管子"
       }
     ]
@@ -156102,6 +159789,29 @@
     ]
   },
   {
+    "slug": "紂之同母三人",
+    "title": "紂之同母三人",
+    "summary": "太史據法力爭，以妾子不可置妻子，終使紂嗣位，法縛賢路。",
+    "tags": [
+      "紂",
+      "微子啟",
+      "法",
+      "立嗣",
+      "殷",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十一",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十一",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十一",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "紂為象箸",
     "title": "紂為象箸",
     "summary": "紂王造象牙箸，箕子因而悲歎，言由微至著，國必漸亡。",
@@ -156327,6 +160037,50 @@
         "title": "春秋穀梁傳 · 宣公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/宣公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "納夷蠻之樂",
+    "title": "納夷蠻之樂",
+    "summary": "納夷蠻之樂於大廟，以廣魯於天下。",
+    "tags": [
+      "音樂",
+      "夷狄",
+      "禮樂",
+      "魯國",
+      "天下",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "納女",
+    "title": "納女",
+    "summary": "納女之禮，尊卑有差，各有名數。",
+    "tags": [
+      "昏禮",
+      "宮禁",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
+        "work": "禮記"
       }
     ]
   },
@@ -156762,6 +160516,27 @@
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "終之以仁",
+    "title": "終之以仁",
+    "summary": "天子視學以仁終之。",
+    "tags": [
+      "視學",
+      "仁",
+      "禮制",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
       }
     ]
   },
@@ -159104,6 +162879,27 @@
         "title": "詩經 · 雲漢",
         "url": "https://zh.wikisource.org/wiki/詩經/雲漢",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "羣徒比周之說勝",
+    "title": "羣徒比周之說勝",
+    "summary": "尚比周則朋黨蔽美，賢不肖不分，爭奪之亂起。",
+    "tags": [
+      "朋黨",
+      "比周",
+      "賢否",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第65篇立政九敗解",
+        "plugin": "wikisource",
+        "title": "管子 · 第65篇立政九敗解",
+        "url": "https://zh.wikisource.org/wiki/管子/第65篇立政九敗解",
+        "work": "管子"
       }
     ]
   },
@@ -162226,6 +166022,34 @@
         "title": "春秋穀梁傳 · 隱公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/隱公",
         "work": "春秋穀梁傳"
+      },
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "聘問會誓盟",
+    "title": "聘問會誓盟",
+    "summary": "諸侯外交，有遇、會、聘、誓、盟五等之別。",
+    "tags": [
+      "外交",
+      "諸侯",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
+        "work": "禮記"
       }
     ]
   },
@@ -162980,6 +166804,27 @@
     ]
   },
   {
+    "slug": "聽言不可不察",
+    "title": "聽言不可不察",
+    "summary": "聽言必慎，否則善惡不分，亂莫大焉。",
+    "tags": [
+      "聽言",
+      "治道",
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十三",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十三",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十三",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "聽言之道溶若甚醉",
     "title": "聽言之道",
     "summary": "聽言之道，宜若甚醉，靜觀其變",
@@ -163643,6 +167488,27 @@
         "title": "詩經 · 緜",
         "url": "https://zh.wikisource.org/wiki/詩經/緜",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "能不可蔽而敗不可飾",
+    "title": "能不可蔽而敗不可飾",
+    "summary": "能者見功而舉，敗者見過而廢",
+    "tags": [
+      "明法",
+      "任賢",
+      "賞罰",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
       }
     ]
   },
@@ -164357,6 +168223,27 @@
     ]
   },
   {
+    "slug": "臣事君",
+    "title": "臣事君",
+    "summary": "臣之事君，不顯諫，三諫不聽則逃。",
+    "tags": [
+      "君臣",
+      "進諫",
+      "禮儀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "曲禮下",
+        "plugin": "wikisource",
+        "title": "禮記 · 曲禮下",
+        "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "臣事君子事父妻事夫",
     "title": "臣事君，子事父，妻事夫",
     "summary": "臣、子、妻各盡其分，天下治；逆之，天下亂。",
@@ -164575,6 +168462,27 @@
         "title": "韓非子 · 難一",
         "url": "https://zh.wikisource.org/wiki/韓非子/難一",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "臣術勝",
+    "title": "臣術勝",
+    "summary": "亂國之徵，在臣下侵權",
+    "tags": [
+      "治國",
+      "亂國",
+      "臣道",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
       }
     ]
   },
@@ -166236,6 +170144,27 @@
         "plugin": "wikisource",
         "title": "禮記 · 內則",
         "url": "https://zh.wikisource.org/wiki/禮記/內則",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "舅姑入室",
+    "title": "舅姑入室，婦以特豚饋",
+    "summary": "舅姑入室，婦以特豚饋之，是為明婦順也。",
+    "tags": [
+      "昏禮",
+      "舅姑",
+      "饋食",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
         "work": "禮記"
       }
     ]
@@ -170802,6 +174731,24 @@
     ]
   },
   {
+    "slug": "著代",
+    "title": "著代",
+    "summary": "昏禮成後，舅姑降自西階，婦降自阼階，以著代終事舅姑之義。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "葛屨",
     "title": "葛屨",
     "summary": "魏地刺詩，怨縫裳女子之勞而遭貴人慢也。",
@@ -175141,6 +179088,27 @@
     ]
   },
   {
+    "slug": "行一物而三善皆得",
+    "title": "行一物而三善皆得",
+    "summary": "世子齒學一事，而父子、君臣、長幼之道皆得。",
+    "tags": [
+      "世子",
+      "齒學",
+      "禮義",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "行不貴苟難說不貴苟察名不貴苟傳",
     "title": "行不貴苟難說不貴苟察名不貴苟傳",
     "summary": "君子之行、說、名，唯貴其當，不貴其苟。",
@@ -175488,6 +179456,24 @@
         "title": "管子 · 勢",
         "url": "https://zh.wikisource.org/wiki/管子/勢",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "行慶施惠",
+    "title": "行慶施惠",
+    "summary": "孟春之月，命相布德和令，行慶施惠，下及兆民。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -176993,6 +180979,24 @@
         "title": "管子 · 勢",
         "url": "https://zh.wikisource.org/wiki/管子/勢",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "補城郭",
+    "title": "補城郭",
+    "summary": "孟秋之月，命百官收斂，修宮室，完隄防，補城郭。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -179082,6 +183086,27 @@
         "title": "周易 · 頤",
         "url": "https://zh.wikisource.org/wiki/周易/頤",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "觀樂玩好之說勝",
+    "title": "觀樂玩好之說勝",
+    "summary": "溺觀樂則府倉虛竭，姦人在上位，國危。",
+    "tags": [
+      "觀樂",
+      "佚樂",
+      "姦邪",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第65篇立政九敗解",
+        "plugin": "wikisource",
+        "title": "管子 · 第65篇立政九敗解",
+        "url": "https://zh.wikisource.org/wiki/管子/第65篇立政九敗解",
+        "work": "管子"
       }
     ]
   },
@@ -182428,6 +186453,27 @@
     ]
   },
   {
+    "slug": "諂讒飾過之說勝",
+    "title": "諂讒飾過之說勝",
+    "summary": "尚飾過則主惑不知，謀臣死而諂臣尊。",
+    "tags": [
+      "諂諛",
+      "飾過",
+      "君德",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第65篇立政九敗解",
+        "plugin": "wikisource",
+        "title": "管子 · 第65篇立政九敗解",
+        "url": "https://zh.wikisource.org/wiki/管子/第65篇立政九敗解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "請成相",
     "title": "請成相",
     "summary": "三章之起語，亦結構全篇之綱。",
@@ -182470,6 +186516,27 @@
         "title": "春秋穀梁傳 · 定公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/定公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "請謁任譽之說勝",
+    "title": "請謁任譽之說勝",
+    "summary": "尚請謁則朋黨成於鄉，法制毀而無爵者貴、無祿者富。",
+    "tags": [
+      "請謁",
+      "任譽",
+      "法制",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第65篇立政九敗解",
+        "plugin": "wikisource",
+        "title": "管子 · 第65篇立政九敗解",
+        "url": "https://zh.wikisource.org/wiki/管子/第65篇立政九敗解",
+        "work": "管子"
       }
     ]
   },
@@ -183004,6 +187071,27 @@
         "title": "韓非子 · 說難",
         "url": "https://zh.wikisource.org/wiki/韓非子/說難",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "譽者不能進而誹者不能退",
+    "title": "譽者不能進而誹者不能退",
+    "summary": "譽者不妄進，誹者不妄退，皆依法賞罰",
+    "tags": [
+      "賞罰",
+      "明法",
+      "任賢",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第67篇明法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第67篇明法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
+        "work": "管子"
       }
     ]
   },
@@ -185861,6 +189949,24 @@
     ]
   },
   {
+    "slug": "賞軍帥武人",
+    "title": "賞軍帥武人",
+    "summary": "孟秋迎秋還反，天子賞軍帥、武人於朝。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "賢人之政降人以體",
     "title": "賢人之政降人以體",
     "summary": "賢人之政以體降人，聖人之政以心降人；體降可以圖始，心降可以保終。",
@@ -186365,6 +190471,28 @@
     ]
   },
   {
+    "slug": "賤有以亡卑",
+    "title": "賤有以亡卑",
+    "summary": "賢主致利除害，則賤者雖勞苦卑辱而樂為之用。",
+    "tags": [
+      "管子",
+      "形勢解",
+      "君民",
+      "治道",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第64篇形勢解",
+        "plugin": "wikisource",
+        "title": "管子 · 第64篇形勢解",
+        "url": "https://zh.wikisource.org/wiki/管子/第64篇形勢解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "質信極忠嚴以有禮",
     "title": "質信極忠嚴以有禮",
     "summary": "信則民信之，忠則民懷之，嚴則民畏之，禮則民美之。",
@@ -186423,6 +190551,45 @@
         "title": "呂氏春秋 · 卷二十四",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十四",
         "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "贊見婦於舅姑",
+    "title": "贊見婦於舅姑",
+    "summary": "昏明日，贊者引新婦見舅姑，成婦順之禮。",
+    "tags": [
+      "昏禮",
+      "舅姑",
+      "成婦",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "贊醴婦",
+    "title": "贊醴婦",
+    "summary": "昏禮既見舅姑，贊者醴婦，婦祭脯醢以成禮。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
       }
     ]
   },
@@ -186963,6 +191130,27 @@
         "title": "抱朴子 · 卷01",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷01",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "起一人之繇百畝不舉",
+    "title": "起一人之繇百畝不舉",
+    "summary": "搖役繁興則耕作廢弛，國本以搖",
+    "tags": [
+      "搖役",
+      "農事",
+      "國本",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第68篇巨乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第68篇巨乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第68篇巨乘馬",
+        "work": "管子"
       }
     ]
   },
@@ -188621,6 +192809,27 @@
     ]
   },
   {
+    "slug": "車之轡",
+    "title": "車之轡",
+    "summary": "人主治國，如御者執轡，正名審分，乃治之轡也",
+    "tags": [
+      "治國",
+      "君道",
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十七",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十七",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十七",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "車同軌書同文",
     "title": "車同軌書同文",
     "summary": "秦始皇并天下，定一法度，車同軌，書同文字。",
@@ -188688,6 +192897,29 @@
         "title": "史記 · 卷062",
         "url": "https://zh.wikisource.org/wiki/史記/卷062",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "車旂之制",
+    "title": "車旂之制",
+    "summary": "四代車路旌旗各有定制，以別尊卑。",
+    "tags": [
+      "車制",
+      "旌旗",
+      "四代",
+      "禮器",
+      "尊卑",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "明堂位",
+        "plugin": "wikisource",
+        "title": "禮記 · 明堂位",
+        "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
+        "work": "禮記"
       }
     ]
   },
@@ -190559,6 +194791,29 @@
     ]
   },
   {
+    "slug": "迎冬",
+    "title": "迎冬",
+    "summary": "立冬之日，天子帥百官迎冬於北郊，還反賞死事恤孤寡。",
+    "tags": [
+      "月令",
+      "孟冬",
+      "立冬",
+      "迎氣",
+      "恤孤",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "迎敵祠",
     "title": "迎敵祠",
     "summary": "墨子所述之城防祭儀，以敵來方向設壇祭神，藉望氣之術察敵軍虛實。",
@@ -190619,6 +194874,10 @@
       "天子",
       "東郊",
       "孟春",
+      "月令",
+      "立春",
+      "迎氣",
+      "郊祀",
       "部:經",
       "部:經/禮類"
     ],
@@ -190690,6 +194949,29 @@
         "title": "史記 · 卷023",
         "url": "https://zh.wikisource.org/wiki/史記/卷023",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "迎秋",
+    "title": "迎秋",
+    "summary": "立秋之日，天子帥百官迎氣於西郊，行賞軍帥武人。",
+    "tags": [
+      "月令",
+      "孟秋",
+      "立秋",
+      "迎氣",
+      "郊祀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -197413,6 +201695,27 @@
     ]
   },
   {
+    "slug": "金玉貨財之說勝",
+    "title": "金玉貨財之說勝",
+    "summary": "崇貨財則不肖者在位，賢者不為下、智者不為謀。",
+    "tags": [
+      "貨財",
+      "任賢",
+      "姦佞",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第65篇立政九敗解",
+        "plugin": "wikisource",
+        "title": "管子 · 第65篇立政九敗解",
+        "url": "https://zh.wikisource.org/wiki/管子/第65篇立政九敗解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "金粟",
     "title": "金粟",
     "summary": "黃金與粟米，國之虛實所係",
@@ -198291,6 +202594,28 @@
         "title": "楚辭 · 九章",
         "url": "https://zh.wikisource.org/wiki/楚辭/九章",
         "work": "楚辭"
+      }
+    ]
+  },
+  {
+    "slug": "閉禍在除怨",
+    "title": "閉禍在除怨",
+    "summary": "除去怨咎之根，禍亂無由生。",
+    "tags": [
+      "管子",
+      "治國",
+      "去怨",
+      "免禍",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第66篇版法解",
+        "plugin": "wikisource",
+        "title": "管子 · 第66篇版法解",
+        "url": "https://zh.wikisource.org/wiki/管子/第66篇版法解",
+        "work": "管子"
       }
     ]
   },
@@ -203507,6 +207832,25 @@
     ]
   },
   {
+    "slug": "非數",
+    "title": "此定壤之數非至數",
+    "summary": "秦奢節儉之論，乃廣土大國之術，非小國危隘所宜用。",
+    "tags": [
+      "治道",
+      "治法",
+      "權宜"
+    ],
+    "sources": [
+      {
+        "chapter": "第71篇事語",
+        "plugin": "wikisource",
+        "title": "管子 · 第71篇事語",
+        "url": "https://zh.wikisource.org/wiki/管子/第71篇事語",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "非時不出非禮不動",
     "title": "非時不出，非禮不動",
     "summary": "君子守時待命，不合於禮義者則不出仕。",
@@ -204931,6 +209275,27 @@
     ]
   },
   {
+    "slug": "順於舅姑和於室人",
+    "title": "順於舅姑，和於室人",
+    "summary": "婦順之義，在於順舅姑、和室人，而後當於夫，以成絲麻布帛之事。",
+    "tags": [
+      "婦順",
+      "舅姑",
+      "室人",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "昏義",
+        "plugin": "wikisource",
+        "title": "禮記 · 昏義",
+        "url": "https://zh.wikisource.org/wiki/禮記/昏義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "須賈說穰侯",
     "title": "須賈說穰侯",
     "summary": "魏大夫說穰侯勿圍大梁，引衛趙之鑒，陳天幸不可恃之理，穰侯善之罷圍。",
@@ -205287,6 +209652,27 @@
         "plugin": "wikisource",
         "title": "呂氏春秋 · 卷二十五",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十五",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "類固相召",
+    "title": "類固相召",
+    "summary": "物之同類者，氣相感而應。",
+    "tags": [
+      "感應",
+      "天人",
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十三",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十三",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十三",
         "work": "呂氏春秋"
       }
     ]
@@ -205786,6 +210172,28 @@
     ]
   },
   {
+    "slug": "風雨無鄉而怨怒不及",
+    "title": "風雨無鄉而怨怒不及",
+    "summary": "風雨至公無私，不避貴賤美惡，故民遇之而無怨。",
+    "tags": [
+      "管子",
+      "形勢解",
+      "公道",
+      "風雨",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第64篇形勢解",
+        "plugin": "wikisource",
+        "title": "管子 · 第64篇形勢解",
+        "url": "https://zh.wikisource.org/wiki/管子/第64篇形勢解",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "風雷益",
     "title": "風雷益",
     "summary": "風雷相助，其象相益；君子法之，見善則遷、有過則改。",
@@ -206138,6 +210546,24 @@
     ]
   },
   {
+    "slug": "飭死事",
+    "title": "飭死事",
+    "summary": "仲冬之月，命有司飭死事，禁土事發蓋起大眾。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "飭鍾磬柷敔",
     "title": "飭鍾磬柷敔",
     "summary": "整備祭樂之器，以祈民福。",
@@ -206145,6 +210571,9 @@
       "樂器",
       "祭器",
       "整備",
+      "月令",
+      "仲夏",
+      "音樂",
       "部:子",
       "部:子/雜家類"
     ],
@@ -206155,6 +210584,13 @@
         "title": "呂氏春秋 · 卷五",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷五",
         "work": "呂氏春秋"
+      },
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -206327,6 +210763,28 @@
         "title": "管子 · 第52篇七主七臣",
         "url": "https://zh.wikisource.org/wiki/管子/第52篇七主七臣",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "養世子不可不慎",
+    "title": "養世子不可不慎",
+    "summary": "世子兼有父親君尊，故養之不可不慎。",
+    "tags": [
+      "世子",
+      "教育",
+      "父子",
+      "君臣",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "文王世子",
+        "plugin": "wikisource",
+        "title": "禮記 · 文王世子",
+        "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
+        "work": "禮記"
       }
     ]
   },
@@ -206571,6 +211029,28 @@
         "title": "莊子 · 人間世",
         "url": "https://zh.wikisource.org/wiki/莊子/人間世",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "養衰老",
+    "title": "養衰老",
+    "summary": "仲秋之月，養衰老，授几杖，行糜粥飲食。",
+    "tags": [
+      "月令",
+      "仲秋",
+      "養老",
+      "仁政",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
@@ -209195,6 +213675,7 @@
       "禮器",
       "樂器",
       "官制",
+      "有道",
       "部:經",
       "部:經/禮類"
     ],
@@ -210692,6 +215173,24 @@
         "title": "莊子 · 逍遙遊",
         "url": "https://zh.wikisource.org/wiki/莊子/逍遙遊",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "鷹乃祭鳥",
+    "title": "鷹乃祭鳥",
+    "summary": "孟秋之月，涼風至，白露降，寒蟬鳴，鷹乃祭鳥，用始行戮。",
+    "tags": [
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "月令",
+        "plugin": "wikisource",
+        "title": "禮記 · 月令",
+        "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
       }
     ]
   },
