@@ -536,6 +536,26 @@
     ]
   },
   {
+    "slug": "一舉上下得終",
+    "title": "一舉上下得終",
+    "summary": "政令一出，上行下效，終始一貫，霸王之基。",
+    "tags": [
+      "治道",
+      "政令",
+      "霸王",
+      "上下"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "一葦杭之",
     "title": "一葦杭之",
     "summary": "區區一葦，可越大川；喻事之難者，以微力可成。",
@@ -992,7 +1012,9 @@
     "tags": [
       "治國",
       "教化",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -1477,6 +1499,28 @@
         "title": "國語 · 卷15",
         "url": "https://zh.wikisource.org/wiki/國語/卷15",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "三子同日封侯",
+    "title": "三子同日封侯",
+    "summary": "衞青三子伉、不疑、登同日受封，人以為榮。",
+    "tags": [
+      "衞青",
+      "封侯",
+      "衞伉",
+      "衞不疑",
+      "衞登",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
       }
     ]
   },
@@ -2131,6 +2175,25 @@
     ]
   },
   {
+    "slug": "三經既飭",
+    "title": "三經既飭",
+    "summary": "治國有三綱，綱舉目張，三者既理，君主乃有國。",
+    "tags": [
+      "治國",
+      "政要",
+      "綱紀"
+    ],
+    "sources": [
+      {
+        "chapter": "第07篇版法",
+        "plugin": "wikisource",
+        "title": "管子 · 第07篇版法",
+        "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "三聖王",
     "title": "三聖王",
     "summary": "",
@@ -2551,7 +2614,9 @@
     "tags": [
       "典籍",
       "尹文子",
-      "篇章"
+      "篇章",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -4063,7 +4128,11 @@
       "料敵",
       "戰機",
       "部:子",
-      "部:子/兵家類"
+      "部:子/兵家類",
+      "兵法",
+      "義兵",
+      "征伐",
+      "卜筮"
     ],
     "sources": [
       {
@@ -4079,6 +4148,13 @@
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
         "work": "史記"
+      },
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
       }
     ]
   },
@@ -6930,6 +7006,26 @@
     ]
   },
   {
+    "slug": "中原鹿走",
+    "title": "中原鹿走",
+    "summary": "秦失其鹿，天下共逐之，比諸侯並起而莫能制。",
+    "tags": [
+      "史記",
+      "南越",
+      "典故",
+      "秦末"
+    ],
+    "sources": [
+      {
+        "chapter": "卷113",
+        "plugin": "wikisource",
+        "title": "史記 · 卷113",
+        "url": "https://zh.wikisource.org/wiki/史記/卷113",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "中吉",
     "title": "中吉",
     "summary": "守中而止乃獲吉祥",
@@ -7445,7 +7541,8 @@
       "匈奴",
       "中行說",
       "疏記",
-      "記法"
+      "記法",
+      "部:其他"
     ],
     "sources": [
       {
@@ -7461,7 +7558,9 @@
     "slug": "中行說教疏記",
     "title": "中行說教疏記",
     "summary": "中行說令單于以尺二寸牘遺漢，辭稱天地所生日月所置，傲慢其辭。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷110",
@@ -7480,7 +7579,8 @@
       "匈奴",
       "中行說",
       "和親",
-      "老上單于"
+      "老上單于",
+      "部:子"
     ],
     "sources": [
       {
@@ -7496,7 +7596,9 @@
     "slug": "中行說難漢使",
     "title": "中行說難漢使",
     "summary": "中行說教單于候利害，與漢使詰辯，務在詰折漢物。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷110",
@@ -8313,8 +8415,6 @@
       "易象",
       "屯卦",
       "行事",
-      "部:經",
-      "部:經/易類",
       "治國",
       "行政",
       "地理",
@@ -8323,7 +8423,9 @@
       "水利",
       "賦稅",
       "農業",
-      "四民"
+      "四民",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -8533,7 +8635,9 @@
     "tags": [
       "治國",
       "警戒",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -8592,6 +8696,26 @@
         "title": "列子 · 說符篇",
         "url": "https://zh.wikisource.org/wiki/列子/說符篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "九會",
+    "title": "九會",
+    "summary": "諸侯九會而有常，大命出焉，以定邦交之節。",
+    "tags": [
+      "外交",
+      "諸侯",
+      "邦交",
+      "會盟"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
       }
     ]
   },
@@ -10096,6 +10220,23 @@
     ]
   },
   {
+    "slug": "五屬國",
+    "title": "五屬國",
+    "summary": "分徙降者邊五郡故塞外，因其故俗，置屬國。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "五嶽入山之忌",
     "title": "五嶽入山之忌",
     "summary": "述五嶽各有受殃之歲，犯其方則有咎。",
@@ -10798,6 +10939,25 @@
         "plugin": "wikisource",
         "title": "史記 · 卷025",
         "url": "https://zh.wikisource.org/wiki/史記/卷025",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "五鼎食",
+    "title": "五鼎食",
+    "summary": "主父偃自言大丈夫生享五鼎之食，死受五鼎之烹。借食器以喻榮辱，生死不渝其志也。",
+    "tags": [
+      "主父偃",
+      "成語",
+      "富貴"
+    ],
+    "sources": [
+      {
+        "chapter": "卷112",
+        "plugin": "wikisource",
+        "title": "史記 · 卷112",
+        "url": "https://zh.wikisource.org/wiki/史記/卷112",
         "work": "史記"
       }
     ]
@@ -11883,7 +12043,9 @@
     "tags": [
       "人情",
       "修身",
-      "尹文子"
+      "尹文子",
+      "部:子",
+      "部:子/儒家類"
     ],
     "sources": [
       {
@@ -13562,7 +13724,9 @@
       "令",
       "寶",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "命令",
+      "權威"
     ],
     "sources": [
       {
@@ -13577,6 +13741,13 @@
         "plugin": "wikisource",
         "title": "管子 · 四傷百匿",
         "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
+      },
+      {
+        "chapter": "第07篇版法",
+        "plugin": "wikisource",
+        "title": "管子 · 第07篇版法",
+        "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
         "work": "管子"
       }
     ]
@@ -14911,7 +15082,8 @@
     "tags": [
       "法制",
       "治國",
-      "法治"
+      "法治",
+      "部:其他"
     ],
     "sources": [
       {
@@ -20397,6 +20569,25 @@
     ]
   },
   {
+    "slug": "倚革邪化",
+    "title": "倚革邪化",
+    "summary": "變革之法行則邪惡皆化。",
+    "tags": [
+      "變法",
+      "教化",
+      "去邪"
+    ],
+    "sources": [
+      {
+        "chapter": "第07篇版法",
+        "plugin": "wikisource",
+        "title": "管子 · 第07篇版法",
+        "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "借曰未知",
     "title": "借曰未知",
     "summary": "自諉不知，非不知也，實[[民之靡盈]]而不自知耳。",
@@ -23871,6 +24062,27 @@
     ]
   },
   {
+    "slug": "兩雄不俱立",
+    "title": "兩雄不俱立",
+    "summary": "陸賈以天道折趙佗，佗悟而去帝號，稱臣奉貢。",
+    "tags": [
+      "史記",
+      "南越",
+      "陸賈",
+      "趙佗",
+      "稱臣"
+    ],
+    "sources": [
+      {
+        "chapter": "卷113",
+        "plugin": "wikisource",
+        "title": "史記 · 卷113",
+        "url": "https://zh.wikisource.org/wiki/史記/卷113",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "兩驂不猗",
     "title": "兩驂不猗",
     "summary": "車馬行列整齊，馭者不失其馳道也。",
@@ -24093,7 +24305,9 @@
     "tags": [
       "治國",
       "名法",
-      "尹文子"
+      "尹文子",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -24710,6 +24924,23 @@
     ]
   },
   {
+    "slug": "公孫敖四為將軍",
+    "title": "公孫敖四為將軍",
+    "summary": "公孫敖四為將軍出擊匈奴，終以坐行留當斬，贖為庶人，後坐巫蠱族滅。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "公孫無知",
     "title": "公孫無知",
     "summary": "",
@@ -24770,6 +25001,23 @@
     ]
   },
   {
+    "slug": "公孫賀坐巫蠱族滅",
+    "title": "公孫賀坐巫蠱族滅",
+    "summary": "公孫賀為丞相，其子敬聲與陽石公主姦，為巫蠱，賀族滅無後。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "公孫龍",
     "title": "公孫龍",
     "summary": "公孫龍善堅白之辯，諫平原君勿受封，後為鄒衍所絀。",
@@ -24779,11 +25027,11 @@
       "虞卿",
       "鄒衍",
       "史記",
-      "部:史",
-      "部:史/正史類",
       "稷下",
       "師承",
-      "尹文子"
+      "尹文子",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -27201,7 +27449,9 @@
     "slug": "冒頓控弦三十萬",
     "title": "冒頓控弦三十萬",
     "summary": "冒頓自立後，控弦之士三十餘萬，南與中國為敵國。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷110",
@@ -27221,7 +27471,8 @@
       "冒頓",
       "東胡",
       "樓煩",
-      "白羊河南王"
+      "白羊河南王",
+      "部:其他"
     ],
     "sources": [
       {
@@ -27241,7 +27492,8 @@
       "匈奴",
       "冒頓",
       "單于",
-      "鳴鏑"
+      "鳴鏑",
+      "部:其他"
     ],
     "sources": [
       {
@@ -27257,7 +27509,9 @@
     "slug": "冒頓遺呂后書",
     "title": "冒頓遺呂后書",
     "summary": "冒頓遣書戲辱高后，高后欲擊之，諸將以平城之困止之。",
-    "tags": [],
+    "tags": [
+      "部:經"
+    ],
     "sources": [
       {
         "chapter": "卷110",
@@ -27302,6 +27556,23 @@
         "title": "禮記 · 郊特牲",
         "url": "https://zh.wikisource.org/wiki/禮記/郊特牲",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "冠軍侯",
+    "title": "冠軍侯",
+    "summary": "霍去病以驍勇冠軍，封冠軍侯，食邑千六百戶。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
       }
     ]
   },
@@ -27880,7 +28151,9 @@
     "tags": [
       "行政制度",
       "地方治理",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -28123,7 +28396,8 @@
       "戰國",
       "學派",
       "名實",
-      "法治"
+      "法治",
+      "部:其他"
     ],
     "sources": [
       {
@@ -29489,6 +29763,27 @@
         "title": "詩經 · 君子偕老",
         "url": "https://zh.wikisource.org/wiki/詩經/君子偕老",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "剽姚校尉",
+    "title": "剽姚校尉",
+    "summary": "霍去病年十八為剽姚校尉，率壯士棄大軍赴利，斬捕過當。",
+    "tags": [
+      "霍去病",
+      "剽姚校尉",
+      "驃騎將軍",
+      "冠軍侯",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
       }
     ]
   },
@@ -30920,7 +31215,9 @@
     "slug": "匈奴入關",
     "title": "匈奴入關",
     "summary": "匈奴右賢王數侵邊郡，漢遣將擊之，然匈奴日驕，歲入邊殺略不止。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷110",
@@ -30959,7 +31256,9 @@
     "slug": "匈奴好漢物之弊",
     "title": "匈奴好漢物之弊",
     "summary": "中行說言匈奴以衣食異而彊，若變俗好漢物則歸於漢。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷110",
@@ -30979,7 +31278,8 @@
       "官制",
       "單于",
       "左右賢王",
-      "二十四長"
+      "二十四長",
+      "部:其他"
     ],
     "sources": [
       {
@@ -30998,7 +31298,8 @@
     "tags": [
       "匈奴",
       "風俗",
-      "法制"
+      "法制",
+      "部:經"
     ],
     "sources": [
       {
@@ -31011,6 +31312,27 @@
     ]
   },
   {
+    "slug": "匈奴未滅無以家為",
+    "title": "匈奴未滅無以家為",
+    "summary": "霍去病以匈奴未滅，不以家為念，千古以為名句。",
+    "tags": [
+      "霍去病",
+      "匈奴",
+      "名言",
+      "報國",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "匈奴歲時",
     "title": "匈奴歲時",
     "summary": "匈奴歲正月會庭，五月祭蘢城，秋課校人畜。",
@@ -31018,7 +31340,8 @@
       "匈奴",
       "歲時",
       "祭祀",
-      "制度"
+      "制度",
+      "部:其他"
     ],
     "sources": [
       {
@@ -31034,7 +31357,9 @@
     "slug": "匈奴父子穹廬",
     "title": "匈奴父子穹廬",
     "summary": "中行說斥漢使，言匈奴父子同穹廬而臥，俗與漢異，約束輕易行。",
-    "tags": [],
+    "tags": [
+      "部:子"
+    ],
     "sources": [
       {
         "chapter": "卷110",
@@ -31049,7 +31374,9 @@
     "slug": "匈奴畜產",
     "title": "匈奴畜產",
     "summary": "匈奴畜馬牛羊，其奇畜有橐駝、驢、驘、駃騠、騊駼、騨騱。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷110",
@@ -31068,7 +31395,8 @@
       "匈奴",
       "戎狄",
       "夏后氏",
-      "歷史"
+      "歷史",
+      "部:史"
     ],
     "sources": [
       {
@@ -31994,6 +32322,26 @@
     ]
   },
   {
+    "slug": "十二小卯",
+    "title": "十二小卯",
+    "summary": "記時之節令，春祭之期也。",
+    "tags": [
+      "節令",
+      "時令",
+      "曆法",
+      "祭祀"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "十倫",
     "title": "十倫",
     "summary": "",
@@ -32706,6 +33054,27 @@
     ]
   },
   {
+    "slug": "南越亡國",
+    "title": "南越亡國",
+    "summary": "南越傳五世九十三歲，因呂嘉之亂，伏波、樓船二將並進，平其地為九郡。",
+    "tags": [
+      "史記",
+      "南越",
+      "伏波將軍",
+      "樓船將軍",
+      "亡國"
+    ],
+    "sources": [
+      {
+        "chapter": "卷113",
+        "plugin": "wikisource",
+        "title": "史記 · 卷113",
+        "url": "https://zh.wikisource.org/wiki/史記/卷113",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "南越反",
     "title": "南越反",
     "summary": "記南越相嘉反漢之事",
@@ -32714,7 +33083,9 @@
       "叛亂",
       "路博德",
       "楊僕",
-      "部:其他"
+      "部:其他",
+      "史記",
+      "趙佗"
     ],
     "sources": [
       {
@@ -32722,6 +33093,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷113",
+        "plugin": "wikisource",
+        "title": "史記 · 卷113",
+        "url": "https://zh.wikisource.org/wiki/史記/卷113",
         "work": "史記"
       }
     ]
@@ -33766,9 +34144,9 @@
       "治民",
       "教化",
       "管子",
+      "法制",
       "部:子",
-      "部:子/法家類",
-      "法制"
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -34827,6 +35205,25 @@
     ]
   },
   {
+    "slug": "取人以己",
+    "title": "取人以己",
+    "summary": "用人當反求諸己，以己度人。",
+    "tags": [
+      "用人",
+      "反求諸己",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第07篇版法",
+        "plugin": "wikisource",
+        "title": "管子 · 第07篇版法",
+        "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "取人有道用人有法",
     "title": "取人有道用人有法",
     "summary": "取人參之以禮，用人禁之以等",
@@ -35045,6 +35442,23 @@
         "title": "春秋公羊傳 · 桓公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/桓公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "取食於敵",
+    "title": "取食於敵",
+    "summary": "霍去病軍取食於敵，閒行殊遠而糧不絕，以五千八百戶再益封。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
       }
     ]
   },
@@ -36079,6 +36493,23 @@
         "title": "韓非子 · 功名",
         "url": "https://zh.wikisource.org/wiki/韓非子/功名",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "右賢王被圍",
+    "title": "右賢王被圍",
+    "summary": "匈奴右賢王以為漢兵不能至，酣飲而被圍，僅以愛妾壯騎數百突圍。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
       }
     ]
   },
@@ -39140,6 +39571,44 @@
     ]
   },
   {
+    "slug": "吳師居麇",
+    "title": "吳師居麇",
+    "summary": "吳師居麇地，楚師焚之，吳師再敗。",
+    "tags": [
+      "吳",
+      "楚",
+      "征戰"
+    ],
+    "sources": [
+      {
+        "chapter": "定公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 定公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/定公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
+    "slug": "吳師敗楚師于雍澨",
+    "title": "吳師敗楚師于雍澨",
+    "summary": "吳師追敗楚師，數戰至郢。",
+    "tags": [
+      "吳",
+      "楚",
+      "征戰"
+    ],
+    "sources": [
+      {
+        "chapter": "定公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 定公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/定公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "吳弒其君僚",
     "title": "吳弒其君僚",
     "summary": "吳公子光使專諸弒王僚，吳國之亂也。",
@@ -39885,6 +40354,26 @@
         "plugin": "wikisource",
         "title": "史記 · 卷085",
         "url": "https://zh.wikisource.org/wiki/史記/卷085",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "呂嘉之亂",
+    "title": "呂嘉之亂",
+    "summary": "南越相呂嘉擅權，三王皆不相見，卒與弟興兵攻殺王、太后及漢使者而反。",
+    "tags": [
+      "史記",
+      "南越",
+      "呂嘉",
+      "叛亂"
+    ],
+    "sources": [
+      {
+        "chapter": "卷113",
+        "plugin": "wikisource",
+        "title": "史記 · 卷113",
+        "url": "https://zh.wikisource.org/wiki/史記/卷113",
         "work": "史記"
       }
     ]
@@ -40994,7 +41483,8 @@
       "匈奴",
       "和親",
       "劉敬",
-      "盟約"
+      "盟約",
+      "部:其他"
     ],
     "sources": [
       {
@@ -41333,7 +41823,9 @@
     "tags": [
       "修身",
       "人情",
-      "尹文子"
+      "尹文子",
+      "部:子",
+      "部:子/儒家類"
     ],
     "sources": [
       {
@@ -43096,6 +43588,44 @@
     ]
   },
   {
+    "slug": "喜以賞怒以殺",
+    "title": "喜以賞，怒以殺",
+    "summary": "賞罰不可以喜怒為準，喜以賞怒以殺則令廢怨起。",
+    "tags": [
+      "賞罰",
+      "慎喜怒",
+      "令行"
+    ],
+    "sources": [
+      {
+        "chapter": "第07篇版法",
+        "plugin": "wikisource",
+        "title": "管子 · 第07篇版法",
+        "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "喜無以賞怒無以殺",
+    "title": "喜無以賞，怒無以殺",
+    "summary": "喜不以賞人，怒不以加人，賞罰各有其準。",
+    "tags": [
+      "賞罰",
+      "中正",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第07篇版法",
+        "plugin": "wikisource",
+        "title": "管子 · 第07篇版法",
+        "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "喪己於物",
     "title": "喪己於物，失性於俗",
     "summary": "溺於外物、染於俗習，則本性亡焉，是謂倒置之民",
@@ -43142,7 +43672,9 @@
     "slug": "單于來書",
     "title": "單于來書",
     "summary": "匈奴單于遣書於漢，辭稱天地所生日月所置，欲修和約。",
-    "tags": [],
+    "tags": [
+      "部:經"
+    ],
     "sources": [
       {
         "chapter": "卷110",
@@ -43161,7 +43693,8 @@
       "匈奴",
       "單于",
       "禮制",
-      "祭祀"
+      "祭祀",
+      "部:經"
     ],
     "sources": [
       {
@@ -43626,7 +44159,8 @@
     "tags": [
       "治國",
       "軍制",
-      "土地"
+      "土地",
+      "部:其他"
     ],
     "sources": [
       {
@@ -44134,7 +44668,9 @@
     "slug": "四固-之",
     "title": "四固-之",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "第04篇立政",
@@ -44236,6 +44772,34 @@
         "title": "荀子 · 天論篇",
         "url": "https://zh.wikisource.org/wiki/荀子/天論篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "四將出擊匈奴",
+    "title": "四將出擊匈奴",
+    "summary": "衞青為車騎將軍，公孫賀為輕車將軍，公孫敖為騎將軍，李廣為驍騎將軍，四將各將萬騎，分道出擊匈奴。",
+    "tags": [
+      "車騎將軍",
+      "四將",
+      "匈奴",
+      "衞青",
+      "公孫賀",
+      "公孫敖",
+      "李廣",
+      "上谷",
+      "雲中",
+      "代郡",
+      "雁門",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
       }
     ]
   },
@@ -44564,6 +45128,45 @@
         "title": "詩經 · 北風",
         "url": "https://zh.wikisource.org/wiki/詩經/北風",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "四時異政",
+    "title": "四時異政",
+    "summary": "順天之時，因地之宜，春夏秋冬各異其政。",
+    "tags": [
+      "四時",
+      "治道",
+      "季節",
+      "施政"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "四機",
+    "title": "四機",
+    "summary": "兵之得失係於四機，審之明之，則無敵於天下。",
+    "tags": [
+      "兵法",
+      "軍事",
+      "戰略"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
       }
     ]
   },
@@ -45282,7 +45885,9 @@
     "tags": [
       "治國",
       "衰亡",
-      "尹文子"
+      "尹文子",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -45664,7 +46269,11 @@
       "形勢",
       "抱朴子",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "政治",
+      "治亂",
+      "主父偃",
+      "徐樂"
     ],
     "sources": [
       {
@@ -45673,6 +46282,13 @@
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "卷112",
+        "plugin": "wikisource",
+        "title": "史記 · 卷112",
+        "url": "https://zh.wikisource.org/wiki/史記/卷112",
+        "work": "史記"
       }
     ]
   },
@@ -46026,7 +46642,8 @@
     "tags": [
       "治國",
       "土地",
-      "度數"
+      "度數",
+      "部:其他"
     ],
     "sources": [
       {
@@ -46123,7 +46740,8 @@
     "tags": [
       "治國",
       "土地",
-      "農業"
+      "農業",
+      "部:其他"
     ],
     "sources": [
       {
@@ -46966,6 +47584,25 @@
         "title": "春秋公羊傳 · 昭公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/昭公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "城成周三旬而畢",
+    "title": "城成周三旬而畢",
+    "summary": "魏舒合諸侯大夫城成周三旬而畢。",
+    "tags": [
+      "晉",
+      "魏舒",
+      "城成周"
+    ],
+    "sources": [
+      {
+        "chapter": "定公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 定公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/定公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -49444,6 +50081,25 @@
     ]
   },
   {
+    "slug": "外之有徒",
+    "title": "外之有徒",
+    "summary": "命令不行於內，民心遂流於外，外患由是而生。",
+    "tags": [
+      "令不行",
+      "民離",
+      "禍源"
+    ],
+    "sources": [
+      {
+        "chapter": "第07篇版法",
+        "plugin": "wikisource",
+        "title": "管子 · 第07篇版法",
+        "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "外內",
     "title": "外內",
     "summary": "兵出於戰，粟出於農，二者乃王業之本",
@@ -50127,6 +50783,21 @@
     ]
   },
   {
+    "slug": "大勝無不勝",
+    "title": "大勝無不勝",
+    "summary": "積衆勝以成大勝，大勝無不勝，此霸王之要道。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "大化四",
     "title": "人自生至終大化有四",
     "summary": "人生大化四階段：嬰孩、少壯、老耄、死亡。",
@@ -50164,6 +50835,29 @@
         "title": "荀子 · 議兵篇",
         "url": "https://zh.wikisource.org/wiki/荀子/議兵篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "大司馬之置",
+    "title": "大司馬之置",
+    "summary": "漢興置大司馬位，使大將軍、驃騎將軍皆為大司馬，秩祿相等。",
+    "tags": [
+      "大司馬",
+      "車騎將軍",
+      "驃騎將軍",
+      "官制",
+      "衞青",
+      "霍去病",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
       }
     ]
   },
@@ -55079,7 +55773,8 @@
     "tags": [
       "治國",
       "時機",
-      "勤奮"
+      "勤奮",
+      "部:其他"
     ],
     "sources": [
       {
@@ -55727,6 +56422,26 @@
     ]
   },
   {
+    "slug": "奪之人與奪之與彊奪之地",
+    "title": "奪之人與奪之與彊奪之地",
+    "summary": "王者以德取人，霸者以力取與，强國以兵奪地，治道之異也。",
+    "tags": [
+      "治道",
+      "霸王",
+      "德治",
+      "力治"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "奪貧與富",
     "title": "奪貧與富",
     "summary": "抱朴子指出劉君之法將使豪富任意奪取貧賤之妻，而孤弱者無以自保。",
@@ -56091,7 +56806,8 @@
       "桓公",
       "姦臣",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "成語"
     ],
     "sources": [
       {
@@ -56121,6 +56837,13 @@
         "title": "韓非子 · 難一",
         "url": "https://zh.wikisource.org/wiki/韓非子/難一",
         "work": "韓非子"
+      },
+      {
+        "chapter": "卷112",
+        "plugin": "wikisource",
+        "title": "史記 · 卷112",
+        "url": "https://zh.wikisource.org/wiki/史記/卷112",
+        "work": "史記"
       }
     ]
   },
@@ -56210,6 +56933,26 @@
         "title": "墨子 · 耕柱",
         "url": "https://zh.wikisource.org/wiki/墨子/耕柱",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "好戰必亡",
+    "title": "好戰必亡",
+    "summary": "《司馬法》之言。國雖大，好戰必亡；天下雖平，忘戰必危。兩者皆非所以持國也。",
+    "tags": [
+      "兵事",
+      "司馬法",
+      "主父偃",
+      "治國"
+    ],
+    "sources": [
+      {
+        "chapter": "卷112",
+        "plugin": "wikisource",
+        "title": "史記 · 卷112",
+        "url": "https://zh.wikisource.org/wiki/史記/卷112",
+        "work": "史記"
       }
     ]
   },
@@ -56796,6 +57539,26 @@
         "title": "莊子 · 達生",
         "url": "https://zh.wikisource.org/wiki/莊子/達生",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "始乎無端卒乎無窮",
+    "title": "始乎無端卒乎無窮",
+    "summary": "道始於無端，德終於無窮，以德畜民則民合而不乖。",
+    "tags": [
+      "哲學",
+      "道",
+      "德",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
       }
     ]
   },
@@ -62693,6 +63456,25 @@
     ]
   },
   {
+    "slug": "官制",
+    "title": "官制",
+    "summary": "立五官之分，定九紀之守，明治國之要。",
+    "tags": [
+      "官制",
+      "治道",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "官少索者衆",
     "title": "官少而索者衆",
     "summary": "因能授祿錄功與官",
@@ -62988,6 +63770,26 @@
         "title": "司馬法",
         "url": "https://zh.wikisource.org/wiki/司馬法",
         "work": "司馬法"
+      }
+    ]
+  },
+  {
+    "slug": "定獨威勝",
+    "title": "定獨威勝",
+    "summary": "定威必先定獨，威立則無敵於天下。",
+    "tags": [
+      "兵法",
+      "威權",
+      "霸王",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
       }
     ]
   },
@@ -64056,7 +64858,11 @@
       "漢",
       "丞相",
       "田千秋",
-      "部:經"
+      "部:經",
+      "公孫弘",
+      "封侯",
+      "節儉",
+      "治國"
     ],
     "sources": [
       {
@@ -64071,6 +64877,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷112",
+        "plugin": "wikisource",
+        "title": "史記 · 卷112",
+        "url": "https://zh.wikisource.org/wiki/史記/卷112",
         "work": "史記"
       }
     ]
@@ -64244,13 +65057,34 @@
     ]
   },
   {
+    "slug": "察數知治",
+    "title": "察數知治",
+    "summary": "察數而知治，審器而識勝，明謀而適勝，通德而天下定。",
+    "tags": [
+      "治道",
+      "度數",
+      "兵法",
+      "智謀"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "察能授官",
     "title": "察能授官",
     "summary": "考校賢能，依才授任，此為官之樞機。",
     "tags": [
       "任官",
       "治國",
-      "人事"
+      "人事",
+      "部:其他"
     ],
     "sources": [
       {
@@ -64789,6 +65623,26 @@
         "plugin": "wikisource",
         "title": "管子 · 第01篇牧民",
         "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "審時度務",
+    "title": "審時度務",
+    "summary": "兵出有時，度地之勢，器械之利，此用兵之先務。",
+    "tags": [
+      "兵法",
+      "戰略",
+      "時機",
+      "度數"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
         "work": "管子"
       }
     ]
@@ -65651,6 +66505,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷010",
         "url": "https://zh.wikisource.org/wiki/史記/卷010",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷113",
+        "plugin": "wikisource",
+        "title": "史記 · 卷113",
+        "url": "https://zh.wikisource.org/wiki/史記/卷113",
         "work": "史記"
       }
     ]
@@ -66785,7 +67646,9 @@
       "稷下",
       "黃老",
       "刑名",
-      "戰國"
+      "戰國",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -67804,7 +68667,9 @@
     "tags": [
       "編者",
       "尹文子",
-      "山陽"
+      "山陽",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -68948,7 +69813,8 @@
     "tags": [
       "治國",
       "經濟",
-      "市場"
+      "市場",
+      "部:經"
     ],
     "sources": [
       {
@@ -70170,6 +71036,26 @@
         "title": "莊子 · 德充符",
         "url": "https://zh.wikisource.org/wiki/莊子/德充符",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "幼官",
+    "title": "幼官",
+    "summary": "卑以自守，虛心任賢，因時制宜，以成霸王之功。",
+    "tags": [
+      "管子",
+      "治道",
+      "哲學",
+      "章名"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
       }
     ]
   },
@@ -71974,6 +72860,23 @@
     ]
   },
   {
+    "slug": "張騫導軍",
+    "title": "張騫導軍",
+    "summary": "張騫以通大夏知善水草，導軍免乏，為天子所嘉，封博望侯。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "強國之道",
     "title": "強國之道",
     "summary": "能越力於地者富，能起力於敵者強；王道在所開塞，塞其姦者必王。",
@@ -72269,7 +73172,9 @@
     "summary": "涵蓋綜括，無所不包。",
     "tags": [
       "文法",
-      "尹文子"
+      "尹文子",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -78358,6 +79263,25 @@
     ]
   },
   {
+    "slug": "慎施報",
+    "title": "慎施報",
+    "summary": "施惠與報復皆當審慎，否則禍端自生。",
+    "tags": [
+      "賞罰",
+      "施報",
+      "慎動"
+    ],
+    "sources": [
+      {
+        "chapter": "第07篇版法",
+        "plugin": "wikisource",
+        "title": "管子 · 第07篇版法",
+        "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "慎法",
     "title": "慎法",
     "summary": "破任譽之私，依法而治；耕戰二者，力本而霸王畢",
@@ -78916,6 +79840,25 @@
         "title": "詩經 · 我行其野",
         "url": "https://zh.wikisource.org/wiki/詩經/我行其野",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "成事以質",
+    "title": "成事以質",
+    "summary": "行事當以實際為準，不可虛浮。",
+    "tags": [
+      "治事",
+      "務實",
+      "方法"
+    ],
+    "sources": [
+      {
+        "chapter": "第07篇版法",
+        "plugin": "wikisource",
+        "title": "管子 · 第07篇版法",
+        "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
       }
     ]
   },
@@ -81574,7 +82517,9 @@
       "封國",
       "漢武帝",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "主父偃",
+      "政略"
     ],
     "sources": [
       {
@@ -81596,6 +82541,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷112",
+        "plugin": "wikisource",
+        "title": "史記 · 卷112",
+        "url": "https://zh.wikisource.org/wiki/史記/卷112",
         "work": "史記"
       }
     ]
@@ -82881,7 +83833,8 @@
     "tags": [
       "治國",
       "賞罰",
-      "法制"
+      "法制",
+      "部:其他"
     ],
     "sources": [
       {
@@ -85173,6 +86126,27 @@
         "title": "史記 · 卷027",
         "url": "https://zh.wikisource.org/wiki/史記/卷027",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "旗物尚青",
+    "title": "旗物尚青",
+    "summary": "東方之兵尚青，刑交寒害釱，器械不守，經不知而莫能應。",
+    "tags": [
+      "兵法",
+      "五方",
+      "旗幟",
+      "東方",
+      "軍事"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
       }
     ]
   },
@@ -89387,6 +90361,27 @@
     ]
   },
   {
+    "slug": "景桓侯",
+    "title": "景桓侯",
+    "summary": "霍去病卒，謚曰景桓侯，取其武與廣地之意。",
+    "tags": [
+      "霍去病",
+      "景桓侯",
+      "謚法",
+      "冠軍侯",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "景風",
     "title": "景風",
     "summary": "景風居南方，陽氣道竟，五月律中蕤賓。",
@@ -90933,9 +91928,9 @@
       "治國",
       "修身",
       "管子",
+      "治道",
       "部:子",
-      "部:子/儒家類",
-      "治道"
+      "部:子/儒家類"
     ],
     "sources": [
       {
@@ -91413,7 +92408,8 @@
     "tags": [
       "治國",
       "修身",
-      "修己"
+      "修己",
+      "部:其他"
     ],
     "sources": [
       {
@@ -91797,7 +92793,9 @@
     "tags": [
       "禮制",
       "度數",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -92865,6 +93863,28 @@
         "plugin": "wikisource",
         "title": "史記 · 卷109",
         "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "李廣自殺",
+    "title": "李廣自殺",
+    "summary": "前將軍李廣從大將軍出塞，失道後期，廣不願對刀筆之吏，自剄而死。",
+    "tags": [
+      "李廣",
+      "衞青",
+      "自殺",
+      "前將軍",
+      "失道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
         "work": "史記"
       }
     ]
@@ -94494,6 +95514,23 @@
     ]
   },
   {
+    "slug": "校尉封侯九人",
+    "title": "校尉封侯九人",
+    "summary": "從衞青出擊而封侯者凡九人，皆校尉、裨將之屬。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "株林",
     "title": "株林",
     "summary": "詩刺陳靈公馳驅株野以淫於夏姬也",
@@ -95584,6 +96621,25 @@
         "title": "詩經 · 北山",
         "url": "https://zh.wikisource.org/wiki/詩經/北山",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "植固不動倚邪乃恐",
+    "title": "植固不動，倚邪乃恐",
+    "summary": "志意堅固，邪曲無所依托，自然斂跡。",
+    "tags": [
+      "修身",
+      "威儀",
+      "禁邪"
+    ],
+    "sources": [
+      {
+        "chapter": "第07篇版法",
+        "plugin": "wikisource",
+        "title": "管子 · 第07篇版法",
+        "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
       }
     ]
   },
@@ -96993,7 +98049,8 @@
     "tags": [
       "教育",
       "治國",
-      "長遠"
+      "長遠",
+      "部:其他"
     ],
     "sources": [
       {
@@ -98075,6 +99132,25 @@
         "title": "周易 · 家人",
         "url": "https://zh.wikisource.org/wiki/周易/家人",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "正彼天植",
+    "title": "正彼天植",
+    "summary": "治國之本在於心志端正，天植立則行事成。",
+    "tags": [
+      "治國",
+      "心術",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "第07篇版法",
+        "plugin": "wikisource",
+        "title": "管子 · 第07篇版法",
+        "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
       }
     ]
   },
@@ -102109,6 +103185,23 @@
     ]
   },
   {
+    "slug": "河南之戰",
+    "title": "河南之戰",
+    "summary": "衞青出雲中至高闕，略河南地至于隴西，捕虜數千，畜數十萬，遂以河南地為朔方郡。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "河廣",
     "title": "河廣",
     "summary": "《詩經》衞風之篇，言河狹易渡，以寓思歸之情。",
@@ -103161,7 +104254,8 @@
     "tags": [
       "治國",
       "法制",
-      "政治"
+      "政治",
+      "部:其他"
     ],
     "sources": [
       {
@@ -105194,6 +106288,27 @@
     ]
   },
   {
+    "slug": "渾邪王降",
+    "title": "渾邪王降",
+    "summary": "渾邪王與休屠王謀降漢，霍去病渡河迎之，斬欲亡者數千人。",
+    "tags": [
+      "霍去病",
+      "渾邪王",
+      "休屠王",
+      "投降",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "湛樂飲酒",
     "title": "湛樂飲酒",
     "summary": "喻耽於逸樂、沉湎酒食之人。",
@@ -106105,6 +107220,10 @@
       "衛青",
       "李廣",
       "漠北",
+      "衞青",
+      "霍去病",
+      "車騎大將軍",
+      "驃騎將軍",
       "部:其他"
     ],
     "sources": [
@@ -106113,6 +107232,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
         "work": "史記"
       }
     ]
@@ -107396,6 +108522,28 @@
         "title": "管子 · 七法",
         "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "為冢象祁連山",
+    "title": "為冢象祁連山",
+    "summary": "天子以霍去病功高，為治冢象祁連山，以旌其征伐之烈。",
+    "tags": [
+      "霍去病",
+      "祁連山",
+      "茂陵",
+      "冢墓",
+      "景桓侯",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
       }
     ]
   },
@@ -114370,6 +115518,25 @@
     ]
   },
   {
+    "slug": "用財嗇則費用力苦則勞",
+    "title": "用財嗇則費，用力苦則勞",
+    "summary": "過於吝嗇反而耗費，過於苦民反致疲勞。",
+    "tags": [
+      "理財",
+      "用人",
+      "適度"
+    ],
+    "sources": [
+      {
+        "chapter": "第07篇版法",
+        "plugin": "wikisource",
+        "title": "管子 · 第07篇版法",
+        "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "用非其人",
     "title": "用非其人",
     "summary": "任官不當，私情害公，則政事荒廢",
@@ -114467,6 +115634,23 @@
         "title": "詩經 · 崧高",
         "url": "https://zh.wikisource.org/wiki/詩經/崧高",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "甯乘說大將軍",
+    "title": "甯乘說大將軍",
+    "summary": "甯乘以衞青三子皆侯由后族，勸以千金為王夫人壽，青從之，乘亦蒙拜官。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
       }
     ]
   },
@@ -115277,6 +116461,26 @@
     ]
   },
   {
+    "slug": "申包胥哭秦庭",
+    "title": "申包胥哭秦庭",
+    "summary": "申包胥如秦乞師，七日不絕聲，秦師乃出。",
+    "tags": [
+      "楚",
+      "申包胥",
+      "秦",
+      "乞師"
+    ],
+    "sources": [
+      {
+        "chapter": "定公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 定公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/定公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "申叔時論傅太子之道",
     "title": "申叔時論傅太子之道",
     "summary": "教太子者，當循九典以導其心，輔以威儀容止；有不從者，漸進以勸，終不明則已之。",
@@ -115727,6 +116931,26 @@
     ]
   },
   {
+    "slug": "畜之以道養之以德",
+    "title": "畜之以道養之以德",
+    "summary": "以道畜民則和，以德養民則合，此霸王之根基。",
+    "tags": [
+      "治道",
+      "德治",
+      "道",
+      "霸王"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "畜我不卒",
     "title": "畜我不卒",
     "summary": "歎養育之恩未畢，援引以責匹偶之薄",
@@ -115797,6 +117021,26 @@
         "title": "詩經 · 節南山",
         "url": "https://zh.wikisource.org/wiki/詩經/節南山",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "番禺負山",
+    "title": "番禺負山",
+    "summary": "任囂謂番禺據嶺海之勝，足建國以觀天下之變。",
+    "tags": [
+      "史記",
+      "南越",
+      "任囂",
+      "地理"
+    ],
+    "sources": [
+      {
+        "chapter": "卷113",
+        "plugin": "wikisource",
+        "title": "史記 · 卷113",
+        "url": "https://zh.wikisource.org/wiki/史記/卷113",
+        "work": "史記"
       }
     ]
   },
@@ -116854,7 +118098,8 @@
       "高帝",
       "白登",
       "閼氏",
-      "冒頓"
+      "冒頓",
+      "部:其他"
     ],
     "sources": [
       {
@@ -122969,6 +124214,23 @@
     ]
   },
   {
+    "slug": "禽渾邪王子",
+    "title": "禽渾邪王子",
+    "summary": "霍去病禽渾邪王子及相國、都尉，獲祭天金人，功冠諸軍。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "私人之子百僚是試",
     "title": "私人之子，百僚是試",
     "summary": "私家子弟，試用於百官之位",
@@ -123762,7 +125024,9 @@
     "slug": "秦築長城",
     "title": "秦築長城",
     "summary": "秦始皇使蒙恬北擊胡，築長城萬餘里，起臨洮至遼東。",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "卷110",
@@ -124958,7 +126222,9 @@
     "tags": [
       "治國",
       "城市",
-      "地理"
+      "地理",
+      "部:史",
+      "部:史/地理類"
     ],
     "sources": [
       {
@@ -125096,6 +126362,23 @@
         "title": "抱朴子 · 卷42",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷42",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "竟不復擊匈奴",
+    "title": "竟不復擊匈奴",
+    "summary": "衞青自圍單于後十四年不復擊匈奴，以漢馬少而方南誅兩越、東伐朝鲜。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
       }
     ]
   },
@@ -130457,7 +131740,10 @@
       "感知",
       "抱朴子",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "君臣",
+      "治道",
+      "輔佐"
     ],
     "sources": [
       {
@@ -130487,6 +131773,13 @@
         "title": "史記 · 卷023",
         "url": "https://zh.wikisource.org/wiki/史記/卷023",
         "work": "史記"
+      },
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
       }
     ]
   },
@@ -131363,7 +132656,9 @@
     "tags": [
       "治國",
       "名法",
-      "尹文子"
+      "尹文子",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -134309,6 +135604,26 @@
         "title": "周易 · 坤",
         "url": "https://zh.wikisource.org/wiki/周易/坤",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "至善不戰",
+    "title": "至善不戰",
+    "summary": "兵之至善者不以兵争，霸王之兵不戰而屈人。",
+    "tags": [
+      "兵法",
+      "治道",
+      "和平",
+      "霸王"
+    ],
+    "sources": [
+      {
+        "chapter": "第08篇幼官",
+        "plugin": "wikisource",
+        "title": "管子 · 第08篇幼官",
+        "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
       }
     ]
   },
@@ -138442,11 +139757,11 @@
       "君子",
       "歸心",
       "小雅",
-      "部:經",
-      "部:經/詩類",
       "治國",
       "民本",
-      "尹文子"
+      "尹文子",
+      "部:經",
+      "部:經/詩類"
     ],
     "sources": [
       {
@@ -143804,6 +145119,104 @@
     ]
   },
   {
+    "slug": "衞青七出擊匈奴",
+    "title": "衞青七出擊匈奴",
+    "summary": "大將軍衞青七度出師，斬捕虜五萬餘級，收河南地，遂開朔方郡。",
+    "tags": [
+      "衞青",
+      "匈奴",
+      "車騎將軍",
+      "朔方郡",
+      "河南",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "衞青不以專權",
+    "title": "衞青不以專權",
+    "summary": "衞青以為人臣不敢專誅，具歸天子自裁，以見不敢專權之義。",
+    "tags": [
+      "衞青",
+      "專權",
+      "蘇建",
+      "人臣之義",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "衞青不言出兵之艱",
+    "title": "衞青不言出兵之艱",
+    "summary": "衞青為人仁善退讓，以和柔自媚於上，然天下未有所稱。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "衞青尚平陽主",
+    "title": "衞青尚平陽主",
+    "summary": "衞青尚平陽長公主，故其子伉得以尚公主而代侯。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "衞青辭封",
+    "title": "衞青辭封",
+    "summary": "衞青辭天子增封，請以功歸校尉，蓋不以己私蔽士力。",
+    "tags": [
+      "衞青",
+      "辭封",
+      "校尉",
+      "功勳",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "衡山雨雹",
     "title": "衡山雨雹",
     "summary": "衡山雨雹大至，天象示警於諸侯之地。",
@@ -144891,11 +146304,11 @@
       "宋子",
       "見侮",
       "闘",
-      "部:子",
-      "部:子/儒家類",
       "修身",
       "心性",
-      "尹文子"
+      "尹文子",
+      "部:子",
+      "部:子/儒家類"
     ],
     "sources": [
       {
@@ -151624,7 +153037,8 @@
     "tags": [
       "賞罰",
       "治國",
-      "信用"
+      "信用",
+      "部:其他"
     ],
     "sources": [
       {
@@ -154802,7 +156216,8 @@
     "tags": [
       "治國",
       "民力",
-      "愛民"
+      "愛民",
+      "部:其他"
     ],
     "sources": [
       {
@@ -154847,6 +156262,29 @@
         "plugin": "wikisource",
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "輕騎追單于",
+    "title": "輕騎追單于",
+    "summary": "漢輕騎校尉郭成逐單于數百里不及，右賢王突圍北去。",
+    "tags": [
+      "單于",
+      "右賢王",
+      "輕騎",
+      "郭成",
+      "匈奴",
+      "突圍",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
         "work": "史記"
       }
     ]
@@ -162915,7 +164353,9 @@
     "slug": "陰陽",
     "title": "陰陽",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "第05篇乘馬",
@@ -163657,6 +165097,25 @@
         "title": "韓非子 · 外儲說左下",
         "url": "https://zh.wikisource.org/wiki/韓非子/外儲說左下",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "陽虎囚季桓子",
+    "title": "陽虎囚季桓子",
+    "summary": "陽虎作亂，囚季桓子，逐仲梁懷。",
+    "tags": [
+      "魯",
+      "陽虎",
+      "政變"
+    ],
+    "sources": [
+      {
+        "chapter": "定公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 定公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/定公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -165536,6 +166995,23 @@
     ]
   },
   {
+    "slug": "霍去病不省士",
+    "title": "霍去病不省士",
+    "summary": "霍去病年少顯貴，不懂體恤士卒，軍中乏粮而猶穿域蹋鞠。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "霍去病出隴右",
     "title": "霍去病出隴右",
     "summary": "記霍去病擊胡至祁連山之事",
@@ -165551,6 +167027,51 @@
         "plugin": "wikisource",
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "霍去病封狼居胥",
+    "title": "霍去病封狼居胥",
+    "summary": "霍去病封禪於狼居胥山，禪於姑衍，登臨翰海，虜獲七萬。",
+    "tags": [
+      "霍去病",
+      "狼居胥",
+      "姑衍",
+      "翰海",
+      "封禪",
+      "戰功",
+      "部:子",
+      "部:子/釋家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "霍去病遺址祁連",
+    "title": "霍去病遺址祁連",
+    "summary": "霍去病卒，天子為冢象祁連山以旌其功。",
+    "tags": [
+      "霍去病",
+      "祁連山",
+      "茂陵",
+      "景桓侯",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
         "work": "史記"
       }
     ]
@@ -169169,7 +170690,9 @@
     "tags": [
       "行政",
       "賞罰",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -169229,7 +170752,9 @@
     "tags": [
       "法令",
       "行政",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -169721,6 +171246,27 @@
     ]
   },
   {
+    "slug": "驃騎日以親貴",
+    "title": "驃騎日以親貴",
+    "summary": "霍去病日益親貴，門下多去事驃騎，唯任安不肯。",
+    "tags": [
+      "霍去病",
+      "衞青",
+      "任安",
+      "門下",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷111",
+        "plugin": "wikisource",
+        "title": "史記 · 卷111",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "驕人好好",
     "title": "驕人好好",
     "summary": "驕者得志而喜，勞者失志而悲。",
@@ -169987,6 +171533,25 @@
         "title": "春秋公羊傳 · 閔公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/閔公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "高安在乎同利",
+    "title": "高安在乎同利",
+    "summary": "君高位安，在於與民同利。",
+    "tags": [
+      "治道",
+      "君民",
+      "同利"
+    ],
+    "sources": [
+      {
+        "chapter": "第07篇版法",
+        "plugin": "wikisource",
+        "title": "管子 · 第07篇版法",
+        "url": "https://zh.wikisource.org/wiki/管子/第07篇版法",
+        "work": "管子"
       }
     ]
   },
@@ -172172,6 +173737,27 @@
     ]
   },
   {
+    "slug": "鴻漸之翼困於燕雀",
+    "title": "鴻漸之翼困於燕雀",
+    "summary": "鴻鵠之志，本當漸翔萬里，乃困於燕雀之間。喻賢才未遇，志不得伸也。",
+    "tags": [
+      "公孫弘",
+      "卜式",
+      "兒寬",
+      "賢才",
+      "班固"
+    ],
+    "sources": [
+      {
+        "chapter": "卷112",
+        "plugin": "wikisource",
+        "title": "史記 · 卷112",
+        "url": "https://zh.wikisource.org/wiki/史記/卷112",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "鴻羽所以沈龍舟",
     "title": "鴻羽所以沈龍舟",
     "summary": "輕物累積，亦能覆舟，積微致著之喻。",
@@ -172738,6 +174324,26 @@
     ]
   },
   {
+    "slug": "黃屋左纛",
+    "title": "黃屋左纛",
+    "summary": "天子車駕之飾，越王佗自尊號，僭用之以侔中國。",
+    "tags": [
+      "史記",
+      "南越",
+      "稱制",
+      "天子儀物"
+    ],
+    "sources": [
+      {
+        "chapter": "卷113",
+        "plugin": "wikisource",
+        "title": "史記 · 卷113",
+        "url": "https://zh.wikisource.org/wiki/史記/卷113",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "黃帝",
     "title": "黃帝",
     "summary": "軒轅氏，代神農為天子，肇造文明，功被華夏。",
@@ -173081,7 +174687,8 @@
     "tags": [
       "治國",
       "經濟",
-      "貨幣"
+      "貨幣",
+      "部:經"
     ],
     "sources": [
       {
