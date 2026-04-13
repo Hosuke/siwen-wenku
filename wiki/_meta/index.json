@@ -130,6 +130,25 @@
     ]
   },
   {
+    "slug": "一坐盡傾",
+    "title": "一坐盡傾",
+    "summary": "相如至臨邛赴宴，在座之人皆為之傾倒。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "臨邛"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "一宅寓不得已",
     "title": "一宅而寓於不得已",
     "summary": "心居虛空，託於不得不然",
@@ -543,7 +562,8 @@
       "治道",
       "政令",
       "霸王",
-      "上下"
+      "上下",
+      "部:子"
     ],
     "sources": [
       {
@@ -1044,6 +1064,27 @@
         "title": "國語 · 卷09",
         "url": "https://zh.wikisource.org/wiki/國語/卷09",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "七郡",
+    "title": "七郡",
+    "summary": "述西南夷所置七郡之名",
+    "tags": [
+      "郡縣",
+      "地理",
+      "西南夷",
+      "部:史",
+      "部:史/地理類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
+        "work": "史記"
       }
     ]
   },
@@ -2181,7 +2222,8 @@
     "tags": [
       "治國",
       "政要",
-      "綱紀"
+      "綱紀",
+      "部:經"
     ],
     "sources": [
       {
@@ -2361,6 +2403,29 @@
         "title": "禮記 · 鄉飲酒義",
         "url": "https://zh.wikisource.org/wiki/禮記/鄉飲酒義",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "三進及溜",
+    "title": "三進及溜",
+    "summary": "士會進諫，退而待命，三至簷下乃蒙見察。",
+    "tags": [
+      "春秋",
+      "進諫",
+      "禮儀",
+      "士會",
+      "晉靈公",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "宣公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 宣公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/宣公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -3119,6 +3184,27 @@
         "title": "韓非子 · 揚榷",
         "url": "https://zh.wikisource.org/wiki/韓非子/揚榷",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "上林廣大",
+    "title": "上林廣大",
+    "summary": "無是公言上林山谷水泉萬物，侈靡過實，非義理所尚，故刪取其要，歸正道而論之。",
+    "tags": [
+      "史記",
+      "上林",
+      "無是公",
+      "司馬相如",
+      "辭賦"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
       }
     ]
   },
@@ -4127,12 +4213,12 @@
       "吳子",
       "料敵",
       "戰機",
-      "部:子",
-      "部:子/兵家類",
       "兵法",
       "義兵",
       "征伐",
-      "卜筮"
+      "卜筮",
+      "部:子",
+      "部:子/兵家類"
     ],
     "sources": [
       {
@@ -6591,6 +6677,26 @@
     ]
   },
   {
+    "slug": "且蘭君反",
+    "title": "且蘭君反",
+    "summary": "述且蘭君恐遠行而反，漢誅之遂平南夷置牂柯郡之事",
+    "tags": [
+      "且蘭",
+      "南越",
+      "牂柯",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "世之愚學",
     "title": "世之愚學",
     "summary": "俗儒不達治亂之情，以先古之書亂當世之治，其言危，其計亦亂。",
@@ -7013,7 +7119,9 @@
       "史記",
       "南越",
       "典故",
-      "秦末"
+      "秦末",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -8707,7 +8815,8 @@
       "外交",
       "諸侯",
       "邦交",
-      "會盟"
+      "會盟",
+      "部:其他"
     ],
     "sources": [
       {
@@ -8715,6 +8824,28 @@
         "plugin": "wikisource",
         "title": "管子 · 第08篇幼官",
         "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "九會諸侯",
+    "title": "九會諸侯",
+    "summary": "會諸侯者九，其令各異，治之大法也。",
+    "tags": [
+      "管子",
+      "治道",
+      "諸侯",
+      "會盟",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第09篇幼官圖",
+        "plugin": "wikisource",
+        "title": "管子 · 第09篇幼官圖",
+        "url": "https://zh.wikisource.org/wiki/管子/第09篇幼官圖",
         "work": "管子"
       }
     ]
@@ -10950,7 +11081,8 @@
     "tags": [
       "主父偃",
       "成語",
-      "富貴"
+      "富貴",
+      "部:史"
     ],
     "sources": [
       {
@@ -13538,6 +13670,27 @@
     ]
   },
   {
+    "slug": "令尚書給筆劄",
+    "title": "令尚書給筆劄",
+    "summary": "武帝許相如為天子游獵賦，令尚書給筆劄以書之。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "漢武帝",
+      "尚書",
+      "筆劄"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "令德壽豈",
     "title": "令德壽豈",
     "summary": "美德與高壽兼備，壽豈同「壽愷」，言長樂也。",
@@ -13582,6 +13735,27 @@
         "title": "韓非子 · 飾邪",
         "url": "https://zh.wikisource.org/wiki/韓非子/飾邪",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "令有貴客",
+    "title": "令有貴客",
+    "summary": "臨邛富人聞令有貴客，共設宴召之。",
+    "tags": [
+      "史記",
+      "臨邛",
+      "卓王孫",
+      "程鄭",
+      "富人"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
       }
     ]
   },
@@ -13723,10 +13897,10 @@
       "治國",
       "令",
       "寶",
-      "部:子",
-      "部:子/法家類",
       "命令",
-      "權威"
+      "權威",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -13956,6 +14130,30 @@
         "title": "管子 · 第03篇權修",
         "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "以其私憾敗國殄民",
+    "title": "以其私憾敗國殄民",
+    "summary": "因私怨而敗國殃民，罪莫大焉。",
+    "tags": [
+      "春秋",
+      "羊斟",
+      "私怨",
+      "敗國",
+      "國殄民",
+      "大棘之戰",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "宣公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 宣公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/宣公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -15224,6 +15422,27 @@
     ]
   },
   {
+    "slug": "以琴心挑之",
+    "title": "以琴心挑之",
+    "summary": "相如以琴聲之情意挑達文君之心，遂成私情。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "卓文君",
+      "琴",
+      "戀情"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "以瓦注者巧",
     "title": "以瓦注者巧",
     "summary": "外重者內拙，心有繫礙則舉止失度。",
@@ -15553,6 +15772,26 @@
         "plugin": "wikisource",
         "title": "史記 · 卷009",
         "url": "https://zh.wikisource.org/wiki/史記/卷009",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "以貲為郎",
+    "title": "以貲為郎",
+    "summary": "相如家貲饒富，以貲財得為郎官。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "郎官",
+      "貲"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
         "work": "史記"
       }
     ]
@@ -20526,6 +20765,29 @@
     ]
   },
   {
+    "slug": "倒戟而出",
+    "title": "倒戟而出",
+    "summary": "戎事尚果，臨陣倒兵以救人，君子非之。",
+    "tags": [
+      "春秋",
+      "軍事",
+      "狂狡",
+      "禮義",
+      "大棘之戰",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "宣公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 宣公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/宣公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "倒置之民",
     "title": "倒置之民",
     "summary": "以物為本、以己為末，是為本末倒置之人",
@@ -20575,7 +20837,8 @@
     "tags": [
       "變法",
       "教化",
-      "去邪"
+      "去邪",
+      "部:其他"
     ],
     "sources": [
       {
@@ -24070,7 +24333,9 @@
       "南越",
       "陸賈",
       "趙佗",
-      "稱臣"
+      "稱臣",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -24187,6 +24452,26 @@
         "title": "孟子 · 滕文公上",
         "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "八川分流",
+    "title": "八川分流",
+    "summary": "上林之中，八川之水蕩蕩分流，相背異態。",
+    "tags": [
+      "史記",
+      "上林",
+      "水",
+      "八川"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
       }
     ]
   },
@@ -25013,6 +25298,27 @@
         "plugin": "wikisource",
         "title": "史記 · 卷111",
         "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "公孫遂往正之",
+    "title": "公孫遂往正之",
+    "summary": "天子使公孫遂往正兩將之議，遂至即附左將軍之言，執樓船將軍并其軍，天子誅遂。",
+    "tags": [
+      "史記",
+      "將領",
+      "朝鮮",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷115",
+        "plugin": "wikisource",
+        "title": "史記 · 卷115",
+        "url": "https://zh.wikisource.org/wiki/史記/卷115",
         "work": "史記"
       }
     ]
@@ -28120,6 +28426,26 @@
         "title": "韓非子 · 主道",
         "url": "https://zh.wikisource.org/wiki/韓非子/主道",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "分予文君",
+    "title": "分予文君僮百人錢百萬",
+    "summary": "昆弟諸公說卓王孫，王孫不得已，分予文君僮僕錢財。",
+    "tags": [
+      "史記",
+      "卓王孫",
+      "卓文君",
+      "司馬相如"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
       }
     ]
   },
@@ -32329,7 +32655,8 @@
       "節令",
       "時令",
       "曆法",
-      "祭祀"
+      "祭祀",
+      "部:其他"
     ],
     "sources": [
       {
@@ -33062,7 +33389,9 @@
       "南越",
       "伏波將軍",
       "樓船將軍",
-      "亡國"
+      "亡國",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -33070,6 +33399,26 @@
         "plugin": "wikisource",
         "title": "史記 · 卷113",
         "url": "https://zh.wikisource.org/wiki/史記/卷113",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "南越以財物役屬夜郎",
+    "title": "南越以財物役屬夜郎",
+    "summary": "述南越以財物羈縻夜郎之事",
+    "tags": [
+      "南越",
+      "夜郎",
+      "羈縻",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
         "work": "史記"
       }
     ]
@@ -33083,9 +33432,10 @@
       "叛亂",
       "路博德",
       "楊僕",
-      "部:其他",
       "史記",
-      "趙佗"
+      "趙佗",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -33100,6 +33450,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷113",
         "url": "https://zh.wikisource.org/wiki/史記/卷113",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
         "work": "史記"
       }
     ]
@@ -35211,7 +35568,8 @@
     "tags": [
       "用人",
       "反求諸己",
-      "治道"
+      "治道",
+      "部:子"
     ],
     "sources": [
       {
@@ -36072,6 +36430,34 @@
         "plugin": "wikisource",
         "title": "史記 · 卷041",
         "url": "https://zh.wikisource.org/wiki/史記/卷041",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "句踐苗裔封侯",
+    "title": "句踐苗裔封侯",
+    "summary": "東越亡國之後，句踐苗裔繇王居股等猶封為萬戶侯，太史公稱其世世為公侯。",
+    "tags": [
+      "句踐",
+      "封侯",
+      "東越",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
         "work": "史記"
       }
     ]
@@ -39027,6 +39413,26 @@
     ]
   },
   {
+    "slug": "吞漢將軍",
+    "title": "吞漢將軍",
+    "summary": "東越王馀善叛漢，號其將為「吞漢將軍」，以示抗漢之志。",
+    "tags": [
+      "東越",
+      "將軍號",
+      "叛逆",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "吞舟之魚",
     "title": "吞舟之魚",
     "summary": "楊朱引吞舟之魚不游枝流、鴻鵠高飛不集汙池，以喻治大事者不可以治細務。",
@@ -39577,7 +39983,8 @@
     "tags": [
       "吳",
       "楚",
-      "征戰"
+      "征戰",
+      "部:其他"
     ],
     "sources": [
       {
@@ -39596,7 +40003,8 @@
     "tags": [
       "吳",
       "楚",
-      "征戰"
+      "征戰",
+      "部:其他"
     ],
     "sources": [
       {
@@ -39771,7 +40179,8 @@
       "漢初",
       "七國之亂",
       "吳楚",
-      "部:其他"
+      "部:其他",
+      "史記"
     ],
     "sources": [
       {
@@ -39793,6 +40202,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷101",
         "url": "https://zh.wikisource.org/wiki/史記/卷101",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
         "work": "史記"
       }
     ]
@@ -40366,7 +40782,9 @@
       "史記",
       "南越",
       "呂嘉",
-      "叛亂"
+      "叛亂",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -40417,6 +40835,26 @@
         "title": "國語 · 卷09",
         "url": "https://zh.wikisource.org/wiki/國語/卷09",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "告巴蜀太守",
+    "title": "告巴蜀太守",
+    "summary": "司馬相如奉使責唐蒙，移檄曉諭巴蜀，言朝廷撫夷之意，辨唐蒙興制之非。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "巴蜀",
+      "檄"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
       }
     ]
   },
@@ -42174,6 +42612,48 @@
     ]
   },
   {
+    "slug": "唐蒙使略",
+    "title": "唐蒙使略通夜郎西僰中",
+    "summary": "唐蒙奉使通西南夷，修棧道，起樓船，發巴蜀吏卒，誅渠帥，巴蜀大驚。",
+    "tags": [
+      "史記",
+      "唐蒙",
+      "夜郎",
+      "西僰",
+      "西南夷",
+      "巴蜀"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "唐蒙風指",
+    "title": "唐蒙風指",
+    "summary": "述唐蒙因兵威曉喻南越，建議通夜郎道之事",
+    "tags": [
+      "唐蒙",
+      "夜郎",
+      "南越",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "唯予與汝知而未嘗死",
     "title": "唯予與汝知而未嘗死",
     "summary": "列子與髑髏之問答，謂未嘗死亦未嘗生，乃化人之觀也。",
@@ -42624,6 +43104,13 @@
         "title": "史記 · 卷040",
         "url": "https://zh.wikisource.org/wiki/史記/卷040",
         "work": "史記"
+      },
+      {
+        "chapter": "宣公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 宣公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/宣公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -43594,7 +44081,8 @@
     "tags": [
       "賞罰",
       "慎喜怒",
-      "令行"
+      "令行",
+      "部:其他"
     ],
     "sources": [
       {
@@ -43613,7 +44101,8 @@
     "tags": [
       "賞罰",
       "中正",
-      "治道"
+      "治道",
+      "部:子"
     ],
     "sources": [
       {
@@ -44189,6 +44678,28 @@
         "title": "抱朴子 · 卷09",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷09",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "器成於僇教行於鈔",
+    "title": "器成於僇教行於鈔",
+    "summary": "器成於殺伐之厲，教行於循習之功。",
+    "tags": [
+      "管子",
+      "治道",
+      "教育",
+      "功夫",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第09篇幼官圖",
+        "plugin": "wikisource",
+        "title": "管子 · 第09篇幼官圖",
+        "url": "https://zh.wikisource.org/wiki/管子/第09篇幼官圖",
+        "work": "管子"
       }
     ]
   },
@@ -45139,7 +45650,8 @@
       "四時",
       "治道",
       "季節",
-      "施政"
+      "施政",
+      "部:子"
     ],
     "sources": [
       {
@@ -45158,7 +45670,9 @@
     "tags": [
       "兵法",
       "軍事",
-      "戰略"
+      "戰略",
+      "部:子",
+      "部:子/兵家類"
     ],
     "sources": [
       {
@@ -46268,12 +46782,12 @@
       "亡國",
       "形勢",
       "抱朴子",
-      "部:子",
-      "部:子/道家類",
       "政治",
       "治亂",
       "主父偃",
-      "徐樂"
+      "徐樂",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -47594,7 +48108,8 @@
     "tags": [
       "晉",
       "魏舒",
-      "城成周"
+      "城成周",
+      "部:其他"
     ],
     "sources": [
       {
@@ -50087,7 +50602,8 @@
     "tags": [
       "令不行",
       "民離",
-      "禍源"
+      "禍源",
+      "部:其他"
     ],
     "sources": [
       {
@@ -50786,13 +51302,38 @@
     "slug": "大勝無不勝",
     "title": "大勝無不勝",
     "summary": "積衆勝以成大勝，大勝無不勝，此霸王之要道。",
-    "tags": [],
+    "tags": [
+      "部:子"
+    ],
     "sources": [
       {
         "chapter": "第08篇幼官",
         "plugin": "wikisource",
         "title": "管子 · 第08篇幼官",
         "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "大勝者積衆勝而無非義者",
+    "title": "大勝者積衆勝而無非義者",
+    "summary": "勝之大者，非取之多也，積衆勝而莫非義焉。",
+    "tags": [
+      "管子",
+      "治道",
+      "兵事",
+      "義",
+      "勝",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第09篇幼官圖",
+        "plugin": "wikisource",
+        "title": "管子 · 第09篇幼官圖",
+        "url": "https://zh.wikisource.org/wiki/管子/第09篇幼官圖",
         "work": "管子"
       }
     ]
@@ -53321,6 +53862,26 @@
     ]
   },
   {
+    "slug": "天子游獵賦",
+    "title": "天子游獵賦",
+    "summary": "司馬相如請為天子游獵之賦，假子虛、烏有先生、無是公三人之辭，以推天子諸侯苑囿之盛，歸節儉風諫。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "子虛",
+      "上林賦"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "天子至備",
     "title": "天子至備",
     "summary": "天子至重至佚，無所求於人，而天下之至備咸集焉。",
@@ -54993,6 +55554,27 @@
     ]
   },
   {
+    "slug": "太史公論朝鲜之役",
+    "title": "太史公論朝鲜之役",
+    "summary": "太史公論右渠亡國、涉何誣功、樓船被誅、荀彘爭功，皆以見征伐之際將帥失和、賞刑失當之戒。",
+    "tags": [
+      "史記",
+      "太史公曰",
+      "朝鮮",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷115",
+        "plugin": "wikisource",
+        "title": "史記 · 卷115",
+        "url": "https://zh.wikisource.org/wiki/史記/卷115",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "太史公論殷興亡",
     "title": "太史公論殷興亡",
     "summary": "論殷契至紂之興亡，而言契為子姓，其後分封以國為姓。",
@@ -55086,6 +55668,26 @@
         "title": "列子 · 天瑞篇",
         "url": "https://zh.wikisource.org/wiki/列子/天瑞篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "太子不渡浿水",
+    "title": "太子不渡浿水",
+    "summary": "右渠遣太子入謝降漢，持兵渡水，使者疑其有變，太子亦疑使者、左將軍詐殺之，遂不渡而歸。",
+    "tags": [
+      "史記",
+      "朝鮮",
+      "外交",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷115",
+        "plugin": "wikisource",
+        "title": "史記 · 卷115",
+        "url": "https://zh.wikisource.org/wiki/史記/卷115",
+        "work": "史記"
       }
     ]
   },
@@ -56429,7 +57031,8 @@
       "治道",
       "霸王",
       "德治",
-      "力治"
+      "力治",
+      "部:子"
     ],
     "sources": [
       {
@@ -56791,6 +57394,26 @@
     ]
   },
   {
+    "slug": "女至不材",
+    "title": "女至不材我不忍殺",
+    "summary": "卓王孫怒女文君之奔相如，言其不材，不忍殺，亦不分一錢。",
+    "tags": [
+      "史記",
+      "卓王孫",
+      "卓文君",
+      "司馬相如"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "奸臣竊柄賢者陸沉",
     "title": "奸臣竊柄賢者陸沉",
     "summary": "姦邪用事，則清節之士困於泥濘，投機之人騰於顯達。",
@@ -56805,9 +57428,9 @@
       "管仲",
       "桓公",
       "姦臣",
+      "成語",
       "部:子",
-      "部:子/道家類",
-      "成語"
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -56944,7 +57567,8 @@
       "兵事",
       "司馬法",
       "主父偃",
-      "治國"
+      "治國",
+      "部:其他"
     ],
     "sources": [
       {
@@ -57550,7 +58174,8 @@
       "哲學",
       "道",
       "德",
-      "治道"
+      "治道",
+      "部:子"
     ],
     "sources": [
       {
@@ -59575,6 +60200,48 @@
         "title": "韓非子 · 難言",
         "url": "https://zh.wikisource.org/wiki/韓非子/難言",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "子虛之賦",
+    "title": "子虛之賦",
+    "summary": "司馬相如遊梁時所作，以子虛為楚使，烏有先生難之，極言雲夢之事。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "辭賦",
+      "梁孝王"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "子虛過詫",
+    "title": "子虛過詫",
+    "summary": "子虛使齊歸，過詫烏有先生，述楚王田獵之盛。",
+    "tags": [
+      "史記",
+      "子虛",
+      "烏有先生",
+      "齊",
+      "楚",
+      "田獵"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
       }
     ]
   },
@@ -63462,7 +64129,9 @@
     "tags": [
       "官制",
       "治道",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -63710,6 +64379,27 @@
     ]
   },
   {
+    "slug": "定朝鲜為四郡",
+    "title": "定朝鲜為四郡",
+    "summary": "左將軍幷兩軍急擊朝鲜，朝鲜王右渠被殺，成巳復反亦誅，遂定朝鲜為樂浪、玄菟、臨屯、真番四郡。",
+    "tags": [
+      "史記",
+      "郡縣",
+      "朝鮮",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷115",
+        "plugin": "wikisource",
+        "title": "史記 · 卷115",
+        "url": "https://zh.wikisource.org/wiki/史記/卷115",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "定法",
     "title": "定法",
     "summary": "定法術之分，明公私之辨，申公法以禁私行。",
@@ -63781,7 +64471,9 @@
       "兵法",
       "威權",
       "霸王",
-      "治道"
+      "治道",
+      "部:子",
+      "部:子/兵家類"
     ],
     "sources": [
       {
@@ -63789,6 +64481,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第08篇幼官",
         "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
+      },
+      {
+        "chapter": "第09篇幼官圖",
+        "plugin": "wikisource",
+        "title": "管子 · 第09篇幼官圖",
+        "url": "https://zh.wikisource.org/wiki/管子/第09篇幼官圖",
         "work": "管子"
       }
     ]
@@ -63981,6 +64680,26 @@
         "plugin": "wikisource",
         "title": "史記 · 卷085",
         "url": "https://zh.wikisource.org/wiki/史記/卷085",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "客游梁",
+    "title": "客游梁",
+    "summary": "相如見梁孝王而悅之，因病免官，客遊於梁。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "梁孝王",
+      "梁"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
         "work": "史記"
       }
     ]
@@ -64532,6 +65251,26 @@
     ]
   },
   {
+    "slug": "家居徒四壁",
+    "title": "家居徒四壁",
+    "summary": "相如與文君歸成都，家中空虛，唯四壁而已，極言其貧。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "卓文君",
+      "貧困"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "家累千金",
     "title": "家累千金",
     "summary": "商賈之富，至於千金之積，蓋言其貲財之厚。",
@@ -64858,11 +65597,11 @@
       "漢",
       "丞相",
       "田千秋",
-      "部:經",
       "公孫弘",
       "封侯",
       "節儉",
-      "治國"
+      "治國",
+      "部:經"
     ],
     "sources": [
       {
@@ -65064,7 +65803,9 @@
       "治道",
       "度數",
       "兵法",
-      "智謀"
+      "智謀",
+      "部:子",
+      "部:子/兵家類"
     ],
     "sources": [
       {
@@ -65635,7 +66376,9 @@
       "兵法",
       "戰略",
       "時機",
-      "度數"
+      "度數",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -65643,6 +66386,13 @@
         "plugin": "wikisource",
         "title": "管子 · 第08篇幼官",
         "url": "https://zh.wikisource.org/wiki/管子/第08篇幼官",
+        "work": "管子"
+      },
+      {
+        "chapter": "第09篇幼官圖",
+        "plugin": "wikisource",
+        "title": "管子 · 第09篇幼官圖",
+        "url": "https://zh.wikisource.org/wiki/管子/第09篇幼官圖",
         "work": "管子"
       }
     ]
@@ -69264,6 +70014,27 @@
     ]
   },
   {
+    "slug": "左將軍幷兩軍",
+    "title": "左將軍幷兩軍",
+    "summary": "左將軍荀彘數與樓船期戰不和，會公孫遂至，左將軍遂執樓船將軍并其軍，因得急擊朝鲜而定之。",
+    "tags": [
+      "史記",
+      "將領",
+      "朝鮮",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷115",
+        "plugin": "wikisource",
+        "title": "史記 · 卷115",
+        "url": "https://zh.wikisource.org/wiki/史記/卷115",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "左衽仰之若眾星",
     "title": "左衽仰之若眾星之系北辰",
     "summary": "百姓仰望賢君，如星辰之拱北辰。",
@@ -69688,6 +70459,26 @@
         "plugin": "wikisource",
         "title": "史記 · 卷026",
         "url": "https://zh.wikisource.org/wiki/史記/卷026",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "巴蜀大驚",
+    "title": "巴蜀民大驚恐",
+    "summary": "唐蒙略通夜郎西僰，發巴蜀吏卒郡人，興法誅渠帥，巴蜀之民大驚恐。",
+    "tags": [
+      "史記",
+      "唐蒙",
+      "巴蜀",
+      "西南夷"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
         "work": "史記"
       }
     ]
@@ -71047,7 +71838,9 @@
       "管子",
       "治道",
       "哲學",
-      "章名"
+      "章名",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -72872,6 +73665,26 @@
         "plugin": "wikisource",
         "title": "史記 · 卷111",
         "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "張騫言身毒",
+    "title": "張騫言身毒",
+    "summary": "述張騫使大夏還，言通蜀身毒國便近之事",
+    "tags": [
+      "張騫",
+      "身毒",
+      "大夏",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
         "work": "史記"
       }
     ]
@@ -79269,7 +80082,8 @@
     "tags": [
       "賞罰",
       "施報",
-      "慎動"
+      "慎動",
+      "部:其他"
     ],
     "sources": [
       {
@@ -79850,7 +80664,8 @@
     "tags": [
       "治事",
       "務實",
-      "方法"
+      "方法",
+      "部:其他"
     ],
     "sources": [
       {
@@ -82516,10 +83331,10 @@
       "政事",
       "封國",
       "漢武帝",
-      "部:子",
-      "部:子/法家類",
       "主父偃",
-      "政略"
+      "政略",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -84736,6 +85551,26 @@
     ]
   },
   {
+    "slug": "文君夜亡奔",
+    "title": "文君夜亡奔",
+    "summary": "卓文君新寡，悅相如，夜亡奔之。",
+    "tags": [
+      "史記",
+      "卓文君",
+      "司馬相如",
+      "私奔"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "文子出亡過嗇夫",
     "title": "文子出亡過嗇夫",
     "summary": "好音而受琴，好珮而受環，皆振己過以干譽；干譽者不可恃。",
@@ -86138,7 +86973,8 @@
       "五方",
       "旗幟",
       "東方",
-      "軍事"
+      "軍事",
+      "部:經"
     ],
     "sources": [
       {
@@ -88602,6 +89438,28 @@
     ]
   },
   {
+    "slug": "春夏秋冬行政",
+    "title": "春夏秋冬行政",
+    "summary": "政令之施，各順其時；春夏秋冬，行各有當。",
+    "tags": [
+      "管子",
+      "治道",
+      "四時",
+      "政令",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第09篇幼官圖",
+        "plugin": "wikisource",
+        "title": "管子 · 第09篇幼官圖",
+        "url": "https://zh.wikisource.org/wiki/管子/第09篇幼官圖",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "春日載陽",
     "title": "春日載陽",
     "summary": "春日既至，陽氣方溫也。",
@@ -90947,6 +91805,26 @@
     ]
   },
   {
+    "slug": "更名相如",
+    "title": "更名相如",
+    "summary": "相如慕藺相如之為人，乃更名相如。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "藺相如",
+      "改名"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "曷其有佸",
     "title": "曷其有佸",
     "summary": "何時得與君子會合。",
@@ -92968,6 +93846,26 @@
     ]
   },
   {
+    "slug": "朕獨不得與此人同時",
+    "title": "朕獨不得與此人同時哉",
+    "summary": "武帝讀子虛賦而善之，歎不得與作者同時。",
+    "tags": [
+      "史記",
+      "漢武帝",
+      "子虛賦",
+      "司馬相如"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "朕聞蓋天下萬物之萌生",
     "title": "朕聞蓋天下萬物之萌生",
     "summary": "孝文遺詔薄葬，以為生死乃物之自然，反對厚葬破業。",
@@ -93107,6 +94005,47 @@
         "title": "詩經 · 株林",
         "url": "https://zh.wikisource.org/wiki/詩經/株林",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "朝鮮王右渠",
+    "title": "朝鮮王右渠",
+    "summary": "右渠誘漢亡人，不肯入見天子，阻遏真番上書，終致漢兵問罪，城破被殺。",
+    "tags": [
+      "史記",
+      "朝鮮",
+      "人物",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷115",
+        "plugin": "wikisource",
+        "title": "史記 · 卷115",
+        "url": "https://zh.wikisource.org/wiki/史記/卷115",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "朝鮮王滿始建",
+    "title": "朝鮮王滿始建",
+    "summary": "滿故燕人，燕王盧綰反入匈奴，滿亡命東走出塞，渡浿水，居秦故空地，建都王險，遂為朝鲜王。",
+    "tags": [
+      "史記",
+      "朝鮮",
+      "人物",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷115",
+        "plugin": "wikisource",
+        "title": "史記 · 卷115",
+        "url": "https://zh.wikisource.org/wiki/史記/卷115",
+        "work": "史記"
       }
     ]
   },
@@ -94276,6 +95215,63 @@
     ]
   },
   {
+    "slug": "東海王搖",
+    "title": "東海王搖",
+    "summary": "搖為越東海王，都東甌，世俗號為東甌王。孝惠三年因其功多民附而立之。",
+    "tags": [
+      "東越",
+      "諸侯",
+      "功勳",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "東甌",
+    "title": "東甌",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "東甌食盡困且降",
+    "title": "東甌食盡困且降",
+    "summary": "閩越圍東甌，東甌食盡且困，乃使人告急天子。",
+    "tags": [
+      "東越",
+      "圍困",
+      "求援",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "東苑",
     "title": "東苑",
     "summary": "梁孝王廣築睢陽，擬於天子。",
@@ -94312,6 +95308,73 @@
         "plugin": "wikisource",
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "東越將多軍",
+    "title": "東越將多軍",
+    "summary": "東越將多軍，漢兵至，棄其軍降，封為無錫侯。",
+    "tags": [
+      "東越",
+      "歸降",
+      "封侯",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "東越徙民江淮",
+    "title": "東越徙民江淮",
+    "summary": "天子以東越狹多阻、閩越悍數反覆，遂詔將其民徙處江淮之間，東越地遂虛。",
+    "tags": [
+      "東越",
+      "遷徙",
+      "政略",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "東越王馀善刻璽",
+    "title": "東越王馀善刻璽",
+    "summary": "馀善既殺郢自立，後復叛漢，乃刻「武帝」璽以自尊，欺其民而為妄言。",
+    "tags": [
+      "東越",
+      "叛逆",
+      "璽印",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
         "work": "史記"
       }
     ]
@@ -94865,6 +95928,26 @@
         "title": "荀子 · 性惡篇",
         "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "枸醬番禺",
+    "title": "枸醬番禺",
+    "summary": "述蜀枸醬流入番禺，為通西南夷之端之事",
+    "tags": [
+      "枸醬",
+      "番禺",
+      "西南夷",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
+        "work": "史記"
       }
     ]
   },
@@ -96631,7 +97714,8 @@
     "tags": [
       "修身",
       "威儀",
-      "禁邪"
+      "禁邪",
+      "部:史"
     ],
     "sources": [
       {
@@ -97983,6 +99067,55 @@
     ]
   },
   {
+    "slug": "樓船將軍",
+    "title": "樓船將軍",
+    "summary": "",
+    "tags": [
+      "史記",
+      "征伐",
+      "朝鮮",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷115",
+        "plugin": "wikisource",
+        "title": "史記 · 卷115",
+        "url": "https://zh.wikisource.org/wiki/史記/卷115",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "樓船將軍將齊兵",
+    "title": "樓船將軍將齊兵",
+    "summary": "樓船將軍率齊兵七千人先至王險，不敵右渠，敗散走，失軍遁山，卒與左將軍不和，終以致誅。",
+    "tags": [
+      "史記",
+      "將領",
+      "齊兵",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷115",
+        "plugin": "wikisource",
+        "title": "史記 · 卷115",
+        "url": "https://zh.wikisource.org/wiki/史記/卷115",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "樓船將軍征朝鮮",
     "title": "樓船將軍征朝鮮",
     "summary": "記楊僕、荀彘伐朝鮮之事",
@@ -97990,6 +99123,8 @@
       "朝鮮",
       "楊僕",
       "荀彘",
+      "史記",
+      "征伐",
       "部:子"
     ],
     "sources": [
@@ -97998,6 +99133,33 @@
         "plugin": "wikisource",
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷115",
+        "plugin": "wikisource",
+        "title": "史記 · 卷115",
+        "url": "https://zh.wikisource.org/wiki/史記/卷115",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "樓船請誅東越",
+    "title": "樓船請誅東越",
+    "summary": "樓船將軍楊仆上書請便引兵擊東越，天子以士卒勞倦，不許，罷兵。",
+    "tags": [
+      "將軍",
+      "東越",
+      "樓船",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
         "work": "史記"
       }
     ]
@@ -98173,6 +99335,26 @@
         "title": "楚辭 · 九章",
         "url": "https://zh.wikisource.org/wiki/楚辭/九章",
         "work": "楚辭"
+      }
+    ]
+  },
+  {
+    "slug": "橫海將軍出句章",
+    "title": "橫海將軍出句章",
+    "summary": "漢遣橫海將軍韓說出句章，浮海從東方往，以伐東越。",
+    "tags": [
+      "將軍",
+      "東越",
+      "句章",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
       }
     ]
   },
@@ -99142,7 +100324,8 @@
     "tags": [
       "治國",
       "心術",
-      "修身"
+      "修身",
+      "部:史"
     ],
     "sources": [
       {
@@ -100228,6 +101411,27 @@
     ]
   },
   {
+    "slug": "歸娶臨邛",
+    "title": "歸娶臨邛",
+    "summary": "相如歸蜀，家貧無以自業，因令王吉之招，與文君相悅而歸。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "卓文君",
+      "臨邛",
+      "婚姻"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "歸寧",
     "title": "歸寧",
     "summary": "已嫁女子歸省父母，以安親心。",
@@ -100637,6 +101841,26 @@
         "title": "詩經 · 殷其靁",
         "url": "https://zh.wikisource.org/wiki/詩經/殷其靁",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "殷勤通文君",
+    "title": "重賜文君侍者通殷勤",
+    "summary": "相如遣侍者厚賜文君之僕，通殷勤之情。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "卓文君",
+      "戀情"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
       }
     ]
   },
@@ -105147,6 +106371,27 @@
     ]
   },
   {
+    "slug": "涉何譖功",
+    "title": "涉何譖功",
+    "summary": "涉何出使朝鲜，不肯奉詔，反殺朝鲜裨王長以歸，誣以為功，竟拜遼東東部都尉，朝鲜怨而襲殺之。",
+    "tags": [
+      "史記",
+      "使者",
+      "朝鮮",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷115",
+        "plugin": "wikisource",
+        "title": "史記 · 卷115",
+        "url": "https://zh.wikisource.org/wiki/史記/卷115",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "涉江辟蛟龍",
     "title": "涉江辟蛟龍",
     "summary": "述渡江涉川辟蛟龍水神之方法。",
@@ -107043,6 +108288,46 @@
         "title": "禮記 · 緇衣",
         "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "滇王問漢與我大",
+    "title": "滇王問漢與我大",
+    "summary": "述滇王與漢使者問答及夜郎侯亦然，以道不通故各自以為一州主之事",
+    "tags": [
+      "滇王",
+      "夜郎",
+      "典故",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "滇王離難降漢",
+    "title": "滇王離難降漢",
+    "summary": "述漢發巴蜀兵擊滅勞浸靡莫，滇王舉國降，置益州郡，賜王印之事",
+    "tags": [
+      "滇",
+      "益州",
+      "郡縣",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
+        "work": "史記"
       }
     ]
   },
@@ -109274,6 +110559,26 @@
     ]
   },
   {
+    "slug": "烏有先生",
+    "title": "烏有先生",
+    "summary": "子虛所述虛構人物，烏有此事，蓋假以難子虛之夸楚。",
+    "tags": [
+      "史記",
+      "辭賦",
+      "烏有先生",
+      "假託"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "烏獲不能自舉",
     "title": "烏獲不能自舉",
     "summary": "力有所不能舉，雖千鈞之重，非勢不便，人亦不能自舉其身。",
@@ -110279,6 +111584,26 @@
         "title": "管子 · 爲兵之數",
         "url": "https://zh.wikisource.org/wiki/管子/七法/爲兵之數",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "無是公",
+    "title": "無是公",
+    "summary": "相如所述寓言人物，無是此人，乃明天子之義，斥齊楚之奢靡。",
+    "tags": [
+      "史記",
+      "無是公",
+      "辭賦",
+      "諷諫"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
       }
     ]
   },
@@ -112019,6 +113344,27 @@
     ]
   },
   {
+    "slug": "牂柯江",
+    "title": "牂柯江",
+    "summary": "述牂柯江之形勢及其為通南越要道之事",
+    "tags": [
+      "地理",
+      "水道",
+      "南越",
+      "部:史",
+      "部:史/地理類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "牂牂",
     "title": "牂牂",
     "summary": "楊葉盛貌",
@@ -112436,6 +113782,28 @@
     ]
   },
   {
+    "slug": "物開靜形生理",
+    "title": "物開靜形生理",
+    "summary": "物之生也，開於靜；形之成也，循其理。",
+    "tags": [
+      "管子",
+      "治道",
+      "自然",
+      "靜",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第09篇幼官圖",
+        "plugin": "wikisource",
+        "title": "管子 · 第09篇幼官圖",
+        "url": "https://zh.wikisource.org/wiki/管子/第09篇幼官圖",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "物類變化-之",
     "title": "物類變化-之",
     "summary": "",
@@ -112528,6 +113896,26 @@
         "plugin": "wikisource",
         "title": "史記 · 卷036",
         "url": "https://zh.wikisource.org/wiki/史記/卷036",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "犢鼻褌",
+    "title": "犢鼻褌",
+    "summary": "相如與文君當壚，令文君當壚而身自滌器，著犢鼻褌，與保庸雜作。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "犢鼻褌",
+      "當壚"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
         "work": "史記"
       }
     ]
@@ -112721,6 +114109,26 @@
         "title": "韓非子 · 外儲說左下",
         "url": "https://zh.wikisource.org/wiki/韓非子/外儲說左下",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "狗監",
+    "title": "狗監",
+    "summary": "楊得意為狗監，侍上，荐同鄉司馬相如。",
+    "tags": [
+      "史記",
+      "楊得意",
+      "司馬相如",
+      "狗監"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
       }
     ]
   },
@@ -115524,7 +116932,8 @@
     "tags": [
       "理財",
       "用人",
-      "適度"
+      "適度",
+      "部:其他"
     ],
     "sources": [
       {
@@ -116138,6 +117547,23 @@
     ]
   },
   {
+    "slug": "田蚡-之",
+    "title": "田蚡-之",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "田襄子",
     "title": "田襄子",
     "summary": "田氏既弒簡公，襄子嗣立於齊，遣兄弟宗人布列齊都，與三晉通使，田氏浸有齊國。",
@@ -116468,7 +117894,8 @@
       "楚",
       "申包胥",
       "秦",
-      "乞師"
+      "乞師",
+      "部:其他"
     ],
     "sources": [
       {
@@ -116938,7 +118365,8 @@
       "治道",
       "德治",
       "道",
-      "霸王"
+      "霸王",
+      "部:子"
     ],
     "sources": [
       {
@@ -117032,7 +118460,9 @@
       "史記",
       "南越",
       "任囂",
-      "地理"
+      "地理",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -117144,6 +118574,26 @@
         "title": "韓非子 · 孤憤",
         "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "當壚賣酒",
+    "title": "當壚賣酒",
+    "summary": "司馬相如與卓文君歸臨邛，酤酒為生，文君當壚，相如滌器，因以成富人。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "卓文君",
+      "臨邛"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
       }
     ]
   },
@@ -126099,6 +127549,27 @@
     ]
   },
   {
+    "slug": "竊聞長卿好之",
+    "title": "竊聞長卿好之",
+    "summary": "臨邛令為相如奏琴，稱竊聞其好之，蓋以琴心挑文君。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "臨邛令",
+      "琴",
+      "卓文君"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "竊華名者螻蜥騰霄",
     "title": "竊華名者螻蜥騰於雲霄",
     "summary": "盜取虛名者得志，而實不符者反得高位，以喻賢愚倒置。",
@@ -127198,6 +128669,27 @@
         "title": "周易 · 節",
         "url": "https://zh.wikisource.org/wiki/周易/節",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "節儉風諫",
+    "title": "節儉風諫",
+    "summary": "上林之賦卒章歸之節儉，以諷諫天子勿淫樂奢侈。",
+    "tags": [
+      "史記",
+      "辭賦",
+      "節儉",
+      "風諫",
+      "上林"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
       }
     ]
   },
@@ -131739,11 +133231,11 @@
       "尚同",
       "感知",
       "抱朴子",
-      "部:子",
-      "部:子/道家類",
       "君臣",
       "治道",
-      "輔佐"
+      "輔佐",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -135615,7 +137107,9 @@
       "兵法",
       "治道",
       "和平",
-      "霸王"
+      "霸王",
+      "部:子",
+      "部:子/兵家類"
     ],
     "sources": [
       {
@@ -138876,6 +140370,43 @@
     ]
   },
   {
+    "slug": "莊助-之",
+    "title": "莊助-之",
+    "summary": "",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "莊助發兵會稽",
+    "title": "莊助發兵會稽",
+    "summary": "莊助奉節發會稽兵救東甌，太守欲距不為發兵，助乃斬司馬以徇，遂發兵浮海。",
+    "tags": [
+      "將軍",
+      "會稽",
+      "東甌",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "莊周拒相",
     "title": "莊周拒相",
     "summary": "楚威王聞莊周賢，欲以相位迎之，莊周以郊祭犧牛為喻，辭而不仕。",
@@ -138967,6 +140498,26 @@
         "title": "莊子 · 天下",
         "url": "https://zh.wikisource.org/wiki/莊子/天下",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "莊蹻王滇",
+    "title": "莊蹻王滇",
+    "summary": "述楚將莊蹻循江略地至滇，因道塞而王滇之事",
+    "tags": [
+      "楚",
+      "滇",
+      "歷史",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
+        "work": "史記"
       }
     ]
   },
@@ -140598,6 +142149,26 @@
         "title": "周易 · 蒙",
         "url": "https://zh.wikisource.org/wiki/周易/蒙",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "蒙厚賜喻以威德",
+    "title": "蒙厚賜喻以威德",
+    "summary": "述唐蒙入夜郎、厚賜、曉以威德、約為置吏之事",
+    "tags": [
+      "夜郎",
+      "唐蒙",
+      "羗柯",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
+        "work": "史記"
       }
     ]
   },
@@ -143515,6 +145086,26 @@
     ]
   },
   {
+    "slug": "蜀郡成都",
+    "title": "蜀郡成都",
+    "summary": "司馬相如為蜀郡成都人。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "蜀郡",
+      "成都"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "蜈蚣禁蛇",
     "title": "蜈蚣禁蛇",
     "summary": "蜈蚣能以炁禁大蛇使之死，南人末之以治蛇瘡。",
@@ -146022,6 +147613,67 @@
         "title": "詩經 · 大東",
         "url": "https://zh.wikisource.org/wiki/詩經/大東",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "西南外徼莊蹻首通",
+    "title": "西南外徼莊蹻首通",
+    "summary": "太史公論西南夷緣起、置郡及滇王獨受王印之事",
+    "tags": [
+      "太史公",
+      "西南夷",
+      "滇",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "西南夷君長以什數",
+    "title": "西南夷君長以什數",
+    "summary": "述西南夷各族之分布、形制及其與巴蜀之關係",
+    "tags": [
+      "地理",
+      "族群",
+      "西南夷",
+      "部:史",
+      "部:史/地理類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "西南夷道罷",
+    "title": "西南夷道罷",
+    "summary": "述通西南夷道致戍轉乏費，公孫弘言不便，上乃罷西夷之事",
+    "tags": [
+      "西南夷",
+      "公孫弘",
+      "郡縣",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
+        "work": "史記"
       }
     ]
   },
@@ -154272,6 +155924,13 @@
         "title": "國語 · 卷20",
         "url": "https://zh.wikisource.org/wiki/國語/卷20",
         "work": "國語"
+      },
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
       }
     ]
   },
@@ -154358,6 +156017,43 @@
         "plugin": "wikisource",
         "title": "史記 · 卷041",
         "url": "https://zh.wikisource.org/wiki/史記/卷041",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "越衍侯吳陽反攻",
+    "title": "越衍侯吳陽反攻",
+    "summary": "故越衍侯吳陽前在漢，漢使歸曉馀善弗聽，乃以邑七百人反，攻馀善軍於漢陽。",
+    "tags": [
+      "東越",
+      "內應",
+      "歸漢",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "越雖蠻夷",
+    "title": "越雖蠻夷",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
         "work": "史記"
       }
     ]
@@ -163071,6 +164767,26 @@
     ]
   },
   {
+    "slug": "鏦殺王以降",
+    "title": "鏦殺王以降",
+    "summary": "馀善與相宗族共謀，鏦殺閩越王郢，遣使致其頭於漢，以謝罪而罷兵。",
+    "tags": [
+      "東越",
+      "誅殺",
+      "謝罪",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷114",
+        "plugin": "wikisource",
+        "title": "史記 · 卷114",
+        "url": "https://zh.wikisource.org/wiki/史記/卷114",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "鐘鼓喤喤磬筦將將",
     "title": "鐘鼓喤喤，磬筦將將",
     "summary": "樂器和鳴，祭享之盛",
@@ -165107,7 +166823,8 @@
     "tags": [
       "魯",
       "陽虎",
-      "政變"
+      "政變",
+      "部:子"
     ],
     "sources": [
       {
@@ -165894,6 +167611,25 @@
     ]
   },
   {
+    "slug": "雍容間雅",
+    "title": "雍容間雅",
+    "summary": "司馬相如車騎至臨邛，雍容閒雅甚都，舉止風度出眾。",
+    "tags": [
+      "史記",
+      "司馬相如",
+      "風度"
+    ],
+    "sources": [
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "雍齒叛",
     "title": "雍齒叛",
     "summary": "雍齒本為沛公守豐，既而降魏，沛公攻之不能取。",
@@ -166476,7 +168212,12 @@
     "title": "雲夢遊",
     "summary": "",
     "tags": [
-      "部:其他"
+      "部:其他",
+      "史記",
+      "雲夢",
+      "子虛",
+      "楚",
+      "苑囿"
     ],
     "sources": [
       {
@@ -166484,6 +168225,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷056",
         "url": "https://zh.wikisource.org/wiki/史記/卷056",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷117",
+        "plugin": "wikisource",
+        "title": "史記 · 卷117",
+        "url": "https://zh.wikisource.org/wiki/史記/卷117",
         "work": "史記"
       }
     ]
@@ -169237,6 +170985,26 @@
     ]
   },
   {
+    "slug": "頭蘭常隔滇道",
+    "title": "頭蘭常隔滇道",
+    "summary": "述頭蘭阻隔滇道，漢誅之遂通西南夷之事",
+    "tags": [
+      "頭蘭",
+      "滇",
+      "西南夷",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷116",
+        "plugin": "wikisource",
+        "title": "史記 · 卷116",
+        "url": "https://zh.wikisource.org/wiki/史記/卷116",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "頻巽之吝",
     "title": "頻巽之吝",
     "summary": "頻於順從而志不遂，是以前途窒塞。",
@@ -171543,7 +173311,8 @@
     "tags": [
       "治道",
       "君民",
-      "同利"
+      "同利",
+      "部:子"
     ],
     "sources": [
       {
@@ -173745,7 +175514,8 @@
       "卜式",
       "兒寬",
       "賢才",
-      "班固"
+      "班固",
+      "部:史"
     ],
     "sources": [
       {
@@ -174331,7 +176101,9 @@
       "史記",
       "南越",
       "稱制",
-      "天子儀物"
+      "天子儀物",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
