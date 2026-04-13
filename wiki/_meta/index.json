@@ -150,6 +150,27 @@
     ]
   },
   {
+    "slug": "一定不移",
+    "title": "一定不移",
+    "summary": "天道恆常，古今一也；莫樂莫哀，莫生莫死。",
+    "tags": [
+      "管子",
+      "天道",
+      "治道",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第02篇形勢",
+        "plugin": "wikisource",
+        "title": "管子 · 第02篇形勢",
+        "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "一家二貴",
     "title": "一家二貴",
     "summary": "一家二貴，事乃無功",
@@ -167,6 +188,27 @@
         "title": "韓非子 · 揚榷",
         "url": "https://zh.wikisource.org/wiki/韓非子/揚榷",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "一年之計莫如樹穀",
+    "title": "一年之計莫如樹穀",
+    "summary": "治國當遠近兼顧，以人為本。",
+    "tags": [
+      "治國",
+      "遠略",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
       }
     ]
   },
@@ -232,6 +274,26 @@
         "title": "詩經 · 子衿",
         "url": "https://zh.wikisource.org/wiki/詩經/子衿",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "一明一晦",
+    "title": "一明一晦",
+    "summary": "專用聰明則功不成，專用晦昧則事必悖，明晦迭用，眾乃載之。",
+    "tags": [
+      "明晦",
+      "適中",
+      "用人",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
       }
     ]
   },
@@ -547,6 +609,27 @@
     ]
   },
   {
+    "slug": "一體之治",
+    "title": "一體之治",
+    "summary": "一體之治，在去奇說、禁雕俗，使令出一門、法著於眾。",
+    "tags": [
+      "軍事",
+      "治國",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "選陳",
+        "plugin": "wikisource",
+        "title": "管子 · 選陳",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/選陳",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "一齊人傅之眾楚人咻之",
     "title": "一齊人傅之眾楚人咻之",
     "summary": "環境浸染之力，一人教之而眾咻之，雖日撻而求其齊，不可得也。",
@@ -811,6 +894,36 @@
     ]
   },
   {
+    "slug": "七法",
+    "title": "七法",
+    "summary": "管子論治世之七法：則、象、法、化、決塞、心術、計數，所以正名實、定賞罰、明機變，而致天下之治也。",
+    "tags": [
+      "法家",
+      "管子",
+      "治道",
+      "治國",
+      "兵法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法",
+        "work": "管子"
+      },
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "七王之反",
     "title": "七王之反",
     "summary": "吳楚七國連兵反，膠西、膠東、菑川、濟南皆應，齊獨守不下。",
@@ -869,6 +982,25 @@
         "title": "詩經 · 大東",
         "url": "https://zh.wikisource.org/wiki/詩經/大東",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "七觀",
+    "title": "七觀",
+    "summary": "善政之效，百姓自然嚮化。",
+    "tags": [
+      "治國",
+      "教化",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第04篇立政",
+        "plugin": "wikisource",
+        "title": "管子 · 第04篇立政",
+        "url": "https://zh.wikisource.org/wiki/管子/第04篇立政",
+        "work": "管子"
       }
     ]
   },
@@ -1141,6 +1273,26 @@
         "title": "孟子 · 滕文公上",
         "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "三令五申",
+    "title": "三令五申",
+    "summary": "將戰有司讀誥誓，三令五申，既畢然後即敵，此誓師之禮也。",
+    "tags": [
+      "誓師",
+      "軍令",
+      "禮儀",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
       }
     ]
   },
@@ -1677,6 +1829,13 @@
         "title": "荀子 · 禮論篇",
         "url": "https://zh.wikisource.org/wiki/荀子/禮論篇",
         "work": "荀子"
+      },
+      {
+        "chapter": "第04篇立政",
+        "plugin": "wikisource",
+        "title": "管子 · 第04篇立政",
+        "url": "https://zh.wikisource.org/wiki/管子/第04篇立政",
+        "work": "管子"
       }
     ]
   },
@@ -2255,6 +2414,27 @@
     ]
   },
   {
+    "slug": "上下之和",
+    "title": "上下之和",
+    "summary": "上下不和，令乃不行；君不君則臣不臣。",
+    "tags": [
+      "管子",
+      "治道",
+      "君臣",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第02篇形勢",
+        "plugin": "wikisource",
+        "title": "管子 · 第02篇形勢",
+        "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "上下交樸",
     "title": "上下交樸",
     "summary": "君臣以道相交，則無忿怒之毒、伏怨之患，治之至也。",
@@ -2365,6 +2545,25 @@
     ]
   },
   {
+    "slug": "上下篇",
+    "title": "上下篇",
+    "summary": "《尹文子》後分為上下二篇。",
+    "tags": [
+      "典籍",
+      "尹文子",
+      "篇章"
+    ],
+    "sources": [
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "尹文子 · 序",
+        "url": "https://zh.wikisource.org/wiki/尹文子/序",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "上下順",
     "title": "上下順",
     "summary": "上下以正道相應，則無所不利。",
@@ -2382,6 +2581,27 @@
         "title": "周易 · 蒙",
         "url": "https://zh.wikisource.org/wiki/周易/蒙",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "上不好本事則末產不禁",
+    "title": "上不好本事則末產不禁",
+    "summary": "治國當以農桑為本，本末不可倒置。",
+    "tags": [
+      "治國",
+      "本末",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
       }
     ]
   },
@@ -2446,6 +2666,27 @@
         "title": "韓非子 · 問辯",
         "url": "https://zh.wikisource.org/wiki/韓非子/問辯",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "上之所以率下",
+    "title": "上之所以率下",
+    "summary": "上行下效，治亂由之",
+    "tags": [
+      "治道",
+      "尹文子",
+      "政治批判",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
       }
     ]
   },
@@ -3014,6 +3255,27 @@
         "title": "商君書 · 卷二",
         "url": "https://zh.wikisource.org/wiki/商君書/卷二",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "上身服以先之",
+    "title": "上身服以先之",
+    "summary": "在上者當以身作則，先行而後教。",
+    "tags": [
+      "為政",
+      "躬行",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
       }
     ]
   },
@@ -3963,7 +4225,11 @@
     "title": "不嗜殺人者能一之",
     "summary": "天下一統，唯不好殺人者能致之",
     "tags": [
-      "部:其他"
+      "治道",
+      "民心",
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -3972,6 +4238,13 @@
         "title": "孟子 · 梁惠王上",
         "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
         "work": "孟子"
+      },
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
       }
     ]
   },
@@ -4374,6 +4647,27 @@
     ]
   },
   {
+    "slug": "不徧知天下不能正天下",
+    "title": "不徧知天下不能正天下",
+    "summary": "管子論徧知天下乃可正天下，必賴明於機數為用兵之勢，以成霸王之功也。",
+    "tags": [
+      "法家",
+      "管子",
+      "兵法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "不忍人之心",
     "title": "不忍人之心",
     "summary": "人皆有怵惕惻隱之心，先王本此心以行不忍人之政，故治天下可運之掌上。",
@@ -4759,6 +5053,27 @@
     ]
   },
   {
+    "slug": "不欺其民",
+    "title": "不欺其民",
+    "summary": "施政不可欺民，不可僥倖於一時。",
+    "tags": [
+      "治道",
+      "民本",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "不死之藥",
     "title": "有獻不死之藥於荆王者",
     "summary": "食不死之藥而王殺臣，是死藥也，客欺王也",
@@ -4905,6 +5220,47 @@
     ]
   },
   {
+    "slug": "不為不可成",
+    "title": "不為不可成",
+    "summary": "度力而為，不強致其所不能。",
+    "tags": [
+      "治道",
+      "量力",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "不為指而謂之指",
+    "title": "不為指而謂之指",
+    "summary": "物本自有其名，乃世人不察，強名之為指。",
+    "tags": [
+      "公孫龍",
+      "名實",
+      "指物",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "3",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 3",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/3",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "不為與不能",
     "title": "不為與不能",
     "summary": "不肯為者，非不能也；真不能者，挾泰山以超北海",
@@ -4922,6 +5278,43 @@
         "title": "孟子 · 梁惠王上",
         "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "不然不得",
+    "title": "不然不得",
+    "summary": "事物迭相倚伏，不如此則不得，此天地之常理、聖人之觀察也。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "不犯天時不亂民功",
+    "title": "不犯天時不亂民功",
+    "summary": "循天時而不妄作，順民心而不擾事，此治世之紀也。",
+    "tags": [
+      "天時",
+      "治民",
+      "聖人",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -5878,7 +6271,9 @@
     "tags": [
       "天人",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -6084,7 +6479,8 @@
     "tags": [
       "寓言",
       "用與無用",
-      "惠子"
+      "惠子",
+      "部:子"
     ],
     "sources": [
       {
@@ -6938,6 +7334,26 @@
     ]
   },
   {
+    "slug": "中石沒鏃",
+    "title": "中石沒鏃",
+    "summary": "廣射虎，誤以石為虎，矢沒入石。",
+    "tags": [
+      "故事",
+      "射",
+      "勇力",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "中者上不及堯舜下不為桀紂",
     "title": "中者上不及堯舜下不為桀紂",
     "summary": "言勢者取其中：中人抱法處勢，堯桀之至，皆可以治。",
@@ -7018,6 +7434,76 @@
         "title": "國語 · 卷15",
         "url": "https://zh.wikisource.org/wiki/國語/卷15",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "中行說教匈奴記法",
+    "title": "中行說教匈奴記法",
+    "summary": "中行說教匈奴以疏記之法，課校人眾畜物，以計課為要。",
+    "tags": [
+      "匈奴",
+      "中行說",
+      "疏記",
+      "記法"
+    ],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "中行說教疏記",
+    "title": "中行說教疏記",
+    "summary": "中行說令單于以尺二寸牘遺漢，辭稱天地所生日月所置，傲慢其辭。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "中行說降匈奴",
+    "title": "中行說降匈奴",
+    "summary": "中行說被迫使匈奴，因降之，教單于左右疏記以計課人眾畜物。",
+    "tags": [
+      "匈奴",
+      "中行說",
+      "和親",
+      "老上單于"
+    ],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "中行說難漢使",
+    "title": "中行說難漢使",
+    "summary": "中行說教單于候利害，與漢使詰辯，務在詰折漢物。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
       }
     ]
   },
@@ -7659,7 +8145,9 @@
     "tags": [
       "逍遙",
       "無待",
-      "至道"
+      "至道",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -7776,6 +8264,26 @@
     ]
   },
   {
+    "slug": "乘眾人智則無不任",
+    "title": "乘眾人智則無不任",
+    "summary": "專己之能者智窮，乘眾人之智者無不勝。",
+    "tags": [
+      "任賢",
+      "眾智",
+      "治道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "主術訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 主術訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/主術訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "乘蹻",
     "title": "乘蹻",
     "summary": "服符思神，乘龍虎鹿盧以遊天下之法，有三蹻之術。",
@@ -7806,7 +8314,16 @@
       "屯卦",
       "行事",
       "部:經",
-      "部:經/易類"
+      "部:經/易類",
+      "治國",
+      "行政",
+      "地理",
+      "財賦",
+      "市場",
+      "水利",
+      "賦稅",
+      "農業",
+      "四民"
     ],
     "sources": [
       {
@@ -7815,6 +8332,13 @@
         "title": "周易 · 屯",
         "url": "https://zh.wikisource.org/wiki/周易/屯",
         "work": "周易"
+      },
+      {
+        "chapter": "第05篇乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第05篇乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第05篇乘馬",
+        "work": "管子"
       }
     ]
   },
@@ -7999,6 +8523,25 @@
         "title": "史記 · 卷002",
         "url": "https://zh.wikisource.org/wiki/史記/卷002",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "九敗",
+    "title": "九敗",
+    "summary": "亂國之九說，君主不可從。",
+    "tags": [
+      "治國",
+      "警戒",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第04篇立政",
+        "plugin": "wikisource",
+        "title": "管子 · 第04篇立政",
+        "url": "https://zh.wikisource.org/wiki/管子/第04篇立政",
+        "work": "管子"
       }
     ]
   },
@@ -8353,6 +8896,27 @@
         "title": "詩經 · 瞻卬",
         "url": "https://zh.wikisource.org/wiki/詩經/瞻卬",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "予之為取",
+    "title": "予之為取",
+    "summary": "政之寶在知予之為取，先予而後取。",
+    "tags": [
+      "治道",
+      "政治",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
       }
     ]
   },
@@ -9221,6 +9785,13 @@
         "title": "史記 · 卷038",
         "url": "https://zh.wikisource.org/wiki/史記/卷038",
         "work": "史記"
+      },
+      {
+        "chapter": "第04篇立政",
+        "plugin": "wikisource",
+        "title": "管子 · 第04篇立政",
+        "url": "https://zh.wikisource.org/wiki/管子/第04篇立政",
+        "work": "管子"
       }
     ]
   },
@@ -9419,6 +9990,27 @@
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "五勝三至",
+    "title": "五勝三至",
+    "summary": "鄒衍所言辯者之得失，辭至為下，辯當別殊類、序異端，而非務相迷。",
+    "tags": [
+      "鄒衍",
+      "論辯",
+      "名家",
+      "辯之得失",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "原序",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 原序",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/原序",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -10033,6 +10625,28 @@
         "title": "史記 · 卷023",
         "url": "https://zh.wikisource.org/wiki/史記/卷023",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "五色五聲",
+    "title": "五色五聲",
+    "summary": "五色不亂孰為文采，五聲不亂孰應六律；猶道德不廢不取仁義也。",
+    "tags": [
+      "莊子",
+      "五色",
+      "五聲",
+      "仁義",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
       }
     ]
   },
@@ -10851,6 +11465,26 @@
     ]
   },
   {
+    "slug": "人主之聽治清心弱志",
+    "title": "人主之聽治清心弱志",
+    "summary": "君靜臣動，各守其道，則上下相使而治國明。",
+    "tags": [
+      "君道",
+      "清心",
+      "虛靜",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "主術訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 主術訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/主術訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "人主之過在已任臣",
     "title": "人主之過在已任臣",
     "summary": "人主任臣而復疑之，反為不任者所制。",
@@ -11218,6 +11852,46 @@
         "title": "禮記 · 禮運",
         "url": "https://zh.wikisource.org/wiki/禮記/禮運",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "人情不二",
+    "title": "人情不二",
+    "summary": "人情同一，故可御可治。",
+    "tags": [
+      "人性",
+      "治民",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "人情大趣",
+    "title": "人情大趣",
+    "summary": "貧則怨人賤則怨時，莫有自怨者，此人情之大趣也。",
+    "tags": [
+      "人情",
+      "修身",
+      "尹文子"
+    ],
+    "sources": [
+      {
+        "chapter": "大道下",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道下",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道下",
+        "work": "尹文子"
       }
     ]
   },
@@ -12855,6 +13529,81 @@
     ]
   },
   {
+    "slug": "令行禁止",
+    "title": "令行禁止",
+    "summary": "令在必行，禁在必止，則天下服矣。",
+    "tags": [
+      "治道",
+      "賞罰",
+      "管子",
+      "法家",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "爲兵之數",
+        "plugin": "wikisource",
+        "title": "管子 · 爲兵之數",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/爲兵之數",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "令貴於寶",
+    "title": "令貴於寶",
+    "summary": "管子論令重於寶、社稷重於親、法重於人、威重於祿，治世者當通此四者，不通則反於無有也。",
+    "tags": [
+      "法家",
+      "管子",
+      "治道",
+      "治國",
+      "令",
+      "寶",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法",
+        "work": "管子"
+      },
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "令順民心",
+    "title": "令順民心",
+    "summary": "法令之發布，當以民心之好惡為本。",
+    "tags": [
+      "民本",
+      "令制",
+      "管子",
+      "政治",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "以不平平其平不平",
     "title": "以不平平其平不平",
     "summary": "以不均齊均均愈失",
@@ -13015,6 +13764,27 @@
         "title": "抱朴子 · 卷32",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷32",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "以其所積者食之",
+    "title": "以其所積者食之",
+    "summary": "治民者賞罰當視其功積之多寡為準。",
+    "tags": [
+      "賞罰",
+      "治民",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
       }
     ]
   },
@@ -13300,6 +14070,27 @@
     ]
   },
   {
+    "slug": "以家為家以鄉為鄉",
+    "title": "以家為家以鄉為鄉",
+    "summary": "各正其分，毋以家兼鄉、鄉兼國、國兼天下。",
+    "tags": [
+      "治道",
+      "分際",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "以容取人",
     "title": "以容取人",
     "summary": "觀容取人，往往失之；試之官職，方驗智愚。",
@@ -13427,9 +14218,9 @@
       "莊子",
       "政治哲學",
       "養生",
+      "達生",
       "部:子",
-      "部:子/道家類",
-      "達生"
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -13486,6 +14277,27 @@
         "title": "抱朴子 · 卷45",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷45",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "以度量衡",
+    "title": "以度量衡",
+    "summary": "度量衡名法皆以審物之理",
+    "tags": [
+      "治道",
+      "尹文子",
+      "名實",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
       }
     ]
   },
@@ -13833,6 +14645,26 @@
     ]
   },
   {
+    "slug": "以智力求者喻如奕棋",
+    "title": "以智力求者喻如奕棋",
+    "summary": "以智力求喻如奕棋，進退攻劫在我，棋之成敗決於主觀，非如博者之遇也。",
+    "tags": [
+      "智",
+      "奕",
+      "主客",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "以智治國國之賊也-之",
     "title": "以智治國國之賊也-之",
     "summary": "",
@@ -13867,6 +14699,28 @@
         "title": "韓非子 · 難言",
         "url": "https://zh.wikisource.org/wiki/韓非子/難言",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "以有涯隨無涯",
+    "title": "以有涯隨無涯",
+    "summary": "生命有限而知識無涯，以有限逐無限則危殆矣",
+    "tags": [
+      "莊子",
+      "養生",
+      "人生觀",
+      "知止",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "養生主",
+        "plugin": "wikisource",
+        "title": "莊子 · 養生主",
+        "url": "https://zh.wikisource.org/wiki/莊子/養生主",
+        "work": "莊子"
       }
     ]
   },
@@ -14051,6 +14905,25 @@
     ]
   },
   {
+    "slug": "以法治國",
+    "title": "以法治國",
+    "summary": "以法治國，举措而已，法制為治之要具。",
+    "tags": [
+      "法制",
+      "治國",
+      "法治"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權脩",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權脩",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權脩",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "以法治國舉措而已",
     "title": "以法治國舉措而已",
     "summary": "治國之要，在依法行事，不在私意。",
@@ -14185,7 +15058,9 @@
     "tags": [
       "養生",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -14194,6 +15069,26 @@
         "title": "莊子 · 達生",
         "url": "https://zh.wikisource.org/wiki/莊子/達生",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "以當而當",
+    "title": "以當而當",
+    "summary": "名當其實，實副其名，是之謂正。",
+    "tags": [
+      "名學",
+      "公孫龍子",
+      "哲學",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "6",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 6",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/6",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -14447,6 +15342,26 @@
         "title": "史記 · 卷077",
         "url": "https://zh.wikisource.org/wiki/史記/卷077",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "以虛統物",
+    "title": "以虛統物",
+    "summary": "聖人淡然忘懷，以虛名統御萬物，故物無不治，理無不極。",
+    "tags": [
+      "公孫龍",
+      "聖人之道",
+      "名實",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "2",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 2",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/2",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -14919,6 +15834,26 @@
         "title": "韓非子 · 難言",
         "url": "https://zh.wikisource.org/wiki/韓非子/難言",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "仲尼異楚人於所謂人",
+    "title": "仲尼異楚人於所謂人",
+    "summary": "孔子異楚王「楚人得弓」之說，廣以為「人得之」，公孫龍據此喻白馬非馬之說不悖。",
+    "tags": [
+      "孔子",
+      "公孫龍子",
+      "名實",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 1",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/1",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -16009,6 +16944,27 @@
     ]
   },
   {
+    "slug": "伐矜之禍",
+    "title": "伐矜之禍",
+    "summary": "矜伐好專，舉事之禍也。聖人持滿，與天合德。",
+    "tags": [
+      "管子",
+      "政治哲學",
+      "修身",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第02篇形勢",
+        "plugin": "wikisource",
+        "title": "管子 · 第02篇形勢",
+        "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "伐蜀",
     "title": "伐蜀",
     "summary": "秦併巴蜀以廣地益強，司馬錯之策勝於張儀之議。",
@@ -16311,6 +17267,27 @@
     ]
   },
   {
+    "slug": "伯樂之罪",
+    "title": "伯樂之罪",
+    "summary": "馬加衡扼月題而知介倪闉枙騺曼詭銜竊轡，是伯樂激之使然，故馬之知而能至盜者，伯樂之罪。",
+    "tags": [
+      "莊子",
+      "伯樂",
+      "歸過",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "伯樂教所憎者相千里",
     "title": "伯樂教所憎者相千里馬",
     "summary": "利緩者人忽，利急者人爭；遠利難見，近利易惑。",
@@ -16327,6 +17304,27 @@
         "title": "韓非子 · 說林下",
         "url": "https://zh.wikisource.org/wiki/韓非子/說林下",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "伯樂治馬",
+    "title": "伯樂治馬",
+    "summary": "伯樂以種種法制治馬，馬死者十二三；加以飢渴馳驟，鞭筴之威，死者過半。",
+    "tags": [
+      "莊子",
+      "伯樂",
+      "反異化",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
       }
     ]
   },
@@ -16646,6 +17644,26 @@
         "title": "詩經 · 正月",
         "url": "https://zh.wikisource.org/wiki/詩經/正月",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "位",
+    "title": "位",
+    "summary": "實之所充，無有空闕。",
+    "tags": [
+      "名學",
+      "公孫龍子",
+      "哲學",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "6",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 6",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/6",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -17286,6 +18304,26 @@
     ]
   },
   {
+    "slug": "佞人善譽",
+    "title": "佞人善譽",
+    "summary": "佞人順從人之所憎，同己則是、異己則非，善以譽惑人，聖主亦難辨焉。",
+    "tags": [
+      "佞人",
+      "譽毀",
+      "辨奸",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "佞人相汲引而柴正路",
     "title": "佞人相汲引而柴正路",
     "summary": "奸佞之人互相援引，塞絕正直之路，以喻朋黨害賢。",
@@ -17543,6 +18581,26 @@
     ]
   },
   {
+    "slug": "使人自為用",
+    "title": "使人自為用",
+    "summary": "君人者使人，使其自為用而不使為我用，此古者君使臣之要義也。",
+    "tags": [
+      "君臣",
+      "用人",
+      "無為",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "使其中有可欲者",
     "title": "使其中有可欲者",
     "summary": "張釋之謂厚葬之塚若有可欲之物，雖錮以南山猶有隙；苟無可欲，雖無石槨亦無所戚。",
@@ -17561,6 +18619,27 @@
         "title": "史記 · 卷102",
         "url": "https://zh.wikisource.org/wiki/史記/卷102",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "使各為其所長",
+    "title": "使各為其所長",
+    "summary": "使民各以其所長任事，才能各得其用。",
+    "tags": [
+      "任人",
+      "治道",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
       }
     ]
   },
@@ -18293,6 +19372,29 @@
     ]
   },
   {
+    "slug": "便辟不得增功",
+    "title": "便辟不得增功",
+    "summary": "近習便辟之臣，不得因其親昵而妄加其功。",
+    "tags": [
+      "管子",
+      "賞罰",
+      "法治",
+      "便辟",
+      "公正",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "係丈夫志舍下",
     "title": "係丈夫志舍下",
     "summary": "從求君子，志在兼善，捨去小人。",
@@ -18456,6 +19558,27 @@
         "title": "抱朴子 · 卷13",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "俗與物",
+    "title": "俗與物",
+    "summary": "世俗所貴所用各異，所齊所飾不可不慎",
+    "tags": [
+      "治道",
+      "尹文子",
+      "風俗",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
       }
     ]
   },
@@ -18976,6 +20099,23 @@
         "title": "抱朴子 · 卷52",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷52",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "修陰陽之從",
+    "title": "修陰陽之從",
+    "summary": "修明陰陽之正道，法天地之常，此聖人輔相天地之治也。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -20306,6 +21446,26 @@
     ]
   },
   {
+    "slug": "億億無差",
+    "title": "億億無差",
+    "summary": "數之起於一，推之億億萬萬皆無差，數術之基在茲。",
+    "tags": [
+      "數術",
+      "萬",
+      "億",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "億則屢中",
     "title": "億則屢中",
     "summary": "謂料事揣時，屢中的也。",
@@ -21291,6 +22451,26 @@
     ]
   },
   {
+    "slug": "先德後刑",
+    "title": "先德後刑",
+    "summary": "治世以德為本、刑為末，先德後刑，乃順天之道也。",
+    "tags": [
+      "德刑",
+      "治道",
+      "順天",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "先戒為寶",
     "title": "先戒為寶",
     "summary": "國家防備，先戒為最貴之事。",
@@ -21308,6 +22488,26 @@
         "title": "吳子",
         "url": "https://zh.wikisource.org/wiki/吳子",
         "work": "吳子"
+      }
+    ]
+  },
+  {
+    "slug": "先敎後師之悖",
+    "title": "先敎後師之悖",
+    "summary": "欲為龍弟子，先令龍去白馬非馬之教，是先教而後師，悖理也。",
+    "tags": [
+      "師道",
+      "辯論",
+      "公孫龍子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 1",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/1",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -22591,6 +23791,26 @@
     ]
   },
   {
+    "slug": "兩智不能相使",
+    "title": "兩智不能相使",
+    "summary": "兩智不相使，兩貴不相臨，兩辨不相屈，皆由力均勢敵故也。",
+    "tags": [
+      "勢均",
+      "對等",
+      "權衡",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "兩用公仲公叔",
     "title": "兩用公仲公叔",
     "summary": "兩用大臣必將争事而外市，國必憂矣。",
@@ -22863,6 +24083,25 @@
         "title": "韓非子 · 八說",
         "url": "https://zh.wikisource.org/wiki/韓非子/八說",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "八術",
+    "title": "八術",
+    "summary": "仁義禮樂名法刑賞，治世之八法，各有利弊，用得其道則天下治。",
+    "tags": [
+      "治國",
+      "名法",
+      "尹文子"
+    ],
+    "sources": [
+      {
+        "chapter": "大道下",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道下",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道下",
+        "work": "尹文子"
       }
     ]
   },
@@ -23215,6 +24454,27 @@
     ]
   },
   {
+    "slug": "公子牟善公孫龍",
+    "title": "公子牟善公孫龍",
+    "summary": "公孫龍與魏公子牟相善，公子牟不以世人譏議為尤。",
+    "tags": [
+      "公子牟",
+      "公孫龍",
+      "友誼",
+      "先秦諸子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "原序",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 原序",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/原序",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "公子糾將為亂",
     "title": "公子糾將為亂",
     "summary": "觀人之笑樂視見，可占其心之邪正。",
@@ -23520,7 +24780,10 @@
       "鄒衍",
       "史記",
       "部:史",
-      "部:史/正史類"
+      "部:史/正史類",
+      "稷下",
+      "師承",
+      "尹文子"
     ],
     "sources": [
       {
@@ -23529,6 +24792,76 @@
         "title": "史記 · 卷076",
         "url": "https://zh.wikisource.org/wiki/史記/卷076",
         "work": "史記"
+      },
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "尹文子 · 序",
+        "url": "https://zh.wikisource.org/wiki/尹文子/序",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
+    "slug": "公孫龍佞給漫衍",
+    "title": "公孫龍佞給漫衍",
+    "summary": "樂正子輿譏公孫龍佞給不中、漫衍無家、好怪妄言，欲惑人心、屈人口。",
+    "tags": [
+      "公孫龍",
+      "樂正子輿",
+      "譏刺",
+      "名家",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "原序",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 原序",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/原序",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
+    "slug": "公孫龍字子秉",
+    "title": "公孫龍字子秉",
+    "summary": "序言公孫龍之名字里籍，以堅白之辯鳴世。",
+    "tags": [
+      "公孫龍",
+      "名實",
+      "堅白之辯",
+      "先秦諸子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "原序",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 原序",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/原序",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
+    "slug": "公孫龍書六篇虛誕",
+    "title": "公孫龍書六篇虛誕",
+    "summary": "序者言公孫龍所著六篇，多虛誕不可解，註釋之際心存疑信。",
+    "tags": [
+      "公孫龍",
+      "著作",
+      "文本",
+      "名家",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "原序",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 原序",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/原序",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -24630,6 +25963,36 @@
     ]
   },
   {
+    "slug": "兵主之事",
+    "title": "兵主之事",
+    "summary": "管子論兵主之事有五要：審於地圖、謀十官、量蓄積、齊勇士、徧知天下、審御機數，乃可以興風雨之行、雷電之戰，成水旱之功、金城之守、一體之治也。",
+    "tags": [
+      "法家",
+      "管子",
+      "兵法",
+      "軍事",
+      "將帥",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法",
+        "work": "管子"
+      },
+      {
+        "chapter": "選陳",
+        "plugin": "wikisource",
+        "title": "管子 · 選陳",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/選陳",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "兵半用",
     "title": "兵半用",
     "summary": "賞罰之利出於二塗，則兵半為國用，半為姦利用。",
@@ -25307,6 +26670,26 @@
     ]
   },
   {
+    "slug": "其身正不令而行",
+    "title": "其身正，不令而行",
+    "summary": "為將者身教重於言教。",
+    "tags": [
+      "治道",
+      "將軍",
+      "德行",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "其雨杲日",
     "title": "其雨杲日",
     "summary": "望之切而事與願違，以喻思夫而不見也。",
@@ -25811,6 +27194,77 @@
         "title": "禮記 · 喪服小記",
         "url": "https://zh.wikisource.org/wiki/禮記/喪服小記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "冒頓控弦三十萬",
+    "title": "冒頓控弦三十萬",
+    "summary": "冒頓自立後，控弦之士三十餘萬，南與中國為敵國。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "冒頓東胡之戰",
+    "title": "冒頓東胡之戰",
+    "summary": "冒頓擊滅東胡，南并樓煩、白羊河南王，匈奴最稱強大。",
+    "tags": [
+      "匈奴",
+      "冒頓",
+      "東胡",
+      "樓煩",
+      "白羊河南王"
+    ],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "冒頓自立",
+    "title": "冒頓自立",
+    "summary": "冒頓殺父射鳴鏑，遂自立為單于，席捲北夷。",
+    "tags": [
+      "匈奴",
+      "冒頓",
+      "單于",
+      "鳴鏑"
+    ],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "冒頓遺呂后書",
+    "title": "冒頓遺呂后書",
+    "summary": "冒頓遣書戲辱高后，高后欲擊之，諸將以平城之困止之。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
       }
     ]
   },
@@ -26420,6 +27874,25 @@
     ]
   },
   {
+    "slug": "分國以為五鄉",
+    "title": "分國以為五鄉",
+    "summary": "地方行政之制，自五鄉至什伍，層層相維。",
+    "tags": [
+      "行政制度",
+      "地方治理",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第04篇立政",
+        "plugin": "wikisource",
+        "title": "管子 · 第04篇立政",
+        "url": "https://zh.wikisource.org/wiki/管子/第04篇立政",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "分定而不偏",
     "title": "分定而不偏",
     "summary": "分均則不偏，埶齊則不壹，眾齊則不使。分者，天下之本也。",
@@ -26639,6 +28112,26 @@
         "title": "韓非子 · 三守",
         "url": "https://zh.wikisource.org/wiki/韓非子/三守",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "刑名家",
+    "title": "刑名家",
+    "summary": "戰國論名實、法治之學派。",
+    "tags": [
+      "戰國",
+      "學派",
+      "名實",
+      "法治"
+    ],
+    "sources": [
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "尹文子 · 序",
+        "url": "https://zh.wikisource.org/wiki/尹文子/序",
+        "work": "尹文子"
       }
     ]
   },
@@ -27538,6 +29031,28 @@
         "title": "抱朴子 · 卷14",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "則",
+    "title": "則",
+    "summary": "法象之總名，天地萬物固有之理，雖變不失其常也。",
+    "tags": [
+      "管子",
+      "七法",
+      "哲學",
+      "自然",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
+        "work": "管子"
       }
     ]
   },
@@ -28746,6 +30261,27 @@
     ]
   },
   {
+    "slug": "務在四時守在倉廩",
+    "title": "務在四時守在倉廩",
+    "summary": "治國之本，在順四時之節，守護倉儲之積。",
+    "tags": [
+      "治道",
+      "經濟",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "務成子法",
     "title": "務成子法",
     "summary": "以雄黃為泥塗裹鐵筩，加丹砂水、馬通火煴，可得雄黃精，再以水銀、鉛可成金，其效驗神通廣大。",
@@ -28783,6 +30319,27 @@
         "title": "六韜",
         "url": "https://zh.wikisource.org/wiki/六韜",
         "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "勝敵國有理",
+    "title": "勝敵國有理",
+    "summary": "兵必勝敵國矣，而不明正天下之分，猶之不可。",
+    "tags": [
+      "管子",
+      "兵法",
+      "七法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
+        "work": "管子"
       }
     ]
   },
@@ -29101,6 +30658,40 @@
     ]
   },
   {
+    "slug": "勿為始",
+    "title": "勿為始",
+    "summary": "人事未起，不可先發，此聖人安時之義也。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "勿為客",
+    "title": "勿為客",
+    "summary": "天時未至，不可以先動，此聖人待時之戒也。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "勿用有攸往",
     "title": "勿用有攸往",
     "summary": "時未可動，不宜輕往。",
@@ -29326,6 +30917,21 @@
     ]
   },
   {
+    "slug": "匈奴入關",
+    "title": "匈奴入關",
+    "summary": "匈奴右賢王數侵邊郡，漢遣將擊之，然匈奴日驕，歲入邊殺略不止。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "匈奴入雁門",
     "title": "匈奴入雁門",
     "summary": "匈奴數入邊塞，雁門之寇為後元年之大患。",
@@ -29345,6 +30951,131 @@
         "plugin": "wikisource",
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "匈奴好漢物之弊",
+    "title": "匈奴好漢物之弊",
+    "summary": "中行說言匈奴以衣食異而彊，若變俗好漢物則歸於漢。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "匈奴官制",
+    "title": "匈奴官制",
+    "summary": "匈奴置左右賢王以下至當戶，二十四長皆世官，號曰萬騎。",
+    "tags": [
+      "匈奴",
+      "官制",
+      "單于",
+      "左右賢王",
+      "二十四長"
+    ],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "匈奴文法",
+    "title": "匈奴文法",
+    "summary": "匈奴以言語為約束，無文書，父子兄弟死皆取其妻妻之。",
+    "tags": [
+      "匈奴",
+      "風俗",
+      "法制"
+    ],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "匈奴歲時",
+    "title": "匈奴歲時",
+    "summary": "匈奴歲正月會庭，五月祭蘢城，秋課校人畜。",
+    "tags": [
+      "匈奴",
+      "歲時",
+      "祭祀",
+      "制度"
+    ],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "匈奴父子穹廬",
+    "title": "匈奴父子穹廬",
+    "summary": "中行說斥漢使，言匈奴父子同穹廬而臥，俗與漢異，約束輕易行。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "匈奴畜產",
+    "title": "匈奴畜產",
+    "summary": "匈奴畜馬牛羊，其奇畜有橐駝、驢、驘、駃騠、騊駼、騨騱。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "匈奴與戎狄",
+    "title": "匈奴與戎狄",
+    "summary": "匈奴之先為夏后氏苗裔，居北蠻，與戎狄同源而世有征戰。",
+    "tags": [
+      "匈奴",
+      "戎狄",
+      "夏后氏",
+      "歷史"
+    ],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
         "work": "史記"
       }
     ]
@@ -29412,13 +31143,36 @@
     ]
   },
   {
+    "slug": "化",
+    "title": "化",
+    "summary": "漸摩服習以移風俗，教化之本也。",
+    "tags": [
+      "管子",
+      "七法",
+      "教化",
+      "治道",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "北冥有魚",
     "title": "北冥有魚",
     "summary": "北海有魚，化而為鵬，志存高遠。",
     "tags": [
       "寓言",
       "鯤鵬",
-      "逍遙"
+      "逍遙",
+      "部:史"
     ],
     "sources": [
       {
@@ -30370,6 +32124,26 @@
     ]
   },
   {
+    "slug": "千人曰俊萬人曰傑",
+    "title": "千人曰俊萬人曰傑",
+    "summary": "人數有等，千人為俊，万人為傑，以別賢能之高下。",
+    "tags": [
+      "人倫",
+      "俊傑",
+      "等差",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "千斯倉萬斯箱",
     "title": "千斯倉萬斯箱",
     "summary": "形容收成豐盛，需建大量倉箱以儲藏",
@@ -31043,6 +32817,26 @@
         "title": "國語 · 國語解敘",
         "url": "https://zh.wikisource.org/wiki/國語/國語解敘",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "博者盡關塞之宜",
+    "title": "博者盡關塞之宜",
+    "summary": "博者之戲，雖盡通塞之道，而成敗繫於遇合，非技之所及。",
+    "tags": [
+      "博戲",
+      "遇合",
+      "機緣",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
       }
     ]
   },
@@ -31961,6 +33755,35 @@
         "title": "韓非子 · 奸劫弑臣",
         "url": "https://zh.wikisource.org/wiki/韓非子/奸劫弑臣",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "厲民之道",
+    "title": "厲民之道",
+    "summary": "治民當謹小慎微，小禮、小義、小廉、小恥皆不可忽。",
+    "tags": [
+      "治民",
+      "教化",
+      "管子",
+      "部:子",
+      "部:子/法家類",
+      "法制"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
+      },
+      {
+        "chapter": "第03篇權脩",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權脩",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權脩",
+        "work": "管子"
       }
     ]
   },
@@ -33099,6 +34922,27 @@
     ]
   },
   {
+    "slug": "取於民有度",
+    "title": "取於民有度",
+    "summary": "取民有節制則國安，無度則國危。",
+    "tags": [
+      "理財",
+      "治國",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "取易辭也",
     "title": "取易辭也",
     "summary": "師而被取，是鄭、宋皆病，以其易言之。",
@@ -33525,6 +35369,26 @@
         "title": "荀子 · 勸學篇",
         "url": "https://zh.wikisource.org/wiki/荀子/勸學篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "古之明王審名實",
+    "title": "古之明王審名實",
+    "summary": "古之明王，貴在審慎名實。",
+    "tags": [
+      "政治哲學",
+      "公孫龍子",
+      "治道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "6",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 6",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/6",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -34176,6 +36040,28 @@
     ]
   },
   {
+    "slug": "右師之介",
+    "title": "右師之介",
+    "summary": "天生有所與，人形有所正，介者非人為也",
+    "tags": [
+      "莊子",
+      "寓言",
+      "天命",
+      "形骸",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "養生主",
+        "plugin": "wikisource",
+        "title": "莊子 · 養生主",
+        "url": "https://zh.wikisource.org/wiki/莊子/養生主",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "右手畫圓左手畫方",
     "title": "右手畫圓左手畫方",
     "summary": "一心不能二用，專一而後成。",
@@ -34602,6 +36488,27 @@
     ]
   },
   {
+    "slug": "同乎無知",
+    "title": "同乎無知",
+    "summary": "至德之世，民同乎無知、無欲，是謂素樸，性得而德不離。",
+    "tags": [
+      "莊子",
+      "無為",
+      "素樸",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "同人",
     "title": "同人",
     "summary": "與人和同，天下歸往",
@@ -34816,6 +36723,27 @@
     ]
   },
   {
+    "slug": "同與禽獸居",
+    "title": "同與禽獸居",
+    "summary": "至德之世，人與禽獸同居、與萬物並，不知君子小人。",
+    "tags": [
+      "莊子",
+      "至德",
+      "自然",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "同袍同澤同裳",
     "title": "同袍同澤同裳",
     "summary": "衣服之共，生死之同，以見軍旅之情。",
@@ -34940,6 +36868,69 @@
     ]
   },
   {
+    "slug": "名定物不競",
+    "title": "名定物不競",
+    "summary": "名定則心無所措，私不行則欲無所施",
+    "tags": [
+      "名學",
+      "尹文子",
+      "政治哲學",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
+    "slug": "名宜屬彼分宜屬我",
+    "title": "名宜屬彼分宜屬我",
+    "summary": "名與分各有歸屬，不可混亂",
+    "tags": [
+      "名學",
+      "尹文子",
+      "名實",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
+    "slug": "名實無當",
+    "title": "名實無當",
+    "summary": "名實不相當，則色彩愈章而道愈喪。兩明相持，是非莫定，此名實無當之謂也。",
+    "tags": [
+      "公孫龍子",
+      "名實",
+      "辯論",
+      "兩明",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "4",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 4",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/4",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "名實相持",
     "title": "名實相持而成",
     "summary": "名與實相互支持，形與影相應而立。",
@@ -34957,6 +36948,27 @@
         "title": "韓非子 · 功名",
         "url": "https://zh.wikisource.org/wiki/韓非子/功名",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "名有三科",
+    "title": "名有三科",
+    "summary": "名有命物、毀譽、況謂三類",
+    "tags": [
+      "名學",
+      "尹文子",
+      "名實",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
       }
     ]
   },
@@ -35000,6 +37012,27 @@
         "title": "韓非子 · 揚榷",
         "url": "https://zh.wikisource.org/wiki/韓非子/揚榷",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "名正而法順",
+    "title": "名正而法順",
+    "summary": "君臣各守其分，名正則法行",
+    "tags": [
+      "政治哲學",
+      "尹文子",
+      "正名",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
       }
     ]
   },
@@ -38266,6 +40299,27 @@
     ]
   },
   {
+    "slug": "周務",
+    "title": "周務",
+    "summary": "君子言行不出名法權術，所為止於農稼軍陣",
+    "tags": [
+      "治道",
+      "尹文子",
+      "無為",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "周原膴膴",
     "title": "周原膴膴",
     "summary": "周原之地土脈肥美也。",
@@ -38932,6 +40986,27 @@
     ]
   },
   {
+    "slug": "和親之約",
+    "title": "和親之約",
+    "summary": "漢與匈奴約為兄弟，歲奉絮繒酒米食物，以和親寧邊。",
+    "tags": [
+      "漢",
+      "匈奴",
+      "和親",
+      "劉敬",
+      "盟約"
+    ],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "和親匈奴-之",
     "title": "和親匈奴-之",
     "summary": "",
@@ -39248,6 +41323,25 @@
         "title": "荀子 · 禮論篇",
         "url": "https://zh.wikisource.org/wiki/荀子/禮論篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "哀矜",
+    "title": "哀矜",
+    "summary": "哀矜者，矜憐困厄之情也。怨人者出於情難安而猶可恕，驕人者無故而慢人則不可恕。",
+    "tags": [
+      "修身",
+      "人情",
+      "尹文子"
+    ],
+    "sources": [
+      {
+        "chapter": "大道下",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道下",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道下",
+        "work": "尹文子"
       }
     ]
   },
@@ -39606,6 +41700,27 @@
         "title": "莊子 · 至樂",
         "url": "https://zh.wikisource.org/wiki/莊子/至樂",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "唯君之節",
+    "title": "唯君之節",
+    "summary": "君王當如日月，無私普照。",
+    "tags": [
+      "君道",
+      "無私",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
       }
     ]
   },
@@ -40174,6 +42289,47 @@
     ]
   },
   {
+    "slug": "善名命善",
+    "title": "善名命善",
+    "summary": "名以善惡分，聖賢頑嚚各有定命",
+    "tags": [
+      "名學",
+      "尹文子",
+      "善惡",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
+    "slug": "善周者明不能見",
+    "title": "善周者明不能見",
+    "summary": "善於周密者，明察亦不能窺其際；明者亦無能蔽之，此聖人之周、明相成也。",
+    "tags": [
+      "聖人",
+      "周密",
+      "明察",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "善問者如攻堅木",
     "title": "善問者如攻堅木",
     "summary": "善問之方，先易後難，及其久則自然通解。",
@@ -40231,6 +42387,27 @@
         "title": "禮記 · 學記",
         "url": "https://zh.wikisource.org/wiki/禮記/學記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "善巧與眾共",
+    "title": "善巧與眾共",
+    "summary": "善與巧貴在與眾共行，非獨善獨巧",
+    "tags": [
+      "治道",
+      "尹文子",
+      "貴眾",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
       }
     ]
   },
@@ -40610,7 +42787,9 @@
       "忘機",
       "養生",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -40881,7 +43060,9 @@
     "tags": [
       "養生",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -40954,6 +43135,41 @@
         "title": "詩經 · 山有扶蘇",
         "url": "https://zh.wikisource.org/wiki/詩經/山有扶蘇",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "單于來書",
+    "title": "單于來書",
+    "summary": "匈奴單于遣書於漢，辭稱天地所生日月所置，欲修和約。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "單于朝拜",
+    "title": "單于朝拜",
+    "summary": "單于朝出營，拜日之始生，夕拜月；長左而北鄉，日上戊己。",
+    "tags": [
+      "匈奴",
+      "單于",
+      "禮制",
+      "祭祀"
+    ],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
+        "work": "史記"
       }
     ]
   },
@@ -41137,7 +43353,9 @@
     "tags": [
       "養生",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -41402,6 +43620,25 @@
     ]
   },
   {
+    "slug": "器之制",
+    "title": "器之制",
+    "summary": "諸侯千乘之國，地小大有數，任之輕重有制。",
+    "tags": [
+      "治國",
+      "軍制",
+      "土地"
+    ],
+    "sources": [
+      {
+        "chapter": "第05篇乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第05篇乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第05篇乘馬",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "器小物大不能相受",
     "title": "器小物大不能相受",
     "summary": "君如器臣如物，器小無以容物，則君臣不相得。",
@@ -41418,6 +43655,23 @@
         "title": "抱朴子 · 卷09",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷09",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "器械-之",
+    "title": "器械-之",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法",
+        "work": "管子"
       }
     ]
   },
@@ -41754,6 +44008,29 @@
     ]
   },
   {
+    "slug": "四傷百匿",
+    "title": "四傷百匿",
+    "summary": "言四者傷國之根，百匿為害之根也。",
+    "tags": [
+      "管子",
+      "治國",
+      "法度",
+      "姦吏",
+      "姦民",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "四公子",
     "title": "四公子",
     "summary": "戰國四君皆下士喜客，威名著於天下。",
@@ -41850,6 +44127,21 @@
         "title": "莊子 · 應帝王",
         "url": "https://zh.wikisource.org/wiki/莊子/應帝王",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "四固-之",
+    "title": "四固-之",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "第04篇立政",
+        "plugin": "wikisource",
+        "title": "管子 · 第04篇立政",
+        "url": "https://zh.wikisource.org/wiki/管子/第04篇立政",
+        "work": "管子"
       }
     ]
   },
@@ -42053,6 +44345,26 @@
         "title": "韓非子 · 八奸",
         "url": "https://zh.wikisource.org/wiki/韓非子/八奸",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "四方上下曰宇",
+    "title": "四方上下曰宇",
+    "summary": "宇宙之義，四方上下無極，總稱曰宇，空間之象也。",
+    "tags": [
+      "宇宙",
+      "空間",
+      "名實",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
       }
     ]
   },
@@ -42424,6 +44736,48 @@
     ]
   },
   {
+    "slug": "四維",
+    "title": "四維",
+    "summary": "禮、義、廉、恥，國之四維，闕一則傾。",
+    "tags": [
+      "治國",
+      "綱常",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "四者亂之所由生",
+    "title": "四者亂之所由生",
+    "summary": "獨賢、獨能、出群、絕眾，四者致亂",
+    "tags": [
+      "治道",
+      "尹文子",
+      "政治批判",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "四者自正治之美",
     "title": "四者自正治之美",
     "summary": "天子諸侯大夫庶人四者各守其職，是治之美；離位則亂莫大焉。",
@@ -42686,6 +45040,27 @@
     ]
   },
   {
+    "slug": "因時之所自然而不可強為",
+    "title": "因時之所自然而不可強為",
+    "summary": "聖人乘時而動，不逆其勢；桀之力可以制禽獸，而不可以勝湯。",
+    "tags": [
+      "時勢",
+      "因循",
+      "治道",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "主術訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 主術訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/主術訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "因時制宜",
     "title": "因時制宜",
     "summary": "因天之道，反形之理，與時生死",
@@ -42901,6 +45276,25 @@
     ]
   },
   {
+    "slug": "國之存亡六徵",
+    "title": "六徵",
+    "summary": "國之存亡有六徵：衰、亡、昌、強、治、亂，各有其朕兆，非由暴虐威力使然。",
+    "tags": [
+      "治國",
+      "衰亡",
+      "尹文子"
+    ],
+    "sources": [
+      {
+        "chapter": "大道下",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道下",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道下",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "國之神器",
     "title": "刑之為物，國之神器，君所自執，不可假人",
     "summary": "刑罰為國家重器，君主不可假手於人",
@@ -42918,6 +45312,27 @@
         "title": "抱朴子 · 卷14",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "國亂有三事",
+    "title": "國亂有三事",
+    "summary": "亂國之三患：無食、無法、不能用",
+    "tags": [
+      "政治哲學",
+      "尹文子",
+      "治亂",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
       }
     ]
   },
@@ -43563,6 +45978,27 @@
     ]
   },
   {
+    "slug": "地之守在粟",
+    "title": "地之守在粟",
+    "summary": "國以粟為本，無粟則城不固。",
+    "tags": [
+      "治國",
+      "農業",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "地勢坤",
     "title": "地勢坤",
     "summary": "地之勢厚而能載，君子法之以厚德載物。",
@@ -43580,6 +46016,25 @@
         "title": "周易 · 大象",
         "url": "https://zh.wikisource.org/wiki/周易/大象",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "地均",
+    "title": "地均",
+    "summary": "土地折算之法，因地之宜而立均平之數。",
+    "tags": [
+      "治國",
+      "土地",
+      "度數"
+    ],
+    "sources": [
+      {
+        "chapter": "第05篇乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第05篇乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第05篇乘馬",
+        "work": "管子"
       }
     ]
   },
@@ -43658,6 +46113,25 @@
         "title": "墨子 · 備穴",
         "url": "https://zh.wikisource.org/wiki/墨子/備穴",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "均地分力",
+    "title": "均地分力",
+    "summary": "均平地土，民知時日，則用力不倦。",
+    "tags": [
+      "治國",
+      "土地",
+      "農業"
+    ],
+    "sources": [
+      {
+        "chapter": "第05篇乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第05篇乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第05篇乘馬",
+        "work": "管子"
       }
     ]
   },
@@ -44496,6 +46970,27 @@
     ]
   },
   {
+    "slug": "城郭溝渠不足以固守",
+    "title": "城郭溝渠不足以固守",
+    "summary": "城壍兵甲非所以固國，唯有道者能備患於未形。",
+    "tags": [
+      "治道",
+      "德治",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "城陽景王",
     "title": "城陽景王",
     "summary": "朱虛侯劉章，誅諸呂首功，封城陽王。",
@@ -44954,6 +47449,26 @@
     ]
   },
   {
+    "slug": "堯之有天下非安人主之位",
+    "title": "堯之有天下非安人主之位",
+    "summary": "聖主不以天下奉己，而以百姓力征為患，故躬行節儉以和輯萬民。",
+    "tags": [
+      "聖王",
+      "堯",
+      "節儉",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "主術訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 主術訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/主術訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "堯匹夫不能治三人",
     "title": "堯匹夫不能治三人",
     "summary": "堯之賢無以加，而匹夫之位不能令一人，況三人乎。",
@@ -45019,6 +47534,26 @@
     ]
   },
   {
+    "slug": "堯德化布於四海",
+    "title": "堯德化布於四海",
+    "summary": "堯之德化廣被四海，仁惠普及蒼生，至治之世也。",
+    "tags": [
+      "堯",
+      "德化",
+      "至治",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "堯明不失姦",
     "title": "堯明於不失姦，羿巧於不失發",
     "summary": "君明臣巧，各盡其職，則姦無所匿而盜不敢取。",
@@ -45078,7 +47613,8 @@
     "tags": [
       "寓言",
       "堯",
-      "姑射神人"
+      "姑射神人",
+      "部:其他"
     ],
     "sources": [
       {
@@ -45108,6 +47644,26 @@
         "title": "抱朴子 · 卷16",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "堯為天子衣不重帛",
+    "title": "堯為天子衣不重帛",
+    "summary": "堯為天子，儉樸至極，衣不重帛，食不兼味，土階茅茨，以身先天下。",
+    "tags": [
+      "堯",
+      "儉",
+      "躬行",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
       }
     ]
   },
@@ -45896,6 +48452,27 @@
         "title": "抱朴子 · 卷15",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "填填顛顛",
+    "title": "填填顛顛",
+    "summary": "至德之世，其行填填，其視顛顛，言民之淳樸自得也。",
+    "tags": [
+      "莊子",
+      "至德",
+      "淳樸",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
       }
     ]
   },
@@ -48081,6 +50658,26 @@
     ]
   },
   {
+    "slug": "大文三曾而貴義與德",
+    "title": "大文三曾而貴義與德",
+    "summary": "文德武備迭相為用，貴在義與德，此霸王之術也。",
+    "tags": [
+      "文德",
+      "霸王",
+      "刑賞",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "大明終始",
     "title": "大明終始",
     "summary": "日月照臨，終而復始，乾道之所以運也。",
@@ -48151,7 +50748,9 @@
       "寓言",
       "無用",
       "惠子",
-      "樗"
+      "樗",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -48633,6 +51232,27 @@
     ]
   },
   {
+    "slug": "大道無形",
+    "title": "大道無形",
+    "summary": "道無形而立名，因器以顯理",
+    "tags": [
+      "道",
+      "名實",
+      "尹文子",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "大閱",
     "title": "大閱",
     "summary": "八月壬午，大閱，簡車馬也。",
@@ -48754,6 +51374,27 @@
     ]
   },
   {
+    "slug": "天下不患無臣",
+    "title": "天下不患無臣",
+    "summary": "患無君以使之，不患無財，患無人以分之。",
+    "tags": [
+      "治道",
+      "任賢",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "天下之本",
     "title": "天下之本",
     "summary": "",
@@ -48795,6 +51436,23 @@
         "title": "墨子 · 尚同中",
         "url": "https://zh.wikisource.org/wiki/墨子/尚同中",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "天下之濆作",
+    "title": "天下之濆作",
+    "summary": "天下有急難之作，待賢者以靜德應之，此聖人待時之義也。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -49157,6 +51815,26 @@
         "title": "周易 · 蠱",
         "url": "https://zh.wikisource.org/wiki/周易/蠱",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "天下無指物無可以謂物",
+    "title": "天下無指物無可以謂物",
+    "summary": "天下若無指之名，則物亦不得名為物。",
+    "tags": [
+      "公孫龍",
+      "名實",
+      "指物",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "3",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 3",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/3",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -49719,6 +52397,26 @@
     ]
   },
   {
+    "slug": "天地之形聖人成之",
+    "title": "天地之形聖人成之",
+    "summary": "天地無心而成化，聖人法之而成治，小取小利，大取大利，盡行之者有天下。",
+    "tags": [
+      "聖人",
+      "天地",
+      "王道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "天地之心",
     "title": "天地之心",
     "summary": "復卦可見天地生物之心，以陽氣初生為萬物生機之原。",
@@ -50154,6 +52852,27 @@
     ]
   },
   {
+    "slug": "天放",
+    "title": "天放",
+    "summary": "天放者，一而不黨，任民自然之性，不以人力分之也。",
+    "tags": [
+      "莊子",
+      "自然",
+      "無為",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "天文",
     "title": "天文",
     "summary": "剛柔交錯之象，察時變之所由也。",
@@ -50191,6 +52910,26 @@
         "title": "周易 · 賁",
         "url": "https://zh.wikisource.org/wiki/周易/賁",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "天時不作",
+    "title": "天時不作勿為客",
+    "summary": "天時未至、人事未起，不可以先發，是聖人觀時待令之道也。",
+    "tags": [
+      "天時",
+      "待時",
+      "聖人",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -50776,6 +53515,27 @@
     ]
   },
   {
+    "slug": "天道之極",
+    "title": "天道之極",
+    "summary": "天道至公，遠者自親；人事至私，近則造怨。",
+    "tags": [
+      "管子",
+      "天道",
+      "政治哲學",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第02篇形勢",
+        "plugin": "wikisource",
+        "title": "管子 · 第02篇形勢",
+        "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "天道惡之",
     "title": "天道惡之",
     "summary": "兵者不祥之器，天道所厭，必不得已而後用。",
@@ -51284,6 +54044,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷103",
         "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
         "work": "史記"
       }
     ]
@@ -52302,6 +55069,25 @@
         "title": "莊子 · 天地",
         "url": "https://zh.wikisource.org/wiki/莊子/天地",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "失時",
+    "title": "失時",
+    "summary": "時不再來，失時則貨匱業荒。",
+    "tags": [
+      "治國",
+      "時機",
+      "勤奮"
+    ],
+    "sources": [
+      {
+        "chapter": "第05篇乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第05篇乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第05篇乘馬",
+        "work": "管子"
       }
     ]
   },
@@ -53449,6 +56235,27 @@
     ]
   },
   {
+    "slug": "好牛",
+    "title": "好牛",
+    "summary": "通稱隨定形則名分自離",
+    "tags": [
+      "名學",
+      "尹文子",
+      "寓言",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "好肆不守折長者不為市",
     "title": "好肆不守折，長者不為市",
     "summary": "善賈者不折本，尊者不入市場自炫。",
@@ -53978,7 +56785,9 @@
     "tags": [
       "養生",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -54172,7 +56981,8 @@
     "tags": [
       "神人",
       "寓言",
-      "逍遙"
+      "逍遙",
+      "部:其他"
     ],
     "sources": [
       {
@@ -54302,10 +57112,10 @@
       "委蛇",
       "德容",
       "注解",
-      "部:集",
       "鬼神",
       "莊子",
-      "達生"
+      "達生",
+      "部:集"
     ],
     "sources": [
       {
@@ -55034,6 +57844,49 @@
     ]
   },
   {
+    "slug": "威絕域之民",
+    "title": "威絕域之民",
+    "summary": "威施遠域之民，在師行速而無遠不至，守備固而無險可乘。",
+    "tags": [
+      "軍事",
+      "遠略",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "選陳",
+        "plugin": "wikisource",
+        "title": "管子 · 選陳",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/選陳",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "威重於爵祿",
+    "title": "威重於爵祿",
+    "summary": "威嚴之於爵祿為重，不可以祿分威。",
+    "tags": [
+      "管子",
+      "治國",
+      "威",
+      "爵祿",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "婁敬脫輓輅",
     "title": "婁敬脫輓輅",
     "summary": "微賤之人，建非常之策。",
@@ -55286,6 +58139,43 @@
         "title": "詩經 · 江有汜",
         "url": "https://zh.wikisource.org/wiki/詩經/江有汜",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "嬴嬴縮縮",
+    "title": "嬴嬴縮縮",
+    "summary": "屈伸盈縮，與時消息，因天地之形而為之，此聖人觀時之義也。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "嬴縮為寶",
+    "title": "嬴縮為寶",
+    "summary": "進退屈伸，合於時宜，此成功之道所寶貴者也。",
+    "tags": [
+      "盈虛",
+      "成功",
+      "治道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -56747,6 +59637,26 @@
     ]
   },
   {
+    "slug": "孔穿會公孫龍",
+    "title": "孔穿會公孫龍",
+    "summary": "孔穿願為公孫龍弟子而不取白馬非馬之學，龍以先教後師為悖拒之。",
+    "tags": [
+      "孔穿",
+      "公孫龍",
+      "辯論",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 1",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/1",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "孔門四科",
     "title": "孔門四科",
     "summary": "德行、言語、政事、文學，夫子教人之分科也。",
@@ -57913,7 +60823,9 @@
     "tags": [
       "寓言",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -58975,6 +61887,33 @@
     ]
   },
   {
+    "slug": "守白之論",
+    "title": "守白之論",
+    "summary": "公孫龍以「守白」之論正名實、化天下。",
+    "tags": [
+      "名實",
+      "辯論",
+      "公孫龍子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 1",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/1",
+        "work": "公孫龍子"
+      },
+      {
+        "chapter": "2",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 2",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/2",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "守真一辟百害",
     "title": "守真一辟百害",
     "summary": "守真一可辟鬼魅犯侵，此長生之要務也。",
@@ -59246,6 +62185,9 @@
       "生死觀",
       "大宗師",
       "解脫",
+      "養生",
+      "生死",
+      "哲學",
       "部:子",
       "部:子/道家類"
     ],
@@ -59262,6 +62204,13 @@
         "plugin": "wikisource",
         "title": "莊子 · 德充符",
         "url": "https://zh.wikisource.org/wiki/莊子/德充符",
+        "work": "莊子"
+      },
+      {
+        "chapter": "養生主",
+        "plugin": "wikisource",
+        "title": "莊子 · 養生主",
+        "url": "https://zh.wikisource.org/wiki/莊子/養生主",
         "work": "莊子"
       }
     ]
@@ -59480,7 +62429,9 @@
     "tags": [
       "逍遙",
       "宋榮子",
-      "修養"
+      "修養",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -59904,6 +62855,13 @@
         "title": "荀子 · 富國篇",
         "url": "https://zh.wikisource.org/wiki/荀子/富國篇",
         "work": "荀子"
+      },
+      {
+        "chapter": "第05篇乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第05篇乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第05篇乘馬",
+        "work": "管子"
       }
     ]
   },
@@ -59925,6 +62883,26 @@
         "title": "史記 · 卷051",
         "url": "https://zh.wikisource.org/wiki/史記/卷051",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "定所白與不定所白",
+    "title": "定所白與不定所白",
+    "summary": "白者不定所白，可通萬物；白馬言白，定所白也，非白之本体。",
+    "tags": [
+      "公孫龍",
+      "名實之辨",
+      "白馬非馬",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "2",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 2",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/2",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -61266,6 +64244,25 @@
     ]
   },
   {
+    "slug": "察能授官",
+    "title": "察能授官",
+    "summary": "考校賢能，依才授任，此為官之樞機。",
+    "tags": [
+      "任官",
+      "治國",
+      "人事"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權脩",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權脩",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權脩",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "察見淵魚者不祥",
     "title": "察見淵魚者不祥",
     "summary": "恃伺察以為治者，盜不盡而己先及。",
@@ -61382,6 +64379,26 @@
         "title": "詩經 · 澤陂",
         "url": "https://zh.wikisource.org/wiki/詩經/澤陂",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "實",
+    "title": "實",
+    "summary": "物之所充實者，名之所以定也。",
+    "tags": [
+      "名學",
+      "公孫龍子",
+      "哲學",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "6",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 6",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/6",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -61711,6 +64728,68 @@
         "title": "韓非子 · 揚榷",
         "url": "https://zh.wikisource.org/wiki/韓非子/揚榷",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "審名實",
+    "title": "審名實",
+    "summary": "名實相當，乃治國之要務。",
+    "tags": [
+      "名學",
+      "公孫龍子",
+      "正名",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "6",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 6",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/6",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
+    "slug": "審御機數",
+    "title": "審御機數",
+    "summary": "主兵者當遍知天下、審御機數，此乃將帥之職。",
+    "tags": [
+      "軍事",
+      "將帥",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "選陳",
+        "plugin": "wikisource",
+        "title": "管子 · 選陳",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/選陳",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "審時察用備官",
+    "title": "審時察用備官",
+    "summary": "審時、察用、備官三者兼備，可以奉為君。",
+    "tags": [
+      "用人",
+      "治道",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
       }
     ]
   },
@@ -62498,6 +65577,13 @@
         "title": "司馬法",
         "url": "https://zh.wikisource.org/wiki/司馬法",
         "work": "司馬法"
+      },
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
       }
     ]
   },
@@ -62796,6 +65882,25 @@
     ]
   },
   {
+    "slug": "小事不從大事不吉",
+    "title": "小事不從大事不吉",
+    "summary": "戰而懼水則亡其國，小事不從則大事無所附麗，此兵家之至戒也。",
+    "tags": [
+      "兵事",
+      "慎終",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "小事吉",
     "title": "小事吉",
     "summary": "睽卦柔中應剛，小事可成。",
@@ -63021,7 +66126,8 @@
     "tags": [
       "小大之辨",
       "壽命",
-      "寓言"
+      "寓言",
+      "部:其他"
     ],
     "sources": [
       {
@@ -63672,6 +66778,53 @@
     ]
   },
   {
+    "slug": "尹文子",
+    "title": "尹文子",
+    "summary": "戰國齊稷下學者，師從公孫龍，兼取黃老刑名之學。",
+    "tags": [
+      "稷下",
+      "黃老",
+      "刑名",
+      "戰國"
+    ],
+    "sources": [
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "尹文子 · 序",
+        "url": "https://zh.wikisource.org/wiki/尹文子/序",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
+    "slug": "尹文論士",
+    "title": "尹文論士",
+    "summary": "尹文問齊王何為士，王稱善矣；及問見侵不鬭者是否為士，王又以為辱不可以為臣；賞罰無準，議論交錯。",
+    "tags": [
+      "尹文",
+      "齊王",
+      "名實",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 1",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/1",
+        "work": "公孫龍子"
+      },
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "尹氏立王子朝",
     "title": "尹氏立王子朝",
     "summary": "尹氏立王子朝，不宜立而立，穀梁以為嫌，故不名以別之。",
@@ -64001,6 +67154,27 @@
         "title": "國語 · 卷17",
         "url": "https://zh.wikisource.org/wiki/國語/卷17",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "屈折禮樂",
+    "title": "屈折禮樂",
+    "summary": "聖人屈折禮樂以匡天下之形，縣跂仁義以慰天下之心，而民乃始踶跂好知，爭歸於利，不可止也。",
+    "tags": [
+      "莊子",
+      "聖人",
+      "禮樂",
+      "仁義",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
       }
     ]
   },
@@ -64470,6 +67644,27 @@
     ]
   },
   {
+    "slug": "山川之固",
+    "title": "山川之固",
+    "summary": "山高淵深，物各有所依，君子法之，則德固而功立。",
+    "tags": [
+      "管子",
+      "政治哲學",
+      "自然隱喻",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第02篇形勢",
+        "plugin": "wikisource",
+        "title": "管子 · 第02篇形勢",
+        "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "山川悠遠",
     "title": "山川悠遠",
     "summary": "山高水長，征路遼遠，喻役事之艱，無有竟時。",
@@ -64599,6 +67794,25 @@
         "title": "周易 · 剝",
         "url": "https://zh.wikisource.org/wiki/周易/剝",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "山陽仲長氏",
+    "title": "山陽仲長氏",
+    "summary": "《尹文子》之編定者，姓名無考。",
+    "tags": [
+      "編者",
+      "尹文子",
+      "山陽"
+    ],
+    "sources": [
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "尹文子 · 序",
+        "url": "https://zh.wikisource.org/wiki/尹文子/序",
+        "work": "尹文子"
       }
     ]
   },
@@ -64931,7 +68145,9 @@
     "tags": [
       "匠心",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -65726,6 +68942,25 @@
     ]
   },
   {
+    "slug": "市者貨之準",
+    "title": "市者貨之準",
+    "summary": "市集定物價，百事治則百用節。",
+    "tags": [
+      "治國",
+      "經濟",
+      "市場"
+    ],
+    "sources": [
+      {
+        "chapter": "第05篇乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第05篇乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第05篇乘馬",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "布德象賢",
     "title": "布德象賢",
     "summary": "君王當效法賢聖，布德於天下。",
@@ -66479,6 +69714,37 @@
     ]
   },
   {
+    "slug": "常令不審則百匿勝",
+    "title": "常令不審則百匿勝",
+    "summary": "管子論百匿傷上威：姦吏傷官法，姦民傷俗教，賊盜傷國衆。常令、官爵、符籍、刑法四經皆敗，則人君泄，危亡至矣。",
+    "tags": [
+      "法家",
+      "管子",
+      "治道",
+      "治國",
+      "令",
+      "姦民",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法",
+        "work": "管子"
+      },
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "常德以立武事",
     "title": "常德以立武事",
     "summary": "以恒常之德，建立武功，以為警戒。",
@@ -67016,13 +70282,36 @@
     ]
   },
   {
+    "slug": "庖丁解牛",
+    "title": "庖丁解牛",
+    "summary": "順理而行，游刃恢恢，乃養生之喻也",
+    "tags": [
+      "莊子",
+      "養生",
+      "寓言",
+      "技進於道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "養生主",
+        "plugin": "wikisource",
+        "title": "莊子 · 養生主",
+        "url": "https://zh.wikisource.org/wiki/莊子/養生主",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "庖人雖不治庖",
     "title": "庖人雖不治庖",
     "summary": "各安其分，尸祝不越俎而代庖人。",
     "tags": [
       "寓言",
       "分際",
-      "無為"
+      "無為",
+      "部:其他"
     ],
     "sources": [
       {
@@ -67546,6 +70835,104 @@
     ]
   },
   {
+    "slug": "廣之孫敢",
+    "title": "廣子敢",
+    "summary": "廣從弟，勇而早死。",
+    "tags": [
+      "人物",
+      "漢",
+      "將軍",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "廣之射見敵急非在數十歩",
+    "title": "射見敵急，非在數十歩之內",
+    "summary": "廣射必度中而發，未有不中。",
+    "tags": [
+      "射",
+      "將兵",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "廣乏絶之處士卒不盡飲不近水",
+    "title": "乏絶之處不盡飲不近水",
+    "summary": "廣愛恤士卒，共赴危難。",
+    "tags": [
+      "將兵",
+      "仁愛",
+      "將軍",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "廣以百騎縱",
+    "title": "以百騎縱",
+    "summary": "廣以數十騎直貫匈奴數萬之眾，示以從容。",
+    "tags": [
+      "故事",
+      "匈奴",
+      "勇",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "廣使人丞簿責幕府",
+    "title": "丞簿責幕府",
+    "summary": "廣使長史責幕府對簿，自承失道之罪。",
+    "tags": [
+      "將軍",
+      "守信",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "廣成子",
     "title": "廣成子",
     "summary": "居空同之陽帝，黃帝問道之仙人。",
@@ -67562,6 +70949,26 @@
         "title": "莊子 · 在宥",
         "url": "https://zh.wikisource.org/wiki/莊子/在宥",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "廣結髮與匈奴大小七十餘戰",
+    "title": "結髮與匈奴大小七十餘戰",
+    "summary": "廣自謂終身征戰，功名不遂。",
+    "tags": [
+      "將軍",
+      "匈奴",
+      "自述",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
       }
     ]
   },
@@ -68857,6 +72264,24 @@
     ]
   },
   {
+    "slug": "彌綸",
+    "title": "彌綸",
+    "summary": "涵蓋綜括，無所不包。",
+    "tags": [
+      "文法",
+      "尹文子"
+    ],
+    "sources": [
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "尹文子 · 序",
+        "url": "https://zh.wikisource.org/wiki/尹文子/序",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "形偊不必愚",
     "title": "形偊不必愚",
     "summary": "貌望豐偉者不必賢，形器尪瘁者不必愚。",
@@ -68904,7 +72329,9 @@
     "tags": [
       "養生",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -68956,6 +72383,27 @@
         "title": "史記 · 卷017",
         "url": "https://zh.wikisource.org/wiki/史記/卷017",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "形名",
+    "title": "形名",
+    "summary": "形定名，名應形，二者相符而理顯",
+    "tags": [
+      "名學",
+      "尹文子",
+      "形名",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
       }
     ]
   },
@@ -69258,7 +72706,8 @@
     "tags": [
       "寓言",
       "無用",
-      "逍遙"
+      "逍遙",
+      "部:其他"
     ],
     "sources": [
       {
@@ -69331,6 +72780,26 @@
         "title": "詩經 · 園有桃",
         "url": "https://zh.wikisource.org/wiki/詩經/園有桃",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "彼此",
+    "title": "彼此",
+    "summary": "名實相當，則彼此分明。",
+    "tags": [
+      "名學",
+      "公孫龍子",
+      "哲學",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "6",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 6",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/6",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -70144,6 +73613,27 @@
     ]
   },
   {
+    "slug": "從其四欲",
+    "title": "從其四欲",
+    "summary": "順民之四欲，則遠者自親；行其四惡，則近者叛之。",
+    "tags": [
+      "治道",
+      "民本",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "從其羣醜",
     "title": "從其羣醜",
     "summary": "驅逐羣獸，以從獵事。",
@@ -70736,6 +74226,26 @@
     ]
   },
   {
+    "slug": "循石",
+    "title": "循石",
+    "summary": "循石之性，則知萬物與堅同體，堅白與石不相離，而萬物之與堅亦然，不相離，其無已矣。",
+    "tags": [
+      "公孫龍子",
+      "堅白石",
+      "本體論",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "5",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 5",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/5",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "徭役少則民安",
     "title": "徭役少則民安",
     "summary": "徭役繁重則民苦，民苦則權勢起，權勢滅則德在上。",
@@ -70776,6 +74286,23 @@
         "title": "史記 · 卷038",
         "url": "https://zh.wikisource.org/wiki/史記/卷038",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "微度人",
+    "title": "微度人",
+    "summary": "以德化民，幽微以測人情，此聖人治世之要也。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -71718,6 +75245,28 @@
     ]
   },
   {
+    "slug": "心術",
+    "title": "心術",
+    "summary": "存心處事之法，施恕度物，發號施令之本也。",
+    "tags": [
+      "管子",
+      "七法",
+      "德治",
+      "修身",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "心齋",
     "title": "心齋",
     "summary": "虛心以接萬物，乃養生之要法",
@@ -71758,6 +75307,27 @@
         "title": "墨子 · 貴義",
         "url": "https://zh.wikisource.org/wiki/墨子/貴義",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "必得必諾",
+    "title": "必得必諾",
+    "summary": "必得之事不足賴，必諾之言不足信；小謹不大立，訾食不肥體。",
+    "tags": [
+      "管子",
+      "修身",
+      "識見",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第02篇形勢",
+        "plugin": "wikisource",
+        "title": "管子 · 第02篇形勢",
+        "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
       }
     ]
   },
@@ -72214,6 +75784,26 @@
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "怒而擊之則武",
+    "title": "怒而擊之則武",
+    "summary": "鐘鼓之聲，怒則擊之則武，憂則擊之則悲，喜則擊之則樂，意誠感之達於金石。",
+    "tags": [
+      "音樂",
+      "情理",
+      "感通",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
       }
     ]
   },
@@ -74462,6 +78052,13 @@
         "title": "韓非子 · 南面",
         "url": "https://zh.wikisource.org/wiki/韓非子/南面",
         "work": "韓非子"
+      },
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
       }
     ]
   },
@@ -75406,6 +79003,28 @@
         "title": "抱朴子 · 卷49",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷49",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "成器不試不藏",
+    "title": "成器不試不藏",
+    "summary": "器成未試，不可用；未試之物，不當藏。",
+    "tags": [
+      "器械",
+      "兵法",
+      "管子",
+      "法家",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "爲兵之數",
+        "plugin": "wikisource",
+        "title": "管子 · 爲兵之數",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/爲兵之數",
+        "work": "管子"
       }
     ]
   },
@@ -76995,6 +80614,26 @@
     ]
   },
   {
+    "slug": "招搖之下",
+    "title": "招搖之下",
+    "summary": "求賢當於卑隱之中，廣搜博訪，不可失於高遠也。",
+    "tags": [
+      "求賢",
+      "廣納",
+      "治道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "招賢用者人主之要務",
     "title": "招賢用者人主之要務",
     "summary": "招賢用士，乃人君之要務；立功立事，乃俊彥之所思。",
@@ -77181,6 +80820,66 @@
         "title": "文子 · 卷七",
         "url": "https://zh.wikisource.org/wiki/文子/卷七",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "指固自為非指",
+    "title": "指固自為非指",
+    "summary": "指之為名，天然自悖，不待外物而成。",
+    "tags": [
+      "公孫龍",
+      "辯論",
+      "指物",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "3",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 3",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/3",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
+    "slug": "指與物非指",
+    "title": "指與物非指",
+    "summary": "指與物合而言之，則不得復謂之指。",
+    "tags": [
+      "公孫龍",
+      "名實",
+      "指物",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "3",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 3",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/3",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
+    "slug": "指非指",
+    "title": "指非指",
+    "summary": "指能指物，而指自非所指之指。",
+    "tags": [
+      "公孫龍",
+      "名實",
+      "辯論",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "3",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 3",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/3",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -77602,6 +81301,27 @@
         "title": "韓非子 · 飭令",
         "url": "https://zh.wikisource.org/wiki/韓非子/飭令",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "授有德",
+    "title": "授有德",
+    "summary": "錯國於不傾之地，在於授官於有德之人。",
+    "tags": [
+      "任賢",
+      "治道",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
       }
     ]
   },
@@ -78778,6 +82498,27 @@
     ]
   },
   {
+    "slug": "攻伐之道",
+    "title": "攻伐之道",
+    "summary": "管子論攻伐必先定計於內，詳察敵情（政、将、情、士），然後出兵，否則戰自勝、攻自毀也。",
+    "tags": [
+      "法家",
+      "管子",
+      "兵法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "攻城十二術",
     "title": "攻城十二術",
     "summary": "攻城之十二法，曰臨、鉤、衝、梯、堙、水、穴、突、空洞、蟻傅、轒轀、軒車。",
@@ -79134,6 +82875,46 @@
     ]
   },
   {
+    "slug": "敗國三患",
+    "title": "敗國三患",
+    "summary": "爵服賤、祿賞輕、民閒其治，此敗國之教也。",
+    "tags": [
+      "治國",
+      "賞罰",
+      "法制"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權脩",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權脩",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權脩",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "敗國之教",
+    "title": "敗國之教",
+    "summary": "爵賞紊亂、法度不明為敗亡之兆。",
+    "tags": [
+      "亡國",
+      "治道",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "教之六廢",
     "title": "教之六廢",
     "summary": "教化所以廢敗者六，君子當戒之。",
@@ -79288,6 +83069,27 @@
         "title": "周易 · 臨",
         "url": "https://zh.wikisource.org/wiki/周易/臨",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "教訓成俗而刑罰省",
+    "title": "教訓成俗而刑罰省",
+    "summary": "教化可行則刑罰自然減少。",
+    "tags": [
+      "教化",
+      "刑罰",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
       }
     ]
   },
@@ -79776,6 +83578,25 @@
         "title": "荀子 · 荀子序",
         "url": "https://zh.wikisource.org/wiki/荀子/荀子序",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "數奇",
+    "title": "數奇",
+    "summary": "命運不偶，遭遇乖舛。",
+    "tags": [
+      "命運",
+      "成語",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
       }
     ]
   },
@@ -80495,7 +84316,8 @@
     "tags": [
       "寓言",
       "小大之辨",
-      "斥鴳"
+      "斥鴳",
+      "部:史"
     ],
     "sources": [
       {
@@ -81362,7 +85184,9 @@
       "中道",
       "養生",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -83002,6 +86826,27 @@
     ]
   },
   {
+    "slug": "明必死之路",
+    "title": "明必死之路",
+    "summary": "曉以必死之刑，使民知所畏避。",
+    "tags": [
+      "刑罰",
+      "治道",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "明於堯不能獨成",
     "title": "明於堯不能獨成",
     "summary": "以法術觀行之道，堯、烏獲、賁育各有不能，必資衆助而後成。",
@@ -83041,6 +86886,28 @@
         "title": "荀子 · 天論篇",
         "url": "https://zh.wikisource.org/wiki/荀子/天論篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "明於機數",
+    "title": "明於機數",
+    "summary": "察機知數，則獨行天下而無敵。",
+    "tags": [
+      "兵法",
+      "智謀",
+      "管子",
+      "法家",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "爲兵之數",
+        "plugin": "wikisource",
+        "title": "管子 · 爲兵之數",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/爲兵之數",
+        "work": "管子"
       }
     ]
   },
@@ -84349,6 +88216,27 @@
     ]
   },
   {
+    "slug": "是者常是非者常非",
+    "title": "是者常是非者常非",
+    "summary": "是非之理不同，更興廢而歸我用",
+    "tags": [
+      "名學",
+      "尹文子",
+      "是非",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "是而不然",
     "title": "是而不然",
     "summary": "「是而不然」為《小取》所論論理式之一，謂前提雖是而結論不然。",
@@ -84415,6 +88303,27 @@
         "title": "韓非子 · 揚榷",
         "url": "https://zh.wikisource.org/wiki/韓非子/揚榷",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "是非隨眾",
+    "title": "是非隨眾",
+    "summary": "是非之正，隨眾以為準",
+    "tags": [
+      "名學",
+      "尹文子",
+      "是非",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
       }
     ]
   },
@@ -86582,6 +90491,26 @@
     ]
   },
   {
+    "slug": "有去取於色",
+    "title": "有去取於色",
+    "summary": "馬無去取於色，故黃黑皆可應；白馬有去取於色，唯白者乃應。",
+    "tags": [
+      "公孫龍",
+      "名實之辨",
+      "白馬非馬",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "2",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 2",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/2",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "有命无咎志行",
     "title": "有命无咎志行",
     "summary": "天命既正，君子之志得行",
@@ -86993,6 +90922,35 @@
         "title": "詩經 · 卷阿",
         "url": "https://zh.wikisource.org/wiki/詩經/卷阿",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "有家不治奚待於鄉",
+    "title": "有家不治奚待於鄉",
+    "summary": "治天下當自近始，由家而鄉、而國、而天下。",
+    "tags": [
+      "治國",
+      "修身",
+      "管子",
+      "部:子",
+      "部:子/儒家類",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
+      },
+      {
+        "chapter": "第03篇權脩",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權脩",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權脩",
+        "work": "管子"
       }
     ]
   },
@@ -87449,6 +91407,25 @@
     ]
   },
   {
+    "slug": "有身不治",
+    "title": "有身不治",
+    "summary": "治人者必先自治，治天下者必自修身始。",
+    "tags": [
+      "治國",
+      "修身",
+      "修己"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權脩",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權脩",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權脩",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "有車鄰鄰",
     "title": "有車鄰鄰",
     "summary": "車馬絡繹，往來不絕。",
@@ -87810,6 +91787,25 @@
         "title": "荀子 · 哀公篇",
         "url": "https://zh.wikisource.org/wiki/荀子/哀公篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "服制",
+    "title": "服制",
+    "summary": "衣服器用皆有度，爵祿有分，不可逾越。",
+    "tags": [
+      "禮制",
+      "度數",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第04篇立政",
+        "plugin": "wikisource",
+        "title": "管子 · 第04篇立政",
+        "url": "https://zh.wikisource.org/wiki/管子/第04篇立政",
+        "work": "管子"
       }
     ]
   },
@@ -88248,7 +92244,9 @@
       "養生",
       "專一",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -88852,6 +92850,26 @@
     ]
   },
   {
+    "slug": "李廣",
+    "title": "李廣",
+    "summary": "漢之名將，善射，終身不封侯。",
+    "tags": [
+      "人物",
+      "漢",
+      "將軍",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "李斯進諫二世",
     "title": "李斯進諫二世",
     "summary": "李斯進諫二世戒聲色，趙高謂樂各世殊，二世然之。",
@@ -89327,7 +93345,9 @@
     "tags": [
       "養生",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -90165,6 +94185,26 @@
     ]
   },
   {
+    "slug": "柔節先定",
+    "title": "柔節先定",
+    "summary": "柔弱而能先定其節，則守有所恃，此聖人之所以持盈定傾也。",
+    "tags": [
+      "柔弱",
+      "持盈",
+      "修身",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "柔能制剛弱能制強",
     "title": "柔能制剛弱能制強",
     "summary": "柔者德也，弱者人所助；剛者賊也，強者怨之所攻。",
@@ -90622,6 +94662,26 @@
         "title": "詩經 · 桃夭",
         "url": "https://zh.wikisource.org/wiki/詩經/桃夭",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "桃李不言下自成蹊",
+    "title": "桃李不言，下自成蹊",
+    "summary": "賢者實至名歸，不待言說。",
+    "tags": [
+      "成語",
+      "德行",
+      "治道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
       }
     ]
   },
@@ -91223,7 +95283,9 @@
       "匠心",
       "養生",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -92925,6 +96987,25 @@
     ]
   },
   {
+    "slug": "樹人",
+    "title": "樹人",
+    "summary": "一年樹穀，十年樹木，終身樹人；樹人乃百獲之功。",
+    "tags": [
+      "教育",
+      "治國",
+      "長遠"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權脩",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權脩",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權脩",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "樹德去疾",
     "title": "樹德莫如滋，去疾莫如盡",
     "summary": "伍員諫吳王勿縱越，以為除惡當絕，不可留患。",
@@ -93429,6 +97510,27 @@
     ]
   },
   {
+    "slug": "欲民之可御",
+    "title": "欲民之可御",
+    "summary": "治民在於審法，法者治之綱紀。",
+    "tags": [
+      "治民",
+      "法治",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "欲治其內",
     "title": "欲治其內",
     "summary": "欲治其內，置而勿親；欲治其外，宮置一人",
@@ -93769,6 +97871,26 @@
     ]
   },
   {
+    "slug": "正",
+    "title": "正",
+    "summary": "位乎其位，實乎其實，謂之正。",
+    "tags": [
+      "哲學",
+      "公孫龍子",
+      "名學",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "6",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 6",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/6",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "正位也",
     "title": "正位也",
     "summary": "王居无咎，在於九五正位",
@@ -93808,6 +97930,26 @@
         "title": "周易 · 鼎",
         "url": "https://zh.wikisource.org/wiki/周易/鼎",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "正名",
+    "title": "正名",
+    "summary": "正名者，正其實以正其名。",
+    "tags": [
+      "名學",
+      "公孫龍子",
+      "哲學",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "6",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 6",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/6",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -93870,6 +98012,27 @@
         "title": "周易 · 大壯",
         "url": "https://zh.wikisource.org/wiki/周易/大壯",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "正天下有分",
+    "title": "正天下有分",
+    "summary": "正天下必有其分義，七法是也。",
+    "tags": [
+      "管子",
+      "治道",
+      "七法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
+        "work": "管子"
       }
     ]
   },
@@ -94121,6 +98284,27 @@
         "title": "韓非子 · 揚榷",
         "url": "https://zh.wikisource.org/wiki/韓非子/揚榷",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "正舉",
+    "title": "正舉",
+    "summary": "黃為正色，青白相合之碧為非正舉。喻之君臣國，則各正其所舉者為正，爭而不決者為非正。",
+    "tags": [
+      "公孫龍子",
+      "名實",
+      "正色",
+      "正名",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "4",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 4",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/4",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -95143,6 +99327,24 @@
     ]
   },
   {
+    "slug": "死死生生因天地之形",
+    "title": "死死生生因天地之形",
+    "summary": "或死或生，皆因天地之形勢而為之，聖人成之，此裁成輔相之道也。",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "死灰復燃",
     "title": "死灰復燃",
     "summary": "勢雖微而可復盛，喻人雖困厄終有再起之時。",
@@ -95552,6 +99754,23 @@
     ]
   },
   {
+    "slug": "毋亡天極",
+    "title": "毋亡天極",
+    "summary": "不可失天之道，窮其數而止，此聖人守天之義也。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "毋使民比周",
     "title": "毋使民比周",
     "summary": "毋使民比周，同欺其上",
@@ -95653,6 +99872,27 @@
         "title": "詩經 · 角弓",
         "url": "https://zh.wikisource.org/wiki/詩經/角弓",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "毋蔽汝惡",
+    "title": "毋蔽汝惡",
+    "summary": "遮掩己過，賢者將不相助。",
+    "tags": [
+      "君德",
+      "納諫",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
       }
     ]
   },
@@ -96540,6 +100780,27 @@
     ]
   },
   {
+    "slug": "水旱之功",
+    "title": "水旱之功",
+    "summary": "水旱之功，在因天時以困敵，野不收、耕不獲，使敵困乏。",
+    "tags": [
+      "軍事",
+      "兵法",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "選陳",
+        "plugin": "wikisource",
+        "title": "管子 · 選陳",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/選陳",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "水洊至",
     "title": "水洊至",
     "summary": "水之流相繼而至，以象坎之重險。",
@@ -96987,6 +101248,26 @@
     ]
   },
   {
+    "slug": "求白馬於廐",
+    "title": "求白馬於廐",
+    "summary": "廐中無白馬，有驪色之馬，不可應有白馬，所求之馬亡矣。",
+    "tags": [
+      "辯論",
+      "公孫龍子",
+      "名實",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 1",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/1",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "求福不回",
     "title": "求福不回",
     "summary": "依循正道而求福，不以邪曲之道。",
@@ -97391,6 +101672,28 @@
         "title": "史記 · 卷011",
         "url": "https://zh.wikisource.org/wiki/史記/卷011",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "決塞",
+    "title": "決塞",
+    "summary": "予奪險易利害之權，馭民馭敵之大端也。",
+    "tags": [
+      "管子",
+      "七法",
+      "治道",
+      "兵法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
+        "work": "管子"
       }
     ]
   },
@@ -97920,6 +102223,13 @@
         "title": "商君書 · 卷一",
         "url": "https://zh.wikisource.org/wiki/商君書/卷一",
         "work": "商君書"
+      },
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
       }
     ]
   },
@@ -98065,6 +102375,28 @@
         "title": "韓非子 · 解老",
         "url": "https://zh.wikisource.org/wiki/韓非子/解老",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "治人如治水潦",
+    "title": "治人如治水潦",
+    "summary": "治人要如水之治潦，因其自然，不可強拂。",
+    "tags": [
+      "管子",
+      "治人",
+      "治道",
+      "水",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
       }
     ]
   },
@@ -98336,6 +102668,27 @@
     ]
   },
   {
+    "slug": "治民有器",
+    "title": "治民有器",
+    "summary": "治民必有其具，七法是也。",
+    "tags": [
+      "管子",
+      "治道",
+      "七法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "治氣養心之術",
     "title": "治氣養心之術",
     "summary": "修身治氣，各因其性而節制之。",
@@ -98498,6 +102851,28 @@
         "title": "詩經 · 召旻",
         "url": "https://zh.wikisource.org/wiki/詩經/召旻",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "法",
+    "title": "法",
+    "summary": "規矩繩墨度量之器，治民一眾所恃以為準也。",
+    "tags": [
+      "管子",
+      "七法",
+      "法家",
+      "度量",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
+        "work": "管子"
       }
     ]
   },
@@ -98713,6 +103088,28 @@
     ]
   },
   {
+    "slug": "法愛於人",
+    "title": "法愛於人",
+    "summary": "法之於人可愛，猶愛親也。愛法則興，枉法則害。",
+    "tags": [
+      "管子",
+      "治國",
+      "法治",
+      "愛法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "法所以制事",
     "title": "法所以制事",
     "summary": "法以制事，事以成名，難與害常相生，取其利多者為之。",
@@ -98754,6 +103151,46 @@
         "title": "禮記 · 祭法",
         "url": "https://zh.wikisource.org/wiki/禮記/祭法",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "法有三重",
+    "title": "法有三重",
+    "summary": "法立朝廷、用民力、用民能，此治國之三要。",
+    "tags": [
+      "治國",
+      "法制",
+      "政治"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權脩",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權脩",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權脩",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "法有四呈",
+    "title": "法有四呈",
+    "summary": "法有不變、齊俗、治眾、平準四類",
+    "tags": [
+      "法家",
+      "尹文子",
+      "政治制度",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
       }
     ]
   },
@@ -98923,6 +103360,23 @@
         "title": "韓非子 · 制分",
         "url": "https://zh.wikisource.org/wiki/韓非子/制分",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "法阿貴之",
+    "title": "法阿貴之",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
       }
     ]
   },
@@ -102266,6 +106720,28 @@
     ]
   },
   {
+    "slug": "澤雉",
+    "title": "澤雉",
+    "summary": "野雉十步一啄、百步一飲，不願畜乎樊中，喻自由之樂也",
+    "tags": [
+      "莊子",
+      "寓言",
+      "自由",
+      "養生",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "養生主",
+        "plugin": "wikisource",
+        "title": "莊子 · 養生主",
+        "url": "https://zh.wikisource.org/wiki/莊子/養生主",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "澹然間靜持大體",
     "title": "澹然間靜，持大體",
     "summary": "君子內外交樸，虛靜持身，因天命而立大體。",
@@ -102508,6 +106984,27 @@
         "title": "史記 · 卷107",
         "url": "https://zh.wikisource.org/wiki/史記/卷107",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "火傳",
+    "title": "火傳",
+    "summary": "指窮於為薪，火傳而不已，喻道體相承無盡也",
+    "tags": [
+      "莊子",
+      "養生",
+      "生死",
+      "道術傳承",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "養生主",
+        "plugin": "wikisource",
+        "title": "莊子 · 養生主",
+        "url": "https://zh.wikisource.org/wiki/莊子/養生主",
+        "work": "莊子"
       }
     ]
   },
@@ -102798,6 +107295,9 @@
       "荀子",
       "方法論",
       "修身",
+      "治道",
+      "政治",
+      "管子",
       "部:子",
       "部:子/儒家類"
     ],
@@ -102808,6 +107308,13 @@
         "title": "荀子 · 解蔽篇",
         "url": "https://zh.wikisource.org/wiki/荀子/解蔽篇",
         "work": "荀子"
+      },
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
       }
     ]
   },
@@ -102860,6 +107367,35 @@
         "title": "禮記 · 表記",
         "url": "https://zh.wikisource.org/wiki/禮記/表記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "為兵之數",
+    "title": "為兵之數",
+    "summary": "管子論為兵之八要：聚財、論工、制器、選士、政教、服習、徧知天下、明於機數。八者備而兵無敵於境上也。",
+    "tags": [
+      "法家",
+      "管子",
+      "兵法",
+      "七法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法",
+        "work": "管子"
+      },
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
+        "work": "管子"
       }
     ]
   },
@@ -103084,6 +107620,26 @@
         "title": "詩經 · 七月",
         "url": "https://zh.wikisource.org/wiki/詩經/七月",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "為無為",
+    "title": "為無為",
+    "summary": "聖人無為，而天下功成；強作者，反以無功。",
+    "tags": [
+      "無為",
+      "治道",
+      "聖人",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "主術訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 主術訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/主術訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -103587,6 +108143,27 @@
         "title": "韓非子 · 觀行",
         "url": "https://zh.wikisource.org/wiki/韓非子/觀行",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "烏鳥之狡",
+    "title": "烏鳥之狡",
+    "summary": "烏鳥之狡雖善不親，不重之結雖固必解；道之用貴其重。",
+    "tags": [
+      "管子",
+      "治道",
+      "修身",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第02篇形勢",
+        "plugin": "wikisource",
+        "title": "管子 · 第02篇形勢",
+        "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
       }
     ]
   },
@@ -104536,6 +109113,28 @@
     ]
   },
   {
+    "slug": "無敵八事",
+    "title": "無敵八事",
+    "summary": "治兵有八要：聚財、論工、制器、選士、政教、服習、遍知天下、明於機數。",
+    "tags": [
+      "軍事",
+      "治國",
+      "管子",
+      "法家",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "爲兵之數",
+        "plugin": "wikisource",
+        "title": "管子 · 爲兵之數",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/爲兵之數",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "無有後艱",
     "title": "無有後艱",
     "summary": "尸饗既終，祈遣後世之艱。",
@@ -104639,6 +109238,26 @@
         "title": "莊子 · 應帝王",
         "url": "https://zh.wikisource.org/wiki/莊子/應帝王",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "無為者帝",
+    "title": "無為者帝",
+    "summary": "聖人無為而治天下，此其所以成帝業也。",
+    "tags": [
+      "無為",
+      "聖人",
+      "帝道",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -106423,6 +111042,26 @@
     ]
   },
   {
+    "slug": "物",
+    "title": "物",
+    "summary": "天地與其所產，萬物之總名。",
+    "tags": [
+      "哲學",
+      "公孫龍子",
+      "宇宙論",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "6",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 6",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/6",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "物不至者則不反",
     "title": "物不至者則不反",
     "summary": "物未極則不知返，患未至則不知戒",
@@ -106608,6 +111247,47 @@
     ]
   },
   {
+    "slug": "物皆不能自能",
+    "title": "物皆不能自能",
+    "summary": "智愚好醜皆非自能，因分而定",
+    "tags": [
+      "名學",
+      "尹文子",
+      "自然",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
+    "slug": "物莫非指",
+    "title": "物莫非指",
+    "summary": "萬物皆可指認，無物不然。",
+    "tags": [
+      "公孫龍",
+      "名實",
+      "指物",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "3",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 3",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/3",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "物類變化-之",
     "title": "物類變化-之",
     "summary": "",
@@ -106769,6 +111449,26 @@
         "title": "春秋公羊傳 · 閔公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/閔公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "狐假虎威",
+    "title": "狐假虎威",
+    "summary": "狐借虎威以令百獸，百獸畏狐而非畏虎，威不在己明矣。",
+    "tags": [
+      "寓言",
+      "威權",
+      "名實",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
       }
     ]
   },
@@ -107166,6 +111866,48 @@
     ]
   },
   {
+    "slug": "獨行之國",
+    "title": "獨行之國",
+    "summary": "心行天下者，四方所歸；獨王之國者，多禍無威。",
+    "tags": [
+      "管子",
+      "政治哲學",
+      "治道",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第02篇形勢",
+        "plugin": "wikisource",
+        "title": "管子 · 第02篇形勢",
+        "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "獨行夜行",
+    "title": "獨行夜行",
+    "summary": "召遠者使無為，親近者言无事，唯夜行者獨有也。",
+    "tags": [
+      "管子",
+      "治道",
+      "無為",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第02篇形勢",
+        "plugin": "wikisource",
+        "title": "管子 · 第02篇形勢",
+        "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "獨行踽踽",
     "title": "獨行踽踽",
     "summary": "孤特無偶之貌，以興行人無依之歎。",
@@ -107266,6 +112008,26 @@
         "title": "抱朴子 · 卷04",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷04",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "獸厭走而有伏網罟",
+    "title": "獸厭走而有伏網罟",
+    "summary": "獸倦則伏，聖人以待之；事物之勢，迭有倚伏，此言伺時之要也。",
+    "tags": [
+      "待時",
+      "伺機",
+      "聖人",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -108545,6 +113307,27 @@
     ]
   },
   {
+    "slug": "王道非廢",
+    "title": "王道非廢",
+    "summary": "王道不廢，而天下莫敢窺者，以其正也。",
+    "tags": [
+      "治道",
+      "管子",
+      "法家",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "爲兵之數",
+        "plugin": "wikisource",
+        "title": "管子 · 爲兵之數",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/爲兵之數",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "王陵敬老",
     "title": "王陵敬老",
     "summary": "張蒼貴顯，猶父事王陵；陵死，洗沐必先朝陵夫人。",
@@ -109230,6 +114013,28 @@
     ]
   },
   {
+    "slug": "用人如用草木",
+    "title": "用人如用草木",
+    "summary": "用人要如用草木，各盡其材，不棄其一。",
+    "tags": [
+      "管子",
+      "治人",
+      "用人",
+      "材",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "用六",
     "title": "用六",
     "summary": "坤卦用六，利永貞，以大終。",
@@ -109418,7 +114223,9 @@
     "slug": "用志不分",
     "title": "用志不分",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:史"
+    ],
     "sources": [
       {
         "chapter": "達生",
@@ -111251,6 +116058,28 @@
     ]
   },
   {
+    "slug": "疏遠不忘其勞",
+    "title": "疏遠不忘其勞",
+    "summary": "疏賤之人有功，亦當錄之，不可遺忘。",
+    "tags": [
+      "管子",
+      "賞罰",
+      "任賢",
+      "公正",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "疏附",
     "title": "疏附",
     "summary": "率下臣使附於上也。",
@@ -111268,6 +116097,27 @@
         "title": "詩經 · 緜",
         "url": "https://zh.wikisource.org/wiki/詩經/緜",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "疑今察古",
+    "title": "疑今察古",
+    "summary": "疑今者察之古，不知來者視之往，萬事異趣同歸。",
+    "tags": [
+      "管子",
+      "歷史哲學",
+      "認識論",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第02篇形勢",
+        "plugin": "wikisource",
+        "title": "管子 · 第02篇形勢",
+        "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
       }
     ]
   },
@@ -111323,12 +116173,12 @@
       "承蜩",
       "專志",
       "道家",
-      "部:子",
-      "部:子/道家類",
       "養生",
       "專心",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -111777,6 +116627,26 @@
     ]
   },
   {
+    "slug": "白不能自白",
+    "title": "白不能自白",
+    "summary": "白固不能自白，惡能白石物乎？色不能自為色，則石不能自顯其石，天下未有離色可見之物。",
+    "tags": [
+      "公孫龍子",
+      "堅白石",
+      "離論",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "5",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 5",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/5",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "白公勝問微言",
     "title": "白公勝問微言",
     "summary": "至言去言，至為無為；淺知爭末，終不及道。",
@@ -111971,6 +116841,27 @@
         "plugin": "wikisource",
         "title": "史記 · 卷039",
         "url": "https://zh.wikisource.org/wiki/史記/卷039",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "白登之圍",
+    "title": "白登之圍",
+    "summary": "高帝被匈奴圍於白登，七日不得脫，賴閼氏解圍而去。",
+    "tags": [
+      "匈奴",
+      "高帝",
+      "白登",
+      "閼氏",
+      "冒頓"
+    ],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
         "work": "史記"
       }
     ]
@@ -112259,6 +117150,33 @@
         "title": "周易 · 賁",
         "url": "https://zh.wikisource.org/wiki/周易/賁",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "白馬非馬",
+    "title": "白馬非馬",
+    "summary": "公孫龍立「白馬非馬」之論，以析名實之辨。",
+    "tags": [
+      "名實",
+      "辯論",
+      "公孫龍子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 1",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/1",
+        "work": "公孫龍子"
+      },
+      {
+        "chapter": "2",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 2",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/2",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -113681,6 +118599,47 @@
     ]
   },
   {
+    "slug": "目不能堅手不能白",
+    "title": "目不能堅手不能白",
+    "summary": "目視與手觸各司其職，異任不可以相代，堅白域於石，終不可以相離而得也。",
+    "tags": [
+      "公孫龍子",
+      "認知論",
+      "感官",
+      "堅白石",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "5",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 5",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/5",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
+    "slug": "目妄視則淫",
+    "title": "目妄視則淫",
+    "summary": "耳目口為三關，不可妄用，守之則通於太一。",
+    "tags": [
+      "修身",
+      "三關",
+      "耳目口",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "主術訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 主術訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/主術訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "目擊而道存",
     "title": "目擊而道存",
     "summary": "以目相視，道已昭然，不待言說。",
@@ -113977,6 +118936,27 @@
         "title": "詩經 · 相鼠",
         "url": "https://zh.wikisource.org/wiki/詩經/相鼠",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "省刑禁文巧",
+    "title": "省刑禁文巧",
+    "summary": "省刑之要，在禁文巧；守國之度，在飾四維。",
+    "tags": [
+      "刑罰",
+      "治道",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
       }
     ]
   },
@@ -114461,6 +119441,26 @@
         "title": "墨子 · 貴義",
         "url": "https://zh.wikisource.org/wiki/墨子/貴義",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "瞽者無目",
+    "title": "瞽者無目",
+    "summary": "瞽者無目，精於聽而拙於視，一官廢而一官專。",
+    "tags": [
+      "形體",
+      "知覺",
+      "偏廢",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
       }
     ]
   },
@@ -115713,6 +120713,29 @@
     ]
   },
   {
+    "slug": "社稷戚於親",
+    "title": "社稷戚於親",
+    "summary": "社稷重於親戚，不可因愛親而危國。",
+    "tags": [
+      "管子",
+      "治國",
+      "社稷",
+      "親",
+      "愛親危國",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "社鼠",
     "title": "社鼠",
     "summary": "左右近習，寄身社中，燻之則焚木，灌之則敗塗，難以除去。",
@@ -116785,6 +121808,23 @@
     ]
   },
   {
+    "slug": "禍莫大於殺已降",
+    "title": "禍莫大於殺已降",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "福履綏將成",
     "title": "福履綏將成",
     "summary": "福履之來，由逮下而漸至於成也。",
@@ -117305,6 +122345,27 @@
     ]
   },
   {
+    "slug": "禮樂獨行",
+    "title": "禮樂獨行",
+    "summary": "聖王制禮樂以和節民情",
+    "tags": [
+      "治道",
+      "尹文子",
+      "禮樂",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "禮禁亂之所由生",
     "title": "禮禁亂之所由生",
     "summary": "",
@@ -117354,6 +122415,26 @@
         "title": "史記 · 卷023",
         "url": "https://zh.wikisource.org/wiki/史記/卷023",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "禮義成君子",
+    "title": "禮義成君子",
+    "summary": "禮義招賢而寡得，名利治小人而多得",
+    "tags": [
+      "政治哲學",
+      "尹文子",
+      "名利",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
       }
     ]
   },
@@ -118141,6 +123222,26 @@
     ]
   },
   {
+    "slug": "秉時養人",
+    "title": "秉時養人",
+    "summary": "乘天時之便以養育人，此聖人因時之治也。",
+    "tags": [
+      "治民",
+      "秉時",
+      "聖人",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "秉畀炎火",
     "title": "秉畀炎火",
     "summary": "付以烈焰，焚蟲以除害",
@@ -118653,6 +123754,21 @@
         "plugin": "wikisource",
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "秦築長城",
+    "title": "秦築長城",
+    "summary": "秦始皇使蒙恬北擊胡，築長城萬餘里，起臨洮至遼東。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷110",
+        "plugin": "wikisource",
+        "title": "史記 · 卷110",
+        "url": "https://zh.wikisource.org/wiki/史記/卷110",
         "work": "史記"
       }
     ]
@@ -119366,6 +124482,27 @@
     ]
   },
   {
+    "slug": "積於不涸之倉",
+    "title": "積於不涸之倉",
+    "summary": "蓄積之道，當使倉廩永不匱竭。",
+    "tags": [
+      "理財",
+      "治道",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "積習忘臭",
     "title": "積習則忘鮑肆之臭",
     "summary": "久處一境，則習而不察，雖醜不自知。",
@@ -119815,6 +124952,25 @@
     ]
   },
   {
+    "slug": "立國",
+    "title": "立國",
+    "summary": "建都立邑當因天材、就地利，務在便民。",
+    "tags": [
+      "治國",
+      "城市",
+      "地理"
+    ],
+    "sources": [
+      {
+        "chapter": "第05篇乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第05篇乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第05篇乘馬",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "立尺材於高山之上",
     "title": "立尺材於高山之上",
     "summary": "材不高，位高則能臨深。",
@@ -120102,6 +125258,26 @@
         "title": "荀子 · 修身篇",
         "url": "https://zh.wikisource.org/wiki/荀子/修身篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "端政象",
+    "title": "端政象",
+    "summary": "賢者在位，端正其政事之象，不敢先人而居功，此德治之要也。",
+    "tags": [
+      "賢者",
+      "德治",
+      "修身",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -121750,7 +126926,9 @@
       "至人",
       "養氣",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -121898,6 +127076,8 @@
       "酈食其",
       "陸賈",
       "史記",
+      "史贊",
+      "李廣",
       "部:史",
       "部:史/正史類"
     ],
@@ -121935,6 +127115,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷097",
         "url": "https://zh.wikisource.org/wiki/史記/卷097",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
         "work": "史記"
       }
     ]
@@ -123206,6 +128393,47 @@
     ]
   },
   {
+    "slug": "緣督以為經",
+    "title": "緣督以為經",
+    "summary": "順中道而行以為常法，乃養生之綱領也",
+    "tags": [
+      "莊子",
+      "養生",
+      "中道",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "養生主",
+        "plugin": "wikisource",
+        "title": "莊子 · 養生主",
+        "url": "https://zh.wikisource.org/wiki/莊子/養生主",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "緩者後於事",
+    "title": "緩者後於事",
+    "summary": "反應遲緩者必落後於事機。",
+    "tags": [
+      "治道",
+      "決斷",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "緹縈上書-之",
     "title": "緹縈上書-之",
     "summary": "",
@@ -123748,6 +128976,27 @@
         "title": "三略",
         "url": "https://zh.wikisource.org/wiki/三略",
         "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "羊合牛非馬",
+    "title": "羊合牛非馬",
+    "summary": "羊牛皆有角之同，不足以定其為同類；羊牛皆無尾之同，亦不足以合為馬。以類之異同，定名實之當否，不可但執一同而概其餘。",
+    "tags": [
+      "公孫龍子",
+      "名實",
+      "類與同異",
+      "辯論",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "4",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 4",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/4",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -125474,6 +130723,13 @@
         "title": "孟子 · 滕文公下",
         "url": "https://zh.wikisource.org/wiki/孟子/滕文公下",
         "work": "孟子"
+      },
+      {
+        "chapter": "第05篇乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第05篇乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第05篇乘馬",
+        "work": "管子"
       }
     ]
   },
@@ -125583,6 +130839,28 @@
     ]
   },
   {
+    "slug": "聖人之過",
+    "title": "聖人之過",
+    "summary": "聖人毀道德以為仁義，屈折禮樂以匡天下，是聖人之過，猶伯樂之治馬、工匠之造器也。",
+    "tags": [
+      "莊子",
+      "聖人",
+      "仁義",
+      "歸過",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "聖人之道去智與巧",
     "title": "聖人之道",
     "summary": "聖人之道，去智與巧",
@@ -125648,6 +130926,26 @@
         "title": "荀子 · 禮論篇",
         "url": "https://zh.wikisource.org/wiki/荀子/禮論篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "聖人因天",
+    "title": "聖人因天",
+    "summary": "天因人而變，聖人因天而行，天人之際，相須而成也。",
+    "tags": [
+      "天人",
+      "聖人",
+      "因循",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -126055,6 +131353,25 @@
         "title": "莊子 · 天地",
         "url": "https://zh.wikisource.org/wiki/莊子/天地",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "聖法",
+    "title": "聖法",
+    "summary": "聖人治出於己，聖法治出於理；聖人獨治，不如聖法無不治。",
+    "tags": [
+      "治國",
+      "名法",
+      "尹文子"
+    ],
+    "sources": [
+      {
+        "chapter": "大道下",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道下",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道下",
+        "work": "尹文子"
       }
     ]
   },
@@ -127037,6 +132354,26 @@
         "title": "禮記 · 學記",
         "url": "https://zh.wikisource.org/wiki/禮記/學記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "聾者不歌",
+    "title": "聾者不歌",
+    "summary": "聾者不歌，無以自樂；盲者不觀，無以接物。各有所闕，不能相兼。",
+    "tags": [
+      "形體",
+      "知覺",
+      "闕憾",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "佚文",
+        "plugin": "wikisource",
+        "title": "尹文子 · 佚文",
+        "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
+        "work": "尹文子"
       }
     ]
   },
@@ -128857,7 +134194,8 @@
       "逍遙",
       "至人",
       "神人",
-      "聖人"
+      "聖人",
+      "部:其他"
     ],
     "sources": [
       {
@@ -128991,6 +134329,27 @@
         "title": "韓非子 · 大體",
         "url": "https://zh.wikisource.org/wiki/韓非子/大體",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "至德之世",
+    "title": "至德之世",
+    "summary": "至德之世，山無蹊隧，澤無舟梁，萬物羣生，禽獸可羈而遊，鳥鵲之巢可攀援而闚。",
+    "tags": [
+      "莊子",
+      "至德",
+      "至人之世",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
       }
     ]
   },
@@ -129272,6 +134631,23 @@
         "title": "荀子 · 君道篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "致其力",
+    "title": "致其力",
+    "summary": "既得天時，則竭其力以成功，此聖人乘勢之義也。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -129678,6 +135054,43 @@
         "title": "莊子 · 人間世",
         "url": "https://zh.wikisource.org/wiki/莊子/人間世",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "與地同極",
+    "title": "與地同極",
+    "summary": "正靜不爭，動作不貳，素質不留，乃與地同其德也。",
+    "tags": [
+      "修身",
+      "地德",
+      "正靜",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "與天同極",
+    "title": "與天同極",
+    "summary": "聖人法天之道以成治，天人相應，此治道之極致也。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -130820,6 +136233,26 @@
         "title": "周易 · 噬嗑",
         "url": "https://zh.wikisource.org/wiki/周易/噬嗑",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "色形之辨",
+    "title": "色形之辨",
+    "summary": "白所以名色，馬所以名形；色非形，非色，合以為物非也。",
+    "tags": [
+      "名實",
+      "辯論",
+      "公孫龍子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 1",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/1",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -132878,6 +138311,27 @@
     ]
   },
   {
+    "slug": "萬乘之國兵不可以無主",
+    "title": "萬乘之國兵不可以無主",
+    "summary": "言大國必有主帥，無主則兵散地削。",
+    "tags": [
+      "治國",
+      "軍事",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "萬乘之患千乘之患",
     "title": "萬乘之患千乘之患",
     "summary": "萬乘患大臣太重，千乘患左右太信。",
@@ -132989,7 +138443,10 @@
       "歸心",
       "小雅",
       "部:經",
-      "部:經/詩類"
+      "部:經/詩類",
+      "治國",
+      "民本",
+      "尹文子"
     ],
     "sources": [
       {
@@ -132998,6 +138455,13 @@
         "title": "詩經 · 都人士",
         "url": "https://zh.wikisource.org/wiki/詩經/都人士",
         "work": "詩經"
+      },
+      {
+        "chapter": "大道下",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道下",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道下",
+        "work": "尹文子"
       }
     ]
   },
@@ -135395,6 +140859,26 @@
     ]
   },
   {
+    "slug": "藏三可乎",
+    "title": "藏三可乎",
+    "summary": "公孫龍論目視、手觸各得一端，而石之堅、白、石三者實不相離，人自不能兼，非石之無三也。",
+    "tags": [
+      "公孫龍子",
+      "認知論",
+      "堅白石",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "5",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 5",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/5",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "藏器以待時",
     "title": "藏器以待時",
     "summary": "君子藏器待時，非其時不見，非其君不事。",
@@ -136850,7 +142334,8 @@
     "tags": [
       "寓言",
       "小大之辨",
-      "蜩鳩"
+      "蜩鳩",
+      "部:其他"
     ],
     "sources": [
       {
@@ -137571,6 +143056,26 @@
         "title": "詩經 · 陟岵",
         "url": "https://zh.wikisource.org/wiki/詩經/陟岵",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "行德而不爭",
+    "title": "行德而不爭",
+    "summary": "賢者以德服人，不以力爭，此柔安靜樂之風也。",
+    "tags": [
+      "德治",
+      "不爭",
+      "賢者",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -138316,6 +143821,29 @@
     ]
   },
   {
+    "slug": "衡庫",
+    "title": "衡庫",
+    "summary": "衡庫者，天子之禮，平衡財用以正天下之器。",
+    "tags": [
+      "治道",
+      "理財",
+      "管子",
+      "法家",
+      "衡庫",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "爲兵之數",
+        "plugin": "wikisource",
+        "title": "管子 · 爲兵之數",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/爲兵之數",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "衡從其畝",
     "title": "衡從其畝",
     "summary": "種麻必縱橫耕治其畝，喻行事當依條理",
@@ -138739,6 +144267,26 @@
         "title": "周易 · 謙",
         "url": "https://zh.wikisource.org/wiki/周易/謙",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "裕德無求",
+    "title": "裕德無求",
+    "summary": "充實其德而無所貪求，此賢者之所以靜而不擾也。",
+    "tags": [
+      "修身",
+      "裕德",
+      "賢者",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -139344,7 +144892,10 @@
       "見侮",
       "闘",
       "部:子",
-      "部:子/儒家類"
+      "部:子/儒家類",
+      "修身",
+      "心性",
+      "尹文子"
     ],
     "sources": [
       {
@@ -139353,6 +144904,13 @@
         "title": "荀子 · 正論篇",
         "url": "https://zh.wikisource.org/wiki/荀子/正論篇",
         "work": "荀子"
+      },
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "尹文子 · 序",
+        "url": "https://zh.wikisource.org/wiki/尹文子/序",
+        "work": "尹文子"
       }
     ]
   },
@@ -141191,6 +146749,27 @@
     ]
   },
   {
+    "slug": "言行大禁",
+    "title": "言行大禁",
+    "summary": "言不可復，行不可再，君主之大禁也。",
+    "tags": [
+      "管子",
+      "政治哲學",
+      "修身",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第02篇形勢",
+        "plugin": "wikisource",
+        "title": "管子 · 第02篇形勢",
+        "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "言行相伐",
     "title": "言行相伐",
     "summary": "口稱靜退而心希榮利，言行相反，士行之弊也。",
@@ -141493,6 +147072,28 @@
         "title": "韓非子 · 南面",
         "url": "https://zh.wikisource.org/wiki/韓非子/南面",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "計數",
+    "title": "計數",
+    "summary": "剛柔輕重大小虛實遠近多少之度量，成事之要也。",
+    "tags": [
+      "管子",
+      "七法",
+      "治道",
+      "兵法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
+        "work": "管子"
       }
     ]
   },
@@ -143326,6 +148927,28 @@
     ]
   },
   {
+    "slug": "論功計勞未嘗失法律",
+    "title": "論功計勞未嘗失法律",
+    "summary": "論功行賞，必依法度，賞罰一斷於法。",
+    "tags": [
+      "管子",
+      "賞罰",
+      "法治",
+      "論功",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "論大人則以為間己",
     "title": "論大人則以為間己",
     "summary": "說者與論大人則被疑間己，與論細人則被疑賣重。",
@@ -143783,6 +149406,27 @@
         "title": "詩經 · 思齊",
         "url": "https://zh.wikisource.org/wiki/詩經/思齊",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "變",
+    "title": "變",
+    "summary": "變者，右有與也。若右苟變，安可謂右？苟不變，安可謂變？二者相對而言之，乃有變之可說。",
+    "tags": [
+      "公孫龍子",
+      "名實",
+      "變與不變",
+      "辯論",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "4",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 4",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/4",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -144347,6 +149991,28 @@
         "title": "周易 · 中孚",
         "url": "https://zh.wikisource.org/wiki/周易/中孚",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "象",
+    "title": "象",
+    "summary": "事物之名狀比類，審材審用之本也。",
+    "tags": [
+      "管子",
+      "七法",
+      "治道",
+      "邏輯",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七法",
+        "plugin": "wikisource",
+        "title": "管子 · 七法",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/七法",
+        "work": "管子"
       }
     ]
   },
@@ -145728,6 +151394,13 @@
         "title": "韓非子 · 飭令",
         "url": "https://zh.wikisource.org/wiki/韓非子/飭令",
         "work": "韓非子"
+      },
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
       }
     ]
   },
@@ -145803,6 +151476,27 @@
         "title": "韓非子 · 飭令",
         "url": "https://zh.wikisource.org/wiki/韓非子/飭令",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "賞罰信於其所見",
+    "title": "賞罰信於其所見",
+    "summary": "賞罰必驗於所見之事，方能取信於民。",
+    "tags": [
+      "賞罰",
+      "信義",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
       }
     ]
   },
@@ -145900,6 +151594,45 @@
         "title": "韓非子 · 飾邪",
         "url": "https://zh.wikisource.org/wiki/韓非子/飾邪",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "賞罰是非相與四繆",
+    "title": "賞罰是非相與四繆",
+    "summary": "賞罰與是非相違，上之所是與法之所非相戾，雖十黃帝不能理。",
+    "tags": [
+      "賞罰",
+      "名實",
+      "公孫龍子",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 1",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/1",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
+    "slug": "賞罰見信",
+    "title": "賞罰見信",
+    "summary": "賞罰必信於其所見，乃可以化民。",
+    "tags": [
+      "賞罰",
+      "治國",
+      "信用"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權脩",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權脩",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權脩",
+        "work": "管子"
       }
     ]
   },
@@ -146301,6 +152034,28 @@
     ]
   },
   {
+    "slug": "賢知之君",
+    "title": "賢知之君",
+    "summary": "賢而有知之君，必據形勢之地，方能正天下而無所畏。",
+    "tags": [
+      "治道",
+      "為君",
+      "管子",
+      "法家",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "爲兵之數",
+        "plugin": "wikisource",
+        "title": "管子 · 爲兵之數",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/爲兵之數",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "賢者不用",
     "title": "賢者不用",
     "summary": "賢才見棄，國無所恃",
@@ -146336,6 +152091,27 @@
         "title": "荀子 · 致士篇",
         "url": "https://zh.wikisource.org/wiki/荀子/致士篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "賢者安徐正靜",
+    "title": "賢者安徐正靜",
+    "summary": "賢者以靜為體、以柔為節，先定於內而後發於外，此治世之要也。",
+    "tags": [
+      "賢者",
+      "修身",
+      "治道",
+      "部:子",
+      "部:子/儒家類"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -146800,6 +152576,27 @@
         "title": "周易 · 解",
         "url": "https://zh.wikisource.org/wiki/周易/解",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "赫胥氏",
+    "title": "赫胥氏",
+    "summary": "赫胥氏之世，民含哺而熙，鼓腹而遊，不知所為，不知所之，此太古至德之象。",
+    "tags": [
+      "莊子",
+      "太古",
+      "自然",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
       }
     ]
   },
@@ -148001,6 +153798,28 @@
     ]
   },
   {
+    "slug": "蹩躠為仁",
+    "title": "蹩躠為仁",
+    "summary": "聖人蹩躠為仁、踶跂為義，而天下始疑；澶漫為樂、擿僻為禮，而天下始分。",
+    "tags": [
+      "莊子",
+      "仁義",
+      "禮樂",
+      "分別",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "蹶父孔武",
     "title": "蹶父孔武",
     "summary": "蹶父勇武，足跡遍天下，為女相攸得所。",
@@ -148977,6 +154796,25 @@
     ]
   },
   {
+    "slug": "輕重用衆",
+    "title": "輕重用衆",
+    "summary": "輕用民力則民力竭，民力竭則令不行。",
+    "tags": [
+      "治國",
+      "民力",
+      "愛民"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權脩",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權脩",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權脩",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "輕重相節",
     "title": "輕重相節",
     "summary": "戰以相輕重為權，輕重失當則敗。",
@@ -149836,6 +155674,23 @@
     ]
   },
   {
+    "slug": "辯者之囿-之",
+    "title": "辯者之囿-之",
+    "summary": "",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "原序",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 原序",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/原序",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "農戰",
     "title": "農戰",
     "summary": "農業與戰爭乃國之根本",
@@ -150670,6 +156525,27 @@
     ]
   },
   {
+    "slug": "造器者之罪",
+    "title": "造器者之罪",
+    "summary": "殘樸以為器，是工匠之罪；毀道德以為仁義，是聖人之過。",
+    "tags": [
+      "莊子",
+      "自然",
+      "仁義",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
+      }
+    ]
+  },
+  {
     "slug": "造父學御",
     "title": "造父學御",
     "summary": "",
@@ -151302,6 +157178,28 @@
         "title": "史記 · 卷090",
         "url": "https://zh.wikisource.org/wiki/史記/卷090",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "遊刃有餘",
+    "title": "遊刃有餘",
+    "summary": "刀刃薄而入有間，喻辦事從容裕如也",
+    "tags": [
+      "莊子",
+      "技藝",
+      "養生",
+      "成語",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "養生主",
+        "plugin": "wikisource",
+        "title": "莊子 · 養生主",
+        "url": "https://zh.wikisource.org/wiki/莊子/養生主",
+        "work": "莊子"
       }
     ]
   },
@@ -152019,6 +157917,34 @@
     ]
   },
   {
+    "slug": "道天地之常",
+    "title": "道天地之常",
+    "summary": "聖人法天地之常道，修陰陽之從，以成天下之治也。",
+    "tags": [
+      "管子",
+      "天道",
+      "政治哲學",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      },
+      {
+        "chapter": "第02篇形勢",
+        "plugin": "wikisource",
+        "title": "管子 · 第02篇形勢",
+        "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "道家之言高則高矣",
     "title": "道家之言，高則高矣，用之則弊",
     "summary": "批評道家之言高遠難施於治世",
@@ -152122,6 +158048,27 @@
         "title": "莊子 · 大宗師",
         "url": "https://zh.wikisource.org/wiki/莊子/大宗師",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "道法術權勢",
+    "title": "道法術權勢",
+    "summary": "治世之具，循道、法、術、權、勢以漸進",
+    "tags": [
+      "政治哲學",
+      "治道",
+      "尹文子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
       }
     ]
   },
@@ -152263,6 +158210,27 @@
     ]
   },
   {
+    "slug": "道行於世",
+    "title": "道行於世",
+    "summary": "道治則貧富智愚各安其分",
+    "tags": [
+      "治道",
+      "尹文子",
+      "無為",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "大道上",
+        "plugin": "wikisource",
+        "title": "尹文子 · 大道上",
+        "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
+        "work": "尹文子"
+      }
+    ]
+  },
+  {
     "slug": "道通其分",
     "title": "道通其分",
     "summary": "道通則物分，成則毀；分也者以備，備也者其有以備。",
@@ -152326,7 +158294,9 @@
     "tags": [
       "養生",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -152666,6 +158636,27 @@
         "title": "史記 · 卷054",
         "url": "https://zh.wikisource.org/wiki/史記/卷054",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "選陳",
+    "title": "選陳",
+    "summary": "善陳者不戰而勝，選陳之要在乎知己知敵、計定而後動。",
+    "tags": [
+      "軍事",
+      "管子",
+      "兵法",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "選陳",
+        "plugin": "wikisource",
+        "title": "管子 · 選陳",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/選陳",
+        "work": "管子"
       }
     ]
   },
@@ -153981,7 +159972,9 @@
       "養生",
       "神全",
       "莊子",
-      "達生"
+      "達生",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -154647,6 +160640,27 @@
     ]
   },
   {
+    "slug": "重盡其民力",
+    "title": "重盡其民力",
+    "summary": "治國當愛惜民力，不可輕用。",
+    "tags": [
+      "治民",
+      "愛民",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "重積德",
     "title": "重積德",
     "summary": "積德者令故德不去，新和氣日至，神靜而多得。",
@@ -154976,13 +160990,56 @@
     ]
   },
   {
+    "slug": "野與市爭民",
+    "title": "野與市爭民",
+    "summary": "治國當明分工，農事為本。",
+    "tags": [
+      "治國",
+      "農商",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第03篇權修",
+        "plugin": "wikisource",
+        "title": "管子 · 第03篇權修",
+        "url": "https://zh.wikisource.org/wiki/管子/第03篇權修",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "野蕪曠則民乃菅",
+    "title": "野蕪曠則民乃菅",
+    "summary": "田野荒蕪則民失其業，民失業則放縱妄為。",
+    "tags": [
+      "治道",
+      "民生",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "野馬塵埃",
     "title": "野馬也，塵埃也",
     "summary": "天地之間，萬物皆有所待，以息相吹而已。",
     "tags": [
       "寓言",
       "萬物",
-      "相待"
+      "相待",
+      "部:其他"
     ],
     "sources": [
       {
@@ -154991,6 +161048,27 @@
         "title": "莊子 · 逍遙遊",
         "url": "https://zh.wikisource.org/wiki/莊子/逍遙遊",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "量民力",
+    "title": "量民力",
+    "summary": "施政當度量民力，不可強其所不堪。",
+    "tags": [
+      "治道",
+      "民本",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
       }
     ]
   },
@@ -155011,6 +161089,27 @@
         "title": "抱朴子 · 卷16",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "金城之守",
+    "title": "金城之守",
+    "summary": "金城之守，在用財貨、設耳目，嚴為防守之備。",
+    "tags": [
+      "軍事",
+      "防守",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "選陳",
+        "plugin": "wikisource",
+        "title": "管子 · 選陳",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/選陳",
+        "work": "管子"
       }
     ]
   },
@@ -155834,6 +161933,27 @@
         "title": "周易 · 師",
         "url": "https://zh.wikisource.org/wiki/周易/師",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "開必得之門",
+    "title": "開必得之門",
+    "summary": "賞罰必信，使民知所趨赴。",
+    "tags": [
+      "賞罰",
+      "治道",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第01篇牧民",
+        "plugin": "wikisource",
+        "title": "管子 · 第01篇牧民",
+        "url": "https://zh.wikisource.org/wiki/管子/第01篇牧民",
+        "work": "管子"
       }
     ]
   },
@@ -156792,6 +162912,21 @@
     ]
   },
   {
+    "slug": "陰陽",
+    "title": "陰陽",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "第05篇乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第05篇乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第05篇乘馬",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "陳乞弒君舍",
     "title": "陳乞弒君舍",
     "summary": "齊陳乞迎陽生而立之，逐弒舊君。",
@@ -157241,6 +163376,27 @@
         "title": "詩經 · 伐木",
         "url": "https://zh.wikisource.org/wiki/詩經/伐木",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "陵索降匈奴",
+    "title": "陵降匈奴",
+    "summary": "廣孫陵兵敗而降匈奴，身死族滅。",
+    "tags": [
+      "人物",
+      "漢",
+      "將軍",
+      "匈奴",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
       }
     ]
   },
@@ -157986,6 +164142,23 @@
     ]
   },
   {
+    "slug": "隱於德",
+    "title": "隱於德",
+    "summary": "未得天極之時，則斂藏其德以待之，此君子藏器待時之義也。",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "隱淪之道",
     "title": "隱淪之道",
     "summary": "述神隱變化諸術。",
@@ -158576,6 +164749,27 @@
     ]
   },
   {
+    "slug": "離也者天下",
+    "title": "離也者天下",
+    "summary": "離者，天下之公理也；獨而正，萬物各趨變不相須，不假彼以成此，不持此以亂彼。",
+    "tags": [
+      "公孫龍子",
+      "哲學",
+      "離論",
+      "獨正",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "5",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 5",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/5",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "離內遠遊危身之道",
     "title": "離內遠遊危身之道",
     "summary": "遠遊以樂，疏忠臣，身危之道也。",
@@ -158639,6 +164833,26 @@
         "title": "韓非子 · 觀行",
         "url": "https://zh.wikisource.org/wiki/韓非子/觀行",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "離白之謂",
+    "title": "離白之謂",
+    "summary": "言有白馬不可謂無馬者，乃離白而言馬；實則離白則馬不復為白馬。",
+    "tags": [
+      "公孫龍",
+      "名實之辨",
+      "白馬非馬",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "2",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 2",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/2",
+        "work": "公孫龍子"
       }
     ]
   },
@@ -159174,6 +165388,27 @@
     ]
   },
   {
+    "slug": "雷電之戰",
+    "title": "雷電之戰",
+    "summary": "雷電之戰，士不齊也。以整擊亂，故能獨行無敵。",
+    "tags": [
+      "軍事",
+      "兵法",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "選陳",
+        "plugin": "wikisource",
+        "title": "管子 · 選陳",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/選陳",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "雷電皆至",
     "title": "雷電皆至",
     "summary": "雷電並興，威明並行，君子觀此以折獄致刑也。",
@@ -159373,8 +165608,12 @@
       "治道",
       "任賢",
       "荀子",
+      "兵法",
+      "時勢",
+      "管子",
+      "法家",
       "部:子",
-      "部:子/儒家類"
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -159411,6 +165650,13 @@
         "title": "荀子 · 議兵篇",
         "url": "https://zh.wikisource.org/wiki/荀子/議兵篇",
         "work": "荀子"
+      },
+      {
+        "chapter": "爲兵之數",
+        "plugin": "wikisource",
+        "title": "管子 · 爲兵之數",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/爲兵之數",
+        "work": "管子"
       }
     ]
   },
@@ -159640,6 +165886,27 @@
     ]
   },
   {
+    "slug": "青以白非黃",
+    "title": "青以白非黃",
+    "summary": "青白相與，反對也；不相鄰而相鄰，不害其方。若相爭而明，則為碧色，非正舉。唯青白各靜其所居，而後黃生，此正舉也。",
+    "tags": [
+      "公孫龍子",
+      "名實",
+      "正色與非正色",
+      "君臣之義",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "4",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 4",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/4",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
     "slug": "青出於藍",
     "title": "青出於藍",
     "summary": "青出於藍而青於藍，教化使然也。",
@@ -159799,6 +166066,46 @@
         "title": "韓非子 · 主道",
         "url": "https://zh.wikisource.org/wiki/韓非子/主道",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "靜民觀時",
+    "title": "靜民觀時",
+    "summary": "百姓靜則易使，待天時之令而後起事，此聖人乘時之道也。",
+    "tags": [
+      "治民",
+      "待時",
+      "聖人",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "靜與作",
+    "title": "靜與作",
+    "summary": "靜與動各有其時，貴在得度；知靜之修者自利，知作之從者有功也。",
+    "tags": [
+      "靜",
+      "動",
+      "聖人",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
       }
     ]
   },
@@ -161195,6 +167502,26 @@
     ]
   },
   {
+    "slug": "順守其從",
+    "title": "順守其從",
+    "summary": "功成之後，順守成功，依天地之道而不敢失，此聖人保業之要也。",
+    "tags": [
+      "守成",
+      "成功",
+      "聖人",
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "勢",
+        "plugin": "wikisource",
+        "title": "管子 · 勢",
+        "url": "https://zh.wikisource.org/wiki/管子/勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "順帝之則",
     "title": "順帝之則",
     "summary": "順從天帝之法則，不以人為也。",
@@ -161810,7 +168137,8 @@
     "tags": [
       "寓言",
       "鵬",
-      "修養"
+      "修養",
+      "部:其他"
     ],
     "sources": [
       {
@@ -161974,6 +168302,27 @@
     ]
   },
   {
+    "slug": "風雨之行",
+    "title": "風雨之行",
+    "summary": "風雨之行，速也。兵速則能行千里而不疲。",
+    "tags": [
+      "軍事",
+      "行軍",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "選陳",
+        "plugin": "wikisource",
+        "title": "管子 · 選陳",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/選陳",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "風雨攸除",
     "title": "風雨攸除",
     "summary": "宮室既成，風雨不入。",
@@ -162055,6 +168404,88 @@
         "title": "詩經 · 卷阿",
         "url": "https://zh.wikisource.org/wiki/詩經/卷阿",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "飛將軍",
+    "title": "飛將軍",
+    "summary": "匈奴稱廣之號，以其迅疾如飛。",
+    "tags": [
+      "人物稱號",
+      "漢",
+      "將軍",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷109",
+        "plugin": "wikisource",
+        "title": "史記 · 卷109",
+        "url": "https://zh.wikisource.org/wiki/史記/卷109",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "飛者入池而棺椁異處",
+    "title": "飛者入池而棺椁異處",
+    "summary": "以白馬為有馬，是悖言亂辭，如飛者入池、棺椁易位，荒謬不倫。",
+    "tags": [
+      "公孫龍",
+      "論辯",
+      "白馬非馬",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "2",
+        "plugin": "wikisource",
+        "title": "公孫龍子 · 2",
+        "url": "https://zh.wikisource.org/wiki/公孫龍子/2",
+        "work": "公孫龍子"
+      }
+    ]
+  },
+  {
+    "slug": "飛蓬之閒",
+    "title": "飛蓬之閒",
+    "summary": "失其所依，則如蓬之飄轉，無往而可恃也。",
+    "tags": [
+      "管子",
+      "政治哲學",
+      "隱喻",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第02篇形勢",
+        "plugin": "wikisource",
+        "title": "管子 · 第02篇形勢",
+        "url": "https://zh.wikisource.org/wiki/管子/第02篇形勢",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "飛鳥之舉",
+    "title": "飛鳥之舉",
+    "summary": "飛鳥之舉，輕也。師輕其行，則能逾險阻而無所困。",
+    "tags": [
+      "軍事",
+      "行軍",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "選陳",
+        "plugin": "wikisource",
+        "title": "管子 · 選陳",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/選陳",
+        "work": "管子"
       }
     ]
   },
@@ -162363,6 +168794,28 @@
         "title": "抱朴子 · 卷04",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷04",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "養人如養六畜",
+    "title": "養人如養六畜",
+    "summary": "養人要如養六畜，順其欲而給其需。",
+    "tags": [
+      "管子",
+      "治人",
+      "養民",
+      "六畜",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "四傷百匿",
+        "plugin": "wikisource",
+        "title": "管子 · 四傷百匿",
+        "url": "https://zh.wikisource.org/wiki/管子/七法/四傷百匿",
+        "work": "管子"
       }
     ]
   },
@@ -162710,6 +169163,25 @@
     ]
   },
   {
+    "slug": "首事",
+    "title": "首事",
+    "summary": "行事必先出令，明賞罰之數於前。",
+    "tags": [
+      "行政",
+      "賞罰",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第04篇立政",
+        "plugin": "wikisource",
+        "title": "管子 · 第04篇立政",
+        "url": "https://zh.wikisource.org/wiki/管子/第04篇立政",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "首出庶物",
     "title": "首出庶物",
     "summary": "聖人首出，立乎萬民之上，萬國咸寧。",
@@ -162747,6 +169219,25 @@
         "title": "詩經 · 伯兮",
         "url": "https://zh.wikisource.org/wiki/詩經/伯兮",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "首憲",
+    "title": "首憲",
+    "summary": "法令布行之制，自朝至鄉，層層受憲，違者罪死不赦。",
+    "tags": [
+      "法令",
+      "行政",
+      "管子"
+    ],
+    "sources": [
+      {
+        "chapter": "第04篇立政",
+        "plugin": "wikisource",
+        "title": "管子 · 第04篇立政",
+        "url": "https://zh.wikisource.org/wiki/管子/第04篇立政",
+        "work": "管子"
       }
     ]
   },
@@ -162830,6 +169321,27 @@
         "title": "史記 · 卷097",
         "url": "https://zh.wikisource.org/wiki/史記/卷097",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "馬之真性",
+    "title": "馬之真性",
+    "summary": "馬之真性，在乎蹄踐霜雪、毛禦風寒、齕草飲水、翹足而陸，自然天成，無所用乎義臺路寢。",
+    "tags": [
+      "莊子",
+      "自然",
+      "本性",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
       }
     ]
   },
@@ -163003,6 +169515,28 @@
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "馬蹄",
+    "title": "馬蹄",
+    "summary": "莊子以馬喻人，刺伯樂治馬、聖人治世之過。",
+    "tags": [
+      "莊子",
+      "天道",
+      "自然",
+      "反文明",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "馬蹄",
+        "plugin": "wikisource",
+        "title": "莊子 · 馬蹄",
+        "url": "https://zh.wikisource.org/wiki/莊子/馬蹄",
+        "work": "莊子"
       }
     ]
   },
@@ -165895,7 +172429,8 @@
     "tags": [
       "寓言",
       "知足",
-      "無用"
+      "無用",
+      "部:其他"
     ],
     "sources": [
       {
@@ -166536,6 +173071,25 @@
         "title": "周易 · 坤",
         "url": "https://zh.wikisource.org/wiki/周易/坤",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "黃金用量",
+    "title": "黃金用量",
+    "summary": "黃金爲用之量，辨其理則百用節。",
+    "tags": [
+      "治國",
+      "經濟",
+      "貨幣"
+    ],
+    "sources": [
+      {
+        "chapter": "第05篇乘馬",
+        "plugin": "wikisource",
+        "title": "管子 · 第05篇乘馬",
+        "url": "https://zh.wikisource.org/wiki/管子/第05篇乘馬",
+        "work": "管子"
       }
     ]
   },
