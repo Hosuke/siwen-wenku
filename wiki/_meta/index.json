@@ -192,6 +192,28 @@
     ]
   },
   {
+    "slug": "一國二君二王",
+    "title": "一國二君二王",
+    "summary": "商賈乘時射利致君國失權之患",
+    "tags": [
+      "管子",
+      "輕重",
+      "商賈",
+      "君權",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "一坐盡傾",
     "title": "一坐盡傾",
     "summary": "相如至臨邛赴宴，在座之人皆為之傾倒。",
@@ -1216,6 +1238,7 @@
       "周禮",
       "宗法",
       "祖先崇拜",
+      "七廟",
       "部:經",
       "部:經/禮類"
     ],
@@ -1411,6 +1434,27 @@
         "title": "史記 · 卷052",
         "url": "https://zh.wikisource.org/wiki/史記/卷052",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "七祀",
+    "title": "七祀",
+    "summary": "王為群姓立七祀，司命、中霤、國門、國行、泰厲、戶、灶也。",
+    "tags": [
+      "祭祀",
+      "祭法",
+      "七祀",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
       }
     ]
   },
@@ -3234,6 +3278,13 @@
         "plugin": "wikisource",
         "title": "禮記 · 鄉飲酒義",
         "url": "https://zh.wikisource.org/wiki/禮記/鄉飲酒義",
+        "work": "禮記"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
         "work": "禮記"
       }
     ]
@@ -5910,6 +5961,24 @@
     ]
   },
   {
+    "slug": "不屈",
+    "title": "不屈",
+    "summary": "察士能言，未必能行，言辭巧妙而理不當者，適足飾非遂過。",
+    "tags": [
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十八",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十八",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十八",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "不已于行",
     "title": "不已于行",
     "summary": "言馬行不息，引申為臣下之勤於王事。",
@@ -6925,6 +6994,25 @@
     ]
   },
   {
+    "slug": "不獲之害",
+    "title": "不獲之害",
+    "summary": "宜獲而不獲，風雨敗穀，民將零落。",
+    "tags": [
+      "農業",
+      "時令",
+      "害"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "不生者能生生",
     "title": "不生者能生生",
     "summary": "有生不生，不生者能生生，不化者能化化，常生常化。",
@@ -7477,6 +7565,25 @@
     ]
   },
   {
+    "slug": "不耕之害",
+    "title": "不耕之害",
+    "summary": "宜耕而不耕，民乏令而不令，害及天下。",
+    "tags": [
+      "農業",
+      "時令",
+      "害"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "不耕獲-之",
     "title": "不耕獲-之",
     "summary": "",
@@ -7640,6 +7747,25 @@
     ]
   },
   {
+    "slug": "不芸之害",
+    "title": "不芸之害",
+    "summary": "宜芸而不芸，百草存則民危。",
+    "tags": [
+      "農業",
+      "時令",
+      "害"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "不苟",
     "title": "不苟",
     "summary": "賢者雖貴不苟為，必中理當義而後動舉。",
@@ -7719,6 +7845,21 @@
         "plugin": "wikisource",
         "title": "管子 · 第27篇地圖",
         "url": "https://zh.wikisource.org/wiki/管子/第27篇地圖",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "不藏之害",
+    "title": "不藏之害",
+    "summary": "宜藏而不藏，霧氣失常，生機逆節。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
         "work": "管子"
       }
     ]
@@ -7818,6 +7959,27 @@
     ]
   },
   {
+    "slug": "不言之聽",
+    "title": "不言之聽",
+    "summary": "聖人相知不待言，觀形察色，無聲之中得其意。",
+    "tags": [
+      "聖人",
+      "視聴",
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十八",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十八",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十八",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "不言之言",
     "title": "不言之言",
     "summary": "仲尼願有喙三尺，市南宜僚弄丸而兩難解，孫叔敖甘寢秉羽而郢人投兵。",
@@ -7875,6 +8037,13 @@
         "title": "史記 · 卷103",
         "url": "https://zh.wikisource.org/wiki/史記/卷103",
         "work": "史記"
+      },
+      {
+        "chapter": "卷十八",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十八",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十八",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -13327,6 +13496,27 @@
     ]
   },
   {
+    "slug": "五廟",
+    "title": "五廟",
+    "summary": "諸侯立五廟，一壇一墠，月祭考廟、王考廟、皇考廟，享嚐乃止顯考、祖考也。",
+    "tags": [
+      "祭祀",
+      "宗法",
+      "五廟",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "五德之傳",
     "title": "五德之傳",
     "summary": "鄒衍明五德終始之傳，以解王朝更迭之運。",
@@ -13407,6 +13597,28 @@
         "title": "司馬法",
         "url": "https://zh.wikisource.org/wiki/司馬法",
         "work": "司馬法"
+      }
+    ]
+  },
+  {
+    "slug": "五戰至兵",
+    "title": "五戰至兵",
+    "summary": "經由五種經濟戰而後興兵之謂",
+    "tags": [
+      "管子",
+      "輕重",
+      "兵法",
+      "經濟戰",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
       }
     ]
   },
@@ -13719,6 +13931,25 @@
     ]
   },
   {
+    "slug": "五盡",
+    "title": "五盡",
+    "summary": "國有五盡，必至於亡。",
+    "tags": [
+      "治道",
+      "興亡",
+      "治亂"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十六",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "五祀",
     "title": "五祀",
     "summary": "",
@@ -13759,6 +13990,25 @@
         "title": "史記 · 卷038",
         "url": "https://zh.wikisource.org/wiki/史記/卷038",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "五禮明義",
+    "title": "五禮明義",
+    "summary": "朝覲明君臣之義，聘問使諸侯相敬，喪祭明臣子之恩，鄉飲酒明長幼之序，昏姻明男女之別。",
+    "tags": [
+      "五禮",
+      "治道",
+      "教化"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
       }
     ]
   },
@@ -13983,6 +14233,25 @@
     ]
   },
   {
+    "slug": "五者無幸必亡",
+    "title": "五者無幸必亡",
+    "summary": "國有此五患，無可倖免，必至於亡。",
+    "tags": [
+      "治道",
+      "興亡",
+      "告誡"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十六",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "五聖觀之莫得無為",
     "title": "五聖觀之莫得無為",
     "summary": "聖人治世，必勤勞民事，非寂然無為。",
@@ -14158,6 +14427,28 @@
         "title": "史記 · 卷038",
         "url": "https://zh.wikisource.org/wiki/史記/卷038",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "五衢之民",
+    "title": "五衢之民",
+    "summary": "途旁無陰則民不怠，男女相好於市，衣食因此而貴。",
+    "tags": [
+      "管子",
+      "輕重",
+      "風俗",
+      "經濟",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第83篇輕重丁",
+        "plugin": "wikisource",
+        "title": "管子 · 第83篇輕重丁",
+        "url": "https://zh.wikisource.org/wiki/管子/第83篇輕重丁",
+        "work": "管子"
       }
     ]
   },
@@ -14614,7 +14905,9 @@
     "tags": [
       "管子",
       "治道",
-      "通變"
+      "通變",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -16346,6 +16639,13 @@
         "title": "荀子 · 不苟篇",
         "url": "https://zh.wikisource.org/wiki/荀子/不苟篇",
         "work": "荀子"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -17303,6 +17603,25 @@
     ]
   },
   {
+    "slug": "代買狐白",
+    "title": "代買狐白之皮",
+    "summary": "管仲高價收代地狐白之皮，使其民去本居山林，鄰敵乘虛而入。",
+    "tags": [
+      "輕重之術",
+      "經濟戰",
+      "齊桓公"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "令不虛行",
     "title": "令不虛行",
     "summary": "國不虛重，兵不虛勝，民不虛用，令不虛行。",
@@ -17942,7 +18261,9 @@
     "tags": [
       "治術",
       "比喻",
-      "智慧"
+      "智慧",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -21710,6 +22031,25 @@
     ]
   },
   {
+    "slug": "伏戲造六法",
+    "title": "伏戲造六法",
+    "summary": "伏羲始造六法，調陰陽、合天道，天下化之。",
+    "tags": [
+      "帝王之術",
+      "遠古之治",
+      "陰陽"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "伏戲駕辯",
     "title": "伏戲駕辯",
     "summary": "伏羲之曲，駕辯之名，古樂之濫觴。",
@@ -24678,6 +25018,28 @@
     ]
   },
   {
+    "slug": "來天下之財",
+    "title": "來天下之財",
+    "summary": "以奇策致四方財貨之謂",
+    "tags": [
+      "管子",
+      "輕重",
+      "理財",
+      "外交",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "來威",
     "title": "來威",
     "summary": "以威服之使來，征蠻荊之功成。",
@@ -25612,6 +25974,21 @@
         "title": "史記 · 卷124",
         "url": "https://zh.wikisource.org/wiki/史記/卷124",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "信-儒學-之",
+    "title": "信-儒學-之",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -33013,6 +33390,25 @@
     ]
   },
   {
+    "slug": "六經教化",
+    "title": "六經教化",
+    "summary": "六經各有其教，亦各有其失。",
+    "tags": [
+      "六經",
+      "教化",
+      "儒學"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "六藝軌民",
     "title": "匠之以六藝",
     "summary": "以六藝教民，以忠信導之。",
@@ -34666,9 +35062,9 @@
       "治道",
       "兼聽",
       "變通",
+      "通變",
       "部:子",
-      "部:子/法家類",
-      "通變"
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -35135,6 +35531,28 @@
         "title": "詩經 · 緜",
         "url": "https://zh.wikisource.org/wiki/詩經/緜",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "冢宰制國用",
+    "title": "冢宰制國用",
+    "summary": "冢宰於歲杪制國用，量入為出，務使蓄積足用。",
+    "tags": [
+      "冢宰",
+      "國用",
+      "理財",
+      "禮制",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "王制",
+        "plugin": "wikisource",
+        "title": "禮記 · 王制",
+        "url": "https://zh.wikisource.org/wiki/禮記/王制",
+        "work": "禮記"
       }
     ]
   },
@@ -38584,6 +39002,27 @@
     ]
   },
   {
+    "slug": "功烈於民",
+    "title": "功烈於民",
+    "summary": "聖王之祀有功烈於民者，非此則不入祀典也。",
+    "tags": [
+      "祭祀",
+      "祭法",
+      "功烈",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "功狗功人",
     "title": "功狗功人",
     "summary": "獵狗追獸，人乃指示，功有大小，本末之分。",
@@ -38862,6 +39301,39 @@
         "title": "韓非子 · 難三",
         "url": "https://zh.wikisource.org/wiki/韓非子/難三",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "勇敢-之",
+    "title": "勇敢-之",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "勇敢強有力",
+    "title": "勇敢強有力",
+    "summary": "勇敢強有力者，天下无事則用之於禮義，有事則用之於戰勝",
+    "tags": [
+      "德行",
+      "勇"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -40297,6 +40769,28 @@
     ]
   },
   {
+    "slug": "北澤燒",
+    "title": "北澤燒",
+    "summary": "因天災而致農利之術",
+    "tags": [
+      "管子",
+      "輕重",
+      "農業",
+      "天時",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "北燕伯款出奔齊",
     "title": "北燕伯款出奔齊",
     "summary": "北燕伯款奔齊，穀梁從史文，書「北燕」以別之。",
@@ -40418,6 +40912,28 @@
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "北郭民貧",
+    "title": "北郭民貧",
+    "summary": "以禁令均地利以救北郭民之貧",
+    "tags": [
+      "管子",
+      "輕重",
+      "農業",
+      "扶貧",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
       }
     ]
   },
@@ -46191,6 +46707,24 @@
     ]
   },
   {
+    "slug": "叩之其聲清越以長",
+    "title": "叩之其聲清越以長",
+    "summary": "玉聲清越悠長，比君子之樂",
+    "tags": [
+      "玉德",
+      "樂"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "叩馬而諫",
     "title": "叩馬而諫",
     "summary": "伯夷叔齊阻武王之師，以孝義諫止伐紂。",
@@ -51754,7 +52288,9 @@
     "tags": [
       "周公",
       "尊賢",
-      "禮下"
+      "禮下",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -52022,6 +52558,25 @@
         "title": "史記 · 卷017",
         "url": "https://zh.wikisource.org/wiki/史記/卷017",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "周循六法合陰陽",
+    "title": "周循六法合陰陽",
+    "summary": "周人之王循六法、合陰陽，天下化之。言歷代治道各有法，迭有興革。",
+    "tags": [
+      "周代",
+      "帝王之術",
+      "陰陽"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
       }
     ]
   },
@@ -53784,6 +54339,25 @@
     ]
   },
   {
+    "slug": "商人服牛馬",
+    "title": "商人服牛馬以為民利",
+    "summary": "殷人之王立帛牢、服牛馬，以為民利，天下化之。",
+    "tags": [
+      "殷代",
+      "商業",
+      "遠古之治"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "商人郊迎武王",
     "title": "商人郊迎武王",
     "summary": "武王入商，商國百姓咸待於郊，稽首迎之。",
@@ -54674,7 +55248,9 @@
     "tags": [
       "治術",
       "老子",
-      "無為"
+      "無為",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -55296,11 +55872,11 @@
       "善說",
       "論說",
       "治道",
-      "部:子",
-      "部:子/雜家類",
       "說術",
       "遊說",
-      "治術"
+      "治術",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -55326,7 +55902,9 @@
     "tags": [
       "說術",
       "遊說",
-      "智慧"
+      "智慧",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -57574,6 +58152,28 @@
     ]
   },
   {
+    "slug": "四時財謝",
+    "title": "四時財謝",
+    "summary": "循四時之序，守財用之謝，國準之大法。",
+    "tags": [
+      "管子",
+      "輕重",
+      "經濟",
+      "四時",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第83篇輕重丁",
+        "plugin": "wikisource",
+        "title": "管子 · 第83篇輕重丁",
+        "url": "https://zh.wikisource.org/wiki/管子/第83篇輕重丁",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "四機",
     "title": "四機",
     "summary": "兵之得失係於四機，審之明之，則無敵於天下。",
@@ -58313,7 +58913,9 @@
     "tags": [
       "治術",
       "天時",
-      "權謀"
+      "權謀",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -59629,6 +60231,24 @@
     ]
   },
   {
+    "slug": "圭璋特達",
+    "title": "圭璋特達",
+    "summary": "玉之圭璋不因附飾而達，比君子之德",
+    "tags": [
+      "玉德",
+      "德"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "圭瓚黃流",
     "title": "圭瓚黃流",
     "summary": "",
@@ -60360,6 +60980,24 @@
         "title": "周易 · 坤",
         "url": "https://zh.wikisource.org/wiki/周易/坤",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "垂之如隊",
+    "title": "垂之如隊",
+    "summary": "玉垂之有似下墜，比君子之禮",
+    "tags": [
+      "玉德",
+      "禮"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -61380,7 +62018,9 @@
     "tags": [
       "堯",
       "尊賢",
-      "至公"
+      "至公",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -64204,6 +64844,25 @@
     ]
   },
   {
+    "slug": "外鑿二十䖟",
+    "title": "外鑿二十䖟",
+    "summary": "夏人之世，鑿穴通水，治商九州之高以利民生。",
+    "tags": [
+      "夏代",
+      "水利",
+      "遠古之治"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "夙夜在公",
     "title": "夙夜在公",
     "summary": "朝夕皆在公家，言奉公之勤。",
@@ -66986,6 +67645,24 @@
     ]
   },
   {
+    "slug": "天下莫不貴者道",
+    "title": "天下莫不貴者道",
+    "summary": "天下莫不貴玉，以其為道之象",
+    "tags": [
+      "玉德",
+      "道"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "天下隨時",
     "title": "天下隨時",
     "summary": "天下之物，各隨其時，時之義大矣。",
@@ -67885,6 +68562,25 @@
     ]
   },
   {
+    "slug": "天子之冬禁",
+    "title": "天子之冬禁",
+    "summary": "冬禁尚藏，天子戒大耗以守令。",
+    "tags": [
+      "冬禁",
+      "四時",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "天子之劍",
     "title": "天子之劍",
     "summary": "以天下為劍，上決浮雲，下絕地紀。",
@@ -67908,6 +68604,63 @@
     ]
   },
   {
+    "slug": "天子之夏禁",
+    "title": "天子之夏禁",
+    "summary": "夏禁尚靜，天子戒大興以防害。",
+    "tags": [
+      "夏禁",
+      "四時",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "天子之春令",
+    "title": "天子之春令",
+    "summary": "春令尚生，天子禁殺賞而綏民。",
+    "tags": [
+      "春令",
+      "治道",
+      "教化"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "天子之秋計",
+    "title": "天子之秋計",
+    "summary": "秋計尚刑，天子行誅罰以肅物。",
+    "tags": [
+      "秋令",
+      "四時",
+      "刑賞"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "天子之義",
     "title": "天子之義",
     "summary": "天子之義法天地，士民之義奉父母；禮與法表裏，文與武左右。",
@@ -67925,6 +68678,26 @@
         "title": "司馬法",
         "url": "https://zh.wikisource.org/wiki/司馬法",
         "work": "司馬法"
+      }
+    ]
+  },
+  {
+    "slug": "天子四時之令",
+    "title": "天子四時之令",
+    "summary": "天子循四時迭王之序，分八節而施教令。",
+    "tags": [
+      "天子",
+      "四時",
+      "令",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
       }
     ]
   },
@@ -67979,6 +68752,25 @@
     ]
   },
   {
+    "slug": "天子居處有禮",
+    "title": "天子居處有禮",
+    "summary": "天子朝野居處皆有法度，百官萬事得其序。",
+    "tags": [
+      "天子",
+      "禮制",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "天子廟飾",
     "title": "天子廟飾",
     "summary": "天子廟飾之制，山節藻棁，復廟重檐，刮楹達鄉，反坫出尊，崇坫康圭，疏屏。",
@@ -67996,6 +68788,25 @@
         "plugin": "wikisource",
         "title": "禮記 · 明堂位",
         "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "天子德配天地",
+    "title": "天子德配天地",
+    "summary": "天子與天地參，故德配天地，兼利萬物，光照四海。",
+    "tags": [
+      "天子",
+      "德行",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
         "work": "禮記"
       }
     ]
@@ -72597,9 +73408,9 @@
       "治道",
       "察變",
       "觀人",
+      "觀察",
       "部:子",
-      "部:子/法家類",
-      "觀察"
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -76301,7 +77112,9 @@
       "孔子",
       "子路",
       "師弟",
-      "喪禮"
+      "喪禮",
+      "部:經",
+      "部:經/禮類"
     ],
     "sources": [
       {
@@ -76970,6 +77783,24 @@
     ]
   },
   {
+    "slug": "孚尹旁達",
+    "title": "孚尹旁達",
+    "summary": "玉采旁通無隱，比君子之信",
+    "tags": [
+      "玉德",
+      "信"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "孝哉閔子騫",
     "title": "孝哉閔子騫",
     "summary": "閔子騫之孝，人無間言，父母兄弟皆稱之。",
@@ -77110,6 +77941,27 @@
         "title": "莊子 · 天地",
         "url": "https://zh.wikisource.org/wiki/莊子/天地",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "孝子事親三道",
+    "title": "孝子事親三道",
+    "summary": "孝子事親，養、喪、祭，三道備焉。",
+    "tags": [
+      "禮學",
+      "孝道",
+      "祭義",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "祭統",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭統",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭統",
+        "work": "禮記"
       }
     ]
   },
@@ -78438,6 +79290,25 @@
         "title": "詩經 · 頍弁",
         "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "孤子老鰥老寡",
+    "title": "孤子老鰥老寡",
+    "summary": "鰥寡孤獨皆就官食養，天子之仁政也。",
+    "tags": [
+      "社會政策",
+      "救濟",
+      "仁政"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
       }
     ]
   },
@@ -79950,6 +80821,21 @@
     ]
   },
   {
+    "slug": "安上治民莫善於禮",
+    "title": "安上治民莫善於禮",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "安且吉兮",
     "title": "安且吉兮",
     "summary": "苟安之不如得命服之貴，刺有官無服者。",
@@ -80626,6 +81512,27 @@
         "title": "韓非子 · 外儲說左上",
         "url": "https://zh.wikisource.org/wiki/韓非子/外儲說左上",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "宗",
+    "title": "宗",
+    "summary": "祭有功德者，以其能成先祖之德也。",
+    "tags": [
+      "祭祀",
+      "祭法",
+      "宗廟",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
       }
     ]
   },
@@ -82314,7 +83221,9 @@
       "禮",
       "喪禮",
       "朋友",
-      "時節"
+      "時節",
+      "部:經",
+      "部:經/禮類"
     ],
     "sources": [
       {
@@ -83623,6 +84532,27 @@
     ]
   },
   {
+    "slug": "審應",
+    "title": "審應",
+    "summary": "人主出聲應容，當謹慎以對，以言觀意，執其要道。",
+    "tags": [
+      "言語",
+      "治道",
+      "君道",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十八",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十八",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十八",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "審敵之險以為己固",
     "title": "審敵之險以為己固",
     "summary": "兵貴因敵，因敵之險以為固，因敵之謀以為事，此勝不可窮之道。",
@@ -84067,6 +84997,28 @@
         "title": "詩經 · 殷武",
         "url": "https://zh.wikisource.org/wiki/詩經/殷武",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "封建祿田",
+    "title": "封建祿田",
+    "summary": "班爵授田，祿有等差，以封建諸侯大夫士。",
+    "tags": [
+      "封建",
+      "祿田",
+      "官制",
+      "禮制",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "王制",
+        "plugin": "wikisource",
+        "title": "禮記 · 王制",
+        "url": "https://zh.wikisource.org/wiki/禮記/王制",
+        "work": "禮記"
       }
     ]
   },
@@ -84560,6 +85512,13 @@
         "title": "韓非子 · 說林上",
         "url": "https://zh.wikisource.org/wiki/韓非子/說林上",
         "work": "韓非子"
+      },
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
       }
     ]
   },
@@ -87252,6 +88211,25 @@
     ]
   },
   {
+    "slug": "屬辭比事而不亂",
+    "title": "屬辭比事而不亂",
+    "summary": "深於《春秋》者，兼善於文辭史事與明斷而不流於乖亂。",
+    "tags": [
+      "春秋教",
+      "六經",
+      "屬辭比事"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "山上有水",
     "title": "山上有水",
     "summary": "水蓄山上，不能流通，蹇之象也。",
@@ -87570,6 +88548,24 @@
         "title": "史記 · 卷129",
         "url": "https://zh.wikisource.org/wiki/史記/卷129",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "山鐵之利",
+    "title": "山鐵之利",
+    "summary": "與民量其重，計其贏，民得其十君得其三，則人疾作而為上用。",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
       }
     ]
   },
@@ -89353,6 +90349,13 @@
         "title": "淮南子 · 要略",
         "url": "https://zh.wikisource.org/wiki/淮南子/要略",
         "work": "淮南子"
+      },
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
       }
     ]
   },
@@ -91337,6 +92340,24 @@
     ]
   },
   {
+    "slug": "廉而不劌",
+    "title": "廉而不劌",
+    "summary": "玉棱廉隅而不傷物，比君子之義",
+    "tags": [
+      "玉德",
+      "義"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "廉讓為美德",
     "title": "廉讓為美德",
     "summary": "晏子以廉讓勸田桓子勿分欒高之家，以防禍及。",
@@ -91520,6 +92541,25 @@
         "title": "史記 · 卷109",
         "url": "https://zh.wikisource.org/wiki/史記/卷109",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "廣博易良而不奢",
+    "title": "廣博易良而不奢",
+    "summary": "深於《樂》者，兼廣博溫和與節制而不流於奢。",
+    "tags": [
+      "樂教",
+      "六經",
+      "廣博易良"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
       }
     ]
   },
@@ -92077,6 +93117,28 @@
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "弓弩匡䡔",
+    "title": "弓弩匡䡔",
+    "summary": "以賞募通遠之才而致弓弩完好之效",
+    "tags": [
+      "管子",
+      "輕重",
+      "器械",
+      "人才",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
       }
     ]
   },
@@ -95900,7 +96962,9 @@
     "tags": [
       "德",
       "報恩",
-      "善報"
+      "善報",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -98669,6 +99733,25 @@
     ]
   },
   {
+    "slug": "恭儉莊敬而不煩",
+    "title": "恭儉莊敬而不煩",
+    "summary": "深於《禮》者，兼恭敬儉約與莊肅而不流於繁瑣。",
+    "tags": [
+      "禮教",
+      "六經",
+      "恭儉莊敬"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "恭敬与鬬怒",
     "title": "恭敬與鬬怒",
     "summary": "恭敬，禮也；調和，樂也；謹慎，利也；闘怒，害也。君子安樂謹慎，百舉不過。",
@@ -100603,6 +101686,21 @@
     ]
   },
   {
+    "slug": "慎始",
+    "title": "慎始",
+    "summary": "君子慎始，差若豪釐，繆以千里；禮之教化亦始於微而止邪於未形。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "慎子",
     "title": "慎子",
     "summary": "慎到，法家之醇者也，主張分定不偏，因勢任法",
@@ -100709,6 +101807,27 @@
         "title": "詩經 · 巷伯",
         "url": "https://zh.wikisource.org/wiki/詩經/巷伯",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "慎言",
+    "title": "慎言",
+    "summary": "言語不可不慎，言出而難追，當謹之於始。",
+    "tags": [
+      "言語",
+      "修身",
+      "治道",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十八",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十八",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十八",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -101539,6 +102658,28 @@
         "plugin": "wikisource",
         "title": "管子 · 爲兵之數",
         "url": "https://zh.wikisource.org/wiki/管子/七法/爲兵之數",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "成囷京者二家",
+    "title": "成囷京者二家",
+    "summary": "式璧聘新建囷京者，以勸萬民之藏。",
+    "tags": [
+      "管子",
+      "輕重",
+      "儲備",
+      "農業",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第83篇輕重丁",
+        "plugin": "wikisource",
+        "title": "管子 · 第83篇輕重丁",
+        "url": "https://zh.wikisource.org/wiki/管子/第83篇輕重丁",
         "work": "管子"
       }
     ]
@@ -103388,7 +104529,9 @@
     "tags": [
       "禮",
       "喪禮",
-      "檀弓"
+      "檀弓",
+      "部:經",
+      "部:經/禮類"
     ],
     "sources": [
       {
@@ -103470,11 +104613,11 @@
       "孔子",
       "持勝",
       "憂者所以為昌",
-      "部:子",
-      "部:子/道家類",
       "政治",
       "治道",
-      "慎微"
+      "慎微",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -106935,6 +108078,21 @@
     ]
   },
   {
+    "slug": "敬讓",
+    "title": "敬讓",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "敬賢於請",
     "title": "敬賢於請",
     "summary": "敬賢者以請益為貴，不以得位為先。",
@@ -108327,6 +109485,28 @@
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "方伯連帥",
+    "title": "方伯連帥",
+    "summary": "千里之外，設官分職，以方伯連帥統御諸侯。",
+    "tags": [
+      "官制",
+      "方伯",
+      "行政區劃",
+      "禮制",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "王制",
+        "plugin": "wikisource",
+        "title": "禮記 · 王制",
+        "url": "https://zh.wikisource.org/wiki/禮記/王制",
+        "work": "禮記"
       }
     ]
   },
@@ -112494,7 +113674,9 @@
     "tags": [
       "昭文君",
       "張儀",
-      "禮賢"
+      "禮賢",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -113021,9 +114203,9 @@
       "治道",
       "時機",
       "聖人之術",
+      "應時",
       "部:子",
-      "部:子/法家類",
-      "應時"
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -114642,6 +115824,13 @@
         "title": "荀子 · 不苟篇",
         "url": "https://zh.wikisource.org/wiki/荀子/不苟篇",
         "work": "荀子"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -115176,6 +116365,24 @@
         "title": "荀子 · 王霸篇",
         "url": "https://zh.wikisource.org/wiki/荀子/王霸篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "曲防之戰",
+    "title": "曲防之戰",
+    "summary": "令富商蓄賈以馬換賂，公家之馬不離其牧皁而戰賂足矣。",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
       }
     ]
   },
@@ -117197,7 +118404,9 @@
     "tags": [
       "治道",
       "尊賢",
-      "君臣"
+      "君臣",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -117248,6 +118457,25 @@
         "title": "淮南子 · 氾論訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
         "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "有道者必先去",
+    "title": "有道者必先去",
+    "summary": "賢者在國家將亡之時，必先去之。",
+    "tags": [
+      "治道",
+      "賢才",
+      "興亡"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -123190,6 +124418,25 @@
     ]
   },
   {
+    "slug": "楚買生鹿",
+    "title": "楚買生鹿",
+    "summary": "管仲以高價購楚鹿，使楚民釋農而田鹿，齊乘時而閉關困之，卒服楚國。",
+    "tags": [
+      "輕重之術",
+      "經濟戰",
+      "齊桓公"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "楚越風俗",
     "title": "楚越風俗",
     "summary": "楚越之地地廣人希，飯稻羹魚，火耕水耨，民無凍餓亦無千金之家。",
@@ -123712,6 +124959,13 @@
         "title": "史記 · 卷024",
         "url": "https://zh.wikisource.org/wiki/史記/卷024",
         "work": "史記"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -126278,6 +127532,27 @@
     ]
   },
   {
+    "slug": "歲三田",
+    "title": "歲三田",
+    "summary": "天子諸侯歲以三時田獵，一乾豆，二賓客，三充庖。",
+    "tags": [
+      "田獵",
+      "禮制",
+      "歲時",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "王制",
+        "plugin": "wikisource",
+        "title": "禮記 · 王制",
+        "url": "https://zh.wikisource.org/wiki/禮記/王制",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "歲也非我也兵也",
     "title": "歲也，非我也，兵也",
     "summary": "委過於歲月，不知自反，與刺人而殺之委過於兵無異",
@@ -126522,6 +127797,24 @@
         "title": "詩經 · 還",
         "url": "https://zh.wikisource.org/wiki/詩經/還",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "歲有四秋",
+    "title": "歲有四秋",
+    "summary": "歲有四秋，分屬四時，因時發令，物之輕重相什而相伯。",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
       }
     ]
   },
@@ -129091,6 +130384,24 @@
     ]
   },
   {
+    "slug": "氣如白虹",
+    "title": "氣如白虹",
+    "summary": "玉氣如白虹通天，比天之道",
+    "tags": [
+      "玉德",
+      "天"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "氣與目為利",
     "title": "氣與目為利",
     "summary": "在於身者孰為利？氣與目為利；聖人得利而託焉，民重而名遂。",
@@ -129627,6 +130938,28 @@
         "plugin": "wikisource",
         "title": "管子 · 第41篇五行",
         "url": "https://zh.wikisource.org/wiki/管子/第41篇五行",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "水豫",
+    "title": "水豫",
+    "summary": "預治水以為國防之術",
+    "tags": [
+      "管子",
+      "輕重",
+      "水利",
+      "國防",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
         "work": "管子"
       }
     ]
@@ -130630,6 +131963,28 @@
     ]
   },
   {
+    "slug": "決瓁洛之水",
+    "title": "決瓁洛之水",
+    "summary": "通水以均商賈之富，使民趨末者反歸本。",
+    "tags": [
+      "管子",
+      "輕重",
+      "水利",
+      "經濟",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第83篇輕重丁",
+        "plugin": "wikisource",
+        "title": "管子 · 第83篇輕重丁",
+        "url": "https://zh.wikisource.org/wiki/管子/第83篇輕重丁",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "決而和",
     "title": "決而和",
     "summary": "果斷以決之，終歸於和，剛柔相濟之道也。",
@@ -130773,6 +132128,25 @@
         "plugin": "wikisource",
         "title": "管子 · 第19篇中匡",
         "url": "https://zh.wikisource.org/wiki/管子/第19篇中匡",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "沐涂樹之枝",
+    "title": "沐涂樹之枝",
+    "summary": "修剪道旁樹枝，使無陰蔽，行人得日，老人歸治生產。",
+    "tags": [
+      "治國",
+      "治道",
+      "愛民"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
         "work": "管子"
       }
     ]
@@ -131192,6 +132566,24 @@
     ]
   },
   {
+    "slug": "河淤諸侯",
+    "title": "河淤諸侯",
+    "summary": "地有肥磽，穀有眾寡，善為國者豫戒以待之。",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "河渠書",
     "title": "河渠書",
     "summary": "史記述歷代水利興修及河患治理之專篇，兼載太史公之感懷。",
@@ -131365,6 +132757,25 @@
         "title": "荀子 · 解蔽篇",
         "url": "https://zh.wikisource.org/wiki/荀子/解蔽篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "治亂存亡若秋毫",
+    "title": "治亂存亡若秋毫",
+    "summary": "治亂存亡之始，察之於微，如察秋毫。",
+    "tags": [
+      "治道",
+      "察微",
+      "治亂"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十六",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十六",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十六",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -131984,6 +133395,24 @@
         "title": "詩經 · 召旻",
         "url": "https://zh.wikisource.org/wiki/詩經/召旻",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "泉雨五尺",
+    "title": "泉雨五尺",
+    "summary": "霖雨過盈則君必辱，待五穀者衆則國可立。",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
       }
     ]
   },
@@ -133867,6 +135296,13 @@
         "title": "詩經 · 鼓鍾",
         "url": "https://zh.wikisource.org/wiki/詩經/鼓鍾",
         "work": "詩經"
+      },
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
       }
     ]
   },
@@ -134135,6 +135571,27 @@
         "title": "管子 · 第10篇五輔",
         "url": "https://zh.wikisource.org/wiki/管子/第10篇五輔",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "淫辭",
+    "title": "淫辭",
+    "summary": "巧言飾辭，悖於道理，非辭無以相期，從辭則亂。",
+    "tags": [
+      "辭令",
+      "言語",
+      "治道",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十八",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十八",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十八",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -134818,6 +136275,25 @@
     ]
   },
   {
+    "slug": "清神生心",
+    "title": "清神生心",
+    "summary": "萬物本於神，心生則萬化成。",
+    "tags": [
+      "宇宙論",
+      "生成",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "清者福集",
     "title": "清者福集",
     "summary": "清儉者福自來集，奢靡者禍必相赴，理之必然。",
@@ -135348,6 +136824,28 @@
     ]
   },
   {
+    "slug": "湯之以高下",
+    "title": "湯之以高下",
+    "summary": "以物價之高低、流通之徐疾馭天下之財，用若河海，終則有始。",
+    "tags": [
+      "管子",
+      "輕重",
+      "經濟",
+      "執政",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第83篇輕重丁",
+        "plugin": "wikisource",
+        "title": "管子 · 第83篇輕重丁",
+        "url": "https://zh.wikisource.org/wiki/管子/第83篇輕重丁",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "湯之盤銘",
     "title": "湯之盤銘",
     "summary": "聖王日日自新，不已於善也。",
@@ -135409,6 +136907,29 @@
         "title": "呂氏春秋 · 卷九",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷九",
         "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "湯兼桀天下",
+    "title": "湯兼桀天下",
+    "summary": "湯以仁義得民心而取桀之天下",
+    "tags": [
+      "管子",
+      "湯",
+      "桀",
+      "征伐",
+      "仁政",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
       }
     ]
   },
@@ -135818,10 +137339,10 @@
       "湯武",
       "天下",
       "政體",
-      "部:子",
-      "部:子/墨家類",
       "夏桀",
-      "仁政"
+      "仁政",
+      "部:子",
+      "部:子/墨家類"
     ],
     "sources": [
       {
@@ -136025,6 +137546,13 @@
         "title": "詩經 · 小戎",
         "url": "https://zh.wikisource.org/wiki/詩經/小戎",
         "work": "詩經"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -136097,6 +137625,25 @@
     ]
   },
   {
+    "slug": "溫柔敦厚而不愚",
+    "title": "溫柔敦厚而不愚",
+    "summary": "深於《詩》者，兼溫柔敦厚與明達而不流於愚。",
+    "tags": [
+      "詩教",
+      "六經",
+      "溫柔敦厚"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "溫溫恭人",
     "title": "溫溫恭人",
     "summary": "溫柔和順、恭敬自持之人。",
@@ -136114,6 +137661,24 @@
         "title": "詩經 · 小宛",
         "url": "https://zh.wikisource.org/wiki/詩經/小宛",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "溫潤而澤",
+    "title": "溫潤而澤",
+    "summary": "玉之溫潤光澤，比君子之仁",
+    "tags": [
+      "玉德",
+      "仁"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -136369,6 +137934,27 @@
         "title": "孟子 · 滕文公上",
         "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "滕魯之粟",
+    "title": "滕魯之粟",
+    "summary": "操輕重之術於粟價，使敵國之粟四流歸我。",
+    "tags": [
+      "輕重",
+      "經濟",
+      "外交",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
       }
     ]
   },
@@ -138204,6 +139790,24 @@
         "title": "淮南子 · 人間訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/人間訓",
         "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "為商賈立客舍",
+    "title": "為商賈立客舍",
+    "summary": "招徠商旅，定其食菽伍養，以通天下之貨。",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
       }
     ]
   },
@@ -140694,9 +142298,9 @@
       "治道",
       "理財",
       "民本",
+      "民力",
       "部:子",
-      "部:子/法家類",
-      "民力"
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -140938,6 +142542,27 @@
         "title": "詩經 · 角弓",
         "url": "https://zh.wikisource.org/wiki/詩經/角弓",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "無言",
+    "title": "無言",
+    "summary": "至道無言，聖人行不言之教，令民心化。",
+    "tags": [
+      "道",
+      "聖人",
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十八",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十八",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十八",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -141276,6 +142901,25 @@
         "title": "詩經 · 正月",
         "url": "https://zh.wikisource.org/wiki/詩經/正月",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "燒曾藪",
+    "title": "燒曾藪斬羣害",
+    "summary": "有虞之世，焚藪澤、斬羣害，利民為本，封土立社。",
+    "tags": [
+      "有虞",
+      "遠古之治",
+      "祭祀"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
       }
     ]
   },
@@ -144376,6 +146020,13 @@
         "title": "荀子 · 法行篇",
         "url": "https://zh.wikisource.org/wiki/荀子/法行篇",
         "work": "荀子"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -145623,6 +147274,28 @@
     ]
   },
   {
+    "slug": "珠玉為幣",
+    "title": "珠玉為幣",
+    "summary": "以珍奇之物羈縻四夷之術",
+    "tags": [
+      "管子",
+      "輕重",
+      "外交",
+      "四夷",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "珪璋居肆不售",
     "title": "珪璋居肆不售",
     "summary": "抱朴子以珪璋喻賢才，雖居市肆亦難遇識者，況隱於淵藪者乎。",
@@ -145708,6 +147381,24 @@
         "title": "詩經 · 女曰鷄鳴",
         "url": "https://zh.wikisource.org/wiki/詩經/女曰鷄鳴",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "瑕不掩瑜",
+    "title": "瑕不掩瑜",
+    "summary": "瑕瑜不相掩，比君子之忠",
+    "tags": [
+      "玉德",
+      "忠"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -146677,7 +148368,9 @@
     "tags": [
       "文武",
       "治道",
-      "德力"
+      "德力",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -147649,7 +149342,9 @@
     "tags": [
       "說術",
       "諷諫",
-      "田贊"
+      "田贊",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -149099,6 +150794,25 @@
     ]
   },
   {
+    "slug": "疏通知遠而不誣",
+    "title": "疏通知遠而不誣",
+    "summary": "深於《書》者，兼疏通博聞與信實而不流於誣。",
+    "tags": [
+      "書教",
+      "六經",
+      "疏通知遠"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "疏遠不忘其勞",
     "title": "疏遠不忘其勞",
     "summary": "疏賤之人有功，亦當錄之，不可遺忘。",
@@ -149342,6 +151056,24 @@
         "title": "抱朴子 · 卷14",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "癸度獻策",
+    "title": "癸度獻策",
+    "summary": "金珠玉與粟相權，上中下三幣迭用，天下可足。",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
       }
     ]
   },
@@ -154422,6 +156154,27 @@
     ]
   },
   {
+    "slug": "社",
+    "title": "社",
+    "summary": "祭后土之神，共工氏之子后土能平九州，故祀以為社。",
+    "tags": [
+      "祭祀",
+      "社稷",
+      "祭法",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "社稷",
     "title": "社稷",
     "summary": "",
@@ -154524,6 +156277,27 @@
         "title": "韓非子 · 外儲說右上",
         "url": "https://zh.wikisource.org/wiki/韓非子/外儲說右上",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "祀典",
+    "title": "祀典",
+    "summary": "祭祀之制，非此族則不在祀典，示民有報也。",
+    "tags": [
+      "祭祀",
+      "祭法",
+      "祀典",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
       }
     ]
   },
@@ -154657,6 +156431,27 @@
         "plugin": "wikisource",
         "title": "禮記 · 月令",
         "url": "https://zh.wikisource.org/wiki/禮記/月令",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祖",
+    "title": "祖",
+    "summary": "祭始造邦之祖，以其功德開基業者也。",
+    "tags": [
+      "祭祀",
+      "祭法",
+      "祖廟",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
         "work": "禮記"
       }
     ]
@@ -155082,6 +156877,25 @@
     ]
   },
   {
+    "slug": "神農樹五穀",
+    "title": "神農樹五穀淇山之陽",
+    "summary": "神農植五穀於山南，百姓知穀食，天下化之。",
+    "tags": [
+      "神農",
+      "農業",
+      "遠古之治"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "神遊形奚動哉",
     "title": "神遊形奚動哉",
     "summary": "精神可遊於異境，形骸不隨之而往。夢中為君，覺亦夢也。",
@@ -155489,6 +157303,63 @@
     ]
   },
   {
+    "slug": "祭日",
+    "title": "祭日",
+    "summary": "天子以春日出祭於壇，昭示生物之德。",
+    "tags": [
+      "祭祀",
+      "太陽",
+      "春令"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "祭星",
+    "title": "祭星",
+    "summary": "天子於春分祭星，以時布令。",
+    "tags": [
+      "祭祀",
+      "星辰",
+      "春令"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "祭月",
+    "title": "祭月",
+    "summary": "天子於秋分祭月，以時行刑。",
+    "tags": [
+      "祭祀",
+      "月亮",
+      "秋令"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "祭有十倫",
     "title": "祭有十倫",
     "summary": "",
@@ -155553,6 +157424,8 @@
       "祭禮",
       "儒家",
       "鬼神",
+      "禮",
+      "祭法",
       "部:經",
       "部:經/禮類"
     ],
@@ -155619,6 +157492,7 @@
       "禮制",
       "鬼神",
       "祭法",
+      "百神",
       "部:經",
       "部:經/禮類"
     ],
@@ -156230,6 +158104,27 @@
     ]
   },
   {
+    "slug": "禘",
+    "title": "禘",
+    "summary": "天子祭天於上帝，以其祖配之之祭也。",
+    "tags": [
+      "祭祀",
+      "祭法",
+      "郊禘",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "禦侮",
     "title": "禦侮",
     "summary": "扞禦外侵以安邦也。",
@@ -156299,6 +158194,13 @@
         "plugin": "wikisource",
         "title": "禮記 · 樂記",
         "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
         "work": "禮記"
       }
     ]
@@ -156404,6 +158306,21 @@
       "部:經",
       "部:經/禮類"
     ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "禮之四用",
+    "title": "禮之四用",
+    "summary": "禮行於宗廟則敬，於朝廷則貴賤有位，於室家則父子親兄弟和，於鄉里則長幼有序。",
+    "tags": [],
     "sources": [
       {
         "chapter": "經解",
@@ -156627,6 +158544,13 @@
         "title": "禮記 · 昏義",
         "url": "https://zh.wikisource.org/wiki/禮記/昏義",
         "work": "禮記"
+      },
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
       }
     ]
   },
@@ -156679,6 +158603,13 @@
         "title": "史記 · 卷023",
         "url": "https://zh.wikisource.org/wiki/史記/卷023",
         "work": "史記"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -160035,6 +161966,27 @@
     ]
   },
   {
+    "slug": "立壤列天下之旁",
+    "title": "立壤列天下之旁",
+    "summary": "據地之遠近，定邦國之等衰，使如一指附臂。",
+    "tags": [
+      "管制",
+      "地理",
+      "輕重",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "立尺材於高山之上",
     "title": "立尺材於高山之上",
     "summary": "材不高，位高則能臨深。",
@@ -160319,9 +162271,9 @@
       "治道",
       "經濟",
       "山澤",
+      "開墾",
       "部:子",
-      "部:子/法家類",
-      "開墾"
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -161183,7 +163135,9 @@
     "tags": [
       "管仲",
       "機變",
-      "智慧"
+      "智慧",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -161833,6 +163787,24 @@
     ]
   },
   {
+    "slug": "籍於號令",
+    "title": "籍於號令",
+    "summary": "發師置屯以窺民粟，散粟賜貧以實邊儲，皆號令之術也。",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "籍田禮",
     "title": "籍田禮",
     "summary": "",
@@ -161862,6 +163834,28 @@
         "title": "史記 · 卷010",
         "url": "https://zh.wikisource.org/wiki/史記/卷010",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "籍鬼神",
+    "title": "籍鬼神",
+    "summary": "假祭祀之名以取財而不傷民之術",
+    "tags": [
+      "管子",
+      "輕重",
+      "稅收",
+      "鬼神",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
       }
     ]
   },
@@ -162074,6 +164068,46 @@
     ]
   },
   {
+    "slug": "粟賈釜四十",
+    "title": "粟賈釜四十",
+    "summary": "定粟價以通國用之術",
+    "tags": [
+      "管子",
+      "輕重",
+      "粟價",
+      "國准",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "粟重萬物輕",
+    "title": "粟重萬物輕",
+    "summary": "粟價重則萬物賤，欲殺商賈之利當重粟價。",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "粥熊",
     "title": "粥熊運轉亡已",
     "summary": "粥熊以萬物損盈成虧，往來相接，不可省覺，喻天地密移。",
@@ -162157,6 +164191,24 @@
         "title": "淮南子 · 精神訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/精神訓",
         "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "精神見於山川",
+    "title": "精神見於山川",
+    "summary": "玉精神見於山川，比地之道",
+    "tags": [
+      "玉德",
+      "地"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -162425,6 +164477,24 @@
         "title": "春秋公羊傳 · 隱公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/隱公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "紀氏亡國",
+    "title": "紀氏亡國",
+    "summary": "强本節用而不通輕重，雖穀豐不能理，終歸於天下。",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
       }
     ]
   },
@@ -162991,6 +165061,24 @@
         "title": "詩經 · 羔羊",
         "url": "https://zh.wikisource.org/wiki/詩經/羔羊",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "素賞之計",
+    "title": "素賞之計",
+    "summary": "先賞以激士，父教其子，兄教其弟，妻子相戒，使致死地。",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
       }
     ]
   },
@@ -163579,6 +165667,25 @@
         "title": "大學",
         "url": "https://zh.wikisource.org/wiki/禮記/大學",
         "work": "大學"
+      }
+    ]
+  },
+  {
+    "slug": "絜靜精微而不賊",
+    "title": "絜靜精微而不賊",
+    "summary": "深於《易》者，兼絜靜深邃與端正而不流於賊害。",
+    "tags": [
+      "易教",
+      "六經",
+      "絜靜精微"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
       }
     ]
   },
@@ -164536,6 +166643,24 @@
     ]
   },
   {
+    "slug": "縝密以栗",
+    "title": "縝密以栗",
+    "summary": "玉質縝密堅栗，比君子之智",
+    "tags": [
+      "玉德",
+      "智"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "縣火",
     "title": "縣火",
     "summary": "懸火以禦敵入之術。",
@@ -164834,6 +166959,26 @@
         "title": "詩經 · 民勞",
         "url": "https://zh.wikisource.org/wiki/詩經/民勞",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "继絕起周室",
+    "title": "继絕起周室之祀",
+    "summary": "當周室衰微之時，天子幼弱，諸侯強盛。宜扶弱抑強，繼絕諸侯，以興周室。",
+    "tags": [
+      "治術",
+      "周室",
+      "霸政",
+      "齊桓公"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
       }
     ]
   },
@@ -165650,6 +167795,13 @@
         "title": "荀子 · 不苟篇",
         "url": "https://zh.wikisource.org/wiki/荀子/不苟篇",
         "work": "荀子"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -166908,6 +169060,25 @@
     ]
   },
   {
+    "slug": "耕械具則戰械備",
+    "title": "耕械具則戰械備",
+    "summary": "耕具既備，戰具亦足，理農即理兵。",
+    "tags": [
+      "農戰",
+      "治道",
+      "器械"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "耕道",
     "title": "耕道",
     "summary": "述耕耘之正道在人、地、天之和。",
@@ -166925,6 +169096,25 @@
         "title": "呂氏春秋 · 卷二十六",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
         "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "耜耒耨",
+    "title": "耜耒耨",
+    "summary": "耒耜皆耕具，耨以除草，互言而備春事。",
+    "tags": [
+      "農具",
+      "農業",
+      "夏事"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
       }
     ]
   },
@@ -167917,6 +170107,25 @@
     ]
   },
   {
+    "slug": "聖人理道",
+    "title": "聖人理道",
+    "summary": "聖人觀自然之序，以治天下。",
+    "tags": [
+      "聖人",
+      "治道",
+      "自然"
+    ],
+    "sources": [
+      {
+        "chapter": "第85篇輕重己",
+        "plugin": "wikisource",
+        "title": "管子 · 第85篇輕重己",
+        "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "聖人生大盜起",
     "title": "聖人生大盜起",
     "summary": "聖智之教愈隆，姦盜之術愈備，二者相待而生。",
@@ -168690,6 +170899,31 @@
         "title": "禮記 · 曲禮下",
         "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
         "work": "禮記"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "聘射之禮",
+    "title": "聘射之禮",
+    "summary": "聘射至大禮，非強有力者弗能行",
+    "tags": [
+      "禮儀",
+      "射禮"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -168727,7 +170961,8 @@
       "禮記",
       "聘禮",
       "部:經",
-      "部:經/禮類"
+      "部:經/禮類",
+      "玉德"
     ],
     "sources": [
       {
@@ -168757,6 +170992,13 @@
         "title": "春秋穀梁傳 · 宣公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/宣公",
         "work": "春秋穀梁傳"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -172216,6 +174458,9 @@
       "道家",
       "認識論",
       "言意之辨",
+      "道",
+      "言語",
+      "治道",
       "部:子",
       "部:子/道家類"
     ],
@@ -172226,6 +174471,13 @@
         "title": "莊子 · 知北遊",
         "url": "https://zh.wikisource.org/wiki/莊子/知北遊",
         "work": "莊子"
+      },
+      {
+        "chapter": "卷十八",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十八",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十八",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -172470,6 +174722,28 @@
     ]
   },
   {
+    "slug": "致天下之民",
+    "title": "致天下之民",
+    "summary": "施惠於民使歸如流之謂",
+    "tags": [
+      "管子",
+      "輕重",
+      "治民",
+      "仁政",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "致女",
     "title": "致女",
     "summary": "遣使問遺於既嫁之女，禮之詳也。",
@@ -172509,6 +174783,24 @@
         "title": "周易 · 萃",
         "url": "https://zh.wikisource.org/wiki/周易/萃",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "致尊讓",
+    "title": "致尊讓",
+    "summary": "三讓而後傳命入廟，乃所以致其尊讓",
+    "tags": [
+      "禮儀",
+      "聘禮"
+    ],
+    "sources": [
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -173322,6 +175614,21 @@
         "title": "莊子 · 則陽",
         "url": "https://zh.wikisource.org/wiki/莊子/則陽",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "舊禮廢則亂患起",
+    "title": "舊禮廢則亂患起",
+    "summary": "舊禮若廢，則如舊坊毀而水敗，必有亂患随之。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
       }
     ]
   },
@@ -176233,6 +178540,28 @@
     ]
   },
   {
+    "slug": "菁茅謀",
+    "title": "菁茅謀",
+    "summary": "封菁茅以制入朝之資，挾天子以令諸侯。",
+    "tags": [
+      "管子",
+      "輕重",
+      "經濟",
+      "外交",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第83篇輕重丁",
+        "plugin": "wikisource",
+        "title": "管子 · 第83篇輕重丁",
+        "url": "https://zh.wikisource.org/wiki/管子/第83篇輕重丁",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "菁菁者莪",
     "title": "菁菁者莪",
     "summary": "賢才蒙君子化育，詩人遇之而喜，心遂休焉",
@@ -176688,6 +179017,25 @@
         "title": "史記 · 卷028",
         "url": "https://zh.wikisource.org/wiki/史記/卷028",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "萊莒柴賈",
+    "title": "萊莒柴賈",
+    "summary": "管仲令齊重柴之價，誘萊莒釋農而治柴，既得其利，乃止柴而困之。",
+    "tags": [
+      "輕重之術",
+      "經濟戰",
+      "齊桓公"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
       }
     ]
   },
@@ -182160,10 +184508,10 @@
       "飾邪",
       "法治",
       "子反",
-      "部:子",
-      "部:子/法家類",
       "義",
-      "治道"
+      "治道",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -183239,6 +185587,25 @@
     ]
   },
   {
+    "slug": "衡山器械",
+    "title": "衡山器械",
+    "summary": "管仲先貴買衡山器械，致燕、代、秦諸國爭購，衡山釋本業而脩械器，既成則閉關絕使，卒下衡山。",
+    "tags": [
+      "輕重之術",
+      "經濟戰",
+      "衡山"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "衡山雨雹",
     "title": "衡山雨雹",
     "summary": "衡山雨雹大至，天象示警於諸侯之地。",
@@ -183322,6 +185689,27 @@
     ]
   },
   {
+    "slug": "衡無數",
+    "title": "衡無數",
+    "summary": "衡者使物一高一下，不得常固。",
+    "tags": [
+      "經濟",
+      "輕重",
+      "哲理",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "衡絕則重見",
     "title": "衡絕則重見",
     "summary": "物之衡準失常，則物價之輕重立見。",
@@ -183339,6 +185727,25 @@
         "title": "管子 · 第73篇國蓄",
         "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "衡繩規矩",
+    "title": "衡繩規矩",
+    "summary": "禮之於國，猶衡之於輕重、繩墨之於曲直、規矩之於方圓，不可誣也。",
+    "tags": [
+      "禮",
+      "治道",
+      "比喻"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
       }
     ]
   },
@@ -184707,6 +187114,13 @@
         "title": "管子 · 第73篇國蓄",
         "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
         "work": "管子"
+      },
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
       }
     ]
   },
@@ -185563,10 +187977,10 @@
       "治道",
       "變通",
       "時宜",
-      "部:子",
-      "部:子/法家類",
       "治國",
-      "時變"
+      "時變",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -186491,6 +188905,27 @@
     ]
   },
   {
+    "slug": "言不足以斷小事",
+    "title": "言不足以斷小事",
+    "summary": "言語不足以斷定細事，唯知言之謂者乃可為之。",
+    "tags": [
+      "言語",
+      "治道",
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十八",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十八",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十八",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "言之大甘其中必苦",
     "title": "言之大甘其中必苦",
     "summary": "甘言之中必含苦味，不可輕信。",
@@ -186694,6 +189129,27 @@
         "title": "墨子 · 非命下",
         "url": "https://zh.wikisource.org/wiki/墨子/非命下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "言意相離",
+    "title": "言意相離",
+    "summary": "言以表意，若言意相離，則亂國之俗，賢主猶惑。",
+    "tags": [
+      "言語",
+      "治亂",
+      "呂氏春秋",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十八",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十八",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十八",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -188727,7 +191183,9 @@
     "tags": [
       "說術",
       "遊說",
-      "責任"
+      "責任",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -192187,6 +194645,28 @@
         "title": "墨子 · 尚賢下",
         "url": "https://zh.wikisource.org/wiki/墨子/尚賢下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "賞死事之後",
+    "title": "賞死事之後",
+    "summary": "賞賜死事者之後以激勵士氣之謂",
+    "tags": [
+      "管子",
+      "賞罰",
+      "治兵",
+      "軍政",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
       }
     ]
   },
@@ -196653,7 +199133,9 @@
       "讓",
       "禮記",
       "部:經",
-      "部:經/禮類"
+      "部:經/禮類",
+      "禮儀",
+      "義利"
     ],
     "sources": [
       {
@@ -196704,6 +199186,31 @@
         "title": "管子 · 第73篇國蓄",
         "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
         "work": "管子"
+      },
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "輕重之數",
+    "title": "輕重之數",
+    "summary": "",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
       }
     ]
   },
@@ -196722,7 +199229,9 @@
       "治道",
       "權數",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "管仲",
+      "經濟戰"
     ],
     "sources": [
       {
@@ -196745,6 +199254,13 @@
         "title": "管子 · 第75篇山權數",
         "url": "https://zh.wikisource.org/wiki/管子/第75篇山權數",
         "work": "管子"
+      },
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
       }
     ]
   },
@@ -196765,6 +199281,28 @@
         "plugin": "wikisource",
         "title": "管子 · 第03篇權脩",
         "url": "https://zh.wikisource.org/wiki/管子/第03篇權脩",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "輕重癸乙",
+    "title": "輕重癸乙",
+    "summary": "癸乙論好意通物以成天下之術",
+    "tags": [
+      "管子",
+      "輕重",
+      "癸乙",
+      "治國",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
         "work": "管子"
       }
     ]
@@ -197231,6 +199769,24 @@
         "title": "抱朴子 · 卷17",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "辟方都",
+    "title": "辟方都",
+    "summary": "因天時用地利，九月種麥日至而獲，一收之積中方都二。",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第81篇輕重乙",
+        "plugin": "wikisource",
+        "title": "管子 · 第81篇輕重乙",
+        "url": "https://zh.wikisource.org/wiki/管子/第81篇輕重乙",
+        "work": "管子"
       }
     ]
   },
@@ -200247,6 +202803,13 @@
         "title": "淮南子 · 要略",
         "url": "https://zh.wikisource.org/wiki/淮南子/要略",
         "work": "淮南子"
+      },
+      {
+        "chapter": "聘義",
+        "plugin": "wikisource",
+        "title": "禮記 · 聘義",
+        "url": "https://zh.wikisource.org/wiki/禮記/聘義",
+        "work": "禮記"
       }
     ]
   },
@@ -201997,6 +204560,27 @@
         "title": "史記 · 卷122",
         "url": "https://zh.wikisource.org/wiki/史記/卷122",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "郊",
+    "title": "郊",
+    "summary": "天子南郊祭天，以始祖配之之禮也。",
+    "tags": [
+      "祭祀",
+      "祭法",
+      "郊天",
+      "部:經",
+      "部:經/禮類"
+    ],
+    "sources": [
+      {
+        "chapter": "祭法",
+        "plugin": "wikisource",
+        "title": "禮記 · 祭法",
+        "url": "https://zh.wikisource.org/wiki/禮記/祭法",
+        "work": "禮記"
       }
     ]
   },
@@ -204192,6 +206776,28 @@
     ]
   },
   {
+    "slug": "重祿重賞",
+    "title": "重祿重賞",
+    "summary": "以厚祿重賞激勵士卒致死之術",
+    "tags": [
+      "管子",
+      "賞罰",
+      "治兵",
+      "激勵",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "重積德",
     "title": "重積德",
     "summary": "積德者令故德不去，新和氣日至，神靜而多得。",
@@ -204325,6 +206931,9 @@
       "莊子",
       "重言",
       "說理方式",
+      "慎言",
+      "治道",
+      "天子",
       "部:子",
       "部:子/道家類"
     ],
@@ -204335,6 +206944,13 @@
         "title": "莊子 · 寓言",
         "url": "https://zh.wikisource.org/wiki/莊子/寓言",
         "work": "莊子"
+      },
+      {
+        "chapter": "卷十八",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十八",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十八",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -206847,6 +209463,28 @@
     ]
   },
   {
+    "slug": "陰王之國",
+    "title": "陰王之國",
+    "summary": "據有地利而執天下輕重之柄者",
+    "tags": [
+      "管子",
+      "輕重",
+      "地理",
+      "霸權",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "陰陽",
     "title": "陰陽",
     "summary": "",
@@ -207981,6 +210619,25 @@
         "title": "荀子 · 致士篇",
         "url": "https://zh.wikisource.org/wiki/荀子/致士篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "隆禮由禮",
+    "title": "隆禮由禮",
+    "summary": "隆禮由禮者為有方之士，不隆禮不由禮者為無方之民。",
+    "tags": [
+      "禮",
+      "治道",
+      "有方無方"
+    ],
+    "sources": [
+      {
+        "chapter": "經解",
+        "plugin": "wikisource",
+        "title": "禮記 · 經解",
+        "url": "https://zh.wikisource.org/wiki/禮記/經解",
+        "work": "禮記"
       }
     ]
   },
@@ -212432,7 +215089,9 @@
     "tags": [
       "治術",
       "比喻",
-      "因勢"
+      "因勢",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -212922,11 +215581,11 @@
       "貪",
       "亡國",
       "假道伐虢",
-      "部:子",
-      "部:子/法家類",
       "義利",
       "治道",
-      "權謀"
+      "權謀",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -215463,6 +218122,28 @@
     ]
   },
   {
+    "slug": "高杠柴池",
+    "title": "高杠柴池",
+    "summary": "增高橋梁深掘池澤以困牛馬之術",
+    "tags": [
+      "管子",
+      "輕重",
+      "經濟",
+      "物價",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "高渠彌弒昭公",
     "title": "高渠彌弒昭公",
     "summary": "昭公與高渠彌出獵，渠彌射殺昭公",
@@ -216222,7 +218903,9 @@
     "tags": [
       "魏文侯",
       "段干木",
-      "尊賢"
+      "尊賢",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -216903,6 +219586,25 @@
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "魯梁俗為綈",
+    "title": "魯梁俗為綈",
+    "summary": "管仲以服飾誘魯梁之民釋農事而從事綈織，終至其民無食，歸順於齊。",
+    "tags": [
+      "輕重之術",
+      "經濟戰",
+      "齊桓公"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
       }
     ]
   },
@@ -218835,6 +221537,25 @@
     ]
   },
   {
+    "slug": "黃帝之王童山竭澤",
+    "title": "黃帝之王童山竭澤",
+    "summary": "黃帝之王，童山竭澤，斷林木之源以成治道。",
+    "tags": [
+      "黃帝",
+      "帝王之術",
+      "自然之治"
+    ],
+    "sources": [
+      {
+        "chapter": "第84篇輕重戊",
+        "plugin": "wikisource",
+        "title": "管子 · 第84篇輕重戊",
+        "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "黃帝之王謹逃其爪牙",
     "title": "黃帝之王",
     "summary": "黃帝之世猛獸為害，去其爪牙以安民也。",
@@ -220354,6 +223075,28 @@
         "title": "史記 · 卷052",
         "url": "https://zh.wikisource.org/wiki/史記/卷052",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "齊有渠展鹽",
+    "title": "齊有渠展鹽",
+    "summary": "齊以渠展鹽利制衡天下之術",
+    "tags": [
+      "管子",
+      "鹽政",
+      "輕重",
+      "經濟",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第80篇輕重甲",
+        "plugin": "wikisource",
+        "title": "管子 · 第80篇輕重甲",
+        "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
+        "work": "管子"
       }
     ]
   },
