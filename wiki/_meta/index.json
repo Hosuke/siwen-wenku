@@ -156,7 +156,9 @@
     "tags": [
       "農政",
       "人功",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -5939,7 +5941,9 @@
     "tags": [
       "治道",
       "權謀",
-      "自強"
+      "自強",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -10622,7 +10626,9 @@
     "tags": [
       "輕重",
       "物價",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -13983,6 +13989,21 @@
     ]
   },
   {
+    "slug": "五音不亂",
+    "title": "五音不亂",
+    "summary": "五音配五倫，亂則國亡。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "五音中土",
     "title": "五音中土",
     "summary": "土之深淺不同，其水下流至泉，呼音亦有宮商角徵羽之異。",
@@ -14404,6 +14425,25 @@
         "title": "韓非子 · 亡徵",
         "url": "https://zh.wikisource.org/wiki/韓非子/亡徵",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "亡戟得矛",
+    "title": "亡戟得矛",
+    "summary": "得一矛而還，反戰而死；小不得，大則知所任。",
+    "tags": [
+      "寓言",
+      "道理",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十九",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十九",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -15533,6 +15573,13 @@
         "title": "史記 · 卷024",
         "url": "https://zh.wikisource.org/wiki/史記/卷024",
         "work": "史記"
+      },
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
       }
     ]
   },
@@ -18641,7 +18688,9 @@
     "tags": [
       "治國",
       "天時",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -19070,6 +19119,13 @@
         "title": "韓非子 · 飾邪",
         "url": "https://zh.wikisource.org/wiki/韓非子/飾邪",
         "work": "韓非子"
+      },
+      {
+        "chapter": "卷十九",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十九",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -26123,6 +26179,26 @@
         "title": "詩經 · 維天之命",
         "url": "https://zh.wikisource.org/wiki/詩經/維天之命",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "假名有海之國",
+    "title": "假名有海之國",
+    "summary": "無山海之國可借外國之鹽以取利。",
+    "tags": [
+      "國政",
+      "理財",
+      "外交",
+      "管仲"
+    ],
+    "sources": [
+      {
+        "chapter": "第72篇海王",
+        "plugin": "wikisource",
+        "title": "管子 · 第72篇海王",
+        "url": "https://zh.wikisource.org/wiki/管子/第72篇海王",
+        "work": "管子"
       }
     ]
   },
@@ -37862,6 +37938,21 @@
     ]
   },
   {
+    "slug": "功成作樂",
+    "title": "功成作樂",
+    "summary": "王者功成作樂，治定制禮。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "功成者隳名成者虧",
     "title": "功成者隳，名成者虧",
     "summary": "功成名遂則必有所虧損，此盈虛之天道。",
@@ -39463,6 +39554,25 @@
     ]
   },
   {
+    "slug": "北人無擇",
+    "title": "北人無擇",
+    "summary": "恥受辱而自投於淵，以全己節。",
+    "tags": [
+      "隱逸",
+      "德行",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十九",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十九",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "北冥有魚",
     "title": "北冥有魚",
     "summary": "北海有魚，化而為鵬，志存高遠。",
@@ -40497,7 +40607,9 @@
     "tags": [
       "治道",
       "積蓄",
-      "國力"
+      "國力",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -54166,7 +54278,9 @@
     "tags": [
       "治道",
       "治法",
-      "總綱"
+      "總綱",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -61957,7 +62071,9 @@
     "tags": [
       "治道",
       "農事",
-      "內政"
+      "內政",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -72689,6 +72805,21 @@
     ]
   },
   {
+    "slug": "姦聲感人",
+    "title": "姦聲感人",
+    "summary": "姦聲應之而淫樂興，正聲應之而和樂興。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "姦臣三資",
     "title": "姦臣三資",
     "summary": "人臣恃名譽、背法、假忠信以侵主者，皆亂法之資。",
@@ -72967,6 +73098,25 @@
         "title": "管子 · 第67篇明法解",
         "url": "https://zh.wikisource.org/wiki/管子/第67篇明法解",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "威不可無有",
+    "title": "威不可無有",
+    "summary": "威必有所託乃可行，太甚則反。",
+    "tags": [
+      "為政",
+      "威勢",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十九",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十九",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -73913,6 +74063,13 @@
         "title": "國語 · 卷17",
         "url": "https://zh.wikisource.org/wiki/國語/卷17",
         "work": "國語"
+      },
+      {
+        "chapter": "卷十九",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十九",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -73936,6 +74093,21 @@
         "title": "國語 · 卷17",
         "url": "https://zh.wikisource.org/wiki/國語/卷17",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "子夏論古樂新樂",
+    "title": "子夏論古樂新樂",
+    "summary": "古樂德音之謂，新樂姦聲以濫。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
       }
     ]
   },
@@ -76251,6 +76423,25 @@
         "title": "禮記 · 月令",
         "url": "https://zh.wikisource.org/wiki/禮記/月令",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "孟勝",
+    "title": "孟勝",
+    "summary": "為陽城君守國，國破而符不合，遂死之以行墨者之義。",
+    "tags": [
+      "墨學",
+      "守信",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十九",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十九",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -79357,6 +79548,26 @@
     ]
   },
   {
+    "slug": "官山海",
+    "title": "官山海",
+    "summary": "以官府掌山海之利，不取於民而國用足。",
+    "tags": [
+      "國政",
+      "理財",
+      "管仲",
+      "齊桓公"
+    ],
+    "sources": [
+      {
+        "chapter": "第72篇海王",
+        "plugin": "wikisource",
+        "title": "管子 · 第72篇海王",
+        "url": "https://zh.wikisource.org/wiki/管子/第72篇海王",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "官府選効必先",
     "title": "官府選効必先",
     "summary": "聖王設官，必先立祭司之人，祭器藏府，祝宗有司畢立於朝。",
@@ -79557,7 +79768,9 @@
     "tags": [
       "治道",
       "內政",
-      "本末"
+      "本末",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -80374,11 +80587,11 @@
       "宮室",
       "治國",
       "節用",
-      "部:子",
-      "部:子/墨家類",
       "荒政",
       "救荒",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/墨家類"
     ],
     "sources": [
       {
@@ -94460,7 +94673,10 @@
       "樂",
       "詩歌舞",
       "部:史",
-      "部:史/正史類"
+      "部:史/正史類",
+      "樂象",
+      "德性",
+      "音樂"
     ],
     "sources": [
       {
@@ -94469,6 +94685,13 @@
         "title": "史記 · 卷024",
         "url": "https://zh.wikisource.org/wiki/史記/卷024",
         "work": "史記"
+      },
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
       }
     ]
   },
@@ -101761,7 +101984,9 @@
     "tags": [
       "物價",
       "輕重",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -102120,7 +102345,9 @@
     "tags": [
       "救荒",
       "扶貧",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -111534,7 +111761,10 @@
     "summary": "",
     "tags": [
       "部:史",
-      "部:史/正史類"
+      "部:史/正史類",
+      "守信",
+      "霸功",
+      "呂氏春秋"
     ],
     "sources": [
       {
@@ -111543,6 +111773,13 @@
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
         "work": "史記"
+      },
+      {
+        "chapter": "卷十九",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十九",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -117769,7 +118006,10 @@
       "莊子",
       "達生",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "寓言",
+      "為政",
+      "呂氏春秋"
     ],
     "sources": [
       {
@@ -117778,6 +118018,13 @@
         "title": "莊子 · 達生",
         "url": "https://zh.wikisource.org/wiki/莊子/達生",
         "work": "莊子"
+      },
+      {
+        "chapter": "卷十九",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十九",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -121485,6 +121732,13 @@
         "title": "呂氏春秋 · 卷六",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷六",
         "work": "呂氏春秋"
+      },
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
       }
     ]
   },
@@ -121662,6 +121916,25 @@
     ]
   },
   {
+    "slug": "樂由中出",
+    "title": "樂由中出",
+    "summary": "樂生於心，禮生於外。",
+    "tags": [
+      "樂論",
+      "禮樂",
+      "心性"
+    ],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "樂窮極而不厭",
     "title": "樂窮極而不厭",
     "summary": "遊於天庭，樂趣無窮，終不厭足。",
@@ -121724,6 +121997,13 @@
         "title": "史記 · 卷024",
         "url": "https://zh.wikisource.org/wiki/史記/卷024",
         "work": "史記"
+      },
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
       }
     ]
   },
@@ -123876,6 +124156,26 @@
     ]
   },
   {
+    "slug": "正鹽筴",
+    "title": "正鹽筴",
+    "summary": "官府掌鹽之策，以其利代民賦。",
+    "tags": [
+      "國政",
+      "理財",
+      "鹽政",
+      "管仲"
+    ],
+    "sources": [
+      {
+        "chapter": "第72篇海王",
+        "plugin": "wikisource",
+        "title": "管子 · 第72篇海王",
+        "url": "https://zh.wikisource.org/wiki/管子/第72篇海王",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "此何人哉",
     "title": "此何人哉",
     "summary": "詩人仰天而問，誰致宗周之覆亡。",
@@ -124538,7 +124838,9 @@
     "tags": [
       "理財",
       "積蓄",
-      "經濟"
+      "經濟",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -124557,7 +124859,9 @@
     "tags": [
       "理財",
       "蓄積",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -126737,6 +127041,25 @@
         "title": "抱朴子 · 卷04",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷04",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "民善之則畜也",
+    "title": "民善之則畜也",
+    "summary": "天子有讎則民畔，善畜其民者無敵於天下。",
+    "tags": [
+      "為政",
+      "愛民",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十九",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十九",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -131450,6 +131773,26 @@
     ]
   },
   {
+    "slug": "海王之國",
+    "title": "海王之國",
+    "summary": "恃海鹽之利以王天下。",
+    "tags": [
+      "國政",
+      "理財",
+      "鹽政",
+      "齊桓公"
+    ],
+    "sources": [
+      {
+        "chapter": "第72篇海王",
+        "plugin": "wikisource",
+        "title": "管子 · 第72篇海王",
+        "url": "https://zh.wikisource.org/wiki/管子/第72篇海王",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "消息盈虛",
     "title": "消息盈虛",
     "summary": "天道消長盈虛，迭為終始，君子尚之，乃知進退存亡之正。",
@@ -132548,6 +132891,21 @@
     ]
   },
   {
+    "slug": "清廟之瑟",
+    "title": "清廟之瑟",
+    "summary": "大樂至簡，有遺音遺味。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "清濁異稟",
     "title": "清濁異稟",
     "summary": "人之稟受各有淺深，不能以一概全，才有清濁，思有修短。",
@@ -133361,6 +133719,13 @@
         "plugin": "wikisource",
         "title": "呂氏春秋 · 卷十",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十",
+        "work": "呂氏春秋"
+      },
+      {
+        "chapter": "卷十九",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十九",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
         "work": "呂氏春秋"
       }
     ]
@@ -138256,7 +138621,9 @@
     "tags": [
       "治道",
       "無為",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -149787,7 +150154,9 @@
     "tags": [
       "土地",
       "賦稅",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -151572,6 +151941,25 @@
         "title": "春秋穀梁傳 · 定公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/定公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "石渚",
+    "title": "石渚",
+    "summary": "追得殺人者乃己之父，法不可廢，遂伏斧鑕而死。",
+    "tags": [
+      "法治",
+      "忠孝",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十九",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十九",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -156636,7 +157024,9 @@
     "tags": [
       "物價",
       "穀粟",
-      "管子"
+      "管子",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -159277,7 +159667,9 @@
     "tags": [
       "理財",
       "積蓄",
-      "守備"
+      "守備",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -166521,6 +166913,21 @@
     ]
   },
   {
+    "slug": "聲淫及商",
+    "title": "聲淫及商",
+    "summary": "《武》音聲淫及商，遲之遲而又久。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
+      }
+    ]
+  },
+  {
     "slug": "聲無小而不聞",
     "title": "聲無小而不聞",
     "summary": "聲無微而不達於遠，行無隱而不形於世。",
@@ -169965,7 +170372,8 @@
       "治躬",
       "禮樂修身",
       "部:經",
-      "部:經/禮類"
+      "部:經/禮類",
+      "樂化"
     ],
     "sources": [
       {
@@ -170895,6 +171303,13 @@
         "title": "史記 · 卷024",
         "url": "https://zh.wikisource.org/wiki/史記/卷024",
         "work": "史記"
+      },
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
       }
     ]
   },
@@ -180873,6 +181288,25 @@
         "title": "詩經 · 采蘩",
         "url": "https://zh.wikisource.org/wiki/詩經/采蘩",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "被瞻",
+    "title": "被瞻",
+    "summary": "諫鄭君以殺臣免國，既入晉軍，仗義以衛其君。",
+    "tags": [
+      "忠義",
+      "智謀",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十九",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十九",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
+        "work": "呂氏春秋"
       }
     ]
   },
@@ -205910,6 +206344,25 @@
     ]
   },
   {
+    "slug": "離俗",
+    "title": "離俗",
+    "summary": "君子輕富貴、守高節，不屑與世俗同汙。",
+    "tags": [
+      "德行",
+      "隱逸",
+      "呂氏春秋"
+    ],
+    "sources": [
+      {
+        "chapter": "卷十九",
+        "plugin": "wikisource",
+        "title": "呂氏春秋 · 卷十九",
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十九",
+        "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
     "slug": "離內遠遊危身之道",
     "title": "離內遠遊危身之道",
     "summary": "遠遊以樂，疏忠臣，身危之道也。",
@@ -207838,7 +208291,9 @@
     "tags": [
       "治道",
       "治法",
-      "權宜"
+      "權宜",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -208808,6 +209263,21 @@
         "title": "史記 · 卷063",
         "url": "https://zh.wikisource.org/wiki/史記/卷063",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "音之感人",
+    "title": "音之感人",
+    "summary": "音之感人，應其情性，移風易俗。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "樂記",
+        "plugin": "wikisource",
+        "title": "禮記 · 樂記",
+        "url": "https://zh.wikisource.org/wiki/禮記/樂記",
+        "work": "禮記"
       }
     ]
   },
@@ -215298,6 +215768,27 @@
         "title": "莊子 · 則陽",
         "url": "https://zh.wikisource.org/wiki/莊子/則陽",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "鹽鐵之利",
+    "title": "鹽鐵之利",
+    "summary": "鹽與鐵器為民生日用所必需，官府掌之則利入於上。",
+    "tags": [
+      "國政",
+      "理財",
+      "鹽政",
+      "鐵政",
+      "管仲"
+    ],
+    "sources": [
+      {
+        "chapter": "第72篇海王",
+        "plugin": "wikisource",
+        "title": "管子 · 第72篇海王",
+        "url": "https://zh.wikisource.org/wiki/管子/第72篇海王",
+        "work": "管子"
       }
     ]
   },
