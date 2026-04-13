@@ -514,6 +514,27 @@
     ]
   },
   {
+    "slug": "一氣專定",
+    "title": "一氣專定",
+    "summary": "一氣專定，則傍通而不疑。",
+    "tags": [
+      "軍事",
+      "意志",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第17篇兵法",
+        "plugin": "wikisource",
+        "title": "管子 · 第17篇兵法",
+        "url": "https://zh.wikisource.org/wiki/管子/第17篇兵法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "一治一亂",
     "title": "一治一亂",
     "summary": "天下之亂，治亂相循，如環無端。",
@@ -1783,6 +1804,27 @@
         "title": "韓非子 · 三守",
         "url": "https://zh.wikisource.org/wiki/韓非子/三守",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "三官",
+    "title": "三官",
+    "summary": "鼓金旗三者，軍旅之綱紀也。",
+    "tags": [
+      "軍事",
+      "軍制",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第17篇兵法",
+        "plugin": "wikisource",
+        "title": "管子 · 第17篇兵法",
+        "url": "https://zh.wikisource.org/wiki/管子/第17篇兵法",
+        "work": "管子"
       }
     ]
   },
@@ -11144,6 +11186,27 @@
     ]
   },
   {
+    "slug": "五教",
+    "title": "五教",
+    "summary": "目、身、足、手、心，五者皆教，士乃可用。",
+    "tags": [
+      "軍事",
+      "訓練",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第17篇兵法",
+        "plugin": "wikisource",
+        "title": "管子 · 第17篇兵法",
+        "url": "https://zh.wikisource.org/wiki/管子/第17篇兵法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "五教在寬",
     "title": "五教在寬",
     "summary": "教化之要在於寬恕。",
@@ -13383,6 +13446,24 @@
     ]
   },
   {
+    "slug": "人貌榮名",
+    "title": "人貌榮名",
+    "summary": "人之貌不足以定榮名，榮名既立，天下慕之，俠者之聲，足貴也。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "人退己進",
     "title": "人退己進",
     "summary": "人退己進者，陰子所以窮至道；敬卒若始者，羨門所以致雲龍。",
@@ -14726,6 +14807,25 @@
     ]
   },
   {
+    "slug": "以中制外",
+    "title": "以中制外",
+    "summary": "以心制物，則百事不廢。",
+    "tags": [
+      "心術",
+      "修身",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "以享以祀",
     "title": "以享以祀",
     "summary": "酒食既成，奉之祖考，神降之福。",
@@ -15175,6 +15275,21 @@
         "title": "春秋穀梁傳 · 定公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/定公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "以天為蓋以地為輿",
+    "title": "以天為蓋以地為輿",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -19747,6 +19862,9 @@
       "臣道",
       "抱朴子",
       "外篇",
+      "佞幸",
+      "覆國",
+      "權奸",
       "部:子",
       "部:子/道家類"
     ],
@@ -19757,6 +19875,13 @@
         "title": "抱朴子 · 卷06",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷06",
         "work": "抱朴子"
+      },
+      {
+        "chapter": "卷125",
+        "plugin": "wikisource",
+        "title": "史記 · 卷125",
+        "url": "https://zh.wikisource.org/wiki/史記/卷125",
+        "work": "史記"
       }
     ]
   },
@@ -21182,6 +21307,45 @@
         "title": "春秋公羊傳 · 隱公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/隱公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "俠客之義",
+    "title": "俠客之義",
+    "summary": "俠者重諾守信，赴人急難，不矜其功，是為俠客之義。",
+    "tags": [
+      "遊俠",
+      "德行",
+      "信義",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "俠者足多",
+    "title": "俠者足多",
+    "summary": "游俠振人死亡，不矜其能，羞伐其德，蓋亦有足多者焉。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
       }
     ]
   },
@@ -24626,6 +24790,9 @@
       "孔丘之言",
       "治道",
       "法治",
+      "免官",
+      "無恥",
+      "佞臣",
       "部:經",
       "部:經/四書類"
     ],
@@ -24636,6 +24803,13 @@
         "title": "論語 · 爲政第二",
         "url": "https://zh.wikisource.org/wiki/論語/爲政第二",
         "work": "論語"
+      },
+      {
+        "chapter": "卷125",
+        "plugin": "wikisource",
+        "title": "史記 · 卷125",
+        "url": "https://zh.wikisource.org/wiki/史記/卷125",
+        "work": "史記"
       }
     ]
   },
@@ -25201,6 +25375,26 @@
         "title": "抱朴子 · 卷14",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "內政不脩外舉事不濟",
+    "title": "內政不脩外舉事不濟",
+    "summary": "內政未理而外事行之，未有不敗者也。",
+    "tags": [
+      "管仲",
+      "治道",
+      "內政",
+      "遠略"
+    ],
+    "sources": [
+      {
+        "chapter": "第18篇大匡",
+        "plugin": "wikisource",
+        "title": "管子 · 第18篇大匡",
+        "url": "https://zh.wikisource.org/wiki/管子/第18篇大匡",
+        "work": "管子"
       }
     ]
   },
@@ -27005,6 +27199,25 @@
     ]
   },
   {
+    "slug": "公牛哀轉病",
+    "title": "公牛哀轉病",
+    "summary": "人化為虎，形變而志亦變，二者各樂其成形",
+    "tags": [
+      "寓言",
+      "形神論",
+      "淮南子"
+    ],
+    "sources": [
+      {
+        "chapter": "俶真訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 俶真訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/俶真訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "公生明偏生闇",
     "title": "公生明，偏生闇",
     "summary": "公正則明，偏私則闇，端愨則通，誠信則神。",
@@ -28008,7 +28221,9 @@
     "tags": [
       "兵略",
       "政戰關係",
-      "治道"
+      "治道",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -28093,7 +28308,9 @@
     "tags": [
       "兵略",
       "軍事理論",
-      "形勢"
+      "形勢",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -28359,6 +28576,25 @@
         "title": "詩經 · 東門之墠",
         "url": "https://zh.wikisource.org/wiki/詩經/東門之墠",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "其寐不夢其覺不憂",
+    "title": "其寐不夢其覺不憂",
+    "summary": "聖人用心杖神，內外相扶，則寐無夢而覺無憂",
+    "tags": [
+      "聖人論",
+      "心神論",
+      "修養論"
+    ],
+    "sources": [
+      {
+        "chapter": "俶真訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 俶真訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/俶真訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -31729,6 +31965,27 @@
     ]
   },
   {
+    "slug": "劇孟博戲",
+    "title": "劇孟博戲",
+    "summary": "劇孟行大類朱家，而好博，其母死，送喪蓋千乘，家無餘財。",
+    "tags": [
+      "遊俠",
+      "劇孟",
+      "德行",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "劉交",
     "title": "劉交",
     "summary": "楚元王，高祖少弟，據彭城，傳國數世，終以吳楚反伏誅。",
@@ -32039,6 +32296,27 @@
         "title": "商君書 · 卷二",
         "url": "https://zh.wikisource.org/wiki/商君書/卷二",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "力田不如逢年",
+    "title": "力田不如逢年，善仕不如遇合",
+    "summary": "力農不如逢豐歲，求官不如遇知己，時遇之重於勤勉也",
+    "tags": [
+      "佞幸",
+      "時命",
+      "遇合",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷125",
+        "plugin": "wikisource",
+        "title": "史記 · 卷125",
+        "url": "https://zh.wikisource.org/wiki/史記/卷125",
+        "work": "史記"
       }
     ]
   },
@@ -34316,6 +34594,24 @@
     ]
   },
   {
+    "slug": "匹夫之俠湮滅不見",
+    "title": "匹夫之俠湮滅不見",
+    "summary": "自秦以前匹夫之俠湮滅不見，太史公甚恨之。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "匹夫私便人主公利",
     "title": "匹夫私便人主公利",
     "summary": "匹夫私便在不作而養足、不仕而名顯；人主公利在息文學明法度、塞私便一功勞。",
@@ -34415,6 +34711,9 @@
       "漢武帝",
       "李延年",
       "十九章",
+      "軍事",
+      "旗幟",
+      "管子",
       "部:史",
       "部:史/正史類"
     ],
@@ -34425,6 +34724,13 @@
         "title": "史記 · 卷024",
         "url": "https://zh.wikisource.org/wiki/史記/卷024",
         "work": "史記"
+      },
+      {
+        "chapter": "第17篇兵法",
+        "plugin": "wikisource",
+        "title": "管子 · 第17篇兵法",
+        "url": "https://zh.wikisource.org/wiki/管子/第17篇兵法",
+        "work": "管子"
       }
     ]
   },
@@ -34620,6 +34926,25 @@
         "title": "詩經 · 甫田",
         "url": "https://zh.wikisource.org/wiki/詩經/甫田",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "千變萬化",
+    "title": "千變萬化",
+    "summary": "萬物新故迭更，循環不息，無有終極",
+    "tags": [
+      "宇宙觀",
+      "變化論",
+      "莊子學"
+    ],
+    "sources": [
+      {
+        "chapter": "俶真訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 俶真訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/俶真訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -36418,6 +36743,27 @@
         "title": "史記 · 卷042",
         "url": "https://zh.wikisource.org/wiki/史記/卷042",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "厲士利械",
+    "title": "厲士利械",
+    "summary": "厲士利械，涉難而不匱。",
+    "tags": [
+      "軍事",
+      "器械",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第17篇兵法",
+        "plugin": "wikisource",
+        "title": "管子 · 第17篇兵法",
+        "url": "https://zh.wikisource.org/wiki/管子/第17篇兵法",
+        "work": "管子"
       }
     ]
   },
@@ -42476,6 +42822,27 @@
     ]
   },
   {
+    "slug": "吳楚反時得劇孟",
+    "title": "吳楚反時得劇孟",
+    "summary": "吳楚反時，條侯得劇孟，喜曰天下騷動宰相得之若得一敵國。",
+    "tags": [
+      "遊俠",
+      "劇孟",
+      "吳楚之亂",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "吳楚合謀反",
     "title": "吳楚合謀反",
     "summary": "吳王濞與楚王戊連兵反漢，相與合謀西攻梁地，卒以糧絕兵敗而亡。",
@@ -44109,6 +44476,45 @@
     ]
   },
   {
+    "slug": "和合",
+    "title": "和合",
+    "summary": "",
+    "tags": [
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第17篇兵法",
+        "plugin": "wikisource",
+        "title": "管子 · 第17篇兵法",
+        "url": "https://zh.wikisource.org/wiki/管子/第17篇兵法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "和合故能諧",
+    "title": "和合故能諧",
+    "summary": "畜之以道則民和，養之以德則民合，和合故能諧。",
+    "tags": [
+      "政治",
+      "德治",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第17篇兵法",
+        "plugin": "wikisource",
+        "title": "管子 · 第17篇兵法",
+        "url": "https://zh.wikisource.org/wiki/管子/第17篇兵法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "和同以聽令",
     "title": "和同以聽令",
     "summary": "聖王治人，不貴博學，貴其聽令以和同。",
@@ -45087,6 +45493,27 @@
         "title": "詩經 · 斯干",
         "url": "https://zh.wikisource.org/wiki/詩經/斯干",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "唶吮",
+    "title": "唶吮",
+    "summary": "以口吮吸膿血以疗親之疾也",
+    "tags": [
+      "孝道",
+      "醫療",
+      "佞幸",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷125",
+        "plugin": "wikisource",
+        "title": "史記 · 卷125",
+        "url": "https://zh.wikisource.org/wiki/史記/卷125",
+        "work": "史記"
       }
     ]
   },
@@ -46221,6 +46648,27 @@
     ]
   },
   {
+    "slug": "善者之為兵",
+    "title": "善者之為兵",
+    "summary": "善兵者使敵若據虛若搏景，無形無為。",
+    "tags": [
+      "軍事",
+      "戰術",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第17篇兵法",
+        "plugin": "wikisource",
+        "title": "管子 · 第17篇兵法",
+        "url": "https://zh.wikisource.org/wiki/管子/第17篇兵法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "善處大重理任大事",
     "title": "善處大重，理任大事",
     "summary": "處重位、任大事而無後患之方，在同賢博施、不抑賢能。",
@@ -47122,6 +47570,27 @@
         "title": "抱朴子 · 卷09",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷09",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "器成教施",
+    "title": "器成教施",
+    "summary": "兵器已成，教令已施，則進退若雷電而無所疑匱。",
+    "tags": [
+      "軍事",
+      "訓練",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第17篇兵法",
+        "plugin": "wikisource",
+        "title": "管子 · 第17篇兵法",
+        "url": "https://zh.wikisource.org/wiki/管子/第17篇兵法",
+        "work": "管子"
       }
     ]
   },
@@ -48252,6 +48721,27 @@
     ]
   },
   {
+    "slug": "四用兵之禍",
+    "title": "四用兵之禍",
+    "summary": "境內貧、戰不勝、勝而死、得地而國敗，四者兵之祸也。",
+    "tags": [
+      "軍事",
+      "禍福",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第17篇兵法",
+        "plugin": "wikisource",
+        "title": "管子 · 第17篇兵法",
+        "url": "https://zh.wikisource.org/wiki/管子/第17篇兵法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "四皓",
     "title": "四皓",
     "summary": "述漢高祖四皓之事，以見聖主敬賢隱之高誼。",
@@ -48859,6 +49349,26 @@
         "title": "列子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/列子/仲尼篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "國之亂智人不得作內事",
+    "title": "國之亂智人不得作內事",
+    "summary": "內亂不休，則智能之士無由施其策，國家且危。",
+    "tags": [
+      "鮑叔",
+      "治亂",
+      "內政",
+      "智士"
+    ],
+    "sources": [
+      {
+        "chapter": "第18篇大匡",
+        "plugin": "wikisource",
+        "title": "管子 · 第18篇大匡",
+        "url": "https://zh.wikisource.org/wiki/管子/第18篇大匡",
+        "work": "管子"
       }
     ]
   },
@@ -54089,6 +54599,25 @@
     ]
   },
   {
+    "slug": "大夢",
+    "title": "大夢",
+    "summary": "今茲之為，夢與覺異；及其大覺，方知皆夢",
+    "tags": [
+      "覺夢論",
+      "莊子學",
+      "人生觀"
+    ],
+    "sources": [
+      {
+        "chapter": "俶真訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 俶真訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/俶真訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "大夫不均",
     "title": "大夫不均",
     "summary": "刺在位者遣役不公，己獨勤而人逸。",
@@ -55821,6 +56350,25 @@
         "title": "韓非子 · 忠考",
         "url": "https://zh.wikisource.org/wiki/韓非子/忠考",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "天下神器",
+    "title": "天下神器",
+    "summary": "天下者神器也，不可為，不可執。",
+    "tags": [
+      "政治哲學",
+      "無為",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -59770,6 +60318,9 @@
       "直諫",
       "成語",
       "渾邪王",
+      "佞幸",
+      "驕子",
+      "取敗",
       "部:史",
       "部:史/正史類"
     ],
@@ -59779,6 +60330,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷120",
         "url": "https://zh.wikisource.org/wiki/史記/卷120",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷125",
+        "plugin": "wikisource",
+        "title": "史記 · 卷125",
+        "url": "https://zh.wikisource.org/wiki/史記/卷125",
         "work": "史記"
       }
     ]
@@ -62340,6 +62898,27 @@
         "title": "詩經 · 東門之枌",
         "url": "https://zh.wikisource.org/wiki/詩經/東門之枌",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "婉佞",
+    "title": "婉佞",
+    "summary": "以柔媚取媚上位，無材能而徒以婉順得幸",
+    "tags": [
+      "佞幸",
+      "婉媚",
+      "倖進",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷125",
+        "plugin": "wikisource",
+        "title": "史記 · 卷125",
+        "url": "https://zh.wikisource.org/wiki/史記/卷125",
+        "work": "史記"
       }
     ]
   },
@@ -65253,6 +65832,27 @@
     ]
   },
   {
+    "slug": "季布俠蹤",
+    "title": "季布俠蹤",
+    "summary": "朱家陰脫季布將軍之阸，及布尊貴，終身不見，其義俠之至者也。",
+    "tags": [
+      "遊俠",
+      "信義",
+      "季布",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "季平子與郈昭伯鬬雞",
     "title": "季平子與郈昭伯鬬雞",
     "summary": "季平子與郈昭伯因鬬雞結怨，導致魯亂。",
@@ -65422,6 +66022,24 @@
         "plugin": "wikisource",
         "title": "史記 · 卷047",
         "url": "https://zh.wikisource.org/wiki/史記/卷047",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "季次原憲終身空室",
+    "title": "季次原憲終身空室",
+    "summary": "季次、原憲，閭巷人也，讀書懷獨行君子之德，終身空室蓬戶，死而已四百餘年而弟子志之不倦。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
         "work": "史記"
       }
     ]
@@ -67580,6 +68198,27 @@
         "plugin": "wikisource",
         "title": "管子 · 第11篇宙合",
         "url": "https://zh.wikisource.org/wiki/管子/第11篇宙合",
+        "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "定一至",
+    "title": "定一至",
+    "summary": "定一至而行二要，乃霸王之基也。",
+    "tags": [
+      "治國",
+      "霸王",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第17篇兵法",
+        "plugin": "wikisource",
+        "title": "管子 · 第17篇兵法",
+        "url": "https://zh.wikisource.org/wiki/管子/第17篇兵法",
         "work": "管子"
       }
     ]
@@ -71543,6 +72182,24 @@
     ]
   },
   {
+    "slug": "少年慕解行",
+    "title": "少年慕解行",
+    "summary": "少年慕郭解之行，輒為報仇，不使解知。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "少弟不能棄財",
     "title": "少弟不能棄財",
     "summary": "范蠡論長子與少子之異，謂少弟生而富貴，不知財所從來，故能輕棄。",
@@ -74312,6 +74969,27 @@
     ]
   },
   {
+    "slug": "布衣之俠",
+    "title": "布衣之俠",
+    "summary": "閭巷布衣，重然諾，輕生死，為俠於世而不求聞達。",
+    "tags": [
+      "遊俠",
+      "德行",
+      "名節",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "希聲不全大音",
     "title": "希聲不全大音",
     "summary": "希聲者，不以音聲自炫；不全大音，謙以俟知音。",
@@ -76656,6 +77334,24 @@
     ]
   },
   {
+    "slug": "延頸願交",
+    "title": "延頸願交",
+    "summary": "關東莫不延頸願交於俠者，言其德義感人之深。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "廷辯",
     "title": "廷辯",
     "summary": "朝廷之上當面辯論是非曲直",
@@ -78495,6 +79191,21 @@
     ]
   },
   {
+    "slug": "往而復反",
+    "title": "往而復反",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "往蹇來反",
     "title": "往蹇來反",
     "summary": "往則益蹇，返則得安。",
@@ -78855,6 +79566,26 @@
         "title": "詩經 · 泮水",
         "url": "https://zh.wikisource.org/wiki/詩經/泮水",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "得一",
+    "title": "得一",
+    "summary": "得道之全，則萬物生焉。",
+    "tags": [
+      "道",
+      "一",
+      "宇宙觀",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -81233,6 +81964,25 @@
     ]
   },
   {
+    "slug": "志弱而事強",
+    "title": "志弱而事強",
+    "summary": "心志守弱，事則無強不勝。",
+    "tags": [
+      "柔弱",
+      "有為",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "志未變",
     "title": "志未變",
     "summary": "初心守正，未有外慕，則得其吉。",
@@ -83052,6 +83802,24 @@
         "title": "詩經 · 民勞",
         "url": "https://zh.wikisource.org/wiki/詩經/民勞",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "惜哉郭解",
+    "title": "惜哉郭解",
+    "summary": "太史公惜郭解狀貌言語不足採，而天下慕其聲，榮名不可以貌定也。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
       }
     ]
   },
@@ -97730,6 +98498,25 @@
     ]
   },
   {
+    "slug": "有生於無",
+    "title": "有生於無",
+    "summary": "天下萬物皆生於虛無。",
+    "tags": [
+      "宇宙觀",
+      "無為",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "有生黬也",
     "title": "有生黬也",
     "summary": "生者若黬瘡膿皰，推移而去，是之謂移是。",
@@ -97747,6 +98534,25 @@
         "title": "莊子 · 庚桑楚",
         "url": "https://zh.wikisource.org/wiki/莊子/庚桑楚",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "有真人然後有真知",
+    "title": "有真人然後有真知",
+    "summary": "所持者明則知明，所持者闇則知闇；真人持明，故能知是非之真",
+    "tags": [
+      "真人論",
+      "認知論",
+      "淮南子"
+    ],
+    "sources": [
+      {
+        "chapter": "俶真訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 俶真訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/俶真訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -98241,6 +99047,9 @@
     "title": "朋黨比周",
     "summary": "",
     "tags": [
+      "批判",
+      "朋黨",
+      "遊俠",
       "部:子",
       "部:子/法家類"
     ],
@@ -98251,6 +99060,13 @@
         "title": "韓非子 · 孤憤",
         "url": "https://zh.wikisource.org/wiki/韓非子/孤憤",
         "work": "韓非子"
+      },
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
       }
     ]
   },
@@ -99232,6 +100048,60 @@
     ]
   },
   {
+    "slug": "朱家振贍",
+    "title": "朱家振贍",
+    "summary": "朱家振贍貧賤，先從貧賤始，家無餘財，而趨人之急甚於己私。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "朱家田仲劇孟郭解",
+    "title": "朱家田仲劇孟郭解",
+    "summary": "漢興游俠四大家：朱家、田仲、劇孟、郭解，皆以俠聞而私義廉絜。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "朱家脫季布",
+    "title": "朱家脫季布",
+    "summary": "朱家匿季布於轘轅東，成功則去，終身不見，其義高矣。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "朱建之死",
     "title": "朱建之死",
     "summary": "淮南厲王殺辟陽侯，文帝欲捕朱建，朱建自剄以絕禍。",
@@ -99535,6 +100405,27 @@
         "plugin": "wikisource",
         "title": "史記 · 卷111",
         "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "李延年",
+    "title": "李延年",
+    "summary": "中山樂人，以新聲見幸，佩二千石印，後與中人亂誅死",
+    "tags": [
+      "佞幸",
+      "音樂",
+      "李延年",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷125",
+        "plugin": "wikisource",
+        "title": "史記 · 卷125",
+        "url": "https://zh.wikisource.org/wiki/史記/卷125",
         "work": "史記"
       }
     ]
@@ -100860,6 +101751,13 @@
         "title": "周易 · 歸妹",
         "url": "https://zh.wikisource.org/wiki/周易/歸妹",
         "work": "周易"
+      },
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -100903,6 +101801,25 @@
         "title": "周易 · 履",
         "url": "https://zh.wikisource.org/wiki/周易/履",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "柔弱以靜",
+    "title": "柔弱以靜",
+    "summary": "柔弱而能安靜，乃道者之德。",
+    "tags": [
+      "柔弱",
+      "虛靜",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -102659,6 +103576,24 @@
     ]
   },
   {
+    "slug": "楊季主之家",
+    "title": "楊季主之家",
+    "summary": "楊季主建議徙郭解，及解入關，季主竟被殺於闕下。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "楊布打狗",
     "title": "楊布打狗",
     "summary": "狗白往黑來，主人豈能不怪；己變而怪狗，與此何殊。",
@@ -103465,6 +104400,25 @@
         "title": "史記 · 卷024",
         "url": "https://zh.wikisource.org/wiki/史記/卷024",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "樂亡乎富貴",
+    "title": "樂亡乎富貴",
+    "summary": "樂不在富貴，在於德和。",
+    "tags": [
+      "人生觀",
+      "德行",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -105215,6 +106169,27 @@
         "title": "詩經 · 序",
         "url": "https://zh.wikisource.org/wiki/詩經/序",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "正定萬物之命",
+    "title": "正定萬物之命",
+    "summary": "政者正也，正所以定萬物之分而止過逮不及。",
+    "tags": [
+      "政治哲學",
+      "正義",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第16篇法法",
+        "plugin": "wikisource",
+        "title": "管子 · 第16篇法法",
+        "url": "https://zh.wikisource.org/wiki/管子/第16篇法法",
+        "work": "管子"
       }
     ]
   },
@@ -108044,6 +109019,13 @@
         "title": "莊子 · 刻意",
         "url": "https://zh.wikisource.org/wiki/莊子/刻意",
         "work": "莊子"
+      },
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -108483,6 +109465,25 @@
         "title": "抱朴子 · 卷27",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷27",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "求之近者",
+    "title": "求之近者",
+    "summary": "道在己身，近求而遠應。",
+    "tags": [
+      "道",
+      "修身",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -110389,6 +111390,7 @@
       "法家",
       "法治",
       "公正",
+      "管子",
       "部:子",
       "部:子/法家類"
     ],
@@ -110399,6 +111401,13 @@
         "title": "韓非子 · 有度",
         "url": "https://zh.wikisource.org/wiki/韓非子/有度",
         "work": "韓非子"
+      },
+      {
+        "chapter": "第16篇法法",
+        "plugin": "wikisource",
+        "title": "管子 · 第16篇法法",
+        "url": "https://zh.wikisource.org/wiki/管子/第16篇法法",
+        "work": "管子"
       }
     ]
   },
@@ -112067,6 +113076,27 @@
     ]
   },
   {
+    "slug": "淫樂",
+    "title": "淫樂",
+    "summary": "沉溺聲色，不節之以禮義",
+    "tags": [
+      "淫樂",
+      "佞幸",
+      "聲色",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷125",
+        "plugin": "wikisource",
+        "title": "史記 · 卷125",
+        "url": "https://zh.wikisource.org/wiki/史記/卷125",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "淫樂廢政",
     "title": "淫樂廢政",
     "summary": "孝惠帝以太后所為非人所為，終不能治天下，遂日飲為淫樂，不聽政。",
@@ -112749,6 +113779,25 @@
         "title": "史記 · 卷054",
         "url": "https://zh.wikisource.org/wiki/史記/卷054",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "清靜者德之至",
+    "title": "清靜者德之至",
+    "summary": "清靜乃德之極致。",
+    "tags": [
+      "虛靜",
+      "德行",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -113563,6 +114612,13 @@
         "title": "孟子 · 離婁下",
         "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
         "work": "孟子"
+      },
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -114755,6 +115811,24 @@
     ]
   },
   {
+    "slug": "濟南瞷氏陳周庸",
+    "title": "濟南瞷氏陳周庸",
+    "summary": "濟南瞷氏、陳周庸以豪聞，景帝聞之，使使盡誅此屬。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "濟洛河潁",
     "title": "濟洛河潁",
     "summary": "河、濟、洛、潁之間，乃王室子男之國可守之地。",
@@ -115682,6 +116756,24 @@
         "title": "詩經 · 七月",
         "url": "https://zh.wikisource.org/wiki/詩經/七月",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "為死不顧世",
+    "title": "為死不顧世",
+    "summary": "布衣之俠赴義必死，不顧世俗之議。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
       }
     ]
   },
@@ -117014,6 +118106,27 @@
         "title": "韓非子 · 顯學",
         "url": "https://zh.wikisource.org/wiki/韓非子/顯學",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "無名之至盡",
+    "title": "無名之至盡",
+    "summary": "無名之至盡，盡而不意，故不能疑神。",
+    "tags": [
+      "軍事",
+      "玄妙",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第17篇兵法",
+        "plugin": "wikisource",
+        "title": "管子 · 第17篇兵法",
+        "url": "https://zh.wikisource.org/wiki/管子/第17篇兵法",
+        "work": "管子"
       }
     ]
   },
@@ -119508,6 +120621,25 @@
         "title": "尹文子 · 大道上",
         "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
         "work": "尹文子"
+      }
+    ]
+  },
+  {
+    "slug": "物至而能神應",
+    "title": "物至而能神應",
+    "summary": "物之感觸，則神應之而智動。",
+    "tags": [
+      "感應",
+      "心術",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -122156,6 +123288,28 @@
     ]
   },
   {
+    "slug": "甚哉愛憎之時",
+    "title": "甚哉愛憎之時",
+    "summary": "愛則尊之至高，憎則棄之至賤，愛憎之際，成敗分焉",
+    "tags": [
+      "愛憎",
+      "佞幸",
+      "感歎",
+      "人情",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷125",
+        "plugin": "wikisource",
+        "title": "史記 · 卷125",
+        "url": "https://zh.wikisource.org/wiki/史記/卷125",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "甚哉水之為利害",
     "title": "甚哉，水之為利害也",
     "summary": "司馬遷痛感水之於人，利與害兼存，務興水利而防水患。",
@@ -122992,6 +124146,24 @@
         "title": "國語 · 卷10",
         "url": "https://zh.wikisource.org/wiki/國語/卷10",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "田仲俠行",
+    "title": "田仲俠行",
+    "summary": "田仲以俠聞，喜劍，父事朱家，自以為行弗及。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
       }
     ]
   },
@@ -129524,7 +130696,10 @@
       "祭祀",
       "禮制",
       "部:經",
-      "部:經/禮類"
+      "部:經/禮類",
+      "管仲",
+      "臣道",
+      "忠君與忠國"
     ],
     "sources": [
       {
@@ -129540,6 +130715,13 @@
         "title": "禮記 · 郊特牲",
         "url": "https://zh.wikisource.org/wiki/禮記/郊特牲",
         "work": "禮記"
+      },
+      {
+        "chapter": "第18篇大匡",
+        "plugin": "wikisource",
+        "title": "管子 · 第18篇大匡",
+        "url": "https://zh.wikisource.org/wiki/管子/第18篇大匡",
+        "work": "管子"
       }
     ]
   },
@@ -129951,6 +131133,25 @@
         "title": "楚辭 · 惜誓",
         "url": "https://zh.wikisource.org/wiki/楚辭/惜誓",
         "work": "楚辭"
+      }
+    ]
+  },
+  {
+    "slug": "神與形化",
+    "title": "神與形化",
+    "summary": "形變則神亦隨之，二者迭更而無定主",
+    "tags": [
+      "形神論",
+      "變化論",
+      "淮南子"
+    ],
+    "sources": [
+      {
+        "chapter": "俶真訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 俶真訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/俶真訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -130574,6 +131775,27 @@
     ]
   },
   {
+    "slug": "禁勝於身",
+    "title": "禁勝於身",
+    "summary": "禁戒先制己身，令乃暢行。",
+    "tags": [
+      "法治",
+      "修身",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第16篇法法",
+        "plugin": "wikisource",
+        "title": "管子 · 第16篇法法",
+        "url": "https://zh.wikisource.org/wiki/管子/第16篇法法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "禁姦之法",
     "title": "禁姦之法",
     "summary": "禁姦有三重：禁心為上，禁言次之，禁事為下。",
@@ -130605,7 +131827,9 @@
     "tags": [
       "兵略",
       "戰爭目的",
-      "義戰"
+      "義戰",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -134014,6 +135238,27 @@
     ]
   },
   {
+    "slug": "竊鉤者誅竊國者侯",
+    "title": "竊鉤者誅竊國者侯",
+    "summary": "盜小物者伏誅，竊大柄者封侯，世道之不平也。",
+    "tags": [
+      "遊俠",
+      "批判現實",
+      "名實",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "立不易方",
     "title": "立不易方",
     "summary": "君子立身，當恆守其道，不易其志。",
@@ -134689,6 +135934,24 @@
         "title": "周易 · 明夷",
         "url": "https://zh.wikisource.org/wiki/周易/明夷",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "箕踞者肉袒謝罪",
+    "title": "箕踞者肉袒謝罪",
+    "summary": "有人見郭解獨箕踞視之，解反躬自責而脫其踐更之戍，箕踞者乃肉袒謝罪。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
       }
     ]
   },
@@ -135568,6 +136831,24 @@
         "title": "詩經 · 竹竿",
         "url": "https://zh.wikisource.org/wiki/詩經/竹竿",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "籍少公出解",
+    "title": "籍少公出解",
+    "summary": "籍少公素不知郭解，解冒求出關，少公竟自殺以絕其蹤。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
       }
     ]
   },
@@ -137772,6 +139053,24 @@
         "title": "莊子 · 養生主",
         "url": "https://zh.wikisource.org/wiki/莊子/養生主",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "緩急",
+    "title": "緩急",
+    "summary": "緩急者，人之所時有也。賢者尚不得免，況中材乎。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
       }
     ]
   },
@@ -143622,6 +144921,21 @@
     ]
   },
   {
+    "slug": "自得-之",
+    "title": "自得-之",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "自恣荊楚",
     "title": "自恣荊楚",
     "summary": "安居荊楚，自恣快意，長享天年。",
@@ -144357,6 +145671,25 @@
         "title": "荀子 · 君道篇",
         "url": "https://zh.wikisource.org/wiki/荀子/君道篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "至道無為",
+    "title": "至道無為",
+    "summary": "至道者一龍一蛇，與時變化，外從其風而內守其性",
+    "tags": [
+      "道家",
+      "無為論",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "俶真訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 俶真訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/俶真訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -151705,6 +153038,13 @@
         "title": "莊子 · 天道",
         "url": "https://zh.wikisource.org/wiki/莊子/天道",
         "work": "莊子"
+      },
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -156579,6 +157919,24 @@
         "title": "抱朴子 · 卷16",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷16",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "解客殺儒生",
+    "title": "解客殺儒生",
+    "summary": "儒生言郭解以姦犯公法，解客竟殺之，而解實不知，殺者亦竟絕。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
       }
     ]
   },
@@ -163138,6 +164496,27 @@
     ]
   },
   {
+    "slug": "赦出則民不敬",
+    "title": "赦出則民不敬",
+    "summary": "赦免過濫則民不敬，姦邪滋生難禁。",
+    "tags": [
+      "賞罰",
+      "法治",
+      "管子",
+      "部:子",
+      "部:子/法家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第16篇法法",
+        "plugin": "wikisource",
+        "title": "管子 · 第16篇法法",
+        "url": "https://zh.wikisource.org/wiki/管子/第16篇法法",
+        "work": "管子"
+      }
+    ]
+  },
+  {
     "slug": "赦天下",
     "title": "赦天下",
     "summary": "",
@@ -168156,6 +169535,60 @@
     ]
   },
   {
+    "slug": "遊俠折節為儉",
+    "title": "遊俠折節為儉",
+    "summary": "俠者晚年折節向善，以德報怨，是為難能。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "遊俠豪眾",
+    "title": "遊俠豪眾",
+    "summary": "自郭解之後，為俠者極眾，然皆敖而無足數者。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "遊俠足多",
+    "title": "遊俠足多",
+    "summary": "俠者以武犯禁，然言必信、行必果、不矜其功、羞伐其德，是足多也。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "遊兵",
     "title": "遊兵",
     "summary": "遊擊之兵，往來擾敵，絕其後路。",
@@ -168647,7 +170080,15 @@
       "無為而治",
       "部:子"
     ],
-    "sources": []
+    "sources": [
+      {
+        "chapter": "原道訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 原道訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/原道訓",
+        "work": "淮南子"
+      }
+    ]
   },
   {
     "slug": "道一而已矣",
@@ -170366,6 +171807,156 @@
     ]
   },
   {
+    "slug": "郭解交通",
+    "title": "郭解交通",
+    "summary": "郭解以俠聞，邑中少年及旁近賢豪夜半過門常十餘車請得解客舍養之。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "郭解入關",
+    "title": "郭解入關",
+    "summary": "郭解入關，關中賢豪爭交驩解，而楊季主竟被殺，解遂亡。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "郭解執恭敬",
+    "title": "郭解執恭敬",
+    "summary": "郭解執恭敬，不敢乘車入縣廷，為人請求事，各厭其意乃敢嘗酒食。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "郭解姊子被殺",
+    "title": "郭解姊子被殺",
+    "summary": "郭解姊子負解之勢彊灌人，人怒殺之，解竟以為公殺之固當，不罪其人。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "郭解往時之蹤",
+    "title": "郭解往時之蹤",
+    "summary": "郭解少時陰賊慨不快意，身所殺甚眾，及長乃折節為善。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "郭解折節",
+    "title": "郭解折節",
+    "summary": "郭解年長折節為儉，以德報怨，厚施而薄望，而自喜為俠益甚。",
+    "tags": [
+      "遊俠",
+      "郭解",
+      "德行",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "郭解被族",
+    "title": "郭解被族",
+    "summary": "公孫弘議曰郭解布衣為任俠行權以睚眦殺人，罪甚於殺，竟族之。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "郭解讓邑",
+    "title": "郭解讓邑",
+    "summary": "郭解夜解仇家，不欲奪人邑中賢大夫權，乃夜去而不使人知。",
+    "tags": [
+      "遊俠",
+      "郭解",
+      "德行",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "郰人輓父之母誨孔子父墓",
     "title": "郰人輓父之母誨孔子父墓",
     "summary": "郰人告知孔子其父墓所在，使其得合葬。",
@@ -170456,6 +172047,24 @@
     ]
   },
   {
+    "slug": "鄉曲之俠",
+    "title": "鄉曲之俠",
+    "summary": "鄉曲之俠與季次、原憲比權量力，效功當世，固不同日而論。",
+    "tags": [
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷124",
+        "plugin": "wikisource",
+        "title": "史記 · 卷124",
+        "url": "https://zh.wikisource.org/wiki/史記/卷124",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "鄉飲酒義",
     "title": "鄉飲酒義",
     "summary": "禮記篇名，述鄉里飲射之禮的義理，強調尊讓、尚齒、養老之道。",
@@ -170477,6 +172086,27 @@
         "title": "禮記 · 鄉飲酒義",
         "url": "https://zh.wikisource.org/wiki/禮記/鄉飲酒義",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "鄧通",
+    "title": "鄧通",
+    "summary": "蜀郡南安人，以夢兆得幸於文帝，賜蜀銅山自鑄錢，後竟餓死",
+    "tags": [
+      "佞幸",
+      "漢",
+      "鄧通",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷125",
+        "plugin": "wikisource",
+        "title": "史記 · 卷125",
+        "url": "https://zh.wikisource.org/wiki/史記/卷125",
+        "work": "史記"
       }
     ]
   },
@@ -177264,7 +178894,9 @@
     "tags": [
       "兵略",
       "義兵",
-      "王道"
+      "王道",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -178731,6 +180363,27 @@
         "title": "韓非子 · 說林下",
         "url": "https://zh.wikisource.org/wiki/韓非子/說林下",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "韓嫣",
+    "title": "韓嫣",
+    "summary": "弓高侯孽孫，善騎射，以佞幸貴顯，後得罪伏誅",
+    "tags": [
+      "佞幸",
+      "漢",
+      "韓嫣",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷125",
+        "plugin": "wikisource",
+        "title": "史記 · 卷125",
+        "url": "https://zh.wikisource.org/wiki/史記/卷125",
+        "work": "史記"
       }
     ]
   },
@@ -185239,6 +186892,48 @@
         "title": "管子 · 第05篇乘馬",
         "url": "https://zh.wikisource.org/wiki/管子/第05篇乘馬",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "黃頭郎",
+    "title": "黃頭郎",
+    "summary": "為皇帝操舟之官，服黃帽，故名",
+    "tags": [
+      "官名",
+      "黃頭郎",
+      "水上",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷125",
+        "plugin": "wikisource",
+        "title": "史記 · 卷125",
+        "url": "https://zh.wikisource.org/wiki/史記/卷125",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "黃頭郎從後推上天",
+    "title": "黃頭郎從後推上天",
+    "summary": "文帝夢中得通之兆，因以為幸",
+    "tags": [
+      "夢兆",
+      "佞幸",
+      "鄧通",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷125",
+        "plugin": "wikisource",
+        "title": "史記 · 卷125",
+        "url": "https://zh.wikisource.org/wiki/史記/卷125",
+        "work": "史記"
       }
     ]
   },
