@@ -3442,6 +3442,27 @@
     ]
   },
   {
+    "slug": "不伏誅漢法不行",
+    "title": "不伏誅漢法不行",
+    "summary": "梁王犯法而不誅，則漢法不行於天下，故為陛下憂也。",
+    "tags": [
+      "田叔",
+      "梁孝王",
+      "景帝",
+      "法制",
+      "議論"
+    ],
+    "sources": [
+      {
+        "chapter": "卷104",
+        "plugin": "wikisource",
+        "title": "史記 · 卷104",
+        "url": "https://zh.wikisource.org/wiki/史記/卷104",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "不使自恣",
     "title": "不使自恣",
     "summary": "不使自恣，安得移並",
@@ -5591,6 +5612,25 @@
         "title": "莊子 · 徐無鬼",
         "url": "https://zh.wikisource.org/wiki/莊子/徐無鬼",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "不言而躬行",
+    "title": "不言而躬行",
+    "summary": "不待言說，以身作則。",
+    "tags": [
+      "德行",
+      "躬行",
+      "言教"
+    ],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
       }
     ]
   },
@@ -12424,9 +12464,9 @@
       "令",
       "法治",
       "公義",
+      "法家",
       "部:子",
-      "部:子/法家類",
-      "法家"
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -13459,6 +13499,13 @@
         "plugin": "wikisource",
         "title": "史記 · 卷053",
         "url": "https://zh.wikisource.org/wiki/史記/卷053",
+        "work": "史記"
+      },
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
         "work": "史記"
       }
     ]
@@ -17098,7 +17145,9 @@
       "張釋之",
       "厚葬",
       "節葬",
-      "養生"
+      "養生",
+      "部:子",
+      "部:子/墨家類"
     ],
     "sources": [
       {
@@ -20062,6 +20111,25 @@
     ]
   },
   {
+    "slug": "儒者文多質少",
+    "title": "儒者文多質少",
+    "summary": "儒者多文辭而少質實。",
+    "tags": [
+      "儒學",
+      "批評",
+      "文質"
+    ],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "儒者法先王隆禮義",
     "title": "儒者法先王隆禮義",
     "summary": "儒者以法先王、隆禮義為本，人主用之則埶在本朝而宜，不用則為順下之民。",
@@ -21404,11 +21472,11 @@
       "恩寵",
       "賞賜",
       "周緤",
-      "部:其他",
       "張釋之",
       "太子",
       "守法",
-      "司法"
+      "司法",
+      "部:子"
     ],
     "sources": [
       {
@@ -21521,6 +21589,26 @@
         "plugin": "wikisource",
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "內史匍匐",
+    "title": "內史匍匐",
+    "summary": "貴人入門，當以卑下自處。",
+    "tags": [
+      "禮儀",
+      "匍匐",
+      "恭謹",
+      "石慶"
+    ],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
         "work": "史記"
       }
     ]
@@ -23237,7 +23325,9 @@
     "slug": "公私不可不明",
     "title": "公私不可不明",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "飾邪",
@@ -25738,6 +25828,26 @@
     ]
   },
   {
+    "slug": "分別平",
+    "title": "分別平",
+    "summary": "任安分鹿雉部署當壯劇易處，眾人皆喜，稱其分別公平而有智略。",
+    "tags": [
+      "任安",
+      "武功",
+      "分別平",
+      "智略"
+    ],
+    "sources": [
+      {
+        "chapter": "卷104",
+        "plugin": "wikisource",
+        "title": "史記 · 卷104",
+        "url": "https://zh.wikisource.org/wiki/史記/卷104",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "分定而不偏",
     "title": "分定而不偏",
     "summary": "分均則不偏，埶齊則不壹，眾齊則不使。分者，天下之本也。",
@@ -26752,6 +26862,27 @@
         "title": "莊子 · 庚桑楚",
         "url": "https://zh.wikisource.org/wiki/莊子/庚桑楚",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "刺舉三河",
+    "title": "刺舉三河",
+    "summary": "郡守多為姦利，河南、河內、河東三河太守倚權勢而肆惡，必正之以警天下姦吏。",
+    "tags": [
+      "田仁",
+      "丞相司直",
+      "三河",
+      "姦利",
+      "刺舉"
+    ],
+    "sources": [
+      {
+        "chapter": "卷104",
+        "plugin": "wikisource",
+        "title": "史記 · 卷104",
+        "url": "https://zh.wikisource.org/wiki/史記/卷104",
+        "work": "史記"
       }
     ]
   },
@@ -28641,6 +28772,24 @@
         "plugin": "wikisource",
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "匍匐",
+    "title": "匍匐",
+    "summary": "屈膝下拜，以表恭敬。",
+    "tags": [
+      "禮儀",
+      "跪拜"
+    ],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
         "work": "史記"
       }
     ]
@@ -35571,7 +35720,9 @@
     "slug": "君臣也者以計合",
     "title": "君臣也者以計合",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "飾邪",
@@ -43165,6 +43316,21 @@
     ]
   },
   {
+    "slug": "垂涕恤獄",
+    "title": "垂涕恤獄",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "城上之備",
     "title": "城上之備",
     "summary": "城上守具之名：渠譫、藉車、行棧、行樓、頡皋、連梃、長斧、長椎、長茲、距、飛衝、縣𠊱。",
@@ -44709,6 +44875,21 @@
         "title": "荀子 · 性惡篇",
         "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "塞侯微巧",
+    "title": "塞侯微巧",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
       }
     ]
   },
@@ -50016,6 +50197,36 @@
         "plugin": "wikisource",
         "title": "史記 · 卷015",
         "url": "https://zh.wikisource.org/wiki/史記/卷015",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "太史公曰",
+    "title": "太史公曰",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "太史公曰仲尼有言君子欲訥於言而敏於行",
+    "title": "太史公曰仲尼有言君子欲訥於言而敏於行",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
         "work": "史記"
       }
     ]
@@ -55940,6 +56151,25 @@
     ]
   },
   {
+    "slug": "孝謹",
+    "title": "孝謹",
+    "summary": "孝於親而謹於行。",
+    "tags": [
+      "德行",
+      "孝道",
+      "恭謹"
+    ],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "孟嘗君",
     "title": "孟嘗君",
     "summary": "戰國四公子之首，好客養士，卒以薛邑終。",
@@ -61611,10 +61841,10 @@
       "飾邪",
       "智能",
       "任法",
-      "部:子",
-      "部:子/法家類",
       "法家",
-      "任人"
+      "任人",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -66770,7 +67000,9 @@
       "太史公",
       "贊",
       "守法",
-      "直諫"
+      "直諫",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -71172,7 +71404,9 @@
     "slug": "恃鬼神者慢於法",
     "title": "恃鬼神者慢於法",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "飾邪",
@@ -71434,6 +71668,25 @@
         "title": "荀子 · 臣道篇",
         "url": "https://zh.wikisource.org/wiki/荀子/臣道篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "恭謹無與比",
+    "title": "恭謹無與比",
+    "summary": "恭謹之德，無有可比。",
+    "tags": [
+      "德行",
+      "恭謹",
+      "石氏"
+    ],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
       }
     ]
   },
@@ -77093,6 +77346,21 @@
     ]
   },
   {
+    "slug": "敏行訥言",
+    "title": "敏行訥言",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "敖不可長",
     "title": "敖不可長",
     "summary": "",
@@ -81179,7 +81447,9 @@
     "slug": "明法者强慢法者弱",
     "title": "明法者强慢法者弱",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "飾邪",
@@ -83610,6 +83880,27 @@
     ]
   },
   {
+    "slug": "智略",
+    "title": "智略",
+    "summary": "辨治官、使百姓無怨之心為智略，非特提桴鼓立軍門、使人樂死戰鬬之謂。",
+    "tags": [
+      "任安",
+      "田仁",
+      "智略",
+      "才能",
+      "議論"
+    ],
+    "sources": [
+      {
+        "chapter": "卷104",
+        "plugin": "wikisource",
+        "title": "史記 · 卷104",
+        "url": "https://zh.wikisource.org/wiki/史記/卷104",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "智短於自知",
     "title": "智短於自知",
     "summary": "智有所不能立，聖哲尚需衆助，況庸主乎。",
@@ -83792,7 +84083,11 @@
       "暴虐",
       "失德",
       "幽王",
-      "部:其他"
+      "部:其他",
+      "田叔",
+      "梁孝王",
+      "袁盎",
+      "法制"
     ],
     "sources": [
       {
@@ -83801,6 +84096,13 @@
         "title": "詩經 · 菀柳",
         "url": "https://zh.wikisource.org/wiki/詩經/菀柳",
         "work": "詩經"
+      },
+      {
+        "chapter": "卷104",
+        "plugin": "wikisource",
+        "title": "史記 · 卷104",
+        "url": "https://zh.wikisource.org/wiki/史記/卷104",
+        "work": "史記"
       }
     ]
   },
@@ -86062,6 +86364,27 @@
         "title": "周易 · 鼎",
         "url": "https://zh.wikisource.org/wiki/周易/鼎",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "木偶人衣之綺繡",
+    "title": "木偶人衣之綺繡",
+    "summary": "徒取盎人子上之而無智略，如木偶人被以華服，中無所用，喻虛有其表。",
+    "tags": [
+      "趙禹",
+      "智略",
+      "取人",
+      "木偶",
+      "議論"
+    ],
+    "sources": [
+      {
+        "chapter": "卷104",
+        "plugin": "wikisource",
+        "title": "史記 · 卷104",
+        "url": "https://zh.wikisource.org/wiki/史記/卷104",
+        "work": "史記"
       }
     ]
   },
@@ -91081,6 +91404,27 @@
     ]
   },
   {
+    "slug": "欲坐觀成敗",
+    "title": "欲坐觀成敗",
+    "summary": "見兵事起而坐待成敗，見勝者欲合從之，心懷觀望，不忠之甚也。",
+    "tags": [
+      "任安",
+      "武帝",
+      "太子",
+      "觀望",
+      "忠義"
+    ],
+    "sources": [
+      {
+        "chapter": "卷104",
+        "plugin": "wikisource",
+        "title": "史記 · 卷104",
+        "url": "https://zh.wikisource.org/wiki/史記/卷104",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "欲學不死",
     "title": "欲學不死",
     "summary": "有術不能行者有矣，能行而無其術者亦有矣。",
@@ -95050,6 +95394,26 @@
     ]
   },
   {
+    "slug": "決嫌疑定是非",
+    "title": "決嫌疑定是非",
+    "summary": "辯治官、使百姓無怨心，此智略之正也，非特武力攻城。",
+    "tags": [
+      "任安",
+      "智略",
+      "議論",
+      "治官"
+    ],
+    "sources": [
+      {
+        "chapter": "卷104",
+        "plugin": "wikisource",
+        "title": "史記 · 卷104",
+        "url": "https://zh.wikisource.org/wiki/史記/卷104",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "決然無主",
     "title": "決然無主",
     "summary": "去除主見，聽任物理也。",
@@ -96358,7 +96722,8 @@
       "法治",
       "公正",
       "司法",
-      "守法"
+      "守法",
+      "部:子"
     ],
     "sources": [
       {
@@ -98954,6 +99319,13 @@
         "title": "禮記 · 儒行",
         "url": "https://zh.wikisource.org/wiki/禮記/儒行",
         "work": "禮記"
+      },
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
       }
     ]
   },
@@ -105623,7 +105995,8 @@
       "張釋之",
       "黃老",
       "敬老",
-      "德行"
+      "德行",
+      "部:子"
     ],
     "sources": [
       {
@@ -107080,6 +107453,27 @@
         "title": "韓非子 · 說林上",
         "url": "https://zh.wikisource.org/wiki/韓非子/說林上",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "田叔列傳",
+    "title": "田叔列傳",
+    "summary": "記田叔事趙王、輔張敖、任漢守，為魯相，及田仁、任安終始之事。",
+    "tags": [
+      "史記",
+      "田叔",
+      "田仁",
+      "任安",
+      "列傳"
+    ],
+    "sources": [
+      {
+        "chapter": "卷104",
+        "plugin": "wikisource",
+        "title": "史記 · 卷104",
+        "url": "https://zh.wikisource.org/wiki/史記/卷104",
+        "work": "史記"
       }
     ]
   },
@@ -110621,7 +111015,8 @@
       "盜賊",
       "族刑",
       "司法",
-      "法治"
+      "法治",
+      "部:子"
     ],
     "sources": [
       {
@@ -130157,6 +130552,41 @@
     ]
   },
   {
+    "slug": "萬石君",
+    "title": "萬石君",
+    "summary": "石奮父子五有二千石之秩，因以為號。",
+    "tags": [
+      "石氏",
+      "漢初",
+      "官制",
+      "家風"
+    ],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "萬石孝謹",
+    "title": "萬石孝謹",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "萬福攸同",
     "title": "萬福攸同",
     "summary": "天下之福歸於一人，萬福咸集，無有遺者。",
@@ -143381,6 +143811,27 @@
     ]
   },
   {
+    "slug": "赭衣自髡鉗",
+    "title": "赭衣自髡鉗",
+    "summary": "身犯重罪而甘心受刑，稱王家奴以從趙王，義不忘舊主也。",
+    "tags": [
+      "田叔",
+      "孟舒",
+      "貫高",
+      "趙王敖",
+      "忠義"
+    ],
+    "sources": [
+      {
+        "chapter": "卷104",
+        "plugin": "wikisource",
+        "title": "史記 · 卷104",
+        "url": "https://zh.wikisource.org/wiki/史記/卷104",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "赳赳武夫-之",
     "title": "赳赳武夫-之",
     "summary": "",
@@ -150148,6 +150599,60 @@
         "title": "抱朴子 · 卷24",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷24",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "醇厚",
+    "title": "醇厚",
+    "summary": "純實敦厚，無有姦巧。",
+    "tags": [
+      "德行",
+      "醇厚",
+      "醇謹"
+    ],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "醇謹-之",
+    "title": "醇謹-之",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "醇謹無他",
+    "title": "醇謹無他",
+    "summary": "醇厚而謹慎，別無旁騖。",
+    "tags": [
+      "德行",
+      "醇謹",
+      "醇謹",
+      "醇厚"
+    ],
+    "sources": [
+      {
+        "chapter": "卷103",
+        "plugin": "wikisource",
+        "title": "史記 · 卷103",
+        "url": "https://zh.wikisource.org/wiki/史記/卷103",
+        "work": "史記"
       }
     ]
   },
@@ -159000,7 +159505,8 @@
       "將帥",
       "廉頗",
       "李牧",
-      "直諫"
+      "直諫",
+      "部:其他"
     ],
     "sources": [
       {
@@ -160008,7 +160514,8 @@
       "魏尚",
       "賞罰",
       "雲中守",
-      "匈奴"
+      "匈奴",
+      "部:其他"
     ],
     "sources": [
       {
@@ -163802,7 +164309,9 @@
     "tags": [
       "法家",
       "韓非子",
-      "備敵"
+      "備敵",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
