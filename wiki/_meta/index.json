@@ -823,6 +823,27 @@
     ]
   },
   {
+    "slug": "一鼓作氣",
+    "title": "一鼓作氣",
+    "summary": "戰在勇氣，一鼓作之則鋭，再而衰，三而竭。彼竭我盈，故克之。",
+    "tags": [
+      "兵法",
+      "勇氣",
+      "曹劌",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "一齊人傅之眾楚人咻之",
     "title": "一齊人傅之眾楚人咻之",
     "summary": "環境浸染之力，一人教之而眾咻之，雖日撻而求其齊，不可得也。",
@@ -10458,6 +10479,27 @@
     ]
   },
   {
+    "slug": "事有四策",
+    "title": "事有四策",
+    "summary": "可行不可言、可言不可行、易成而難成、難成而易敗，聖人獨見而留意。",
+    "tags": [
+      "淮南子",
+      "治道",
+      "權變",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "事有本而仁義其要",
     "title": "事有本而仁義其要",
     "summary": "霸王之事有其本，本在務農；霸王之要有在仁義。",
@@ -12112,6 +12154,27 @@
     ]
   },
   {
+    "slug": "五者亡天下",
+    "title": "五者亡天下",
+    "summary": "五事過度，任何其一皆足以覆亡天下；當務節儉，歸本舍末。",
+    "tags": [
+      "政治哲學",
+      "治道",
+      "警戒",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "本經訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 本經訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/本經訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "五者死而無赦",
     "title": "五者死而無赦",
     "summary": "虧令、益令、不行令、留令、不從令者皆死，是為重令之極。",
@@ -12287,6 +12350,27 @@
         "title": "禮記 · 孔子閒居",
         "url": "https://zh.wikisource.org/wiki/禮記/孔子閒居",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "五遁",
+    "title": "五遁",
+    "summary": "過度雕飾木、水、土、金、火五事，足以亡天下。",
+    "tags": [
+      "政治哲學",
+      "道家",
+      "治道",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "本經訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 本經訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/本經訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -14619,6 +14703,27 @@
         "title": "春秋公羊傳 · 莊公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/莊公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "仇牧批殺宋萬",
+    "title": "仇牧批殺宋萬",
+    "summary": "宋萬弒閔公，仇牧遇之於門，批而殺之，忠臣不避死亡以衛其君。",
+    "tags": [
+      "宋事",
+      "仇牧",
+      "弒君",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -19150,6 +19255,28 @@
     ]
   },
   {
+    "slug": "伐秦至鄭而還",
+    "title": "伐秦至鄭而還",
+    "summary": "魏撃引車避師，不爲禮而還。",
+    "tags": [
+      "魏文侯",
+      "田子方",
+      "魏撃",
+      "禮賢",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "伐絞",
     "title": "伐絞",
     "summary": "絞小而輕，輕則寡謀。請無扞采樵者以誘之。",
@@ -19464,6 +19591,8 @@
       "楊朱",
       "隱士",
       "伯成子高",
+      "淮南子",
+      "隱逸",
       "部:子",
       "部:子/道家類"
     ],
@@ -19474,6 +19603,13 @@
         "title": "列子 · 楊朱篇",
         "url": "https://zh.wikisource.org/wiki/列子/楊朱篇",
         "work": "列子"
+      },
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -19688,6 +19824,46 @@
         "title": "荀子 · 堯問篇",
         "url": "https://zh.wikisource.org/wiki/荀子/堯問篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "伯禽東伐",
+    "title": "伯禽東伐",
+    "summary": "伯禽率師伐淮夷，誓師肸門，靖東土。",
+    "tags": [
+      "伯禽",
+      "淮夷",
+      "誓師",
+      "魯國"
+    ],
+    "sources": [
+      {
+        "chapter": "魯周公世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魯周公世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魯周公世家",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "伯禽遲政",
+    "title": "伯禽遲政",
+    "summary": "伯禽革魯俗、革魯禮，三年而後報政，故遲於太公。",
+    "tags": [
+      "伯禽",
+      "治道",
+      "魯國",
+      "齊國"
+    ],
+    "sources": [
+      {
+        "chapter": "魯周公世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魯周公世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魯周公世家",
+        "work": "史記"
       }
     ]
   },
@@ -20110,6 +20286,7 @@
       "利",
       "梁惠王",
       "政治哲學",
+      "義利",
       "部:經",
       "部:經/四書類"
     ],
@@ -20120,6 +20297,13 @@
         "title": "孟子 · 梁惠王上",
         "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
         "work": "孟子"
+      },
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
+        "work": "史記"
       }
     ]
   },
@@ -23325,6 +23509,27 @@
         "title": "詩經 · 崧高",
         "url": "https://zh.wikisource.org/wiki/詩經/崧高",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "傅瑕殺鄭子",
+    "title": "傅瑕殺鄭子",
+    "summary": "傅瑕以免死許納厲公，既得志而殺舊君，是二三其德者。",
+    "tags": [
+      "鄭事",
+      "厲公",
+      "弒君",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -36704,7 +36909,9 @@
     "tags": [
       "史官",
       "直筆",
-      "臣節"
+      "臣節",
+      "部:經",
+      "部:經/春秋類"
     ],
     "sources": [
       {
@@ -38169,6 +38376,27 @@
     ]
   },
   {
+    "slug": "原繁不貳",
+    "title": "原繁不貳",
+    "summary": "鄭厲公入而使原繁圖之，原繁以先君命其典宗祏，不以二心事君，是曰社稷之臣。",
+    "tags": [
+      "鄭事",
+      "臣道",
+      "原繁",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "原過受三神之令",
     "title": "原過受三神之令",
     "summary": "趙襄子奔保晉陽，原過遇三神人，授以竹簡，傳天帝之命，許以代有北方、伐滅知氏。",
@@ -38839,6 +39067,27 @@
         "title": "詩經 · 氓",
         "url": "https://zh.wikisource.org/wiki/詩經/氓",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "及瓜而代",
+    "title": "及瓜而代",
+    "summary": "臣受命戍守，當以瓜時爲期，及瓜而代，不可失信。",
+    "tags": [
+      "臣道",
+      "守信",
+      "齊事",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -45517,6 +45766,47 @@
     ]
   },
   {
+    "slug": "周公持滿",
+    "title": "周公持滿",
+    "summary": "周公辭五行之山，戒以德覆不以險守，故周室三十世不奪。",
+    "tags": [
+      "淮南子",
+      "周公",
+      "德治",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "周公攝政",
+    "title": "周公攝政",
+    "summary": "懼天下畔周，周公踐阼代成王攝行政當國。",
+    "tags": [
+      "周公",
+      "攝政",
+      "成王",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "魯周公世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魯周公世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魯周公世家",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "周公東征",
     "title": "周公東征",
     "summary": "周公帥師東伐，三年歸來，歸士美之而作是詩。",
@@ -47178,6 +47468,29 @@
         "title": "詩經 · 何彼襛矣",
         "url": "https://zh.wikisource.org/wiki/詩經/何彼襛矣",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "唐睢說秦王",
+    "title": "唐睢說秦王",
+    "summary": "秦救不發，是失一東藩而強二敵之齊楚。",
+    "tags": [
+      "唐睢",
+      "魏",
+      "秦",
+      "救兵",
+      "邦交",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
+        "work": "史記"
       }
     ]
   },
@@ -49523,6 +49836,28 @@
     ]
   },
   {
+    "slug": "器械各便其用",
+    "title": "器械各便其用",
+    "summary": "聖人創制器械，因時而便民用。",
+    "tags": [
+      "淮南子",
+      "器械",
+      "民本",
+      "因時",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "器濫以士予人",
     "title": "器濫以士予人",
     "summary": "器械不良，士卒徒然送命。",
@@ -50814,6 +51149,27 @@
         "title": "禮記 · 樂記",
         "url": "https://zh.wikisource.org/wiki/禮記/樂記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "四等之君",
+    "title": "四等之君",
+    "summary": "帝者體太一，王者法陰陽，霸者則四時，君者用六律；各有所宜，失其道則危。",
+    "tags": [
+      "政治哲學",
+      "治道",
+      "等級",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "本經訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 本經訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/本經訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -57107,6 +57463,27 @@
     ]
   },
   {
+    "slug": "大巧非工",
+    "title": "大巧非工",
+    "summary": "天地之巧，非工師所能及也。",
+    "tags": [
+      "工巧",
+      "自然",
+      "天道",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "泰族訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 泰族訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/泰族訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "大庖不盈",
     "title": "大庖不盈",
     "summary": "君庖充實而不匱乏，取之有節也。",
@@ -61919,6 +62296,27 @@
     ]
   },
   {
+    "slug": "夫人孫于齊",
+    "title": "夫人孫于齊",
+    "summary": "魯莊之母文姜以淫奔而出奔，父子之恩絶焉。",
+    "tags": [
+      "文姜",
+      "魯事",
+      "夫婦之禮",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "夫人有血氣心知之性",
     "title": "夫人有血氣心知之性",
     "summary": "人感物而心術形，音之邪正感人之善惡，君子賤邪聲。",
@@ -62721,6 +63119,28 @@
         "title": "史記 · 卷085",
         "url": "https://zh.wikisource.org/wiki/史記/卷085",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "奉公子小白出奔莒",
+    "title": "奉公子小白出奔莒",
+    "summary": "鮑叔知亂將作，奉公子小白奔莒以避之，後小白歸國，是爲桓公。",
+    "tags": [
+      "齊事",
+      "鮑叔",
+      "桓公",
+      "小白",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -64169,6 +64589,27 @@
     ]
   },
   {
+    "slug": "妖由人興",
+    "title": "妖由人興",
+    "summary": "妖孽之興，由人之失常；人棄常則妖作，故有妖。",
+    "tags": [
+      "天人",
+      "妖祥",
+      "治道",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "妾上僭夫人失位",
     "title": "妾上僭夫人失位",
     "summary": "嫡妾失序，詩人所以刺也。",
@@ -64432,6 +64873,27 @@
         "title": "禮記 · 少儀",
         "url": "https://zh.wikisource.org/wiki/禮記/少儀",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "姍淫抵諼",
+    "title": "姍淫抵諼",
+    "summary": "不知法治本源者，雖泥古而終亂。",
+    "tags": [
+      "淮南子",
+      "法治",
+      "古今",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -66708,6 +67170,27 @@
     ]
   },
   {
+    "slug": "子頹享五大夫",
+    "title": "子頹享五大夫",
+    "summary": "王子頹以叛得立，享五大夫，樂及遍舞，以樂致禍，不知憂悔。",
+    "tags": [
+      "周事",
+      "內亂",
+      "享樂",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "子駟弒釐公",
     "title": "子駟弒釐公",
     "summary": "子駟朝釐公不禮，使廚人藥殺之",
@@ -68280,6 +68763,26 @@
         "title": "國語 · 卷05",
         "url": "https://zh.wikisource.org/wiki/國語/卷05",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "季友奔莒",
+    "title": "季友奔莒",
+    "summary": "慶父作亂，季友奉湣公弟申奔邾，因魯人之請而立之。",
+    "tags": [
+      "季友",
+      "慶父",
+      "湣公",
+      "魯國"
+    ],
+    "sources": [
+      {
+        "chapter": "魯周公世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魯周公世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魯周公世家",
+        "work": "史記"
       }
     ]
   },
@@ -70423,6 +70926,27 @@
     ]
   },
   {
+    "slug": "宋師未陳而薄之",
+    "title": "宋師未陳而薄之",
+    "summary": "敵未成列而急擊之，兵法所謂「不卜而與之戰」也。",
+    "tags": [
+      "兵法",
+      "乘丘",
+      "宋事",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "宋昌勸迎",
     "title": "宋昌勸迎",
     "summary": "中尉宋昌陳天下之勢，勸代王無疑而即帝位。",
@@ -72446,6 +72970,28 @@
     ]
   },
   {
+    "slug": "富貴者驕人乎",
+    "title": "富貴者驕人乎",
+    "summary": "貧賤者宜傲，諸侯驕人則失國。",
+    "tags": [
+      "富貴",
+      "貧賤",
+      "驕傲",
+      "田子方",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "富辰諫伐狄",
     "title": "富辰諫伐狄及納狄女",
     "summary": "富辰以兄弟之誼、婚姻之階諫襄王，勿以狄伐鄭，勿納狄女為后，王弗聽，卒召敗亡之禍。",
@@ -72615,6 +73161,28 @@
         "title": "詩經 · 小星",
         "url": "https://zh.wikisource.org/wiki/詩經/小星",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "察人五法",
+    "title": "察人五法",
+    "summary": "觀人之法有五：親、富、達、窮、貧。",
+    "tags": [
+      "知人",
+      "任相",
+      "觀人",
+      "李克",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
+        "work": "史記"
       }
     ]
   },
@@ -74744,6 +75312,27 @@
     ]
   },
   {
+    "slug": "小大之辯",
+    "title": "小大之辯",
+    "summary": "物有小大，治有遠近，天之道也。",
+    "tags": [
+      "自然哲學",
+      "治道",
+      "天道",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "泰族訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 泰族訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/泰族訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "小子有造",
     "title": "小子有造",
     "summary": "後生小子皆可造就，言教化之功及於後輩，栽培人材無有止息。",
@@ -75033,6 +75622,27 @@
         "title": "周易 · 小過",
         "url": "https://zh.wikisource.org/wiki/周易/小過",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "小過不掩大美",
+    "title": "小過不掩大美",
+    "summary": "人有小過不可掩其大美，目有疵不妨其視。",
+    "tags": [
+      "淮南子",
+      "觀人",
+      "治道",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -76792,7 +77402,9 @@
     "tags": [
       "史事",
       "臣節",
-      "史官"
+      "史官",
+      "部:經",
+      "部:經/春秋類"
     ],
     "sources": [
       {
@@ -78738,6 +79350,26 @@
         "title": "韓非子 · 難一",
         "url": "https://zh.wikisource.org/wiki/韓非子/難一",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "師次",
+    "title": "師次",
+    "summary": "師行一宿爲舍，再宿爲信，過信爲次，各有差等。",
+    "tags": [
+      "軍旅",
+      "禮制",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -82000,6 +82632,27 @@
     ]
   },
   {
+    "slug": "彭生見大豕",
+    "title": "彭生見大豕",
+    "summary": "齊襄田於貝丘，見大豕從者以爲公子彭生，襄怒射之，豕人立而啼，懼而傷足，卒召亂亡身。",
+    "tags": [
+      "齊事",
+      "襄公",
+      "弒君",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "彭祖非死",
     "title": "彭祖非死",
     "summary": "彭祖年七八百，去時非死，乃逃；其弟子數人亦皆數百歲而在殷仙去。",
@@ -82234,6 +82887,27 @@
         "title": "公孫龍子 · 6",
         "url": "https://zh.wikisource.org/wiki/公孫龍子/6",
         "work": "公孫龍子"
+      }
+    ]
+  },
+  {
+    "slug": "彼竭我盈",
+    "title": "彼竭我盈",
+    "summary": "敵師三鼓而竭，我師乘其竭也一鼓而進，是以克敵。",
+    "tags": [
+      "兵法",
+      "勝敗",
+      "氣勢",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -83816,6 +84490,27 @@
         "title": "詩經 · 采蘋",
         "url": "https://zh.wikisource.org/wiki/詩經/采蘋",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "循物之自然",
+    "title": "循物之自然",
+    "summary": "物各有其自然，而後人事有治。",
+    "tags": [
+      "自然哲學",
+      "治道",
+      "因任",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "泰族訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 泰族訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/泰族訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -85612,7 +86307,9 @@
     "tags": [
       "政事",
       "治道",
-      "子產"
+      "子產",
+      "部:經",
+      "部:經/春秋類"
     ],
     "sources": [
       {
@@ -86697,6 +87394,27 @@
         "title": "史記 · 卷071",
         "url": "https://zh.wikisource.org/wiki/史記/卷071",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "息媯不言",
+    "title": "息媯不言",
+    "summary": "息媯歸楚，生堵敖及成王，未嘗言以其一婦人事二夫，終遂滅息。",
+    "tags": [
+      "息媯",
+      "楚事",
+      "淫亂",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -90434,6 +91152,29 @@
     ]
   },
   {
+    "slug": "抱薪救火",
+    "title": "抱薪救火",
+    "summary": "以地事秦，譬如抱薪救火，薪不盡，火不滅。",
+    "tags": [
+      "秦",
+      "魏",
+      "蘇代",
+      "縱橫",
+      "割地",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "抱衾與裯",
     "title": "抱衾與裯",
     "summary": "攜衾而行，喻微賤者夜事之勞。",
@@ -93156,6 +93897,27 @@
     ]
   },
   {
+    "slug": "敗某師",
+    "title": "敗某師",
+    "summary": "伐者有名例：敵未陳曰敗某師，皆陳曰戰，大崩曰敗績，得人雋曰克。",
+    "tags": [
+      "兵法",
+      "禮制",
+      "詞例",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "教之六廢",
     "title": "教之六廢",
     "summary": "教化所以廢敗者六，君子當戒之。",
@@ -94286,6 +95048,24 @@
         "title": "周易 · 革",
         "url": "https://zh.wikisource.org/wiki/周易/革",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "文武代為雌雄",
+    "title": "文武代為雌雄",
+    "summary": "文武更迭，視時而用；拘於一偏，不足以應世。",
+    "tags": [
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -97241,6 +98021,27 @@
         "title": "禮記 · 明堂位",
         "url": "https://zh.wikisource.org/wiki/禮記/明堂位",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "明堂之制",
+    "title": "明堂之制",
+    "summary": "古者明堂之制，下之潤濕弗能及，上之霧露弗能入，四方之風弗能襲，儉而不奢。",
+    "tags": [
+      "禮制",
+      "建築",
+      "明堂",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "本經訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 本經訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/本經訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -100616,6 +101417,27 @@
     ]
   },
   {
+    "slug": "曲沃伯以一軍為晉侯",
+    "title": "曲沃伯以一軍為晉侯",
+    "summary": "周王命曲沃伯以一軍爲晉侯，晉由是大國肇基。",
+    "tags": [
+      "晉事",
+      "周事",
+      "封賞",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "曲要磬折",
     "title": "曲要磬折",
     "summary": "孔子見漁父曲要磬折言拜而應，子路以為太敬，孔子以為禮賢之道。",
@@ -100872,6 +101694,27 @@
     ]
   },
   {
+    "slug": "曹沫反敗為功",
+    "title": "曹沫反敗為功",
+    "summary": "曹沫三戰不勝，卒劫齊侯而名立；小過不掩大功也。",
+    "tags": [
+      "淮南子",
+      "曹沫",
+      "功名",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "曹沬劫盟",
     "title": "曹沬劫盟",
     "summary": "曹沬以匕首劫盟誓，退而還地不失信",
@@ -101034,6 +101877,28 @@
         "title": "禮記 · 三年問",
         "url": "https://zh.wikisource.org/wiki/禮記/三年問",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "會於北杏",
+    "title": "會於北杏",
+    "summary": "齊桓始伯，會諸侯于北杏，以平宋亂，遂人不至。",
+    "tags": [
+      "會盟",
+      "齊事",
+      "宋事",
+      "霸政",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -102350,6 +103215,27 @@
     ]
   },
   {
+    "slug": "有道則存無道則亡",
+    "title": "有道則存，無道則亡",
+    "summary": "國之存亡，在乎有道與否，不在大與小。",
+    "tags": [
+      "淮南子",
+      "存亡",
+      "道",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "有那其居",
     "title": "有那其居",
     "summary": "居安而民樂，頌賢君之德",
@@ -103544,6 +104430,27 @@
         "title": "禮記 · 大學",
         "url": "https://zh.wikisource.org/wiki/禮記/大學",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "本枝百世",
+    "title": "本枝百世",
+    "summary": "立國當度本末而後定位居安，否則枝葉無依，國將危殆。",
+    "tags": [
+      "治國",
+      "本末",
+      "立君",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -106435,6 +107342,28 @@
     ]
   },
   {
+    "slug": "桓公自莒先入",
+    "title": "桓公自莒先入",
+    "summary": "公子糾與小白爭入，鮑叔馳魯師而告以大義，卒使小白先入而立，是爲桓公。",
+    "tags": [
+      "齊事",
+      "桓公",
+      "公子糾",
+      "鮑叔",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "桓公葬而後舉謚",
     "title": "桓公葬而後舉謚",
     "summary": "記桓公葬而後加謚，以明謚所以成德，於卒事乎加之。",
@@ -107851,6 +108780,28 @@
     ]
   },
   {
+    "slug": "楚武王荊尸",
+    "title": "楚武王荊尸",
+    "summary": "楚武王授師孑以伐隨，臨陣心蕩，乃知天命將終，遂卒於樅木之下。",
+    "tags": [
+      "楚事",
+      "武王",
+      "征伐",
+      "天命",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "楚狂接輿-之",
     "title": "楚狂接輿-之",
     "summary": "",
@@ -108067,6 +109018,27 @@
         "title": "抱朴子 · 卷49",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷49",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "樂之不同",
+    "title": "樂之不同",
+    "summary": "堯舜禹湯周各有其樂，因時而作。",
+    "tags": [
+      "淮南子",
+      "音樂",
+      "五帝三王",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -109016,6 +109988,27 @@
         "title": "春秋公羊傳 · 桓公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/桓公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "權者聖人之所獨見",
+    "title": "權者聖人之所獨見",
+    "summary": "聖人知權，屈伸應變，不膠於常；直躬之信，尾生之信，非聖人之所貴。",
+    "tags": [
+      "淮南子",
+      "權變",
+      "聖人",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -115569,6 +116562,27 @@
     ]
   },
   {
+    "slug": "法度論民俗",
+    "title": "法度論民俗",
+    "summary": "法度所以齊民俗、節緩急，非一概而論。",
+    "tags": [
+      "淮南子",
+      "法度",
+      "民俗",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "法後王",
     "title": "法後王",
     "summary": "論後王之法，近己俗變，議卑易行，勝於泥古。",
@@ -115782,6 +116796,27 @@
         "title": "史記 · 卷102",
         "url": "https://zh.wikisource.org/wiki/史記/卷102",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "法者治之具",
+    "title": "法者治之具",
+    "summary": "法者，治之具也，而非所以為治。",
+    "tags": [
+      "法治",
+      "治道",
+      "法家思想",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "泰族訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 泰族訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/泰族訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -116197,6 +117232,24 @@
         "title": "詩經 · 閟宮",
         "url": "https://zh.wikisource.org/wiki/詩經/閟宮",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "泰族訓",
+    "title": "泰族訓",
+    "summary": "",
+    "tags": [
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "泰族訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 泰族訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/泰族訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -128575,6 +129628,27 @@
     ]
   },
   {
+    "slug": "用臣有術",
+    "title": "用臣有術",
+    "summary": "君主用臣，當視其材；一偏則危，兼用則安。",
+    "tags": [
+      "淮南子",
+      "任賢",
+      "治術",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "用財嗇則費用力苦則勞",
     "title": "用財嗇則費，用力苦則勞",
     "summary": "過於吝嗇反而耗費，過於苦民反致疲勞。",
@@ -133637,6 +134711,8 @@
       "莊子",
       "真人",
       "大宗師",
+      "理想人格",
+      "養生",
       "部:子",
       "部:子/道家類"
     ],
@@ -133696,6 +134772,13 @@
         "title": "莊子 · 大宗師",
         "url": "https://zh.wikisource.org/wiki/莊子/大宗師",
         "work": "莊子"
+      },
+      {
+        "chapter": "本經訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 本經訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/本經訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -134335,6 +135418,29 @@
         "plugin": "wikisource",
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "知伯亡晉陽",
+    "title": "知伯亡晉陽",
+    "summary": "知伯恃彊伐趙，卒以亡身，韓魏反助趙以滅之。",
+    "tags": [
+      "知伯",
+      "魏",
+      "趙",
+      "晉陽",
+      "覆亡",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
         "work": "史記"
       }
     ]
@@ -136099,6 +137205,27 @@
         "title": "禮記 · 祭義",
         "url": "https://zh.wikisource.org/wiki/禮記/祭義",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "祭之不同",
+    "title": "祭之不同",
+    "summary": "夏商周三代祭祀之禮各有別。",
+    "tags": [
+      "淮南子",
+      "祭祀",
+      "三代",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -140888,6 +142015,27 @@
     ]
   },
   {
+    "slug": "管仲功大",
+    "title": "管仲功大",
+    "summary": "管仲輔糾不遂，不死其難，然九合諸侯一匡天下，功不可沒。",
+    "tags": [
+      "淮南子",
+      "管仲",
+      "功過",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "管仲卻齊侯下拜",
     "title": "管仲卻齊侯下拜",
     "summary": "齊侯受胙將下拜，管仲以天威咫尺正之。",
@@ -141404,6 +142552,27 @@
     ]
   },
   {
+    "slug": "築王姬之館于外",
+    "title": "築王姬之館于外",
+    "summary": "王姬歸魯主婚，當築館於外，別於內焉。",
+    "tags": [
+      "禮制",
+      "王姬",
+      "魯事",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "篝火狐鳴",
     "title": "篝火狐鳴",
     "summary": "吳廣夜於叢祠燃火作狐鳴，假天象以起眾之術也。",
@@ -141883,6 +143052,24 @@
     ]
   },
   {
+    "slug": "精誠與外貌",
+    "title": "精誠與外貌",
+    "summary": "聖人感化，內在精誠，與外貌為之，優劣懸絕。",
+    "tags": [
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "泰族訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 泰族訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/泰族訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "系于金柅",
     "title": "系于金柅",
     "summary": "初六爻辭，戒陰柔之物不可輕動，牽而止之乃吉。",
@@ -141958,6 +143145,27 @@
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "紀侯大去其國",
+    "title": "紀侯大去其國",
+    "summary": "紀侯知難而避，去其宗廟，以讓賢明，紀由是判焉。",
+    "tags": [
+      "紀事",
+      "紀侯",
+      "齊事",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -146688,6 +147896,27 @@
     ]
   },
   {
+    "slug": "聖人四見",
+    "title": "聖人四見",
+    "summary": "萇弘知天而不知人，蘇秦知權而不知福，徐偃知仁而不知時，大夫種知忠而不知謀。",
+    "tags": [
+      "淮南子",
+      "聖人",
+      "觀人",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
+      }
+    ]
+  },
+  {
     "slug": "聖人因天",
     "title": "聖人因天",
     "summary": "天因人而變，聖人因天而行，天人之際，相須而成也。",
@@ -146748,6 +147977,28 @@
         "title": "六韜",
         "url": "https://zh.wikisource.org/wiki/六韜",
         "work": "六韜"
+      }
+    ]
+  },
+  {
+    "slug": "聖人審時而動",
+    "title": "聖人審時而動",
+    "summary": "聖人能和陰陽、應時變，因資而立功，終身行之無所困。",
+    "tags": [
+      "淮南子",
+      "聖人",
+      "權變",
+      "因時",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -149742,6 +150993,28 @@
         "plugin": "wikisource",
         "title": "春秋左氏傳 · 成公",
         "url": "https://zh.wikisource.org/wiki/春秋左氏傳/成公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
+    "slug": "臧文仲論宋大水",
+    "title": "臧文仲論宋大水",
+    "summary": "宋遭水災遣使致吊，臧文仲稱其有禹湯罪己之心，故能興焉。",
+    "tags": [
+      "治國",
+      "臧文仲",
+      "宋事",
+      "災異",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
         "work": "春秋左氏傳"
       }
     ]
@@ -153627,6 +154900,28 @@
     ]
   },
   {
+    "slug": "荊敗蔡師於莘",
+    "title": "荊敗蔡師於莘",
+    "summary": "蔡侯止息媯而弗賓，息侯怨而間楚以伐蔡，蔡遂败，蔡侯見擄以歸。",
+    "tags": [
+      "蔡事",
+      "楚事",
+      "息媯",
+      "征伐",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "荊王弟在秦",
     "title": "荊王弟在秦",
     "summary": "以出荆王之弟為城壺丘之要，秦竟出之。",
@@ -155519,6 +156814,27 @@
         "title": "春秋穀梁傳 · 定公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/定公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "葬之不同",
+    "title": "葬之不同",
+    "summary": "夏商周三代葬禮各異，非一法也。",
+    "tags": [
+      "淮南子",
+      "葬禮",
+      "三代",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "氾論訓",
+        "plugin": "wikisource",
+        "title": "淮南子 · 氾論訓",
+        "url": "https://zh.wikisource.org/wiki/淮南子/氾論訓",
+        "work": "淮南子"
       }
     ]
   },
@@ -157532,6 +158848,29 @@
         "title": "詩經 · 卷阿",
         "url": "https://zh.wikisource.org/wiki/詩經/卷阿",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "蘇代說魏王",
+    "title": "蘇代說魏王",
+    "summary": "秦有虎狼之心，以地事秦，譬如抱薪救火。",
+    "tags": [
+      "蘇代",
+      "魏",
+      "秦",
+      "邦交",
+      "縱橫",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
+        "work": "史記"
       }
     ]
   },
@@ -166593,6 +167932,27 @@
     ]
   },
   {
+    "slug": "譚子奔莒",
+    "title": "譚子奔莒",
+    "summary": "譚國以不禮於出亡之齊侯，及齊師滅譚，譚子奔莒，同盟之義也。",
+    "tags": [
+      "譚事",
+      "齊事",
+      "會盟",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "議獄緩死",
     "title": "議獄緩死",
     "summary": "君子以誠恤刑，議其罪緩其罰，慎用殺也。",
@@ -170700,6 +172060,29 @@
         "title": "韓非子 · 外儲說左下",
         "url": "https://zh.wikisource.org/wiki/韓非子/外儲說左下",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "趙殺范痤",
+    "title": "趙殺范痤",
+    "summary": "魏以地殺賢臣，適足以資敵。",
+    "tags": [
+      "范痤",
+      "魏",
+      "趙",
+      "信陵君",
+      "賢才",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
+        "work": "史記"
       }
     ]
   },
@@ -174887,6 +176270,27 @@
     ]
   },
   {
+    "slug": "遂人殲于齊",
+    "title": "遂人殲于齊",
+    "summary": "遂人饗齊戍而醉殺之，齊人遂殲遂國，報怨之道也。",
+    "tags": [
+      "遂事",
+      "齊事",
+      "會盟",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "遂繼事-之",
     "title": "遂繼事-之",
     "summary": "",
@@ -177686,6 +179090,27 @@
     ]
   },
   {
+    "slug": "郳犁來",
+    "title": "郳犁來",
+    "summary": "小國未受王命而來朝，史氏書名以志之。",
+    "tags": [
+      "邦交",
+      "小國",
+      "禮制",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "郵無正諫尹鐸",
     "title": "郵無正諫趙簡子無殺尹鐸",
     "summary": "尹鐸增壘培乃修政之義，不可罰",
@@ -177878,6 +179303,49 @@
         "title": "韓非子 · 外儲說左上",
         "url": "https://zh.wikisource.org/wiki/韓非子/外儲說左上",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "鄭伯享王于闕西辟",
+    "title": "鄭伯享王于闕西辟",
+    "summary": "鄭伯助周定亂，享王于闕西辟，樂備，王賞以武公之略，而原伯以效尤致咎。",
+    "tags": [
+      "鄭事",
+      "周事",
+      "定難",
+      "賞罰",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
+    "slug": "鄭伯治與于雍糾之亂者",
+    "title": "鄭伯治與于雍糾之亂者",
+    "summary": "鄭厲公既入，追究往日之亂，殺公子閽，刖強鉏，罪不及共叔，君子以強鉏不能衛其足。",
+    "tags": [
+      "鄭事",
+      "治亂",
+      "賞罰",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
       }
     ]
   },
@@ -189130,6 +190598,52 @@
     ]
   },
   {
+    "slug": "馬陵之敗",
+    "title": "馬陵之敗",
+    "summary": "魏伐趙，齊孫臏敗魏師，龐涓死，太子申虜。",
+    "tags": [
+      "魏國",
+      "馬陵",
+      "孫臏",
+      "龐涓",
+      "兵敗",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
+        "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "馬陵敗魏",
+    "title": "馬陵敗魏",
+    "summary": "魏師大敗，太子申虜，龐涓死。",
+    "tags": [
+      "魏",
+      "齊",
+      "馬陵",
+      "孫臏",
+      "龐涓",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "馬鳴而馬應之",
     "title": "馬鳴而馬應之",
     "summary": "同類相應，非智所知，勢使之然。",
@@ -190060,6 +191574,27 @@
     ]
   },
   {
+    "slug": "鬻拳自刖",
+    "title": "鬻拳自刖",
+    "summary": "鬻拳強諫楚子，楚子弗從，臨之以兵，懼而自刖，君子以爲愛君。",
+    "tags": [
+      "楚事",
+      "諫諍",
+      "臣道",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
     "slug": "鬼神之明",
     "title": "鬼神之明",
     "summary": "鬼神無幽不明，其明必知之，無所遁隱。",
@@ -190364,6 +191899,30 @@
     ]
   },
   {
+    "slug": "魏成子",
+    "title": "魏成子",
+    "summary": "魏成子祿九在外，師友三者，終相位。",
+    "tags": [
+      "魏國",
+      "賢才",
+      "祿",
+      "卜子夏",
+      "田子方",
+      "段干木",
+      "部:史",
+      "部:史/正史類"
+    ],
+    "sources": [
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
+        "work": "史記"
+      }
+    ]
+  },
+  {
     "slug": "魏晉之際",
     "title": "魏晉之際",
     "summary": "",
@@ -190392,6 +191951,8 @@
       "和戎",
       "霸主",
       "邊政",
+      "晉悼公",
+      "邦交",
       "部:史",
       "部:史/別史類"
     ],
@@ -190402,6 +191963,13 @@
         "title": "國語 · 卷13",
         "url": "https://zh.wikisource.org/wiki/國語/卷13",
         "work": "國語"
+      },
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
+        "work": "史記"
       }
     ]
   },
@@ -190416,6 +191984,10 @@
       "司馬",
       "軍法",
       "賞罰",
+      "揚干",
+      "晉悼公",
+      "司馬法",
+      "法",
       "部:史",
       "部:史/別史類"
     ],
@@ -190426,6 +191998,13 @@
         "title": "國語 · 卷13",
         "url": "https://zh.wikisource.org/wiki/國語/卷13",
         "work": "國語"
+      },
+      {
+        "chapter": "魏世家",
+        "plugin": "wikisource",
+        "title": "史記 · 魏世家",
+        "url": "https://zh.wikisource.org/wiki/史記/魏世家",
+        "work": "史記"
       }
     ]
   },
@@ -193949,6 +195528,27 @@
         "title": "史記 · 卷047",
         "url": "https://zh.wikisource.org/wiki/史記/卷047",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "齊始霸",
+    "title": "齊始霸",
+    "summary": "齊桓修伯政，會諸侯于鄄，鄭間宋而侵，自此中國無寧歲。",
+    "tags": [
+      "霸政",
+      "齊事",
+      "會盟",
+      "部:經",
+      "部:經/春秋類"
+    ],
+    "sources": [
+      {
+        "chapter": "莊公",
+        "plugin": "wikisource",
+        "title": "春秋左氏傳 · 莊公",
+        "url": "https://zh.wikisource.org/wiki/春秋左氏傳/莊公",
+        "work": "春秋左氏傳"
       }
     ]
   },
