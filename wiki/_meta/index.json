@@ -2027,6 +2027,27 @@
     ]
   },
   {
+    "slug": "三丰祖師全集序",
+    "title": "三丰祖師全集序",
+    "summary": "汪錫齡序，言隱見之道，丹經詩文之由來。",
+    "tags": [
+      "張三丰",
+      "序",
+      "汪錫齡",
+      "仙道",
+      "隱見"
+    ],
+    "sources": [
+      {
+        "chapter": "卷1",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷1",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷1",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
     "slug": "三五不交",
     "title": "三五不交",
     "summary": "陰陽不合，神氣難凝",
@@ -2043,6 +2064,29 @@
         "plugin": "wikisource",
         "title": "周易參同契 · 26章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/26章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
+    "slug": "三五合一",
+    "title": "三五合一",
+    "summary": "木三火二土五，三物會合，共宗於戊己之土。",
+    "tags": [
+      "內丹",
+      "參同契",
+      "三五",
+      "木火土",
+      "合真",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "11章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 11章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/11章",
         "work": "周易參同契"
       }
     ]
@@ -3111,7 +3155,9 @@
     "tags": [
       "太平經",
       "天道",
-      "修身"
+      "修身",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -3130,7 +3176,9 @@
     "tags": [
       "太平經",
       "吉凶",
-      "天道"
+      "天道",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -3974,6 +4022,11 @@
       "武王",
       "非攻",
       "征伐",
+      "聖人",
+      "伏羲",
+      "文王",
+      "孔子",
+      "易學淵源",
       "部:子",
       "部:子/墨家類"
     ],
@@ -3984,6 +4037,13 @@
         "title": "墨子 · 非攻下",
         "url": "https://zh.wikisource.org/wiki/墨子/非攻下",
         "work": "墨子"
+      },
+      {
+        "chapter": "13章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 13章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/13章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -10218,6 +10278,25 @@
     ]
   },
   {
+    "slug": "世人好小術",
+    "title": "世人好小術",
+    "summary": "世人多好小術，不知正道之深淺，終歸無功",
+    "tags": [
+      "修仙",
+      "旁門",
+      "小術"
+    ],
+    "sources": [
+      {
+        "chapter": "23章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 23章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/23章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "世俗之君子",
     "title": "世俗之君子",
     "summary": "",
@@ -10614,6 +10693,39 @@
         "title": "莊子 · 則陽",
         "url": "https://zh.wikisource.org/wiki/莊子/則陽",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "丙午丁巳",
+    "title": "丙午丁巳",
+    "summary": "丙午丁巳，干支相配，以為化生之祖。",
+    "tags": [
+      "天干",
+      "地支",
+      "化生",
+      "祖始",
+      "部:子",
+      "部:子/道家類",
+      "陰陽",
+      "丙午",
+      "丁巳",
+      "火行"
+    ],
+    "sources": [
+      {
+        "chapter": "06",
+        "plugin": "wikisource",
+        "title": "太平經 · 06",
+        "url": "https://zh.wikisource.org/wiki/太平經/06",
+        "work": "太平經"
+      },
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
       }
     ]
   },
@@ -13062,6 +13174,25 @@
     ]
   },
   {
+    "slug": "九十字策傳方士",
+    "title": "九十字策傳方士",
+    "summary": "天書九十，以傳有道。",
+    "tags": [
+      "天書",
+      "方士",
+      "承傳"
+    ],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "九合諸侯一匡天下",
     "title": "九合諸侯一匡天下",
     "summary": "",
@@ -13605,6 +13736,27 @@
         "plugin": "wikisource",
         "title": "周易參同契 · 02章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/02章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
+    "slug": "乾坤剛柔",
+    "title": "乾坤剛柔",
+    "summary": "乾剛坤柔，相合相包，造化之始也。",
+    "tags": [
+      "丹道",
+      "陰陽",
+      "乾坤",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "16章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 16章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/16章",
         "work": "周易參同契"
       }
     ]
@@ -14493,7 +14645,9 @@
     "tags": [
       "太平經",
       "孝道",
-      "禮制"
+      "禮制",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -14711,6 +14865,28 @@
         "title": "史記 · 卷012",
         "url": "https://zh.wikisource.org/wiki/史記/卷012",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "二土全功",
+    "title": "二土全功",
+    "summary": "戊己二土相合，功成全備，為還丹之要。",
+    "tags": [
+      "內丹",
+      "參同契",
+      "戊己",
+      "二土",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "11章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 11章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/11章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -19020,6 +19196,28 @@
     ]
   },
   {
+    "slug": "人得見之壽長久",
+    "title": "人得見之壽長久",
+    "summary": "人若得道，可與天地同壽。",
+    "tags": [
+      "長生",
+      "壽考",
+      "道術",
+      "天地",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "06",
+        "plugin": "wikisource",
+        "title": "太平經 · 06",
+        "url": "https://zh.wikisource.org/wiki/太平經/06",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "人心惟危道心惟微",
     "title": "人心惟危，道心惟微，惟精惟一，允執厥中",
     "summary": "堯舜相傳之心法：人心易危，道心易微，惟精純專一，方可執中而不偏。",
@@ -20760,6 +20958,25 @@
     ]
   },
   {
+    "slug": "仙可待",
+    "title": "仙可待",
+    "summary": "天下聞真道，翕然往輔有德之君。",
+    "tags": [
+      "仙道",
+      "真道",
+      "輔君"
+    ],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "仙藥-之",
     "title": "仙藥-之",
     "summary": "",
@@ -21984,6 +22201,26 @@
         "title": "春秋穀梁傳 · 定公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/定公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "以天為師",
+    "title": "以天為師",
+    "summary": "道成德就，上與天合。",
+    "tags": [
+      "師道",
+      "天意",
+      "真人",
+      "天師"
+    ],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
       }
     ]
   },
@@ -25854,6 +26091,25 @@
     ]
   },
   {
+    "slug": "伏食法",
+    "title": "伏食法",
+    "summary": "伏食之法令簡而不繁，正道之要",
+    "tags": [
+      "修仙",
+      "丹道",
+      "正道"
+    ],
+    "sources": [
+      {
+        "chapter": "23章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 23章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/23章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "伐其條枚",
     "title": "伐其條枚",
     "summary": "伐木於堤，以喻婦之勤事其夫。",
@@ -27170,6 +27426,29 @@
     ]
   },
   {
+    "slug": "佇思為夫婦",
+    "title": "佇思為夫婦",
+    "summary": "以呼吸相含育，比夫婦之合，喻神氣交結以成丹。",
+    "tags": [
+      "內丹",
+      "參同契",
+      "神氣",
+      "夫婦",
+      "呼吸",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "11章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 11章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/11章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "佇立以泣",
     "title": "佇立以泣",
     "summary": "久久站立，無言而泣。",
@@ -28331,6 +28610,37 @@
         "title": "韓非子 · 有度",
         "url": "https://zh.wikisource.org/wiki/韓非子/有度",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "使人壽若西王母",
+    "title": "使人壽若西王母",
+    "summary": "壽若西王母者，道家仙真之至象也。",
+    "tags": [
+      "西王母",
+      "仙道",
+      "長生",
+      "不死",
+      "部:子",
+      "部:子/道家類",
+      "壽考",
+      "行道"
+    ],
+    "sources": [
+      {
+        "chapter": "06",
+        "plugin": "wikisource",
+        "title": "太平經 · 06",
+        "url": "https://zh.wikisource.org/wiki/太平經/06",
+        "work": "太平經"
+      },
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
       }
     ]
   },
@@ -31439,6 +31749,25 @@
         "title": "管子 · 第51篇小問",
         "url": "https://zh.wikisource.org/wiki/管子/第51篇小問",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "傍門無功",
+    "title": "傍門無功",
+    "summary": "小術非正道，竭力終年無功",
+    "tags": [
+      "旁門",
+      "修仙",
+      "正道"
+    ],
+    "sources": [
+      {
+        "chapter": "23章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 23章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/23章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -35901,6 +36230,28 @@
     ]
   },
   {
+    "slug": "八石正綱紀",
+    "title": "八石正綱紀",
+    "summary": "舉八石以明法度纲纪，喻還丹之事有節序可循。",
+    "tags": [
+      "內丹",
+      "參同契",
+      "還丹",
+      "火候",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "11章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 11章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/11章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "八神將",
     "title": "八神將",
     "summary": "記八神之名及其祠所：天主祠天齊，地主祠泰山梁父，兵主祠蚩尤，陰主祠三山，陽主祠之罘，月主祠萊山，日主祠成山，四時主祠瑯邪。",
@@ -37610,6 +37961,27 @@
         "title": "春秋左氏傳 · 隱公",
         "url": "https://zh.wikisource.org/wiki/春秋左氏傳/隱公",
         "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
+    "slug": "六十卦周",
+    "title": "六十卦周",
+    "summary": "六十卦周行循環，如車之載物，運陰陽之氣。",
+    "tags": [
+      "丹道",
+      "六十卦",
+      "循還",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "16章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 16章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/16章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -41493,6 +41865,27 @@
     ]
   },
   {
+    "slug": "刀圭最神",
+    "title": "刀圭最神",
+    "summary": "粉提一丸，刀圭量之，其效最神。",
+    "tags": [
+      "金丹",
+      "刀圭",
+      "服食",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "14章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 14章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/14章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "刀筆吏不可以為公卿",
     "title": "刀筆吏不可以為公卿",
     "summary": "刀筆之吏專務深文，不可任以公卿之位。",
@@ -42906,6 +43299,28 @@
     ]
   },
   {
+    "slug": "制作有所踵",
+    "title": "制作有所踵",
+    "summary": "聖人制作皆有承繼，因前人之跡而推度，分銖不差。",
+    "tags": [
+      "制作",
+      "聖人",
+      "承傳",
+      "度數",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "13章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 13章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/13章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "制分第五十五",
     "title": "制分",
     "summary": "名分既定，尊卑有序，賞罰有節，而天下治",
@@ -43401,6 +43816,10 @@
       "老子",
       "韓非子",
       "認識",
+      "認知",
+      "師承",
+      "覺悟",
+      "學而後知",
       "部:子",
       "部:子/法家類"
     ],
@@ -43411,6 +43830,13 @@
         "title": "韓非子 · 解老",
         "url": "https://zh.wikisource.org/wiki/韓非子/解老",
         "work": "韓非子"
+      },
+      {
+        "chapter": "13章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 13章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/13章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -47331,6 +47757,27 @@
     ]
   },
   {
+    "slug": "十二節",
+    "title": "十二節",
+    "summary": "周旋十二節，節盡更須親，氣索命絕，體死亡魄魂。",
+    "tags": [
+      "火候",
+      "煉丹",
+      "性命",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "14章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 14章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/14章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "十倫",
     "title": "十倫",
     "summary": "",
@@ -50540,6 +50987,26 @@
     ]
   },
   {
+    "slug": "參禮如來宣賜佛號並讚",
+    "title": "參禮如來宣賜佛號並讚",
+    "summary": "張三丰兼受佛號，稱邋遢靜光佛。",
+    "tags": [
+      "張三丰",
+      "佛道",
+      "三教",
+      "邋遢"
+    ],
+    "sources": [
+      {
+        "chapter": "卷1",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷1",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷1",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
     "slug": "參與昴",
     "title": "參與昴",
     "summary": "二星之名，以喻夜征者所見。",
@@ -52787,6 +53254,25 @@
     ]
   },
   {
+    "slug": "召信之符",
+    "title": "召信之符",
+    "summary": "效驗乃信之符，勿疑。",
+    "tags": [
+      "信驗",
+      "符契",
+      "效驗"
+    ],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "召公是似",
     "title": "召公是似",
     "summary": "稱美召虎能繼承其祖召公之德業。",
@@ -54347,6 +54833,27 @@
         "title": "孟子 · 離婁下",
         "url": "https://zh.wikisource.org/wiki/孟子/離婁下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "同類合體",
+    "title": "同類合體",
+    "summary": "物以類聚，異質相乖，修煉當順其自然之理。",
+    "tags": [
+      "丹道",
+      "同類",
+      "造化",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "12章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 12章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/12章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -62634,6 +63141,25 @@
     ]
   },
   {
+    "slug": "善師生善弟子",
+    "title": "善師生善弟子",
+    "summary": "良師出賢弟子，功德相承無盡",
+    "tags": [
+      "師道",
+      "教化",
+      "太平經"
+    ],
+    "sources": [
+      {
+        "chapter": "08",
+        "plugin": "wikisource",
+        "title": "太平經 · 08",
+        "url": "https://zh.wikisource.org/wiki/太平經/08",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "善建不拔",
     "title": "善建不拔",
     "summary": "善於建立者不可拔，善於抱持者不可脫，子孫祭祀不絕。",
@@ -63068,6 +63594,25 @@
         "title": "管子 · 第37篇心術下",
         "url": "https://zh.wikisource.org/wiki/管子/第37篇心術下",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "善治病者勿欺殆",
+    "title": "善治病者勿欺殆",
+    "summary": "真人以道治身，不自欺殆。",
+    "tags": [
+      "治身",
+      "真道",
+      "勿欺"
+    ],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
       }
     ]
   },
@@ -64341,6 +64886,26 @@
     ]
   },
   {
+    "slug": "嘔輪吐萌",
+    "title": "嘔輪吐萌",
+    "summary": "月輪右轉，光明吐露，陽炁萌生之象。",
+    "tags": [
+      "月",
+      "陽炁",
+      "天象",
+      "璇璣"
+    ],
+    "sources": [
+      {
+        "chapter": "18章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 18章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/18章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "嘖室之議",
     "title": "嘖室之議",
     "summary": "設公議之庭以待箴諫，廣開言路以防壅蔽。",
@@ -65123,6 +65688,28 @@
     ]
   },
   {
+    "slug": "四口治事",
+    "title": "四口治事萬物理",
+    "summary": "四口者，喻四方之治，以成萬物之理。",
+    "tags": [
+      "治道",
+      "四方",
+      "萬物",
+      "政理",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "06",
+        "plugin": "wikisource",
+        "title": "太平經 · 06",
+        "url": "https://zh.wikisource.org/wiki/太平經/06",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "四問而四不知",
     "title": "四問而四不知",
     "summary": "齧缺問於王倪，四問皆不知，是是非非無定也。",
@@ -65828,6 +66415,28 @@
     ]
   },
   {
+    "slug": "四時周反始",
+    "title": "四時周反始",
+    "summary": "四時迭運，終則返始，迭迭循之無已。",
+    "tags": [
+      "四時",
+      "陰陽",
+      "循還",
+      "天道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "06",
+        "plugin": "wikisource",
+        "title": "太平經 · 06",
+        "url": "https://zh.wikisource.org/wiki/太平經/06",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "四時如一",
     "title": "四時如一",
     "summary": "刑德不失，則四時如一，治道常通。",
@@ -66284,6 +66893,25 @@
     ]
   },
   {
+    "slug": "四窮",
+    "title": "四窮",
+    "summary": "人之生，有四困厄不可免",
+    "tags": [
+      "太平經",
+      "人生觀",
+      "教化"
+    ],
+    "sources": [
+      {
+        "chapter": "08",
+        "plugin": "wikisource",
+        "title": "太平經 · 08",
+        "url": "https://zh.wikisource.org/wiki/太平經/08",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "四端",
     "title": "四端",
     "summary": "惻隱、羞惡、辭讓、是非之心，乃仁義禮智之端，猶人之有四肢，擴充則可保四海。",
@@ -66455,6 +67083,27 @@
         "title": "尹文子 · 大道上",
         "url": "https://zh.wikisource.org/wiki/尹文子/大道上",
         "work": "尹文子"
+      }
+    ]
+  },
+  {
+    "slug": "四者混沌",
+    "title": "四者混沌",
+    "summary": "坎離乾坤四者混沌合一，徑入虛無之境。",
+    "tags": [
+      "丹道",
+      "混沌",
+      "虛無",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "16章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 16章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/16章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -68031,6 +68680,28 @@
     ]
   },
   {
+    "slug": "土遊四季",
+    "title": "土遊四季",
+    "summary": "土德恆存，遍行四時，为還丹之要功。",
+    "tags": [
+      "內丹",
+      "參同契",
+      "土德",
+      "四季",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "11章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 11章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/11章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "在中饋",
     "title": "在中饋",
     "summary": "主中饋者，柔順持家，無私遂己意，守正以吉。",
@@ -68551,6 +69222,26 @@
     ]
   },
   {
+    "slug": "地道與天道",
+    "title": "地道與天道",
+    "summary": "地為天使，人為地使，上下相承",
+    "tags": [
+      "太平經",
+      "天道",
+      "地道",
+      "政治哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "08",
+        "plugin": "wikisource",
+        "title": "太平經 · 08",
+        "url": "https://zh.wikisource.org/wiki/太平經/08",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "地道迎穴",
     "title": "地道迎穴",
     "summary": "敵為穴以入，我亟遣穴師迎而穴之，內弩以待。",
@@ -68708,6 +69399,25 @@
     ]
   },
   {
+    "slug": "坎為紀",
+    "title": "坎為紀",
+    "summary": "天開於甲子，坎為綱紀。",
+    "tags": [
+      "坎",
+      "甲子",
+      "紀綱"
+    ],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "坎離",
     "title": "坎離匡廓",
     "summary": "運轂正軸，坎離如輪軸以運易道。",
@@ -68756,6 +69466,27 @@
         "title": "悟真篇",
         "url": "https://zh.wikisource.org/wiki/悟真篇",
         "work": "悟真篇"
+      }
+    ]
+  },
+  {
+    "slug": "坎離冠首",
+    "title": "坎離冠首",
+    "summary": "坎離居卦象之首，光明敷布，為修煉之樞要。",
+    "tags": [
+      "丹道",
+      "坎離",
+      "火候",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "16章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 16章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/16章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -74948,6 +75679,25 @@
     ]
   },
   {
+    "slug": "大洞極天之政事",
+    "title": "大洞極天之政事",
+    "summary": "拘校大全而成之經，治最無上",
+    "tags": [
+      "太平經",
+      "治道",
+      "經書"
+    ],
+    "sources": [
+      {
+        "chapter": "09",
+        "plugin": "wikisource",
+        "title": "太平經 · 09",
+        "url": "https://zh.wikisource.org/wiki/太平經/09",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "大清明",
     "title": "大清明",
     "summary": "虛壹而靜，萬物莫不見，莫不論，得其正。",
@@ -78411,6 +79161,13 @@
         "title": "淮南子 · 天文訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/天文訓",
         "work": "淮南子"
+      },
+      {
+        "chapter": "09",
+        "plugin": "wikisource",
+        "title": "太平經 · 09",
+        "url": "https://zh.wikisource.org/wiki/太平經/09",
+        "work": "太平經"
       }
     ]
   },
@@ -79549,6 +80306,25 @@
         "plugin": "wikisource",
         "title": "太平經 · 01",
         "url": "https://zh.wikisource.org/wiki/太平經/01",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
+    "slug": "天道生物當周流俱具",
+    "title": "天道生物當周流俱具",
+    "summary": "萬物生成，天地四時五行周流不缺",
+    "tags": [
+      "天道",
+      "宇宙論",
+      "太平經"
+    ],
+    "sources": [
+      {
+        "chapter": "08",
+        "plugin": "wikisource",
+        "title": "太平經 · 08",
+        "url": "https://zh.wikisource.org/wiki/太平經/08",
         "work": "太平經"
       }
     ]
@@ -83958,6 +84734,26 @@
     ]
   },
   {
+    "slug": "始文終武",
+    "title": "始文終武",
+    "summary": "煉丹之功，初始以文火溫養，終竟以武火結丹。",
+    "tags": [
+      "煉丹火候",
+      "文武",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "14章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 14章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/14章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "始於憂勤終於逸樂",
     "title": "始於憂勤，終於逸樂",
     "summary": "聖人之政，艱難而逸豫。",
@@ -87816,7 +88612,10 @@
       "說理",
       "參悟",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "天書",
+      "誦讀",
+      "守一"
     ],
     "sources": [
       {
@@ -87825,6 +88624,13 @@
         "title": "周易參同契 · 31章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/31章",
         "work": "周易參同契"
+      },
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
       }
     ]
   },
@@ -90617,6 +91423,28 @@
     ]
   },
   {
+    "slug": "守一明天",
+    "title": "守一明天",
+    "summary": "一者天之紀綱，守一則天將憐之，此解承負之要道也。",
+    "tags": [
+      "太平經",
+      "守一",
+      "承負",
+      "修道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "05",
+        "plugin": "wikisource",
+        "title": "太平經 · 05",
+        "url": "https://zh.wikisource.org/wiki/太平經/05",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "守一明法",
     "title": "守一明法",
     "summary": "守護真一，內明外光，乃長壽之根",
@@ -90666,7 +91494,9 @@
     "tags": [
       "太平經",
       "修身",
-      "陰陽"
+      "陰陽",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -98830,6 +99660,28 @@
     ]
   },
   {
+    "slug": "居天地間活而已",
+    "title": "居天地間活而已",
+    "summary": "居天地之間者，不執不死，唯活而已。",
+    "tags": [
+      "生死",
+      "天地",
+      "處世",
+      "玄道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "06",
+        "plugin": "wikisource",
+        "title": "太平經 · 06",
+        "url": "https://zh.wikisource.org/wiki/太平經/06",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "居室以利為嫌",
     "title": "居室以利為嫌",
     "summary": "居官者當守其署次之制，不可以君命之「寬利」而辱使命。",
@@ -101930,6 +102782,27 @@
     ]
   },
   {
+    "slug": "帝王承御",
+    "title": "帝王承御",
+    "summary": "帝王承天之道以御四海者，千載常存。",
+    "tags": [
+      "帝王",
+      "承御",
+      "長存",
+      "治道",
+      "周易參同契"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 19章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/19章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "帝王殊禮異務成功為紀",
     "title": "帝王殊禮異務成功為紀",
     "summary": "帝王各殊其禮、異其務，要以成功為統紀，不可緷緷拘執。",
@@ -102454,6 +103327,25 @@
         "title": "詩經 · 采芑",
         "url": "https://zh.wikisource.org/wiki/詩經/采芑",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "師弟子功大重",
+    "title": "師弟子功大重",
+    "summary": "師弟之恩，重於父母生子之恩",
+    "tags": [
+      "師道",
+      "太平經",
+      "教化"
+    ],
+    "sources": [
+      {
+        "chapter": "08",
+        "plugin": "wikisource",
+        "title": "太平經 · 08",
+        "url": "https://zh.wikisource.org/wiki/太平經/08",
+        "work": "太平經"
       }
     ]
   },
@@ -105945,6 +106837,174 @@
     ]
   },
   {
+    "slug": "張三丰像贊",
+    "title": "張三丰像贊",
+    "summary": "四首像贊，詠三丰之神姿與仙蹟。",
+    "tags": [
+      "張三丰",
+      "像贊",
+      "詩贊",
+      "仙人"
+    ],
+    "sources": [
+      {
+        "chapter": "卷1",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷1",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷1",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
+    "slug": "張三丰全集凡例",
+    "title": "張三丰全集凡例",
+    "summary": "凡例十二則，述全書編集之意、取材去取之旨。",
+    "tags": [
+      "張三丰",
+      "凡例",
+      "文獻",
+      "編纂"
+    ],
+    "sources": [
+      {
+        "chapter": "卷1",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷1",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷1",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
+    "slug": "張三丰全集序-李迦秀",
+    "title": "張三丰全集序（李迦秀）",
+    "summary": "李迦秀序，謂三丰書當與呂祖全書相伯仲，不可聽其散佚。",
+    "tags": [
+      "張三丰",
+      "序",
+      "李迦秀",
+      "呂祖",
+      "全書"
+    ],
+    "sources": [
+      {
+        "chapter": "卷1",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷1",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷1",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
+    "slug": "張三丰全集序-涵虛生",
+    "title": "張三丰全集序（涵虛生）",
+    "summary": "涵虛生序，論仙道即養生，述三丰隱世度世之節。",
+    "tags": [
+      "張三丰",
+      "序",
+      "涵虛生",
+      "仙道",
+      "養生"
+    ],
+    "sources": [
+      {
+        "chapter": "卷1",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷1",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷1",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
+    "slug": "張三丰全集序-董承熙",
+    "title": "張三丰全集序（董承熙）",
+    "summary": "董承熙序，言三丰能紹希夷之風，與呂祖全書相伯仲。",
+    "tags": [
+      "張三丰",
+      "序",
+      "董承熙",
+      "呂祖",
+      "陳摶"
+    ],
+    "sources": [
+      {
+        "chapter": "卷1",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷1",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷1",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
+    "slug": "張三丰全集總目",
+    "title": "張三丰全集總目",
+    "summary": "全書八卷分目，序、傳、大道、詩文、丹經各有歸屬。",
+    "tags": [
+      "張三丰",
+      "書目",
+      "全集",
+      "文獻"
+    ],
+    "sources": [
+      {
+        "chapter": "卷1",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷1",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷1",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
+    "slug": "張三丰寶誥",
+    "title": "張三丰寶誥",
+    "summary": "道士奉誦張三丰之寶誥，分五篇，極稱其功德。",
+    "tags": [
+      "張三丰",
+      "寶誥",
+      "道教",
+      "誦經",
+      "武當",
+      "仙人",
+      "隱道",
+      "元末明初"
+    ],
+    "sources": [
+      {
+        "chapter": "卷1",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷1",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷1",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
+    "slug": "張三丰本傳",
+    "title": "張三丰本傳",
+    "summary": "汪錫齡所述三丰生平，敘其家世、師承、隱顯事跡。",
+    "tags": [
+      "張三丰",
+      "傳記",
+      "汪錫齡",
+      "武當",
+      "仙道"
+    ],
+    "sources": [
+      {
+        "chapter": "卷1",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷1",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷1",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
     "slug": "張仲孝友",
     "title": "張仲孝友",
     "summary": "張仲以孝友稱，與吉甫同燕。",
@@ -106204,6 +107264,26 @@
         "title": "史記 · 卷096",
         "url": "https://zh.wikisource.org/wiki/史記/卷096",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "張邋遢",
+    "title": "張邋遢",
+    "summary": "張三丰別號，狀其不修邊幅之貌。",
+    "tags": [
+      "張三丰",
+      "別號",
+      "仙人",
+      "形象"
+    ],
+    "sources": [
+      {
+        "chapter": "卷1",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷1",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷1",
+        "work": "張三丰先生全集"
       }
     ]
   },
@@ -107047,6 +108127,26 @@
         "title": "呂氏春秋 · 卷五",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷五",
         "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "形體灰土",
+    "title": "形體灰土",
+    "summary": "歲月既盡，形體毀傷，化為灰土，狀若明窗塵。",
+    "tags": [
+      "煉丹變化",
+      "歸真",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "14章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 14章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/14章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -110232,6 +111332,25 @@
         "title": "周易 · 小畜",
         "url": "https://zh.wikisource.org/wiki/周易/小畜",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "德經",
+    "title": "德經",
+    "summary": "大德之善言，治世之輔也",
+    "tags": [
+      "太平經",
+      "文獻",
+      "德行"
+    ],
+    "sources": [
+      {
+        "chapter": "09",
+        "plugin": "wikisource",
+        "title": "太平經 · 09",
+        "url": "https://zh.wikisource.org/wiki/太平經/09",
+        "work": "太平經"
       }
     ]
   },
@@ -118560,6 +119679,73 @@
         "title": "太平經 · 02",
         "url": "https://zh.wikisource.org/wiki/太平經/02",
         "work": "太平經"
+      },
+      {
+        "chapter": "05",
+        "plugin": "wikisource",
+        "title": "太平經 · 05",
+        "url": "https://zh.wikisource.org/wiki/太平經/05",
+        "work": "太平經"
+      },
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
+      },
+      {
+        "chapter": "08",
+        "plugin": "wikisource",
+        "title": "太平經 · 08",
+        "url": "https://zh.wikisource.org/wiki/太平經/08",
+        "work": "太平經"
+      },
+      {
+        "chapter": "09",
+        "plugin": "wikisource",
+        "title": "太平經 · 09",
+        "url": "https://zh.wikisource.org/wiki/太平經/09",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
+    "slug": "承負之厄",
+    "title": "承負之厄",
+    "summary": "先人失道，殃及後嗣。",
+    "tags": [
+      "承負",
+      "災厄",
+      "殃咎"
+    ],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
+    "slug": "承負之責",
+    "title": "承負之責",
+    "summary": "人生有承負，死後魂神受考",
+    "tags": [
+      "承負",
+      "魂魄",
+      "太平經",
+      "報應"
+    ],
+    "sources": [
+      {
+        "chapter": "08",
+        "plugin": "wikisource",
+        "title": "太平經 · 08",
+        "url": "https://zh.wikisource.org/wiki/太平經/08",
+        "work": "太平經"
       }
     ]
   },
@@ -119199,6 +120385,25 @@
         "title": "周易 · 否",
         "url": "https://zh.wikisource.org/wiki/周易/否",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "拘校",
+    "title": "拘校",
+    "summary": "會合古今之文而去其復重也",
+    "tags": [
+      "太平經",
+      "校勘",
+      "文獻學"
+    ],
+    "sources": [
+      {
+        "chapter": "09",
+        "plugin": "wikisource",
+        "title": "太平經 · 09",
+        "url": "https://zh.wikisource.org/wiki/太平經/09",
+        "work": "太平經"
       }
     ]
   },
@@ -120647,6 +121852,26 @@
     ]
   },
   {
+    "slug": "推情合性",
+    "title": "推情合性",
+    "summary": "推萬物之情，合萬物之性，歸於一也。",
+    "tags": [
+      "性情",
+      "修煉",
+      "合道",
+      "造化"
+    ],
+    "sources": [
+      {
+        "chapter": "18章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 18章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/18章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "推消息",
     "title": "推消息",
     "summary": "推究增減盈虛之理，以明天地之常道。",
@@ -121836,6 +123061,29 @@
     ]
   },
   {
+    "slug": "改形免世厄",
+    "title": "改形免世厄",
+    "summary": "改形變化，脫離世網之厄，是為真人之驗。",
+    "tags": [
+      "內丹",
+      "參同契",
+      "真人",
+      "變化",
+      "免厄",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "11章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 11章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/11章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "改為",
     "title": "改為",
     "summary": "更造以新之。言衣敝而更作之。",
@@ -122249,6 +123497,26 @@
         "title": "楚辭 · 招䰟",
         "url": "https://zh.wikisource.org/wiki/楚辭/招䰟",
         "work": "楚辭"
+      }
+    ]
+  },
+  {
+    "slug": "故無常位",
+    "title": "故無常位",
+    "summary": "天地之易，無有常位，迭運迭化，宗祖之義也。",
+    "tags": [
+      "易",
+      "宗祖",
+      "無常位",
+      "迭運"
+    ],
+    "sources": [
+      {
+        "chapter": "18章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 18章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/18章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -127988,6 +129256,27 @@
     ]
   },
   {
+    "slug": "明天順皇帝",
+    "title": "明天順皇帝",
+    "summary": "明天順皇帝，封張三丰為通微顯化真人。",
+    "tags": [
+      "明朝",
+      "皇帝",
+      "張三丰",
+      "誥命",
+      "天順"
+    ],
+    "sources": [
+      {
+        "chapter": "卷1",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷1",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷1",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
     "slug": "明夷",
     "title": "明夷",
     "summary": "離下坤上，光入地中，君子用晦而明之卦。",
@@ -131926,6 +133215,47 @@
         "title": "周易 · 明夷",
         "url": "https://zh.wikisource.org/wiki/周易/明夷",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "晦朔合符",
+    "title": "晦朔合符",
+    "summary": "陰陽交會於晦朔，符契相合，乃丹道之樞機。",
+    "tags": [
+      "丹道",
+      "晦朔",
+      "陰陽",
+      "合符"
+    ],
+    "sources": [
+      {
+        "chapter": "18章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 18章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/18章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
+    "slug": "晦朔合符章第十八",
+    "title": "晦朔合符章第十八",
+    "summary": "此章明晦朔之際，陰陽合符，璇璣迭運，無常位而為易宗祖。",
+    "tags": [
+      "周易參同契",
+      "丹道",
+      "晦朔",
+      "璇璣",
+      "宗祖"
+    ],
+    "sources": [
+      {
+        "chapter": "18章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 18章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/18章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -140852,6 +142182,27 @@
     ]
   },
   {
+    "slug": "植禾用穀",
+    "title": "植禾用穀",
+    "summary": "種植當用同類之種，喻修煉必以同氣之物相合。",
+    "tags": [
+      "丹道",
+      "類比",
+      "自然",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "12章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 12章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/12章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "椒聊",
     "title": "椒聊",
     "summary": "以椒實蕃衍喻子孫昌盛。",
@@ -141930,6 +143281,25 @@
     ]
   },
   {
+    "slug": "樂乎長安市",
+    "title": "樂乎長安市",
+    "summary": "道行則民大興，長安無憂。",
+    "tags": [
+      "長安",
+      "樂道",
+      "民治"
+    ],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "樂亡乎富貴",
     "title": "樂亡乎富貴",
     "summary": "樂不在富貴，在於德和。",
@@ -142142,6 +143512,25 @@
         "title": "韓非子 · 說林下",
         "url": "https://zh.wikisource.org/wiki/韓非子/說林下",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "樂生得好",
+    "title": "樂生得好",
+    "summary": "治道以樂生為本",
+    "tags": [
+      "治道",
+      "太平經",
+      "樂生"
+    ],
+    "sources": [
+      {
+        "chapter": "08",
+        "plugin": "wikisource",
+        "title": "太平經 · 08",
+        "url": "https://zh.wikisource.org/wiki/太平經/08",
+        "work": "太平經"
       }
     ]
   },
@@ -148994,6 +150383,10 @@
       "魂魄",
       "精氣神",
       "道家",
+      "道教",
+      "內丹",
+      "易學",
+      "坎離",
       "部:子",
       "部:子/道家類"
     ],
@@ -149004,6 +150397,13 @@
         "title": "關尹子 · 2",
         "url": "https://zh.wikisource.org/wiki/關尹子/2",
         "work": "關尹子"
+      },
+      {
+        "chapter": "15章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 15章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/15章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -151000,6 +152400,13 @@
         "title": "周易參同契 · 04章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/04章",
         "work": "周易參同契"
+      },
+      {
+        "chapter": "09",
+        "plugin": "wikisource",
+        "title": "太平經 · 09",
+        "url": "https://zh.wikisource.org/wiki/太平經/09",
+        "work": "太平經"
       }
     ]
   },
@@ -153154,6 +154561,21 @@
     ]
   },
   {
+    "slug": "洛書",
+    "title": "洛書",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "09",
+        "plugin": "wikisource",
+        "title": "太平經 · 09",
+        "url": "https://zh.wikisource.org/wiki/太平經/09",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "洪少孤",
     "title": "洪少孤",
     "summary": "抱朴子自述年十三失父，躬耕讀書，卒遭兵火，先人典籍蕩盡。",
@@ -153605,6 +155027,46 @@
     ]
   },
   {
+    "slug": "浮華之弊",
+    "title": "浮華之弊",
+    "summary": "浮華記誦，離道日遠，此末世學人之通病也。",
+    "tags": [
+      "太平經",
+      "浮華",
+      "末學",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "05",
+        "plugin": "wikisource",
+        "title": "太平經 · 05",
+        "url": "https://zh.wikisource.org/wiki/太平經/05",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
+    "slug": "浮華之文",
+    "title": "浮華之文",
+    "summary": "浮華無實，不足以久活人。",
+    "tags": [
+      "浮華",
+      "浮辭",
+      "誠實"
+    ],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "浮華記",
     "title": "浮華記",
     "summary": "離本已遠，錯亂不可常用",
@@ -153836,6 +155298,26 @@
         "title": "管子 · 第26篇戒",
         "url": "https://zh.wikisource.org/wiki/管子/第26篇戒",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "消息相因",
+    "title": "消息相因",
+    "summary": "消息者，盈虛迭運，迭相因仍，終而復始。",
+    "tags": [
+      "消息",
+      "盈虛",
+      "循環",
+      "周易參同契"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 19章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/19章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -154892,6 +156374,26 @@
         "plugin": "wikisource",
         "title": "周易參同契 · 03章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/03章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
+    "slug": "混沌鴻蒙",
+    "title": "混沌鴻蒙",
+    "summary": "天地未形之時，陰陽未分，狀若雞子，是為混沌。",
+    "tags": [
+      "太初",
+      "混沌",
+      "鴻蒙",
+      "天地"
+    ],
+    "sources": [
+      {
+        "chapter": "18章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 18章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/18章",
         "work": "周易參同契"
       }
     ]
@@ -157587,6 +159089,32 @@
         "title": "周易 · 乾",
         "url": "https://zh.wikisource.org/wiki/周易/乾",
         "work": "周易"
+      },
+      {
+        "chapter": "06",
+        "plugin": "wikisource",
+        "title": "太平經 · 06",
+        "url": "https://zh.wikisource.org/wiki/太平經/06",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
+    "slug": "潛龍勿用坎為紀",
+    "title": "潛龍勿用坎為紀",
+    "summary": "潛龍藏氣，坎為紀綱。",
+    "tags": [
+      "潛龍",
+      "坎",
+      "甲子"
+    ],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
       }
     ]
   },
@@ -158217,6 +159745,13 @@
         "title": "悟真篇",
         "url": "https://zh.wikisource.org/wiki/悟真篇",
         "work": "悟真篇"
+      },
+      {
+        "chapter": "13章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 13章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/13章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -158435,6 +159970,28 @@
         "plugin": "wikisource",
         "title": "周易參同契 · 09章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/09章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
+    "slug": "火記",
+    "title": "火記",
+    "summary": "古之火候法度，六百篇之廣，幽明共居，世人弗思。",
+    "tags": [
+      "火候",
+      "丹法",
+      "陶冶",
+      "古籍",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "13章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 13章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/13章",
         "work": "周易參同契"
       }
     ]
@@ -159266,6 +160823,26 @@
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "為易宗祖",
+    "title": "為易宗祖",
+    "summary": "此道為《易》之根本，萬化之祖。",
+    "tags": [
+      "易",
+      "宗祖",
+      "大道",
+      "造化"
+    ],
+    "sources": [
+      {
+        "chapter": "18章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 18章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/18章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -161152,6 +162729,27 @@
         "title": "詩經 · 清廟",
         "url": "https://zh.wikisource.org/wiki/詩經/清廟",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "無平不陂",
+    "title": "無平不陂",
+    "summary": "天道之平，陂險迭至，終則有始，如環無端。",
+    "tags": [
+      "平陂",
+      "無平不陂",
+      "自然",
+      "循環",
+      "周易參同契"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 19章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/19章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -164444,6 +166042,26 @@
     ]
   },
   {
+    "slug": "牝牡相從",
+    "title": "牝牡相從",
+    "summary": "陰陽相配，雌雄相合，萬化之根也。",
+    "tags": [
+      "陰陽",
+      "牝牡",
+      "配合",
+      "丹道"
+    ],
+    "sources": [
+      {
+        "chapter": "18章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 18章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/18章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "牝雞之晨惟家之索",
     "title": "牝雞之晨惟家之索",
     "summary": "婦言是用則家道敗壞。",
@@ -166077,6 +167695,27 @@
         "title": "詩經 · 六月",
         "url": "https://zh.wikisource.org/wiki/詩經/六月",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "玄冥難測",
+    "title": "玄冥難測",
+    "summary": "玄冥幽深難測，不可畫圖，求之於心悟。",
+    "tags": [
+      "丹道",
+      "玄冥",
+      "悟道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "16章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 16章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/16章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -167918,6 +169557,26 @@
         "title": "史記 · 卷052",
         "url": "https://zh.wikisource.org/wiki/史記/卷052",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "璇璣",
+    "title": "璇璣",
+    "summary": "天之樞軸，運轉不息，陰陽闔闢之機也。",
+    "tags": [
+      "天象",
+      "璇璣",
+      "陰陽",
+      "循環"
+    ],
+    "sources": [
+      {
+        "chapter": "18章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 18章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/18章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -175523,6 +177182,20 @@
         "title": "周易參同契 · 07章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/07章",
         "work": "周易參同契"
+      },
+      {
+        "chapter": "11章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 11章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/11章",
+        "work": "周易參同契"
+      },
+      {
+        "chapter": "09",
+        "plugin": "wikisource",
+        "title": "太平經 · 09",
+        "url": "https://zh.wikisource.org/wiki/太平經/09",
+        "work": "太平經"
       }
     ]
   },
@@ -175562,6 +177235,25 @@
         "title": "文子 · 卷七",
         "url": "https://zh.wikisource.org/wiki/文子/卷七",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "真券",
+    "title": "真券",
+    "summary": "以事試驗，觀其所成。",
+    "tags": [
+      "試驗",
+      "真理",
+      "信效"
+    ],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
       }
     ]
   },
@@ -178514,7 +180206,8 @@
       "文獻",
       "三等書",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "治道"
     ],
     "sources": [
       {
@@ -178522,6 +180215,13 @@
         "plugin": "wikisource",
         "title": "太平經 · 01",
         "url": "https://zh.wikisource.org/wiki/太平經/01",
+        "work": "太平經"
+      },
+      {
+        "chapter": "09",
+        "plugin": "wikisource",
+        "title": "太平經 · 09",
+        "url": "https://zh.wikisource.org/wiki/太平經/09",
         "work": "太平經"
       }
     ]
@@ -182545,6 +184245,27 @@
         "plugin": "wikisource",
         "title": "太平經 · 01",
         "url": "https://zh.wikisource.org/wiki/太平經/01",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
+    "slug": "種禾得禾",
+    "title": "種禾得禾",
+    "summary": "天地之於人，感應不爽，猶種則種、獲則獲也。",
+    "tags": [
+      "太平經",
+      "天道",
+      "感應",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "05",
+        "plugin": "wikisource",
+        "title": "太平經 · 05",
+        "url": "https://zh.wikisource.org/wiki/太平經/05",
         "work": "太平經"
       }
     ]
@@ -187356,6 +189077,27 @@
     ]
   },
   {
+    "slug": "紫丹還成",
+    "title": "紫丹還成",
+    "summary": "色轉為紫，赫然還成丹，丹成而神靈。",
+    "tags": [
+      "還丹",
+      "金丹",
+      "丹成",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "14章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 14章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/14章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "紫宮",
     "title": "紫宮",
     "summary": "天帝所居，與人君宮禁相應，藩臣環衞如拱辰。",
@@ -188651,6 +190393,21 @@
         "title": "詩經 · 采綠",
         "url": "https://zh.wikisource.org/wiki/詩經/采綠",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "綱紀",
+    "title": "綱紀",
+    "summary": "天合地合於玄甲，治之綱紀。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
       }
     ]
   },
@@ -191776,6 +193533,27 @@
     ]
   },
   {
+    "slug": "耗火亡資財",
+    "title": "耗火亡資財",
+    "summary": "不明真諦而妄修，徒耗資力終無所成。",
+    "tags": [
+      "丹道",
+      "妄作",
+      "損耗",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "12章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 12章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/12章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "耜耒耨",
     "title": "耜耒耨",
     "summary": "耒耜皆耕具，耨以除草，互言而備春事。",
@@ -194001,6 +195779,25 @@
     ]
   },
   {
+    "slug": "聖經",
+    "title": "聖經",
+    "summary": "聖人之善辭決事，治之樞機也",
+    "tags": [
+      "太平經",
+      "文獻",
+      "聖人"
+    ],
+    "sources": [
+      {
+        "chapter": "09",
+        "plugin": "wikisource",
+        "title": "太平經 · 09",
+        "url": "https://zh.wikisource.org/wiki/太平經/09",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "聖胎凝結",
     "title": "聖胎凝結",
     "summary": "十月溫養，凝結聖胎，乃脫胎神化之基。",
@@ -195940,6 +197737,27 @@
         "title": "春秋左氏傳 · 成公",
         "url": "https://zh.wikisource.org/wiki/春秋左氏傳/成公",
         "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
+    "slug": "背道守迷",
+    "title": "背道守迷",
+    "summary": "離正道而行歧途，終不能有所得。",
+    "tags": [
+      "丹道",
+      "歧途",
+      "正道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "12章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 12章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/12章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -198027,6 +199845,27 @@
         "title": "尚書 · 盤庚中",
         "url": "https://zh.wikisource.org/wiki/尚書/盤庚中",
         "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "自養乃能養人",
+    "title": "自養乃能養人",
+    "summary": "未有不能自養而能養人者，此修身之序也。",
+    "tags": [
+      "太平經",
+      "自養",
+      "修身",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "05",
+        "plugin": "wikisource",
+        "title": "太平經 · 05",
+        "url": "https://zh.wikisource.org/wiki/太平經/05",
+        "work": "太平經"
       }
     ]
   },
@@ -204980,7 +206819,9 @@
     "tags": [
       "太平經",
       "葬禮",
-      "陰陽"
+      "陰陽",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -215170,6 +217011,25 @@
     ]
   },
   {
+    "slug": "言行之數",
+    "title": "言行之數",
+    "summary": "言語之數自一至十，漸增則失本",
+    "tags": [
+      "太平經",
+      "言語哲學",
+      "數術"
+    ],
+    "sources": [
+      {
+        "chapter": "08",
+        "plugin": "wikisource",
+        "title": "太平經 · 08",
+        "url": "https://zh.wikisource.org/wiki/太平經/08",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "言行大禁",
     "title": "言行大禁",
     "summary": "言不可復，行不可再，君主之大禁也。",
@@ -215971,6 +217831,27 @@
     ]
   },
   {
+    "slug": "試文書大信",
+    "title": "試文書大信",
+    "summary": "書契之設，本以解天地帝王承負之厄，非浮華傳授已也。",
+    "tags": [
+      "太平經",
+      "文書",
+      "承負",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "05",
+        "plugin": "wikisource",
+        "title": "太平經 · 05",
+        "url": "https://zh.wikisource.org/wiki/太平經/05",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "試經取人",
     "title": "試經取人",
     "summary": "欲得真才，必試之於經術，較之於對策，不可僅以虛譽取之。",
@@ -215989,6 +217870,25 @@
         "title": "抱朴子 · 卷15",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "試驗",
+    "title": "試驗",
+    "summary": "行之驗之，事成乃為是。",
+    "tags": [
+      "效驗",
+      "行事",
+      "是非"
+    ],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
       }
     ]
   },
@@ -221850,6 +223750,25 @@
     ]
   },
   {
+    "slug": "賢經",
+    "title": "賢經",
+    "summary": "賢明之善辭，治世所資也",
+    "tags": [
+      "太平經",
+      "文獻",
+      "賢人"
+    ],
+    "sources": [
+      {
+        "chapter": "09",
+        "plugin": "wikisource",
+        "title": "太平經 · 09",
+        "url": "https://zh.wikisource.org/wiki/太平經/09",
+        "work": "太平經"
+      }
+    ]
+  },
+  {
     "slug": "賢者不用",
     "title": "賢者不用",
     "summary": "賢才見棄，國無所恃",
@@ -221995,6 +223914,25 @@
         "title": "韓非子 · 難勢",
         "url": "https://zh.wikisource.org/wiki/韓非子/難勢",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "賢聖有疑皆問",
+    "title": "賢聖有疑皆問",
+    "summary": "賢聖好問，愚拙好強。",
+    "tags": [
+      "師道",
+      "好問",
+      "強說"
+    ],
+    "sources": [
+      {
+        "chapter": "07",
+        "plugin": "wikisource",
+        "title": "太平經 · 07",
+        "url": "https://zh.wikisource.org/wiki/太平經/07",
+        "work": "太平經"
       }
     ]
   },
@@ -222427,6 +224365,26 @@
         "title": "詩經 · 狼跋",
         "url": "https://zh.wikisource.org/wiki/詩經/狼跋",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "赤色門",
+    "title": "赤色門",
+    "summary": "煉製之物，持入赤色之門，固塞際會，致令完堅。",
+    "tags": [
+      "煉丹火候",
+      "丹室",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "14章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 14章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/14章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -223908,6 +225866,27 @@
         "title": "史記 · 卷052",
         "url": "https://zh.wikisource.org/wiki/史記/卷052",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "路平不邪",
+    "title": "路平不邪",
+    "summary": "和而隨從，則路平無邪，治身治國，其理相通。",
+    "tags": [
+      "治道",
+      "和諧",
+      "中正",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "16章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 16章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/16章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -227241,6 +229220,27 @@
     ]
   },
   {
+    "slug": "返本歸根",
+    "title": "返本歸根",
+    "summary": "道窮則反，歸乎坤元，萬物各返其本。",
+    "tags": [
+      "返本",
+      "坤元",
+      "道",
+      "循環",
+      "周易參同契"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 19章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/19章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "返本還元",
     "title": "返本還元",
     "summary": "取生身受氣之初，反歸其本，乃為真正大藥。",
@@ -228028,6 +230028,27 @@
     ]
   },
   {
+    "slug": "通微顯化真人",
+    "title": "通微顯化真人",
+    "summary": "明天順皇帝誥封張三丰之號。",
+    "tags": [
+      "明朝",
+      "封號",
+      "張三丰",
+      "道教",
+      "真人"
+    ],
+    "sources": [
+      {
+        "chapter": "卷1",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷1",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷1",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
     "slug": "通德三光",
     "title": "通德三光",
     "summary": "通達天德，契合日、月、星三光之明。",
@@ -228187,6 +230208,27 @@
         "title": "詩經 · 碩鼠",
         "url": "https://zh.wikisource.org/wiki/詩經/碩鼠",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "造化",
+    "title": "造化",
+    "summary": "造化者，天地陰陽之運，萬物之所以生成。",
+    "tags": [
+      "造化",
+      "丹道",
+      "陰陽",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "16章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 16章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/16章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -230103,6 +232145,9 @@
       "道",
       "寓",
       "道家",
+      "傳道",
+      "言意",
+      "泄天",
       "部:子",
       "部:子/道家類"
     ],
@@ -230120,6 +232165,13 @@
         "title": "關尹子 · 8",
         "url": "https://zh.wikisource.org/wiki/關尹子/8",
         "work": "關尹子"
+      },
+      {
+        "chapter": "13章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 13章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/13章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -231425,6 +233477,13 @@
         "title": "黃庭外景經",
         "url": "https://zh.wikisource.org/wiki/黃庭外景經",
         "work": "黃庭外景經"
+      },
+      {
+        "chapter": "11章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 11章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/11章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -231755,6 +233814,27 @@
         "title": "文子 · 卷十一",
         "url": "https://zh.wikisource.org/wiki/文子/卷十一",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "邪道險阻",
+    "title": "邪道險阻",
+    "summary": "邪道險阻，必至傾危國家，修德者宜深戒。",
+    "tags": [
+      "治道",
+      "邪道",
+      "傾危",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "16章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 16章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/16章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -234807,6 +236887,27 @@
     ]
   },
   {
+    "slug": "金水含受",
+    "title": "金水含受",
+    "summary": "金與水相含相受，十五之數相均，乃成金丹之基。",
+    "tags": [
+      "金丹",
+      "陰陽",
+      "坎離",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "14章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 14章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/14章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "金玉貨財之說勝",
     "title": "金玉貨財之說勝",
     "summary": "崇貨財則不肖者在位，賢者不為下、智者不為謀。",
@@ -234842,6 +236943,28 @@
         "title": "關尹子 · 9",
         "url": "https://zh.wikisource.org/wiki/關尹子/9",
         "work": "關尹子"
+      }
+    ]
+  },
+  {
+    "slug": "金砂入五內",
+    "title": "金砂入五內",
+    "summary": "金砂入於五臟，霧散風雨，喻還丹成就遍達周身。",
+    "tags": [
+      "內丹",
+      "參同契",
+      "金砂",
+      "五臟",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "11章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 11章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/11章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -234990,7 +237113,9 @@
       "五金",
       "月",
       "返本",
-      "丹道"
+      "丹道",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -238000,6 +240125,28 @@
     ]
   },
   {
+    "slug": "陶冶有法度",
+    "title": "陶冶有法度",
+    "summary": "修煉陶鑄自有法度，未可悉陳，聊述綱紀枝條。",
+    "tags": [
+      "丹法",
+      "陶冶",
+      "法度",
+      "綱紀",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "13章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 13章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/13章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "陶復陶宂",
     "title": "陶復陶宂",
     "summary": "古公亶父居於地穴土竇之中也。",
@@ -238193,6 +240340,26 @@
     ]
   },
   {
+    "slug": "陽數已訖",
+    "title": "陽數已訖",
+    "summary": "陽數既終，則復從而起，迭運不息。",
+    "tags": [
+      "陰陽",
+      "迭運",
+      "循環",
+      "陽數"
+    ],
+    "sources": [
+      {
+        "chapter": "18章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 18章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/18章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "陽樊不服",
     "title": "陽樊人不服晉侯",
     "summary": "陽樊人不服晉師，倉葛以王德曉之，晉侯聞言而出陽民。",
@@ -238211,6 +240378,27 @@
         "title": "國語 · 卷02",
         "url": "https://zh.wikisource.org/wiki/國語/卷02",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "陽炁先液",
+    "title": "陽炁先液",
+    "summary": "太陽之炁伏蒸須臾，先化為液，而後凝結。",
+    "tags": [
+      "煉丹火候",
+      "陰陽",
+      "液化",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "14章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 14章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/14章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -238272,6 +240460,27 @@
         "title": "國語 · 卷14",
         "url": "https://zh.wikisource.org/wiki/國語/卷14",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "陽秉陰受",
+    "title": "陽秉陰受",
+    "summary": "陽稟於陰，陰施於陽，精氣往來之理。",
+    "tags": [
+      "丹道",
+      "陰陽",
+      "精氣",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "16章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 16章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/16章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -239240,6 +241449,27 @@
     ]
   },
   {
+    "slug": "雌雄相須",
+    "title": "雌雄相須",
+    "summary": "雌雄相待而後成，亦如陰陽之不可離。",
+    "tags": [
+      "丹道",
+      "雌雄",
+      "陰陽",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "16章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 16章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/16章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "雍四畤",
     "title": "雍四畤",
     "summary": "記唯雍四畤上帝為尊，春夏用騂，秋冬用駵，三年一郊，秦以冬十月為歲首。",
@@ -239493,6 +241723,27 @@
         "title": "韓非子 · 顯學",
         "url": "https://zh.wikisource.org/wiki/韓非子/顯學",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "雜性不合",
+    "title": "雜性不合",
+    "summary": "異類之物不可同煉，強合則敗。",
+    "tags": [
+      "丹道",
+      "配合",
+      "異質",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "12章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 12章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/12章",
+        "work": "周易參同契"
       }
     ]
   },
@@ -250633,6 +252884,29 @@
     ]
   },
   {
+    "slug": "黃土金之父",
+    "title": "黃土金之父",
+    "summary": "土居中宮為金之祖，喻真意攝四象而成還丹。",
+    "tags": [
+      "內丹",
+      "參同契",
+      "戊己",
+      "黃土",
+      "五行",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "11章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 11章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/11章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "黃婆",
     "title": "黃婆",
     "summary": "中央坤德之土，喻真意，為龍虎交合之媒。",
@@ -253037,6 +255311,27 @@
     ]
   },
   {
+    "slug": "龍虎聲勤",
+    "title": "龍虎聲勤",
+    "summary": "龍虎之象，聲教甚勤，以成丹道。",
+    "tags": [
+      "龍虎",
+      "金丹",
+      "坎離",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "14章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 14章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/14章",
+        "work": "周易參同契"
+      }
+    ]
+  },
+  {
     "slug": "龍蛇失勢",
     "title": "龍蛇失勢",
     "summary": "龍蛇之靈，亦賴雲霧以騰；一旦雲散霧消，與螾螻等耳。",
@@ -253098,6 +255393,27 @@
         "title": "史記 · 卷029",
         "url": "https://zh.wikisource.org/wiki/史記/卷029",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "龍馬就駕",
+    "title": "龍馬就駕",
+    "summary": "龍馬負圖而出，君王御之以行治道。",
+    "tags": [
+      "治道",
+      "龍馬",
+      "聖王",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "16章",
+        "plugin": "wikisource",
+        "title": "周易參同契 · 16章",
+        "url": "https://zh.wikisource.org/wiki/周易參同契/16章",
+        "work": "周易參同契"
       }
     ]
   },
