@@ -3889,7 +3889,10 @@
       "耕耘",
       "呂氏春秋",
       "部:經",
-      "部:經/春秋類"
+      "部:經/春秋類",
+      "哲學",
+      "道家",
+      "宇宙論"
     ],
     "sources": [
       {
@@ -3905,6 +3908,13 @@
         "title": "呂氏春秋 · 卷二十六",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十六",
         "work": "呂氏春秋"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
       }
     ]
   },
@@ -4344,7 +4354,9 @@
       "三教",
       "丹道",
       "黃老",
-      "哲學"
+      "哲學",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -8950,6 +8962,25 @@
         "title": "關尹子 · 1",
         "url": "https://zh.wikisource.org/wiki/關尹子/1",
         "work": "關尹子"
+      }
+    ]
+  },
+  {
+    "slug": "不神之所以神",
+    "title": "不神之所以神",
+    "summary": "人之愚，既覩其聖，又察其愚，復覩其聖，此聖之所以神也。",
+    "tags": [
+      "哲學",
+      "道家",
+      "聖人觀"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
       }
     ]
   },
@@ -15834,7 +15865,9 @@
       "五行",
       "丹道",
       "煉丹",
-      "周易參同契"
+      "周易參同契",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -15854,7 +15887,9 @@
       "天干",
       "五行",
       "丹道",
-      "周易參同契"
+      "周易參同契",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -17870,6 +17905,25 @@
         "title": "管子 · 第83篇輕重丁",
         "url": "https://zh.wikisource.org/wiki/管子/第83篇輕重丁",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "五賊",
+    "title": "五賊",
+    "summary": "天有五賊——命、物、時、功、神——見之者昌，不可以輕用。",
+    "tags": [
+      "哲學",
+      "道家",
+      "兵法"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
       }
     ]
   },
@@ -36875,7 +36929,7 @@
       "隱逸",
       "仙傳",
       "序",
-      "部:子"
+      "部:史"
     ],
     "sources": [
       {
@@ -42558,6 +42612,26 @@
     ]
   },
   {
+    "slug": "分威法伏熊",
+    "title": "分威法伏熊",
+    "summary": "藏神伏志，使威勢分流之術。",
+    "tags": [
+      "鬼谷子",
+      "兵法",
+      "分威",
+      "藏神"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "鬼谷子",
+        "url": "https://zh.wikisource.org/wiki/本经阴符七术",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "分定而不偏",
     "title": "分定而不偏",
     "summary": "分均則不偏，埶齊則不壹，眾齊則不使。分者，天下之本也。",
@@ -45915,6 +45989,25 @@
         "title": "周易 · 无妄",
         "url": "https://zh.wikisource.org/wiki/周易/无妄",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "動靜如一",
+    "title": "動靜如一",
+    "summary": "動由靜出，靜以動用，二者如一道乃全。",
+    "tags": [
+      "道家",
+      "內丹",
+      "詩歌"
+    ],
+    "sources": [
+      {
+        "chapter": "卷5",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷5",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷5",
+        "work": "張三丰先生全集"
       }
     ]
   },
@@ -67952,11 +68045,11 @@
       "內丹",
       "四象",
       "五行",
-      "部:子",
-      "部:子/道家類",
       "丹道",
       "周易參同契",
-      "學者"
+      "學者",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -76318,7 +76411,9 @@
       "周易",
       "大易",
       "性情",
-      "哲學"
+      "哲學",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -80363,6 +80458,25 @@
     ]
   },
   {
+    "slug": "天機",
+    "title": "天機",
+    "summary": "造化在手，生死在我，聖人藏之心而動之天地者，天機也。",
+    "tags": [
+      "哲學",
+      "道家",
+      "兵法"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
+      }
+    ]
+  },
+  {
     "slug": "天機泄漏",
     "title": "天機泄漏",
     "summary": "金丹正道乃天機所在，不敢直泄，故托數事為名。",
@@ -80464,6 +80578,25 @@
         "title": "史記 · 卷011",
         "url": "https://zh.wikisource.org/wiki/史記/卷011",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "天無恩大恩",
+    "title": "天之無恩大恩",
+    "summary": "天無思而萬物有心歸恩，迅雷烈風而萬物蠢然懷懼。",
+    "tags": [
+      "哲學",
+      "道家",
+      "天道觀"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
       }
     ]
   },
@@ -80682,6 +80815,25 @@
         "title": "尚書 · 禹誓",
         "url": "https://zh.wikisource.org/wiki/尚書/禹誓",
         "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "天發殺機",
+    "title": "天發殺機",
+    "summary": "天機與人機合發，天地反覆，萬變定基。",
+    "tags": [
+      "哲學",
+      "道家",
+      "天人"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
       }
     ]
   },
@@ -81135,7 +81287,9 @@
       "天道",
       "太玄",
       "虛無",
-      "哲學"
+      "哲學",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -83648,6 +83802,25 @@
         "title": "詩經 · 皇矣",
         "url": "https://zh.wikisource.org/wiki/詩經/皇矣",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "奇器生萬象",
+    "title": "奇器生萬象",
+    "summary": "八卦甲子、神機鬼藏，昭昭乎象矣。",
+    "tags": [
+      "哲學",
+      "道家",
+      "數術"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
       }
     ]
   },
@@ -96903,6 +97076,26 @@
     ]
   },
   {
+    "slug": "實意法騰蛇",
+    "title": "實意法騰蛇",
+    "summary": "寧心深慮，使意念堅定之術。",
+    "tags": [
+      "鬼谷子",
+      "內修",
+      "實意",
+      "定心"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "鬼谷子",
+        "url": "https://zh.wikisource.org/wiki/本经阴符七术",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "實獲我心",
     "title": "實獲我心",
     "summary": "古人之行，恰愜己意。",
@@ -107700,6 +107893,26 @@
     ]
   },
   {
+    "slug": "弘景先生注",
+    "title": "弘景先生注",
+    "summary": "陶弘景注《本經陰符》之說，以釋其義。",
+    "tags": [
+      "注釋",
+      "陶弘景",
+      "鬼谷子",
+      "陰符"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "鬼谷子",
+        "url": "https://zh.wikisource.org/wiki/本经阴符七术",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "弘演報肝",
     "title": "弘演報肝",
     "summary": "弘演剖腹以納懿公之肝，殺身以殉，卒存衛國之祀。",
@@ -107865,7 +108078,7 @@
       "像贊",
       "詩贊",
       "仙人",
-      "部:子"
+      "部:經"
     ],
     "sources": [
       {
@@ -113281,6 +113494,25 @@
         "title": "詩經 · 防有鵲巢",
         "url": "https://zh.wikisource.org/wiki/詩經/防有鵲巢",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "心生於物死於物",
+    "title": "心生於物死於物",
+    "summary": "生死之心在乎物，成敗之機見於目。",
+    "tags": [
+      "哲學",
+      "道家",
+      "心性"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
       }
     ]
   },
@@ -123544,6 +123776,26 @@
     ]
   },
   {
+    "slug": "損悅法靈蓍",
+    "title": "損悅法靈蓍",
+    "summary": "察機知機，損悅以決大事之術。",
+    "tags": [
+      "鬼谷子",
+      "兵法",
+      "損悅",
+      "察機"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "鬼谷子",
+        "url": "https://zh.wikisource.org/wiki/本经阴符七术",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "搏攫之獸用齒角爪牙",
     "title": "搏攫之獸用齒角爪牙",
     "summary": "搏攫之獸用齒角爪牙，必託於卑微隱蔽，乃所以成勝。",
@@ -125331,6 +125583,26 @@
         "title": "韓非子 · 主道",
         "url": "https://zh.wikisource.org/wiki/韓非子/主道",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "散勢法鷙鳥",
+    "title": "散勢法鷙鳥",
+    "summary": "乘間行威，使勢散而用之之術。",
+    "tags": [
+      "鬼谷子",
+      "兵法",
+      "散勢",
+      "乘間"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "鬼谷子",
+        "url": "https://zh.wikisource.org/wiki/本经阴符七术",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -133080,6 +133352,25 @@
         "title": "周易 · 艮",
         "url": "https://zh.wikisource.org/wiki/周易/艮",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "時物文理哲",
+    "title": "愚人以天地文理聖",
+    "summary": "愚人觀天瑞以為聖，聖人察時物之變以為哲。",
+    "tags": [
+      "哲學",
+      "道家",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
       }
     ]
   },
@@ -148592,6 +148883,25 @@
     ]
   },
   {
+    "slug": "歸隱山林",
+    "title": "歸隱山林",
+    "summary": "離塵世而歸蓬萊，詩人之志也。",
+    "tags": [
+      "道家",
+      "隱逸",
+      "詩歌"
+    ],
+    "sources": [
+      {
+        "chapter": "卷5",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷5",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷5",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
     "slug": "死于館",
     "title": "死于館",
     "summary": "諸侯、大夫、士行於外而死，各有復與殯奠之儀。",
@@ -158013,6 +158323,25 @@
     ]
   },
   {
+    "slug": "清靜修道",
+    "title": "清靜修道",
+    "summary": "遣慾以澄心，返清於神也。",
+    "tags": [
+      "道家",
+      "內丹",
+      "詩歌"
+    ],
+    "sources": [
+      {
+        "chapter": "卷5",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷5",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷5",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
     "slug": "清靜恬愉",
     "title": "清靜恬愉",
     "summary": "人性本乎自然，事務準乎法度。",
@@ -165518,7 +165847,9 @@
       "煉己",
       "陰陽",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "道家",
+      "詩歌"
     ],
     "sources": [
       {
@@ -165534,6 +165865,13 @@
         "title": "周易參同契 · 32章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/32章",
         "work": "周易參同契"
+      },
+      {
+        "chapter": "卷5",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷5",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷5",
+        "work": "張三丰先生全集"
       }
     ]
   },
@@ -171657,6 +171995,25 @@
     ]
   },
   {
+    "slug": "生而死之根",
+    "title": "生者死之根",
+    "summary": "生與死、恩與害，互相根而生，不可單執其一。",
+    "tags": [
+      "哲學",
+      "道家",
+      "生死觀"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
+      }
+    ]
+  },
+  {
     "slug": "生而知之",
     "title": "我非生而知之者",
     "summary": "聖人自言非生知。",
@@ -177493,6 +177850,26 @@
     ]
   },
   {
+    "slug": "盛神法五龍",
+    "title": "盛神法五龍",
+    "summary": "養神以道，使志意堅固、精神充沛之術。",
+    "tags": [
+      "鬼谷子",
+      "內修",
+      "養神",
+      "五氣"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "鬼谷子",
+        "url": "https://zh.wikisource.org/wiki/本经阴符七术",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "盜兵",
     "title": "盜兵",
     "summary": "以詐術趨利之兵，君子所不由。",
@@ -177554,6 +177931,24 @@
         "title": "史記 · 卷102",
         "url": "https://zh.wikisource.org/wiki/史記/卷102",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "盜機",
+    "title": "盜機",
+    "summary": "三盜迭興，機見於目，莫見莫知，君子得之固躬，小人得之輕命。",
+    "tags": [
+      "哲學",
+      "道家"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
       }
     ]
   },
@@ -184403,6 +184798,25 @@
     ]
   },
   {
+    "slug": "禽之制在炁",
+    "title": "禽之制在炁",
+    "summary": "物得炁者能以小制大，英雄得其炁者，可以淨寰海而御宇宙。",
+    "tags": [
+      "哲學",
+      "道家",
+      "養生"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
+      }
+    ]
+  },
+  {
     "slug": "禽困覆車",
     "title": "禽困覆車",
     "summary": "困獸猶鬪，覆車可傷。言迫之已甚，必圖倖免。",
@@ -191179,6 +191593,26 @@
         "title": "抱朴子 · 卷04",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷04",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "絕利一源",
+    "title": "絕利一源",
+    "summary": "耳目之利，絕其一源；思之精，三反晝夜；用心於一，萬全成也。",
+    "tags": [
+      "哲學",
+      "道家",
+      "兵法",
+      "修養"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
       }
     ]
   },
@@ -201405,6 +201839,25 @@
     ]
   },
   {
+    "slug": "自然之道浸",
+    "title": "天地之道浸",
+    "summary": "天地之道浸微，陰陽相推，聖人因而制之。",
+    "tags": [
+      "哲學",
+      "道家",
+      "陰陽"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
+      }
+    ]
+  },
+  {
     "slug": "自生自死",
     "title": "自生自死",
     "summary": "生死厚薄，非由外鑠，皆自為之。",
@@ -201959,6 +202412,25 @@
     ]
   },
   {
+    "slug": "至樂性餘",
+    "title": "至樂性餘至靜性廉",
+    "summary": "樂則奢餘，靜則貞廉；至人棲神靜樂之間，守中而不淫於至樂、不安於至靜。",
+    "tags": [
+      "哲學",
+      "道家",
+      "修養"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
+      }
+    ]
+  },
+  {
     "slug": "至樂無樂",
     "title": "至樂無樂",
     "summary": "至極之樂，非世俗所謂樂，乃無樂之樂也。",
@@ -202083,6 +202555,25 @@
         "title": "抱朴子 · 卷40",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷40",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "至私至公",
+    "title": "天之至私用之至公",
+    "summary": "天道曲成萬物而不辭，至私也；雲行雨施生殺之均，至公也。",
+    "tags": [
+      "哲學",
+      "道家",
+      "天道觀"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "陰符經",
+        "url": "https://zh.wikisource.org/wiki/七注陰符經",
+        "work": "陰符經"
       }
     ]
   },
@@ -210695,7 +211186,7 @@
       "仙傳",
       "內丹",
       "師承",
-      "部:子"
+      "部:史"
     ],
     "sources": [
       {
@@ -215200,7 +215691,9 @@
       "周易參同契",
       "道教",
       "丹道",
-      "闕遺"
+      "闕遺",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -229618,6 +230111,26 @@
     ]
   },
   {
+    "slug": "轉圓法猛獸",
+    "title": "轉圓法猛獸",
+    "summary": "智計無窮，圓轉應物之術。",
+    "tags": [
+      "鬼谷子",
+      "兵法",
+      "轉圓",
+      "智略"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "鬼谷子",
+        "url": "https://zh.wikisource.org/wiki/本经阴符七术",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "轉漕關中",
     "title": "轉漕關中",
     "summary": "楚漢相持，蕭何轉漕關中以給軍食，功在萬世。",
@@ -231008,7 +231521,10 @@
       "循環",
       "周易參同契",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "道家",
+      "內丹",
+      "詩歌"
     ],
     "sources": [
       {
@@ -231017,6 +231533,13 @@
         "title": "周易參同契 · 19章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/19章",
         "work": "周易參同契"
+      },
+      {
+        "chapter": "卷5",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷5",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷5",
+        "work": "張三丰先生全集"
       }
     ]
   },
@@ -238598,6 +239121,13 @@
         "title": "悟真篇",
         "url": "https://zh.wikisource.org/wiki/悟真篇",
         "work": "悟真篇"
+      },
+      {
+        "chapter": "卷5",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷5",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷5",
+        "work": "張三丰先生全集"
       }
     ]
   },
@@ -244337,6 +244867,25 @@
     ]
   },
   {
+    "slug": "雲水之游",
+    "title": "雲水之游",
+    "summary": "道以無形，遊以有象，雲水者道之適也。",
+    "tags": [
+      "道家",
+      "隱逸",
+      "詩歌"
+    ],
+    "sources": [
+      {
+        "chapter": "卷5",
+        "plugin": "wikisource",
+        "title": "張三丰先生全集 · 卷5",
+        "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷5",
+        "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
     "slug": "雲漢",
     "title": "雲漢",
     "summary": "宣王遇旱而懼，側身修行，百姓憂之而作是詩。",
@@ -249438,6 +249987,26 @@
         "title": "孟子 · 盡心下",
         "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "養志法靈龜",
+    "title": "養志法靈龜",
+    "summary": "寡欲安心，使志意充實之術。",
+    "tags": [
+      "鬼谷子",
+      "內修",
+      "養志",
+      "寡欲"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "鬼谷子",
+        "url": "https://zh.wikisource.org/wiki/本经阴符七术",
+        "work": "鬼谷子"
       }
     ]
   },
