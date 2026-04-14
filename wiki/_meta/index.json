@@ -5711,7 +5711,9 @@
     "tags": [
       "升降",
       "無為",
-      "聖人"
+      "聖人",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -9188,6 +9190,27 @@
     ]
   },
   {
+    "slug": "世無常貴事無常師",
+    "title": "世無常貴事無常師",
+    "summary": "天下之事無有常貴，聖人無常與而無不與，聽無不聽。",
+    "tags": [
+      "鬼谷子",
+      "權變",
+      "聖人",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "世異事異",
     "title": "世異則事異",
     "summary": "時代不同則行事當異；古之仁義可王天下，今之仁義適足以亡國。",
@@ -10784,6 +10807,27 @@
         "title": "管子 · 第27篇地圖",
         "url": "https://zh.wikisource.org/wiki/管子/第27篇地圖",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "主明聽聰",
+    "title": "主明聽聰",
+    "summary": "君者以天下之目視、以天下之耳聽、以天下之心思慮，則明不可塞。",
+    "tags": [
+      "鬼谷子",
+      "君道",
+      "明智",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -12726,6 +12770,26 @@
         "title": "韓非子 · 五蠹",
         "url": "https://zh.wikisource.org/wiki/韓非子/五蠹",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "事聖君有聽從",
+    "title": "事聖君有聽從，無諫爭；事中君有諫諍，無謟諛；事暴君有補削，無憮拂",
+    "summary": "《鬼谷子》以君之賢否為進說之道，三等之君各有所宜。",
+    "tags": [
+      "鬼谷子",
+      "臣道",
+      "君臣觀",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -14889,6 +14953,27 @@
     ]
   },
   {
+    "slug": "五者成事",
+    "title": "五者成事",
+    "summary": "聖人成事有五：陽德、陰賊、信誠、蔽匿、平素，因事而施。",
+    "tags": [
+      "鬼谷子",
+      "決策",
+      "治道",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "五者死而無赦",
     "title": "五者死而無赦",
     "summary": "虧令、益令、不行令、留令、不從令者皆死，是為重令之極。",
@@ -16612,6 +16697,25 @@
         "title": "國語 · 卷21",
         "url": "https://zh.wikisource.org/wiki/國語/卷21",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "人動我靜",
+    "title": "人動我靜，人言我聽",
+    "summary": "《鬼谷子》以虛靜為心法，知性寡累，知命不憂。",
+    "tags": [
+      "鬼谷子",
+      "修養",
+      "虛靜"
+    ],
+    "sources": [
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -19924,6 +20028,25 @@
     ]
   },
   {
+    "slug": "以徳養民",
+    "title": "以徳養民，猶草木之得時",
+    "summary": "《鬼谷子》以雨澤喻徳化，言以仁徳養民如天生草木需雨潤澤。",
+    "tags": [
+      "鬼谷子",
+      "徳治",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "以德兼人以力兼人以富兼人",
     "title": "以德兼人以力兼人以富兼人",
     "summary": "兼人之道有德、力、富三術，效果截然不同。",
@@ -20100,6 +20223,9 @@
       "解經學",
       "文學理論",
       "儒學",
+      "鬼谷子",
+      "遊說",
+      "權變",
       "部:經",
       "部:經/四書類"
     ],
@@ -20110,6 +20236,13 @@
         "title": "孟子 · 萬章上",
         "url": "https://zh.wikisource.org/wiki/孟子/萬章上",
         "work": "孟子"
+      },
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -22837,6 +22970,27 @@
         "title": "史記 · 卷003",
         "url": "https://zh.wikisource.org/wiki/史記/卷003",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "伊尹五就湯",
+    "title": "伊尹五就湯",
+    "summary": "伊尹五就湯、五就桀，終明天命之箝，歸於湯而不疑。",
+    "tags": [
+      "鬼谷子",
+      "忤合",
+      "天命",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -31582,6 +31736,28 @@
     ]
   },
   {
+    "slug": "內揵",
+    "title": "內揵",
+    "summary": "君臣相接，內有以合，外有以揵，聖人循此馭人也。",
+    "tags": [
+      "鬼谷子",
+      "君臣",
+      "說辭",
+      "權謀",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷01",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "內政不脩外舉事不濟",
     "title": "內政不脩外舉事不濟",
     "summary": "內政未理而外事行之，未有不敗者也。",
@@ -35351,6 +35527,25 @@
     ]
   },
   {
+    "slug": "兵者百歲不一用",
+    "title": "兵者百歲不一用",
+    "summary": "兵事雖百年不用，然大國不可一日忘之。",
+    "tags": [
+      "兵事",
+      "國防",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "鶡冠子",
+        "url": "https://zh.wikisource.org/wiki/鶡冠子",
+        "work": "鶡冠子"
+      }
+    ]
+  },
+  {
     "slug": "兵者聖人所以討彊暴",
     "title": "兵者聖人所以討彊暴",
     "summary": "兵者聖人所以討彊暴、平亂世、夷險阻、救危殆。",
@@ -37580,7 +37775,9 @@
     "tags": [
       "剛柔",
       "適度",
-      "聖人"
+      "聖人",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -38883,6 +39080,27 @@
         "title": "管子 · 第35篇侈靡",
         "url": "https://zh.wikisource.org/wiki/管子/第35篇侈靡",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "制人者握權",
+    "title": "制人者握權，制於人者失命",
+    "summary": "能制人者握權，被制者失命",
+    "tags": [
+      "鬼谷子",
+      "權謀",
+      "治世",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷03",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷03",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷03",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -45026,6 +45244,27 @@
     ]
   },
   {
+    "slug": "卻語",
+    "title": "卻語",
+    "summary": "察伺其短，驗之以忌諱時禁",
+    "tags": [
+      "鬼谷子",
+      "權謀",
+      "察人",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷03",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷03",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷03",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "卿出並聘",
     "title": "卿出並聘",
     "summary": "國君初立，卿當出聘諸侯，修舊好、結外援，以衛社稷，此忠信卑讓之道。",
@@ -46460,6 +46699,28 @@
     ]
   },
   {
+    "slug": "反應",
+    "title": "反應",
+    "summary": "反觀往古，覆驗來今，乃聖人觀事之方。",
+    "tags": [
+      "鬼谷子",
+      "觀人",
+      "靜觀",
+      "揆情",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷01",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "反掖之寇",
     "title": "反掖之寇",
     "summary": "弃城而敗軍，則反側之寇必乘虛襲城。",
@@ -46581,6 +46842,24 @@
         "title": "文子 · 卷一",
         "url": "https://zh.wikisource.org/wiki/文子/卷一",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "反覆-之",
+    "title": "反覆-之",
+    "summary": "",
+    "tags": [
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷01",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -47613,6 +47892,27 @@
     ]
   },
   {
+    "slug": "口可以食不可以言",
+    "title": "口可以食不可以言",
+    "summary": "口可進食而不可妄言，衆口可以鑠金，言有曲故。",
+    "tags": [
+      "鬼谷子",
+      "言語",
+      "禍福",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "口惠而實不至",
     "title": "口惠而實不至",
     "summary": "",
@@ -47633,6 +47933,28 @@
         "title": "禮記 · 表記",
         "url": "https://zh.wikisource.org/wiki/禮記/表記",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "口者心之門戸",
+    "title": "口者心之門戸",
+    "summary": "口為心之門，心為神之主，志意喜欲皆由此出入。",
+    "tags": [
+      "鬼谷子",
+      "心",
+      "言辭",
+      "修養",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷01",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -57097,7 +57419,9 @@
     "tags": [
       "古今",
       "治本",
-      "行事"
+      "行事",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -62042,7 +62366,9 @@
     "tags": [
       "修身",
       "道",
-      "德"
+      "德",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -69667,7 +69993,9 @@
     "tags": [
       "治道",
       "舍取",
-      "審慎"
+      "審慎",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -70917,6 +71245,28 @@
         "title": "管子 · 第35篇侈靡",
         "url": "https://zh.wikisource.org/wiki/管子/第35篇侈靡",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "天地之使",
+    "title": "天地之使",
+    "summary": "聖人者，天地之使也，能用抵巇之術以輔世。",
+    "tags": [
+      "鬼谷子",
+      "聖人",
+      "天地",
+      "治道",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷01",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -82527,7 +82877,10 @@
     "slug": "學之多弊-之",
     "title": "學之多弊-之",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
     "sources": [
       {
         "chapter": "9",
@@ -87606,6 +87959,28 @@
     ]
   },
   {
+    "slug": "審明其計謀",
+    "title": "審明其計謀",
+    "summary": "聖人觀辭揆意，離合有守，審明同異以定計。",
+    "tags": [
+      "鬼谷子",
+      "計謀",
+      "觀人",
+      "辭令",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷01",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "審時察用備官",
     "title": "審時察用備官",
     "summary": "審時、察用、備官三者兼備，可以奉為君。",
@@ -89257,6 +89632,27 @@
     ]
   },
   {
+    "slug": "小人以左道敗家奪國",
+    "title": "小人比人，左道用之，足以敗家奪國",
+    "summary": "小人用左道足以敗家奪國",
+    "tags": [
+      "鬼谷子",
+      "權謀",
+      "用人",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷03",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷03",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷03",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "小人剝廬",
     "title": "小人剝廬",
     "summary": "小人剝盡上九一陽，則無所覆庇，終不可用。",
@@ -89907,7 +90303,9 @@
     "tags": [
       "慎微",
       "積漸",
-      "修身"
+      "修身",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -100001,6 +100399,9 @@
     "tags": [
       "法治",
       "韓非子",
+      "鬼谷子",
+      "治道",
+      "名實",
       "部:子",
       "部:子/法家類"
     ],
@@ -100011,6 +100412,13 @@
         "title": "韓非子 · 南面",
         "url": "https://zh.wikisource.org/wiki/韓非子/南面",
         "work": "韓非子"
+      },
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -102137,6 +102545,24 @@
         "title": "莊子 · 至樂",
         "url": "https://zh.wikisource.org/wiki/莊子/至樂",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "忤合之道",
+    "title": "忤合之道",
+    "summary": "合於彼則離於此，計謀不兩忠，因事為制，聖人無常與。",
+    "tags": [
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -106504,6 +106930,25 @@
     ]
   },
   {
+    "slug": "成功遂事莫知其狀",
+    "title": "成功遂事莫知其狀",
+    "summary": "功成事遂，莫知其狀，圖弗能載，名弗能舉。",
+    "tags": [
+      "道",
+      "玄妙",
+      "成功"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "鶡冠子",
+        "url": "https://zh.wikisource.org/wiki/鶡冠子",
+        "work": "鶡冠子"
+      }
+    ]
+  },
+  {
     "slug": "成器不試不藏",
     "title": "成器不試不藏",
     "summary": "器成未試，不可用；未試之物，不當藏。",
@@ -108160,6 +108605,27 @@
     ]
   },
   {
+    "slug": "抱薪趨火",
+    "title": "抱薪趨火",
+    "summary": "物類相應，勢之自然，譬如抱薪趣火，燥者先然。",
+    "tags": [
+      "鬼谷子",
+      "天道",
+      "物類",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "抱衾與裯",
     "title": "抱衾與裯",
     "summary": "攜衾而行，喻微賤者夜事之勞。",
@@ -108198,6 +108664,37 @@
         "title": "管子 · 第73篇國蓄",
         "url": "https://zh.wikisource.org/wiki/管子/第73篇國蓄",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "抵巇",
+    "title": "抵巇",
+    "summary": "物有自然，事有合離；聖人察微知幾，抵而塞之、抵而得之。",
+    "tags": [
+      "鬼谷子",
+      "塞隙",
+      "治道",
+      "察微",
+      "權謀",
+      "應變",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷01",
+        "work": "鬼谷子"
+      },
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -108620,6 +109117,27 @@
         "title": "列子 · 說符篇",
         "url": "https://zh.wikisource.org/wiki/列子/說符篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "持樞",
+    "title": "持樞",
+    "summary": "順天時以行政令，不可干逆",
+    "tags": [
+      "鬼谷子",
+      "天道",
+      "治世",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷03",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷03",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷03",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -109203,6 +109721,28 @@
     ]
   },
   {
+    "slug": "捭闘",
+    "title": "捭闘",
+    "summary": "開闘為天地之道，隂陽之樞，聖人馭之以馭萬物。",
+    "tags": [
+      "鬼谷子",
+      "隂陽",
+      "辭令",
+      "天地",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷01",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "捷捷幡幡",
     "title": "捷捷幡幡",
     "summary": "狀譖言變易不定，巧言來往。",
@@ -109434,6 +109974,27 @@
         "title": "韓非子 · 揚榷",
         "url": "https://zh.wikisource.org/wiki/韓非子/揚榷",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "掘地為坑令下說",
+    "title": "掘地為坑，令下說",
+    "summary": "《論衡》載鬼谷先生以坑穴試蘇秦、張儀之說術。",
+    "tags": [
+      "鬼谷子",
+      "蘇秦",
+      "張儀",
+      "說術",
+      "傳說"
+    ],
+    "sources": [
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -109905,6 +110466,48 @@
     ]
   },
   {
+    "slug": "揣情探意",
+    "title": "揣情探意",
+    "summary": "揣摩人情，必以其甚喜、甚懼之時，往而極之，情欲必出。",
+    "tags": [
+      "鬼谷子",
+      "揣情",
+      "人情",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
+    "slug": "揣摩之術",
+    "title": "揣摩之術",
+    "summary": "摩者揣之術，內符者揣之主，微摩之以所欲，測而探之。",
+    "tags": [
+      "鬼谷子",
+      "權謀",
+      "人情",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "揲蓍灼龜",
     "title": "揲蓍灼龜",
     "summary": "古之善卜者，能以一端示萬象。",
@@ -110336,7 +110939,9 @@
     "tags": [
       "修身",
       "待人",
-      "處世"
+      "處世",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -110558,6 +111163,27 @@
         "title": "詩經 · 北風",
         "url": "https://zh.wikisource.org/wiki/詩經/北風",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "攝心守義",
+    "title": "攝心守義",
+    "summary": "攝取其心、守其大義",
+    "tags": [
+      "鬼谷子",
+      "修身",
+      "應對",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷03",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷03",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷03",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -117055,7 +117681,9 @@
     "tags": [
       "信道",
       "言意",
-      "道體"
+      "道體",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -119948,7 +120576,9 @@
     "tags": [
       "智愚",
       "辨訥",
-      "勇怯"
+      "勇怯",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -124117,6 +124747,27 @@
         "title": "莊子 · 知北遊",
         "url": "https://zh.wikisource.org/wiki/莊子/知北遊",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "本經陰符七術",
+    "title": "本經陰符七術",
+    "summary": "鬼谷子所述內修精神、外操威勢之七法",
+    "tags": [
+      "鬼谷子",
+      "修煉",
+      "內聖",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷03",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷03",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷03",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -130100,6 +130751,27 @@
     ]
   },
   {
+    "slug": "權量之術",
+    "title": "權量之術",
+    "summary": "量天下之權而揣諸侯之情，審權量則知强弱輕重之稱。",
+    "tags": [
+      "鬼谷子",
+      "權謀",
+      "度量",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "權險之平",
     "title": "權險之平",
     "summary": "湯武奪義殺仁而易位，功參天地，澤被生民，是謂權險之平。",
@@ -132732,6 +133404,26 @@
         "title": "春秋穀梁傳 · 隱公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/隱公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "歸谷子",
+    "title": "歸谷子",
+    "summary": "張儀、蘇秦師事之山谷隱士，或稱「歸谷子」，乃鬼谷子之別號。",
+    "tags": [
+      "鬼谷子",
+      "蘇秦",
+      "張儀",
+      "師承"
+    ],
+    "sources": [
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -138245,7 +138937,9 @@
       "治道",
       "管子",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "法治",
+      "法制"
     ],
     "sources": [
       {
@@ -138254,6 +138948,13 @@
         "title": "管子 · 第14篇法禁",
         "url": "https://zh.wikisource.org/wiki/管子/第14篇法禁",
         "work": "管子"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "鶡冠子",
+        "url": "https://zh.wikisource.org/wiki/鶡冠子",
+        "work": "鶡冠子"
       }
     ]
   },
@@ -145165,6 +145866,28 @@
     ]
   },
   {
+    "slug": "為萬事之先",
+    "title": "為萬事之先",
+    "summary": "天地隂陽之道為萬事之先，是謂圓方之門戸。",
+    "tags": [
+      "鬼谷子",
+      "天地",
+      "樞機",
+      "萬物",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷01",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "為諼",
     "title": "為諼",
     "summary": "陳乞欺國人而立陽生，故以當國之辭書之。",
@@ -149655,6 +150378,25 @@
     ]
   },
   {
+    "slug": "物極則反",
+    "title": "物極則反",
+    "summary": "物至於極，則反於其初，周而復始，迭運不息。",
+    "tags": [
+      "辯證",
+      "環流",
+      "轉化"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "鶡冠子",
+        "url": "https://zh.wikisource.org/wiki/鶡冠子",
+        "work": "鶡冠子"
+      }
+    ]
+  },
+  {
     "slug": "物無貴賤",
     "title": "物無貴賤",
     "summary": "物之貴賤繫乎所處，非有定實；因其貴而貴之，無物不貴也。",
@@ -154062,6 +154804,26 @@
         "title": "韓非子 · 外儲說右上",
         "url": "https://zh.wikisource.org/wiki/韓非子/外儲說右上",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "田成子殺齊君",
+    "title": "田成子殺齊君，十二代而有齊國",
+    "summary": "《鬼谷子》佚文記田氏篡齊之歷史預言。",
+    "tags": [
+      "鬼谷子",
+      "田成子",
+      "齊國",
+      "歷史"
+    ],
+    "sources": [
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -158834,7 +159596,9 @@
     "tags": [
       "見聞",
       "執著",
-      "聖人"
+      "聖人",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -160089,6 +160853,28 @@
         "title": "韓非子 · 難三",
         "url": "https://zh.wikisource.org/wiki/韓非子/難三",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "知之始己",
+    "title": "知之始己",
+    "summary": "知人者先自知，自知而後可以知人。",
+    "tags": [
+      "鬼谷子",
+      "自知",
+      "知人",
+      "修身",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷01",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -171936,6 +172722,27 @@
     ]
   },
   {
+    "slug": "綴去",
+    "title": "綴去",
+    "summary": "綴己之繫，使有餘思",
+    "tags": [
+      "鬼谷子",
+      "交際",
+      "應對",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷03",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷03",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷03",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "緇衣",
     "title": "緇衣",
     "summary": "《禮記》篇名，以「好賢如緇衣」為發端，論述君臣、君子之交及治國之道。",
@@ -173053,6 +173860,25 @@
         "title": "史記 · 卷049",
         "url": "https://zh.wikisource.org/wiki/史記/卷049",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "美惡相飾",
+    "title": "美惡相飾",
+    "summary": "美與惡相為掩飾，吉凶成敗迭相循轉。",
+    "tags": [
+      "對待",
+      "循轉",
+      "環流"
+    ],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "鶡冠子",
+        "url": "https://zh.wikisource.org/wiki/鶡冠子",
+        "work": "鶡冠子"
       }
     ]
   },
@@ -175191,6 +176017,26 @@
     ]
   },
   {
+    "slug": "聖人不朽時變自守",
+    "title": "聖人不朽，時變自守",
+    "summary": "《鬼谷子》以為聖人之所以不滅，以其能因時之變而守虛無之常。",
+    "tags": [
+      "鬼谷子",
+      "道家思想",
+      "聖人觀",
+      "虛無"
+    ],
+    "sources": [
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "聖人之化世其樞在水",
     "title": "聖人之化世其樞在水",
     "summary": "聖人治世，其樞紐在水，水一則人心正，水清則民心易。",
@@ -175370,6 +176216,8 @@
       "修養",
       "天命",
       "關尹子",
+      "鬼谷子",
+      "治道",
       "部:子",
       "部:子/法家類"
     ],
@@ -175387,6 +176235,13 @@
         "title": "關尹子 · 3",
         "url": "https://zh.wikisource.org/wiki/關尹子/3",
         "work": "關尹子"
+      },
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -175638,6 +176493,9 @@
       "無為",
       "道家",
       "聖人",
+      "鬼谷子",
+      "守道",
+      "應時",
       "部:子",
       "部:子/兵家類"
     ],
@@ -175648,6 +176506,13 @@
         "title": "六韜",
         "url": "https://zh.wikisource.org/wiki/六韜",
         "work": "六韜"
+      },
+      {
+        "chapter": "卷01",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷01",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷01",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -175981,7 +176846,9 @@
     "tags": [
       "聖人",
       "見聞",
-      "虚無"
+      "虚無",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -177295,6 +178162,27 @@
         "title": "抱朴子 · 卷03",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷03",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "聞聲知音",
+    "title": "聞聲知音",
+    "summary": "聲氣不同則恩愛不接",
+    "tags": [
+      "鬼谷子",
+      "觀人",
+      "音律",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷03",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷03",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷03",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -178672,7 +179560,9 @@
     "tags": [
       "克己",
       "成己",
-      "修道"
+      "修道",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -188716,6 +189606,27 @@
     ]
   },
   {
+    "slug": "蘇秦張儀往見鬼谷先生",
+    "title": "蘇秦、張儀往見鬼谷先生",
+    "summary": "《鬼谷子》佚文載蘇秦、張儀齋戒往學之事，尹知章叙其正席而坐、告以全身之道。",
+    "tags": [
+      "鬼谷子",
+      "蘇秦",
+      "張儀",
+      "師承",
+      "遊說"
+    ],
+    "sources": [
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "蘧篨不鮮",
     "title": "蘧篨不鮮",
     "summary": "求美而得醜，喻嫁非其人",
@@ -194013,6 +194924,27 @@
     ]
   },
   {
+    "slug": "見形為容象體為貌",
+    "title": "見形為容，象體為貌",
+    "summary": "觀人之形貌以知其情",
+    "tags": [
+      "鬼谷子",
+      "觀人",
+      "鑒別",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷03",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷03",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷03",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "見微以知萌",
     "title": "見微以知萌",
     "summary": "",
@@ -195615,6 +196547,27 @@
     ]
   },
   {
+    "slug": "觧仇鬬郄",
+    "title": "解仇鬥郄",
+    "summary": "解弱仇、鬥強郄",
+    "tags": [
+      "鬼谷子",
+      "權謀",
+      "應對",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷03",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷03",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷03",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "觱沸檻泉",
     "title": "觱沸檻泉",
     "summary": "泉水沸涌，深則不息",
@@ -196493,7 +197446,9 @@
     "tags": [
       "信道",
       "言意",
-      "聖人"
+      "聖人",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -196756,6 +197711,27 @@
         "title": "史記 · 卷129",
         "url": "https://zh.wikisource.org/wiki/史記/卷129",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "計謀三儀",
+    "title": "計謀三儀",
+    "summary": "謀事之道，立上、中、下三儀以稽成敗，參以立焉以生奇。",
+    "tags": [
+      "鬼谷子",
+      "謀略",
+      "決策",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -198067,6 +199043,25 @@
         "title": "呂氏春秋 · 卷十五",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五",
         "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "說之不行言之不從",
+    "title": "說之不行，言之不從",
+    "summary": "《鬼谷子》言說之所以不行，在辨之不明、持之不固、未中其心之所善。",
+    "tags": [
+      "鬼谷子",
+      "遊說",
+      "說術"
+    ],
+    "sources": [
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
       }
     ]
   },
@@ -207164,6 +208159,28 @@
     ]
   },
   {
+    "slug": "辭言五",
+    "title": "辭言五",
+    "summary": "辭有五病——病言、怨言、憂言、怒言、喜言，各有其蔽，智者用之以行。",
+    "tags": [
+      "鬼谷子",
+      "遊說",
+      "言辭",
+      "交際",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "辭賞",
     "title": "辭賞",
     "summary": "功臣不受賞，恐使君有妄施之名。",
@@ -209265,7 +210282,9 @@
     "tags": [
       "信道",
       "執著",
-      "修道"
+      "修道",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -210250,7 +211269,10 @@
     "slug": "道交-之",
     "title": "道交-之",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
     "sources": [
       {
         "chapter": "9",
@@ -210268,7 +211290,9 @@
     "tags": [
       "道交",
       "父子",
-      "人倫"
+      "人倫",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -214884,7 +215908,10 @@
     "slug": "金玉難捐",
     "title": "金玉難捐",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
     "sources": [
       {
         "chapter": "9",
@@ -223778,6 +224805,27 @@
     ]
   },
   {
+    "slug": "飛箝",
+    "title": "飛箝",
+    "summary": "以言辭馭人之術，先譽以鉤之，後箝以制之。",
+    "tags": [
+      "鬼谷子",
+      "遊說",
+      "權謀",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷02",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 卷02",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/卷02",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
     "slug": "飛者入池而棺椁異處",
     "title": "飛者入池而棺椁異處",
     "summary": "以白馬為有馬，是悖言亂辭，如飛者入池、棺椁易位，荒謬不倫。",
@@ -226459,6 +227507,344 @@
         "title": "詩經 · 何人斯",
         "url": "https://zh.wikisource.org/wiki/詩經/何人斯",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "鬼谷子不可毀",
+    "title": "鬼谷子不可毀",
+    "summary": "書雖邪術，存之足以助人主察姦故不可毀。",
+    "tags": [
+      "鬼谷子",
+      "考據",
+      "盧文弨",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "跋",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 跋",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/跋",
+        "work": "鬼谷子"
+      },
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
+    "slug": "鬼谷子不待教學而能",
+    "title": "鬼谷子不待教學而能",
+    "summary": "姦邪之術，人未嘗學之而已與之闇合，不必讀此書。",
+    "tags": [
+      "鬼谷子",
+      "盧文弨",
+      "來鵠",
+      "部:子",
+      "部:子/雜家類",
+      "蘇秦",
+      "傳承"
+    ],
+    "sources": [
+      {
+        "chapter": "跋",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 跋",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/跋",
+        "work": "鬼谷子"
+      },
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
+    "slug": "鬼谷子作者之辨",
+    "title": "鬼谷子作者之辨",
+    "summary": "考《鬼谷子》作者之疑，辨蘇秦假託之說。",
+    "tags": [
+      "鬼谷子",
+      "考據",
+      "蘇秦",
+      "作者",
+      "柳宗元",
+      "王應麟",
+      "辨偽",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 序",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/序",
+        "work": "鬼谷子"
+      },
+      {
+        "chapter": "跋",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 跋",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/跋",
+        "work": "鬼谷子"
+      },
+      {
+        "chapter": "鬼谷子篇目考",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子篇目考",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子篇目考",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
+    "slug": "鬼谷子嘉慶刻本",
+    "title": "鬼谷子嘉慶刻本",
+    "summary": "記嘉慶年間秦恩復重刻《鬼谷子》之事。",
+    "tags": [
+      "鬼谷子",
+      "版本",
+      "秦恩復",
+      "嘉慶",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 序",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/序",
+        "work": "鬼谷子"
+      },
+      {
+        "chapter": "跋",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 跋",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/跋",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
+    "slug": "鬼谷子文多韻語",
+    "title": "鬼谷子文多韻語",
+    "summary": "《鬼谷子》文中多韻語，可驗其古。",
+    "tags": [
+      "鬼谷子",
+      "阮元",
+      "考據",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "跋",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 跋",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/跋",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
+    "slug": "鬼谷子書之傳承",
+    "title": "鬼谷子書之傳承",
+    "summary": "考《鬼谷子》自隋以來之著錄流傳，見其卷帙分合、篇目闕佚之迹也。",
+    "tags": [
+      "鬼谷子",
+      "書目",
+      "傳承",
+      "隋志",
+      "唐志",
+      "宋志",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "鬼谷子篇目考",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子篇目考",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子篇目考",
+        "work": "鬼谷子"
+      },
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
+    "slug": "鬼谷子書之淵源",
+    "title": "鬼谷子書之淵源",
+    "summary": "述《鬼谷子》書之名數篇章淵源。",
+    "tags": [
+      "鬼谷子",
+      "典籍",
+      "篇章",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 序",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/序",
+        "work": "鬼谷子"
+      },
+      {
+        "chapter": "跋",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 跋",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/跋",
+        "work": "鬼谷子"
+      },
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
+    "slug": "鬼谷子注者之辨",
+    "title": "鬼谷子注者之辨",
+    "summary": "辨《鬼谷子》注者陶宏景、尹知章之異說。",
+    "tags": [
+      "鬼谷子",
+      "注疏",
+      "陶宏景",
+      "尹知章",
+      "考據",
+      "注者",
+      "陶弘景",
+      "樂壹",
+      "皇甫謐",
+      "書目",
+      "部:子",
+      "部:子/雜家類",
+      "注本",
+      "蘇秦",
+      "考辨"
+    ],
+    "sources": [
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 序",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/序",
+        "work": "鬼谷子"
+      },
+      {
+        "chapter": "跋",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 跋",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/跋",
+        "work": "鬼谷子"
+      },
+      {
+        "chapter": "鬼谷子篇目考",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子篇目考",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子篇目考",
+        "work": "鬼谷子"
+      },
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
+    "slug": "鬼谷子篇目考",
+    "title": "鬼谷子篇目考",
+    "summary": "彙輯歷代史志及私家目錄，考《鬼谷子》之著錄、傳承、注家、辨偽者也。",
+    "tags": [
+      "鬼谷子",
+      "書目",
+      "考據",
+      "縱橫家",
+      "古書流傳",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "鬼谷子篇目考",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子篇目考",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子篇目考",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
+    "slug": "鬼谷子縱橫家獨存之子書",
+    "title": "鬼谷子縱橫家獨存之子書",
+    "summary": "《鬼谷子》為縱橫家僅存之子書，陶注亦世所久佚，宜精校流傳。",
+    "tags": [
+      "鬼谷子",
+      "阮元",
+      "考據",
+      "部:子",
+      "部:子/雜家類"
+    ],
+    "sources": [
+      {
+        "chapter": "跋",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 跋",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/跋",
+        "work": "鬼谷子"
+      }
+    ]
+  },
+  {
+    "slug": "鬼谷子術遇正人而窮",
+    "title": "鬼谷子術遇正人而窮",
+    "summary": "此書之術，於守正之人無所用之。",
+    "tags": [
+      "鬼谷子",
+      "盧文弨",
+      "部:子",
+      "部:子/雜家類",
+      "遊說",
+      "局限"
+    ],
+    "sources": [
+      {
+        "chapter": "跋",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 跋",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/跋",
+        "work": "鬼谷子"
+      },
+      {
+        "chapter": "鬼谷子附録",
+        "plugin": "wikisource",
+        "title": "鬼谷子 · 鬼谷子附録",
+        "url": "https://zh.wikisource.org/wiki/鬼谷子/鬼谷子附録",
+        "work": "鬼谷子"
       }
     ]
   },
