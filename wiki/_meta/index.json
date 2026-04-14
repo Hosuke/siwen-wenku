@@ -8728,6 +8728,25 @@
     ]
   },
   {
+    "slug": "不若德不聽罪",
+    "title": "不若德不聽罪",
+    "summary": "不循德義、不納罪咎者，必致殃咎。",
+    "tags": [
+      "德義",
+      "罪咎",
+      "殃慶"
+    ],
+    "sources": [
+      {
+        "chapter": "高宗肜日",
+        "plugin": "wikisource",
+        "title": "尚書 · 高宗肜日",
+        "url": "https://zh.wikisource.org/wiki/尚書/高宗肜日",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "不菑畬",
     "title": "不菑畬",
     "summary": "農事順時，不圖倖獲。",
@@ -32447,6 +32466,25 @@
     ]
   },
   {
+    "slug": "先格王正厥事",
+    "title": "先格王正厥事",
+    "summary": "匡君之失，乃臣首務。",
+    "tags": [
+      "臣道",
+      "忠諫",
+      "正事"
+    ],
+    "sources": [
+      {
+        "chapter": "高宗肜日",
+        "plugin": "wikisource",
+        "title": "尚書 · 高宗肜日",
+        "url": "https://zh.wikisource.org/wiki/尚書/高宗肜日",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "先正之臣",
     "title": "先正之臣",
     "summary": "昔日正直之臣，能輔佐君主以正四方也。",
@@ -38618,6 +38656,25 @@
         "plugin": "wikisource",
         "title": "尚書 · 舜典",
         "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "典祀無豐于昵",
+    "title": "典祀無豐于昵",
+    "summary": "祭祀有常，不可偏厚近親。",
+    "tags": [
+      "祭祀",
+      "禮義",
+      "節制"
+    ],
+    "sources": [
+      {
+        "chapter": "高宗肜日",
+        "plugin": "wikisource",
+        "title": "尚書 · 高宗肜日",
+        "url": "https://zh.wikisource.org/wiki/尚書/高宗肜日",
         "work": "尚書"
       }
     ]
@@ -57592,6 +57649,24 @@
     ]
   },
   {
+    "slug": "周公代武王",
+    "title": "周公代武王",
+    "summary": "周公欲以身代武王受疾，而祈于先王。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "金縢",
+        "plugin": "wikisource",
+        "title": "尚書 · 金縢",
+        "url": "https://zh.wikisource.org/wiki/尚書/金縢",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "周公出奔晉",
     "title": "周公出奔晉",
     "summary": "周公奔晉，天子之臣出走附諸侯，義本於臣道。",
@@ -73519,7 +73594,10 @@
     "slug": "大訓",
     "title": "大訓",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
     "sources": [
       {
         "chapter": "顧命",
@@ -75171,6 +75249,13 @@
         "title": "尚書 · 周武王有疾周公所自以代王之志",
         "url": "https://zh.wikisource.org/wiki/尚書/周武王有疾周公所自以代王之志",
         "work": "尚書"
+      },
+      {
+        "chapter": "金縢",
+        "plugin": "wikisource",
+        "title": "尚書 · 金縢",
+        "url": "https://zh.wikisource.org/wiki/尚書/金縢",
+        "work": "尚書"
       }
     ]
   },
@@ -76583,6 +76668,43 @@
     ]
   },
   {
+    "slug": "天既孚命正厥德",
+    "title": "天既孚命正厥德",
+    "summary": "天命已施，當修德以應。",
+    "tags": [
+      "天命",
+      "修德",
+      "敬天"
+    ],
+    "sources": [
+      {
+        "chapter": "高宗肜日",
+        "plugin": "wikisource",
+        "title": "尚書 · 高宗肜日",
+        "url": "https://zh.wikisource.org/wiki/尚書/高宗肜日",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "天既訖殷命",
+    "title": "天既訖殷命",
+    "summary": "天終止殷商之命，格人元龜皆知其凶，不可僥倖。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "西伯戡黎",
+        "plugin": "wikisource",
+        "title": "尚書 · 西伯戡黎",
+        "url": "https://zh.wikisource.org/wiki/尚書/西伯戡黎",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "天時不作",
     "title": "天時不作勿為客",
     "summary": "天時未至、人事未起，不可以先發，是聖人觀時待令之道也。",
@@ -77143,6 +77265,25 @@
         "plugin": "wikisource",
         "title": "尚書 · 禹誓",
         "url": "https://zh.wikisource.org/wiki/尚書/禹誓",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "天監下民",
+    "title": "天監下民",
+    "summary": "天鑒民心，依義賞罰。",
+    "tags": [
+      "天命",
+      "敬德",
+      "觀人"
+    ],
+    "sources": [
+      {
+        "chapter": "高宗肜日",
+        "plugin": "wikisource",
+        "title": "尚書 · 高宗肜日",
+        "url": "https://zh.wikisource.org/wiki/尚書/高宗肜日",
         "work": "尚書"
       }
     ]
@@ -86260,6 +86401,27 @@
         "title": "史記 · 卷103",
         "url": "https://zh.wikisource.org/wiki/史記/卷103",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "孝養厥父母",
+    "title": "孝養厥父母",
+    "summary": "百姓盡力農商，致孝養父母，祭祀時乃許用酒。",
+    "tags": [
+      "孝道",
+      "倫理",
+      "戒酒",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "酒誥",
+        "plugin": "wikisource",
+        "title": "尚書 · 酒誥",
+        "url": "https://zh.wikisource.org/wiki/尚書/酒誥",
+        "work": "尚書"
       }
     ]
   },
@@ -107110,6 +107272,27 @@
         "plugin": "wikisource",
         "title": "尚書 · 呂刑",
         "url": "https://zh.wikisource.org/wiki/尚書/呂刑",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "德將無醉",
+    "title": "德將無醉",
+    "summary": "以德行自律，則自然不醉，非強制所能致。",
+    "tags": [
+      "德行",
+      "戒酒",
+      "自律",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "酒誥",
+        "plugin": "wikisource",
+        "title": "尚書 · 酒誥",
+        "url": "https://zh.wikisource.org/wiki/尚書/酒誥",
         "work": "尚書"
       }
     ]
@@ -142829,6 +143012,24 @@
     ]
   },
   {
+    "slug": "殷之即喪",
+    "title": "殷之即喪",
+    "summary": "殷之將亡，乃王自作之功，實無益于爾邦。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "西伯戡黎",
+        "plugin": "wikisource",
+        "title": "尚書 · 西伯戡黎",
+        "url": "https://zh.wikisource.org/wiki/尚書/西伯戡黎",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "殷其靁",
     "title": "殷其靁",
     "summary": "室家閔遠行君子之詩",
@@ -143974,6 +144175,25 @@
     ]
   },
   {
+    "slug": "民中絕命",
+    "title": "民中絕命",
+    "summary": "悖德不聽罪者，自趣於夭絕。",
+    "tags": [
+      "天命",
+      "修德",
+      "殃慶"
+    ],
+    "sources": [
+      {
+        "chapter": "高宗肜日",
+        "plugin": "wikisource",
+        "title": "尚書 · 高宗肜日",
+        "url": "https://zh.wikisource.org/wiki/尚書/高宗肜日",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "民之攸塈",
     "title": "民之攸塈",
     "summary": "君子勤於職守，則萬民各得其安。",
@@ -144697,6 +144917,66 @@
         "plugin": "wikisource",
         "title": "尚書 · 盤庚上",
         "url": "https://zh.wikisource.org/wiki/尚書/盤庚上",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "民用大亂",
+    "title": "民用大亂",
+    "summary": "因酒而致人事悖亂、道德淪喪。",
+    "tags": [
+      "政治",
+      "戒酒",
+      "敗德",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "酒誥",
+        "plugin": "wikisource",
+        "title": "尚書 · 酒誥",
+        "url": "https://zh.wikisource.org/wiki/尚書/酒誥",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "民監",
+    "title": "民監",
+    "summary": "以民之視聽為鏡鑒，觀民情以知得失。",
+    "tags": [
+      "治道",
+      "監戒",
+      "愛民",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "酒誥",
+        "plugin": "wikisource",
+        "title": "尚書 · 酒誥",
+        "url": "https://zh.wikisource.org/wiki/尚書/酒誥",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "民罔弗欲喪",
+    "title": "民罔弗欲喪",
+    "summary": "殷民無不欲殷之亡，天不降威則民心去。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "西伯戡黎",
+        "plugin": "wikisource",
+        "title": "尚書 · 西伯戡黎",
+        "url": "https://zh.wikisource.org/wiki/尚書/西伯戡黎",
         "work": "尚書"
       }
     ]
@@ -146838,6 +147118,8 @@
       "殷商",
       "酒禍",
       "亡國",
+      "戒酒",
+      "敗德",
       "部:經",
       "部:經/書類"
     ],
@@ -146847,6 +147129,13 @@
         "plugin": "wikisource",
         "title": "尚書 · 微子",
         "url": "https://zh.wikisource.org/wiki/尚書/微子",
+        "work": "尚書"
+      },
+      {
+        "chapter": "酒誥",
+        "plugin": "wikisource",
+        "title": "尚書 · 酒誥",
+        "url": "https://zh.wikisource.org/wiki/尚書/酒誥",
         "work": "尚書"
       }
     ]
@@ -150393,6 +150682,24 @@
         "title": "國語 · 卷21",
         "url": "https://zh.wikisource.org/wiki/國語/卷21",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "淫戲自絕",
+    "title": "淫戲自絕",
+    "summary": "惟王淫戲，是自絕于先王、自絕于天。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "西伯戡黎",
+        "plugin": "wikisource",
+        "title": "尚書 · 西伯戡黎",
+        "url": "https://zh.wikisource.org/wiki/尚書/西伯戡黎",
+        "work": "尚書"
       }
     ]
   },
@@ -157139,6 +157446,27 @@
     ]
   },
   {
+    "slug": "無彝酒",
+    "title": "無彝酒",
+    "summary": "不可常常酣飲，常酒非德，必至於乱。",
+    "tags": [
+      "戒酒",
+      "德行",
+      "誡命",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "酒誥",
+        "plugin": "wikisource",
+        "title": "尚書 · 酒誥",
+        "url": "https://zh.wikisource.org/wiki/尚書/酒誥",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "無從匪彝無即慆淫",
     "title": "無從匪彝，無即慆淫",
     "summary": "當守常道，不從邪僻，不就慢樂。",
@@ -162567,6 +162895,25 @@
     ]
   },
   {
+    "slug": "王司敬民",
+    "title": "王司敬民",
+    "summary": "王之職守，在敬其民。",
+    "tags": [
+      "君道",
+      "民本",
+      "敬德"
+    ],
+    "sources": [
+      {
+        "chapter": "高宗肜日",
+        "plugin": "wikisource",
+        "title": "尚書 · 高宗肜日",
+        "url": "https://zh.wikisource.org/wiki/尚書/高宗肜日",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "王在在鎬",
     "title": "王在在鎬",
     "summary": "鎬京為武王故居，君子思古以刺今",
@@ -164022,6 +164369,24 @@
         "title": "管子 · 第35篇侈靡",
         "url": "https://zh.wikisource.org/wiki/管子/第35篇侈靡",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "生不有命在天",
+    "title": "生不有命在天",
+    "summary": "紂恃天命而驕，不知天命已移，不知修德以永保。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "西伯戡黎",
+        "plugin": "wikisource",
+        "title": "尚書 · 西伯戡黎",
+        "url": "https://zh.wikisource.org/wiki/尚書/西伯戡黎",
+        "work": "尚書"
       }
     ]
   },
@@ -180571,6 +180936,24 @@
     ]
   },
   {
+    "slug": "管蔡流言",
+    "title": "管蔡流言",
+    "summary": "管叔及其羣弟流言于國，謂周公將不利于孺子。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "金縢",
+        "plugin": "wikisource",
+        "title": "尚書 · 金縢",
+        "url": "https://zh.wikisource.org/wiki/尚書/金縢",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "節以制度",
     "title": "節以制度",
     "summary": "制度節制，則不傷財害民。",
@@ -184732,6 +185115,25 @@
     ]
   },
   {
+    "slug": "罔非天胤",
+    "title": "罔非天胤",
+    "summary": "民皆天之子，無一例外。",
+    "tags": [
+      "天命",
+      "民本",
+      "天人"
+    ],
+    "sources": [
+      {
+        "chapter": "高宗肜日",
+        "plugin": "wikisource",
+        "title": "尚書 · 高宗肜日",
+        "url": "https://zh.wikisource.org/wiki/尚書/高宗肜日",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "罪人以族官人以世",
     "title": "罪人以族，官人以世",
     "summary": "商王用法酷暴，罰則連族，官則世及，不問賢否。",
@@ -184745,6 +185147,24 @@
         "plugin": "wikisource",
         "title": "尚書 · 泰誓上",
         "url": "https://zh.wikisource.org/wiki/尚書/泰誓上",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "罪參于上",
+    "title": "罪參于上",
+    "summary": "罪惡累積于上，乃能責望天命。言王者不可恃天命而肆無忌憚。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "西伯戡黎",
+        "plugin": "wikisource",
+        "title": "尚書 · 西伯戡黎",
+        "url": "https://zh.wikisource.org/wiki/尚書/西伯戡黎",
         "work": "尚書"
       }
     ]
@@ -206790,6 +207210,24 @@
         "title": "詩經 · 大東",
         "url": "https://zh.wikisource.org/wiki/詩經/大東",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "西伯戡黎",
+    "title": "西伯戡黎",
+    "summary": "周文王伐黎，殷之亡徵已著，祖伊奔告以諫。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "西伯戡黎",
+        "plugin": "wikisource",
+        "title": "尚書 · 西伯戡黎",
+        "url": "https://zh.wikisource.org/wiki/尚書/西伯戡黎",
+        "work": "尚書"
       }
     ]
   },
@@ -229339,6 +229777,13 @@
         "title": "尚書 · 周武王有疾周公所自以代王之志",
         "url": "https://zh.wikisource.org/wiki/尚書/周武王有疾周公所自以代王之志",
         "work": "尚書"
+      },
+      {
+        "chapter": "金縢",
+        "plugin": "wikisource",
+        "title": "尚書 · 金縢",
+        "url": "https://zh.wikisource.org/wiki/尚書/金縢",
+        "work": "尚書"
       }
     ]
   },
@@ -231191,6 +231636,25 @@
         "title": "禮記 · 王制",
         "url": "https://zh.wikisource.org/wiki/禮記/王制",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "降年有永有不永",
+    "title": "降年有永有不永",
+    "summary": "壽夭非天夭之，乃人自絕之。",
+    "tags": [
+      "天命",
+      "修德",
+      "夭壽"
+    ],
+    "sources": [
+      {
+        "chapter": "高宗肜日",
+        "plugin": "wikisource",
+        "title": "尚書 · 高宗肜日",
+        "url": "https://zh.wikisource.org/wiki/尚書/高宗肜日",
+        "work": "尚書"
       }
     ]
   },
@@ -243605,6 +244069,13 @@
         "plugin": "wikisource",
         "title": "尚書 · 周武王有疾周公所自以代王之志",
         "url": "https://zh.wikisource.org/wiki/尚書/周武王有疾周公所自以代王之志",
+        "work": "尚書"
+      },
+      {
+        "chapter": "金縢",
+        "plugin": "wikisource",
+        "title": "尚書 · 金縢",
+        "url": "https://zh.wikisource.org/wiki/尚書/金縢",
         "work": "尚書"
       }
     ]
