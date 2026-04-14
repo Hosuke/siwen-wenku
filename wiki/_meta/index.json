@@ -4635,6 +4635,13 @@
         "title": "史記 · 卷127",
         "url": "https://zh.wikisource.org/wiki/史記/卷127",
         "work": "史記"
+      },
+      {
+        "chapter": "德經",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 德經",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -6933,6 +6940,26 @@
         "title": "周易 · 恒",
         "url": "https://zh.wikisource.org/wiki/周易/恒",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "不愆六步七步",
+    "title": "不愆六步七步",
+    "summary": "師行有序，止則齊焉，軍律之要也。",
+    "tags": [
+      "尚書",
+      "軍律",
+      "步伐",
+      "牧誓"
+    ],
+    "sources": [
+      {
+        "chapter": "牧誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 牧誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/牧誓",
+        "work": "尚書"
       }
     ]
   },
@@ -12948,6 +12975,27 @@
         "title": "詩經 · 瞻卬",
         "url": "https://zh.wikisource.org/wiki/詩經/瞻卬",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "亂臣十人",
+    "title": "亂臣十人",
+    "summary": "武王有賢臣十人，同心同德，以成撥亂之功。",
+    "tags": [
+      "賢臣",
+      "君臣",
+      "德行",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "泰誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 泰誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/泰誓",
+        "work": "尚書"
       }
     ]
   },
@@ -24091,7 +24139,9 @@
       "伊尹",
       "太甲",
       "臣道",
-      "尚書之誥"
+      "尚書之誥",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -28597,6 +28647,25 @@
     ]
   },
   {
+    "slug": "信言不美",
+    "title": "信言不美",
+    "summary": "信言不美，美言不信；善者不辯，辯者不善；知者不博，博者不知。",
+    "tags": [
+      "道家",
+      "認識論",
+      "真偽"
+    ],
+    "sources": [
+      {
+        "chapter": "德經",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 德經",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "信身從事",
     "title": "信身從事",
     "summary": "",
@@ -28659,6 +28728,25 @@
         "title": "史記 · 卷079",
         "url": "https://zh.wikisource.org/wiki/史記/卷079",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "修厥身",
+    "title": "修厥身",
+    "summary": "君王治國，必先修飭己身。",
+    "tags": [
+      "修身",
+      "治道",
+      "修己"
+    ],
+    "sources": [
+      {
+        "chapter": "太甲中",
+        "plugin": "wikisource",
+        "title": "尚書 · 太甲中",
+        "url": "https://zh.wikisource.org/wiki/尚書/太甲中",
+        "work": "尚書"
       }
     ]
   },
@@ -32399,7 +32487,9 @@
       "尚書",
       "修身",
       "德行",
-      "誠信"
+      "誠信",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -54591,6 +54681,25 @@
     ]
   },
   {
+    "slug": "含德",
+    "title": "含德",
+    "summary": "含蓄厚德，歸返赤子。",
+    "tags": [
+      "道家",
+      "德治",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "德經",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 德經",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "含章可貞",
     "title": "含章可貞",
     "summary": "",
@@ -58043,6 +58152,25 @@
     ]
   },
   {
+    "slug": "咸建五長",
+    "title": "咸建五長",
+    "summary": "分域設官，萬邦一統。",
+    "tags": [
+      "制度",
+      "邦國",
+      "治理"
+    ],
+    "sources": [
+      {
+        "chapter": "益稷",
+        "plugin": "wikisource",
+        "title": "尚書 · 益稷",
+        "url": "https://zh.wikisource.org/wiki/尚書/益稷",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "咸成文王功于不怠",
     "title": "咸成文王功于不怠",
     "summary": "勉力不怠，以成文王之功",
@@ -60524,6 +60652,25 @@
     ]
   },
   {
+    "slug": "善為道者",
+    "title": "善為道者",
+    "summary": "古之善為道者，不以智明民，將以愚之。",
+    "tags": [
+      "道家",
+      "治國",
+      "玄德"
+    ],
+    "sources": [
+      {
+        "chapter": "德經",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 德經",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "善用之則百里之國足以獨立",
     "title": "善用之，則百里之國足以獨立",
     "summary": "文王以百里而天下一，桀紂有天下之勢而不能，國之安危在人主務得道與否。",
@@ -62776,6 +62923,26 @@
         "title": "尹文子 · 佚文",
         "url": "https://zh.wikisource.org/wiki/尹文子/佚文",
         "work": "尹文子"
+      }
+    ]
+  },
+  {
+    "slug": "四方之多罪逋逃",
+    "title": "四方之多罪逋逃",
+    "summary": "天子崇姦長惡，則亡徵見矣。",
+    "tags": [
+      "尚書",
+      "姦宄",
+      "崇姦",
+      "亡國"
+    ],
+    "sources": [
+      {
+        "chapter": "牧誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 牧誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/牧誓",
+        "work": "尚書"
       }
     ]
   },
@@ -69937,6 +70104,25 @@
     ]
   },
   {
+    "slug": "夔擊石拊石",
+    "title": "夔擊石拊石",
+    "summary": "樂和而百獸率舞，鳳皇來儀。",
+    "tags": [
+      "音樂",
+      "禮樂",
+      "祥瑞"
+    ],
+    "sources": [
+      {
+        "chapter": "益稷",
+        "plugin": "wikisource",
+        "title": "尚書 · 益稷",
+        "url": "https://zh.wikisource.org/wiki/尚書/益稷",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "外之有徒",
     "title": "外之有徒",
     "summary": "命令不行於內，民心遂流於外，外患由是而生。",
@@ -73353,6 +73539,25 @@
     ]
   },
   {
+    "slug": "天下莫柔弱於水",
+    "title": "天下莫柔弱於水",
+    "summary": "柔弱勝剛強，天下莫不知，莫能行。",
+    "tags": [
+      "道家",
+      "柔弱",
+      "剛柔"
+    ],
+    "sources": [
+      {
+        "chapter": "德經",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 德經",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "天下隨時",
     "title": "天下隨時",
     "summary": "天下之物，各隨其時，時之義大矣。",
@@ -73756,6 +73961,25 @@
         "plugin": "wikisource",
         "title": "尚書 · 咸有一德",
         "url": "https://zh.wikisource.org/wiki/尚書/咸有一德",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "天作孽猶可違",
+    "title": "天作孽猶可違",
+    "summary": "天災可避，自作孽則無所逃。",
+    "tags": [
+      "天災",
+      "自作孽",
+      "戒慎"
+    ],
+    "sources": [
+      {
+        "chapter": "太甲中",
+        "plugin": "wikisource",
+        "title": "尚書 · 太甲中",
+        "url": "https://zh.wikisource.org/wiki/尚書/太甲中",
         "work": "尚書"
       }
     ]
@@ -75046,6 +75270,27 @@
         "title": "墨子 · 天志中",
         "url": "https://zh.wikisource.org/wiki/墨子/天志中",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "天必從之",
+    "title": "天必從之",
+    "summary": "天命轉移，視民所願，民欲之，天必從之。",
+    "tags": [
+      "天命",
+      "民本",
+      "革命",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "泰誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 泰誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/泰誓",
+        "work": "尚書"
       }
     ]
   },
@@ -78542,6 +78787,25 @@
         "title": "史記 · 卷085",
         "url": "https://zh.wikisource.org/wiki/史記/卷085",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "奉先思孝",
+    "title": "奉先思孝",
+    "summary": "祭祀先人，當思孝道。",
+    "tags": [
+      "孝道",
+      "祭祀",
+      "祖宗"
+    ],
+    "sources": [
+      {
+        "chapter": "太甲中",
+        "plugin": "wikisource",
+        "title": "尚書 · 太甲中",
+        "url": "https://zh.wikisource.org/wiki/尚書/太甲中",
+        "work": "尚書"
       }
     ]
   },
@@ -82518,6 +82782,25 @@
         "title": "禮記 · 文王世子",
         "url": "https://zh.wikisource.org/wiki/禮記/文王世子",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "子惠困窮",
+    "title": "子惠困窮",
+    "summary": "君恩如春，惠及困窮，民自服命。",
+    "tags": [
+      "仁政",
+      "惠民",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "太甲中",
+        "plugin": "wikisource",
+        "title": "尚書 · 太甲中",
+        "url": "https://zh.wikisource.org/wiki/尚書/太甲中",
+        "work": "尚書"
       }
     ]
   },
@@ -93271,6 +93554,25 @@
     ]
   },
   {
+    "slug": "小國寡民",
+    "title": "小國寡民",
+    "summary": "理想之世，國小民寡，各安其俗。",
+    "tags": [
+      "道家",
+      "治國",
+      "理想社會"
+    ],
+    "sources": [
+      {
+        "chapter": "德經",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 德經",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "小國無文德而有武功",
     "title": "小國無文德而有武功",
     "summary": "子產謂小國無文德而有武功，禍莫大焉。",
@@ -96527,6 +96829,26 @@
     ]
   },
   {
+    "slug": "左杖黃鉞右秉白旄",
+    "title": "左杖黃鉞右秉白旄",
+    "summary": "天子誓師之儀，左誅、右帥，各有所秉。",
+    "tags": [
+      "尚書",
+      "儀仗",
+      "誓師",
+      "兵權"
+    ],
+    "sources": [
+      {
+        "chapter": "牧誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 牧誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/牧誓",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "左者出者右者入者",
     "title": "左者出者也；右者入者也",
     "summary": "左右出入之義，各止其所，不相傷也。",
@@ -99546,6 +99868,25 @@
     ]
   },
   {
+    "slug": "庶頑讒說",
+    "title": "庶頑讒說",
+    "summary": "教以法，正以刑。",
+    "tags": [
+      "治民",
+      "教化",
+      "刑法"
+    ],
+    "sources": [
+      {
+        "chapter": "益稷",
+        "plugin": "wikisource",
+        "title": "尚書 · 益稷",
+        "url": "https://zh.wikisource.org/wiki/尚書/益稷",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "康侯用錫馬蕃庶",
     "title": "康侯用錫馬蕃庶",
     "summary": "康侯受賞馬眾多，一日三受接見",
@@ -99602,6 +99943,26 @@
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "庸蜀羌髳微盧彭濮",
+    "title": "庸蜀羌髳微盧彭濮",
+    "summary": "誓師所會西土及南方八種之戎狄。",
+    "tags": [
+      "尚書",
+      "戎狄",
+      "盟邦",
+      "征商"
+    ],
+    "sources": [
+      {
+        "chapter": "牧誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 牧誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/牧誓",
+        "work": "尚書"
       }
     ]
   },
@@ -100790,6 +101151,26 @@
         "title": "墨子 · 親士",
         "url": "https://zh.wikisource.org/wiki/墨子/親士",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "弗御克奔以役西土",
+    "title": "弗御克奔以役西土",
+    "summary": "誅首惡，不殺奔降，仁義之師也。",
+    "tags": [
+      "尚書",
+      "征伐",
+      "仁義",
+      "奔降"
+    ],
+    "sources": [
+      {
+        "chapter": "牧誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 牧誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/牧誓",
+        "work": "尚書"
       }
     ]
   },
@@ -107276,6 +107657,13 @@
         "title": "詩經 · 駉",
         "url": "https://zh.wikisource.org/wiki/詩經/駉",
         "work": "詩經"
+      },
+      {
+        "chapter": "太甲中",
+        "plugin": "wikisource",
+        "title": "尚書 · 太甲中",
+        "url": "https://zh.wikisource.org/wiki/尚書/太甲中",
+        "work": "尚書"
       }
     ]
   },
@@ -108221,7 +108609,9 @@
       "征伐",
       "正義",
       "部:經",
-      "部:經/書類"
+      "部:經/書類",
+      "天道",
+      "武王"
     ],
     "sources": [
       {
@@ -108236,6 +108626,13 @@
         "plugin": "wikisource",
         "title": "尚書 · 甘誓",
         "url": "https://zh.wikisource.org/wiki/尚書/甘誓",
+        "work": "尚書"
+      },
+      {
+        "chapter": "牧誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 牧誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/牧誓",
         "work": "尚書"
       }
     ]
@@ -108950,6 +109347,26 @@
         "title": "楚辭 · 遠遊",
         "url": "https://zh.wikisource.org/wiki/楚辭/遠遊",
         "work": "楚辭"
+      }
+    ]
+  },
+  {
+    "slug": "惟婦言是用",
+    "title": "惟婦言是用",
+    "summary": "聽信讒言而棄骨肉、怠祭祀，國必亡。",
+    "tags": [
+      "尚書",
+      "紂",
+      "讒言",
+      "亡國"
+    ],
+    "sources": [
+      {
+        "chapter": "牧誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 牧誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/牧誓",
+        "work": "尚書"
       }
     ]
   },
@@ -110491,6 +110908,13 @@
         "title": "韓非子 · 解老",
         "url": "https://zh.wikisource.org/wiki/韓非子/解老",
         "work": "韓非子"
+      },
+      {
+        "chapter": "德經",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 德經",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -119801,7 +120225,9 @@
     "tags": [
       "尚書",
       "求賢",
-      "教育"
+      "教育",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -120274,6 +120700,25 @@
         "title": "詩經 · 吉日",
         "url": "https://zh.wikisource.org/wiki/詩經/吉日",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "既往背師保之訓",
+    "title": "既往背師保之訓",
+    "summary": "背棄師保之教誨，後當圖以善終。",
+    "tags": [
+      "師保",
+      "教誨",
+      "悔過"
+    ],
+    "sources": [
+      {
+        "chapter": "太甲中",
+        "plugin": "wikisource",
+        "title": "尚書 · 太甲中",
+        "url": "https://zh.wikisource.org/wiki/尚書/太甲中",
+        "work": "尚書"
       }
     ]
   },
@@ -122063,6 +122508,13 @@
         "title": "尚書 · 皐陶謨",
         "url": "https://zh.wikisource.org/wiki/尚書/皐陶謨",
         "work": "尚書"
+      },
+      {
+        "chapter": "益稷",
+        "plugin": "wikisource",
+        "title": "尚書 · 益稷",
+        "url": "https://zh.wikisource.org/wiki/尚書/益稷",
+        "work": "尚書"
       }
     ]
   },
@@ -122815,6 +123267,26 @@
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "昏棄厥肆祀",
+    "title": "昏棄厥肆祀",
+    "summary": "怠慢祭祀，荒廢祖德，亡國之兆。",
+    "tags": [
+      "尚書",
+      "祭祀",
+      "怠慢",
+      "亡國"
+    ],
+    "sources": [
+      {
+        "chapter": "牧誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 牧誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/牧誓",
+        "work": "尚書"
       }
     ]
   },
@@ -123720,7 +124192,9 @@
       "尚書",
       "修身",
       "勤政",
-      "聖德"
+      "聖德",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -126574,7 +127048,10 @@
       "袁盎",
       "法制",
       "部:經",
-      "部:經/詩類"
+      "部:經/詩類",
+      "尚書",
+      "亡國",
+      "姦臣"
     ],
     "sources": [
       {
@@ -126590,6 +127067,13 @@
         "title": "史記 · 卷104",
         "url": "https://zh.wikisource.org/wiki/史記/卷104",
         "work": "史記"
+      },
+      {
+        "chapter": "牧誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 牧誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/牧誓",
+        "work": "尚書"
       }
     ]
   },
@@ -133701,6 +134185,26 @@
         "plugin": "wikisource",
         "title": "尚書 · 封許之命",
         "url": "https://zh.wikisource.org/wiki/尚書/封許之命",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "桓桓如虎如貔如熊如羆",
+    "title": "桓桓如虎如貔如熊如羆",
+    "summary": "師旅威武，奔赴商郊，如猛獸之搏噬。",
+    "tags": [
+      "尚書",
+      "武勇",
+      "征伐",
+      "猛獸"
+    ],
+    "sources": [
+      {
+        "chapter": "牧誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 牧誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/牧誓",
         "work": "尚書"
       }
     ]
@@ -141629,6 +142133,27 @@
     ]
   },
   {
+    "slug": "民視天聽",
+    "title": "民視天聽",
+    "summary": "天之視聽，即民之視聽，天人相應，民意為天意之準。",
+    "tags": [
+      "天人感應",
+      "民本",
+      "天命",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "泰誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 泰誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/泰誓",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "民貴",
     "title": "民貴",
     "summary": "民為邦本，社稷次之，君為輕。",
@@ -141646,6 +142171,25 @@
         "title": "孟子 · 盡心下",
         "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "民非后罔克胥匡以生",
+    "title": "民非后罔克胥匡以生",
+    "summary": "君民相依存，闕一則不能相正。",
+    "tags": [
+      "君民",
+      "相成",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "太甲中",
+        "plugin": "wikisource",
+        "title": "尚書 · 太甲中",
+        "url": "https://zh.wikisource.org/wiki/尚書/太甲中",
+        "work": "尚書"
       }
     ]
   },
@@ -156319,7 +156863,11 @@
     "summary": "友邦，與周同德之諸侯；冢君，諸侯之長。",
     "tags": [
       "部:經",
-      "部:經/書類"
+      "部:經/書類",
+      "尚書",
+      "盟邦",
+      "誓師",
+      "武王"
     ],
     "sources": [
       {
@@ -156327,6 +156875,13 @@
         "plugin": "wikisource",
         "title": "尚書 · 泰誓上",
         "url": "https://zh.wikisource.org/wiki/尚書/泰誓上",
+        "work": "尚書"
+      },
+      {
+        "chapter": "牧誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 牧誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/牧誓",
         "work": "尚書"
       }
     ]
@@ -156608,6 +157163,26 @@
         "title": "詩經 · 生民",
         "url": "https://zh.wikisource.org/wiki/詩經/生民",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "牝雞之晨惟家之索",
+    "title": "牝雞之晨惟家之索",
+    "summary": "婦言是用則家道敗壞。",
+    "tags": [
+      "尚書",
+      "牝雞",
+      "婦言",
+      "亡國"
+    ],
+    "sources": [
+      {
+        "chapter": "牧誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 牧誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/牧誓",
+        "work": "尚書"
       }
     ]
   },
@@ -157790,6 +158365,27 @@
         "title": "孟子 · 盡心上",
         "url": "https://zh.wikisource.org/wiki/孟子/盡心上",
         "work": "孟子"
+      }
+    ]
+  },
+  {
+    "slug": "獨夫",
+    "title": "獨夫",
+    "summary": "暴君失道，無臣無民，天下共棄之，謂之獨夫。",
+    "tags": [
+      "暴君",
+      "革命",
+      "天命",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "泰誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 泰誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/泰誓",
+        "work": "尚書"
       }
     ]
   },
@@ -182097,7 +182693,9 @@
       "尚書",
       "修身",
       "性情",
-      "教化"
+      "教化",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -186022,6 +186620,25 @@
     ]
   },
   {
+    "slug": "聽德惟聰",
+    "title": "聽德惟聰",
+    "summary": "能聽有德之言，謂之聰。",
+    "tags": [
+      "聽諫",
+      "聰慧",
+      "君王德行"
+    ],
+    "sources": [
+      {
+        "chapter": "太甲中",
+        "plugin": "wikisource",
+        "title": "尚書 · 太甲中",
+        "url": "https://zh.wikisource.org/wiki/尚書/太甲中",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "聽我藐藐",
     "title": "聽我藐藐",
     "summary": "教者諄諄，聽者藐藐，[[學不可以已]]而聞道者希之歎也。",
@@ -186604,7 +187221,9 @@
       "君臣",
       "史記",
       "部:史",
-      "部:史/正史類"
+      "部:史/正史類",
+      "政治",
+      "和諧"
     ],
     "sources": [
       {
@@ -186613,6 +187232,13 @@
         "title": "史記 · 卷002",
         "url": "https://zh.wikisource.org/wiki/史記/卷002",
         "work": "史記"
+      },
+      {
+        "chapter": "益稷",
+        "plugin": "wikisource",
+        "title": "尚書 · 益稷",
+        "url": "https://zh.wikisource.org/wiki/尚書/益稷",
+        "work": "尚書"
       }
     ]
   },
@@ -188222,6 +188848,25 @@
         "title": "墨子 · 備水",
         "url": "https://zh.wikisource.org/wiki/墨子/備水",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "自作孽不可逭",
+    "title": "自作孽不可逭",
+    "summary": "自我招禍，無可逃遁。",
+    "tags": [
+      "自作孽",
+      "戒慎",
+      "報應"
+    ],
+    "sources": [
+      {
+        "chapter": "太甲中",
+        "plugin": "wikisource",
+        "title": "尚書 · 太甲中",
+        "url": "https://zh.wikisource.org/wiki/尚書/太甲中",
+        "work": "尚書"
       }
     ]
   },
@@ -203846,6 +204491,25 @@
     ]
   },
   {
+    "slug": "視遠惟明",
+    "title": "視遠惟明",
+    "summary": "能見遠者之謂明。",
+    "tags": [
+      "明智",
+      "遠見",
+      "君王德行"
+    ],
+    "sources": [
+      {
+        "chapter": "太甲中",
+        "plugin": "wikisource",
+        "title": "尚書 · 太甲中",
+        "url": "https://zh.wikisource.org/wiki/尚書/太甲中",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "親仁善鄰",
     "title": "親仁善鄰",
     "summary": "治國之寶，不可失也",
@@ -217553,6 +218217,26 @@
         "title": "史記 · 卷006",
         "url": "https://zh.wikisource.org/wiki/史記/卷006",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "逖矣西土之人",
+    "title": "逖矣西土之人",
+    "summary": "王師遠來，撫慰西土從征之眾。",
+    "tags": [
+      "尚書",
+      "武王",
+      "征伐",
+      "慰勞"
+    ],
+    "sources": [
+      {
+        "chapter": "牧誓",
+        "plugin": "wikisource",
+        "title": "尚書 · 牧誓",
+        "url": "https://zh.wikisource.org/wiki/尚書/牧誓",
+        "work": "尚書"
       }
     ]
   },
