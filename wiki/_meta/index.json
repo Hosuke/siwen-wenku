@@ -216,7 +216,9 @@
     "tags": [
       "治道",
       "方法論",
-      "權變"
+      "權變",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -5703,6 +5705,25 @@
     ]
   },
   {
+    "slug": "不升則不降",
+    "title": "不升則不降",
+    "summary": "升降相因，不升則不降，不降則不升，聖人無為不先物。",
+    "tags": [
+      "升降",
+      "無為",
+      "聖人"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
     "slug": "不卜而與之戰",
     "title": "不卜而與之戰",
     "summary": "八種可擊之情，不必占兆，亟宜進兵。",
@@ -9194,7 +9215,9 @@
     "tags": [
       "治道",
       "權變",
-      "歷史觀"
+      "歷史觀",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -14710,6 +14733,27 @@
     ]
   },
   {
+    "slug": "五精",
+    "title": "五精",
+    "summary": "水火木金土，各有常性，變化不可勝數。",
+    "tags": [
+      "五行",
+      "哲學",
+      "關尹子",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "8",
+        "plugin": "wikisource",
+        "title": "關尹子 · 8",
+        "url": "https://zh.wikisource.org/wiki/關尹子/8",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
     "slug": "五紀",
     "title": "五紀",
     "summary": "歲、月、日、星辰、歷數，所以正天時也。",
@@ -15125,6 +15169,27 @@
         "plugin": "wikisource",
         "title": "關尹子 · 6",
         "url": "https://zh.wikisource.org/wiki/關尹子/6",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
+    "slug": "五行相生",
+    "title": "五行相生",
+    "summary": "水木火土金，相生相剋，循環不息。",
+    "tags": [
+      "五行",
+      "養生",
+      "關尹子",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "8",
+        "plugin": "wikisource",
+        "title": "關尹子 · 8",
+        "url": "https://zh.wikisource.org/wiki/關尹子/8",
         "work": "關尹子"
       }
     ]
@@ -37509,6 +37574,25 @@
     ]
   },
   {
+    "slug": "函堅則物必毀之",
+    "title": "函堅則物必毀之",
+    "summary": "物過於剛則折，聖人法道以深為根、以約為紀。",
+    "tags": [
+      "剛柔",
+      "適度",
+      "聖人"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
     "slug": "函掩其跡",
     "title": "函掩其跡",
     "summary": "君當掩飾形跡，絕臣窺探之望",
@@ -48824,7 +48908,9 @@
     "tags": [
       "治道",
       "自然而然",
-      "因任"
+      "因任",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -57005,6 +57091,25 @@
     ]
   },
   {
+    "slug": "善今者可以行古",
+    "title": "善今者可以行古",
+    "summary": "善於今者可以行古，善於末者可以立本。",
+    "tags": [
+      "古今",
+      "治本",
+      "行事"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
     "slug": "善作者不必善成",
     "title": "善作者不必善成",
     "summary": "行事之難，善始者未必能善終，善謀者未必能善竟。",
@@ -61927,6 +62032,25 @@
         "title": "詩經 · 園有桃",
         "url": "https://zh.wikisource.org/wiki/詩經/園有桃",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "圓爾道方爾德",
+    "title": "圓爾道方爾德",
+    "summary": "圓以行道，方以立德，平以成行，銳以成事。",
+    "tags": [
+      "修身",
+      "道",
+      "德"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
       }
     ]
   },
@@ -69533,6 +69657,25 @@
         "title": "管子 · 勢",
         "url": "https://zh.wikisource.org/wiki/管子/勢",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "天下之理舍親就疏",
+    "title": "天下之理舍親就疏",
+    "summary": "舍親就疏、舍本就末，可暫不可久，久則害生。",
+    "tags": [
+      "治道",
+      "舍取",
+      "審慎"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
       }
     ]
   },
@@ -82381,6 +82524,21 @@
     ]
   },
   {
+    "slug": "學之多弊-之",
+    "title": "學之多弊-之",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
     "slug": "學之為父子",
     "title": "學之為父子",
     "summary": "學所以明父子、君臣、長幼之義。",
@@ -89739,6 +89897,25 @@
         "title": "國語 · 卷01",
         "url": "https://zh.wikisource.org/wiki/國語/卷01",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "小隙沈舟",
+    "title": "小隙沈舟",
+    "summary": "小隙足以覆舟，修身治事當慎微杜漸。",
+    "tags": [
+      "慎微",
+      "積漸",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
       }
     ]
   },
@@ -100958,6 +101135,9 @@
       "情",
       "識",
       "感應",
+      "心學",
+      "情欲",
+      "關尹子",
       "部:子",
       "部:子/道家類"
     ],
@@ -100967,6 +101147,13 @@
         "plugin": "wikisource",
         "title": "關尹子 · 5",
         "url": "https://zh.wikisource.org/wiki/關尹子/5",
+        "work": "關尹子"
+      },
+      {
+        "chapter": "8",
+        "plugin": "wikisource",
+        "title": "關尹子 · 8",
+        "url": "https://zh.wikisource.org/wiki/關尹子/8",
         "work": "關尹子"
       }
     ]
@@ -109718,6 +109905,26 @@
     ]
   },
   {
+    "slug": "揲蓍灼龜",
+    "title": "揲蓍灼龜",
+    "summary": "古之善卜者，能以一端示萬象。",
+    "tags": [
+      "卜筮",
+      "關尹子",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "8",
+        "plugin": "wikisource",
+        "title": "關尹子 · 8",
+        "url": "https://zh.wikisource.org/wiki/關尹子/8",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
     "slug": "援而用之",
     "title": "援而用之",
     "summary": "聖人之道援而用之，歿世不亡，與時變而不化。",
@@ -110119,6 +110326,25 @@
         "title": "詩經 · 擊鼓",
         "url": "https://zh.wikisource.org/wiki/詩經/擊鼓",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "操之以誠行之以簡待之以恕",
+    "title": "操之以誠行之以簡待之以恕",
+    "summary": "修身待人之道：誠以自律，簡以行事，恕以待物。",
+    "tags": [
+      "修身",
+      "待人",
+      "處世"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
       }
     ]
   },
@@ -116823,6 +117049,25 @@
     ]
   },
   {
+    "slug": "昔之論道者",
+    "title": "昔之論道者",
+    "summary": "昔之論道者名目各異，若凝寂、邃深、澄澈、空同、晦冥，皆非道之究竟，慎勿怖退。",
+    "tags": [
+      "信道",
+      "言意",
+      "道體"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
     "slug": "昔儀狄既疏",
     "title": "昔儀狄既疏",
     "summary": "援引沉酒亡國之古事，以為當世之戒。",
@@ -119697,6 +119942,25 @@
     ]
   },
   {
+    "slug": "智之極者知智果不足以周物故愚",
+    "title": "智之極者知智果不足以周物故愚",
+    "summary": "智辨勇皆有其極，極則反，故智以愚成，辨以訥成，勇以怯成。",
+    "tags": [
+      "智愚",
+      "辨訥",
+      "勇怯"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
     "slug": "智伯亡晉陽",
     "title": "智伯亡晉陽",
     "summary": "兼人之國而不知足，禍莫大焉，終至身亡國分。",
@@ -120980,6 +121244,26 @@
         "title": "禮記 · 昏義",
         "url": "https://zh.wikisource.org/wiki/禮記/昏義",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "有之在彼",
+    "title": "有之在彼",
+    "summary": "有無相待，偶奇相成，鼓桴相應。",
+    "tags": [
+      "辯證法",
+      "關尹子",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "8",
+        "plugin": "wikisource",
+        "title": "關尹子 · 8",
+        "url": "https://zh.wikisource.org/wiki/關尹子/8",
+        "work": "關尹子"
       }
     ]
   },
@@ -134965,7 +135249,9 @@
     "tags": [
       "治道",
       "虛靜",
-      "智"
+      "智",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -141126,6 +141412,13 @@
         "title": "列子 · 天瑞篇",
         "url": "https://zh.wikisource.org/wiki/列子/天瑞篇",
         "work": "列子"
+      },
+      {
+        "chapter": "8",
+        "plugin": "wikisource",
+        "title": "關尹子 · 8",
+        "url": "https://zh.wikisource.org/wiki/關尹子/8",
+        "work": "關尹子"
       }
     ]
   },
@@ -149078,6 +149371,24 @@
     ]
   },
   {
+    "slug": "物不知我",
+    "title": "物不知我",
+    "summary": "",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "8",
+        "plugin": "wikisource",
+        "title": "關尹子 · 8",
+        "url": "https://zh.wikisource.org/wiki/關尹子/8",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
     "slug": "物不至者則不反",
     "title": "物不至者則不反",
     "summary": "物未極則不知返，患未至則不知戒",
@@ -149350,7 +149661,9 @@
     "tags": [
       "哲學",
       "認識論",
-      "治道"
+      "治道",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -150622,7 +150935,9 @@
     "tags": [
       "道家",
       "人性",
-      "治道"
+      "治道",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -158509,6 +158824,25 @@
         "title": "公孫龍子 · 5",
         "url": "https://zh.wikisource.org/wiki/公孫龍子/5",
         "work": "公孫龍子"
+      }
+    ]
+  },
+  {
+    "slug": "目之所見不知其幾何",
+    "title": "目之所見不知其幾何",
+    "summary": "執一色為目、執一聲為耳，聖人則不慕不拒不處。",
+    "tags": [
+      "見聞",
+      "執著",
+      "聖人"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
       }
     ]
   },
@@ -169431,7 +169765,9 @@
     "tags": [
       "鑒戒",
       "治道",
-      "防微杜漸"
+      "防微杜漸",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -170062,7 +170398,9 @@
       "關尹子",
       "氣",
       "化",
-      "方術"
+      "方術",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -175364,7 +175702,9 @@
       "關尹子",
       "聖人",
       "變",
-      "戒"
+      "戒",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -175635,6 +175975,25 @@
     ]
   },
   {
+    "slug": "聖人無所見故能無不見",
+    "title": "聖人無所見故能無不見",
+    "summary": "聖人無所偏見，故無所不見；無所偏聞，故無所不聞。",
+    "tags": [
+      "聖人",
+      "見聞",
+      "虚無"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
     "slug": "聖人理道",
     "title": "聖人理道",
     "summary": "聖人觀自然之序，以治天下。",
@@ -175750,7 +176109,9 @@
       "關尹子",
       "聖人",
       "化",
-      "一"
+      "一",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -178301,6 +178662,25 @@
         "title": "周易 · 師",
         "url": "https://zh.wikisource.org/wiki/周易/師",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "能克己乃能成己",
+    "title": "能克己乃能成己",
+    "summary": "克己而後成己，勝物而後利物，忘道而後有道。",
+    "tags": [
+      "克己",
+      "成己",
+      "修道"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
       }
     ]
   },
@@ -193859,7 +194239,9 @@
       "關尹子",
       "心",
       "見聞",
-      "環境"
+      "環境",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -196101,6 +196483,25 @@
         "title": "墨子 · 貴義",
         "url": "https://zh.wikisource.org/wiki/墨子/貴義",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "言道者如言夢",
+    "title": "言道者如言夢",
+    "summary": "言道如言夢，能言而不能與，能聞而不能受，惟善聽者不泥不辨。",
+    "tags": [
+      "信道",
+      "言意",
+      "聖人"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
       }
     ]
   },
@@ -208858,6 +209259,25 @@
     ]
   },
   {
+    "slug": "遇微言妙行慎勿執之",
+    "title": "遇微言妙行慎勿執之",
+    "summary": "遇微言妙行當慎勿執，執之者腹心之疾，無藥可療。",
+    "tags": [
+      "信道",
+      "執著",
+      "修道"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
     "slug": "遇會聘誓盟",
     "title": "遇會聘誓盟——諸侯外交會見之制",
     "summary": "",
@@ -209607,7 +210027,9 @@
     "tags": [
       "道論",
       "玄學",
-      "悖論"
+      "悖論",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -209825,6 +210247,40 @@
     ]
   },
   {
+    "slug": "道交-之",
+    "title": "道交-之",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
+    "slug": "道交者父子",
+    "title": "道交者父子",
+    "summary": "道交者合於父子，出於是非賢愚之外，故能久。",
+    "tags": [
+      "道交",
+      "父子",
+      "人倫"
+    ],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
     "slug": "道出乎一",
     "title": "道出乎一",
     "summary": "聖人之道，出於「一」；一者，執神而固之謂也。",
@@ -210026,6 +210482,13 @@
         "plugin": "wikisource",
         "title": "關尹子 · 2",
         "url": "https://zh.wikisource.org/wiki/關尹子/2",
+        "work": "關尹子"
+      },
+      {
+        "chapter": "8",
+        "plugin": "wikisource",
+        "title": "關尹子 · 8",
+        "url": "https://zh.wikisource.org/wiki/關尹子/8",
         "work": "關尹子"
       }
     ]
@@ -214418,6 +214881,21 @@
     ]
   },
   {
+    "slug": "金玉難捐",
+    "title": "金玉難捐",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "9",
+        "plugin": "wikisource",
+        "title": "關尹子 · 9",
+        "url": "https://zh.wikisource.org/wiki/關尹子/9",
+        "work": "關尹子"
+      }
+    ]
+  },
+  {
     "slug": "金粟",
     "title": "金粟",
     "summary": "黃金與粟米，國之虛實所係",
@@ -214534,7 +215012,9 @@
       "關尹子",
       "道",
       "化",
-      "釜"
+      "釜",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -227410,6 +227890,27 @@
         "title": "周易 · 旅",
         "url": "https://zh.wikisource.org/wiki/周易/旅",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "鳥獸俄變",
+    "title": "鳥獸俄變",
+    "summary": "萬物倏忽變化，天地聖人不能繫止。",
+    "tags": [
+      "變化",
+      "自然",
+      "關尹子",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "8",
+        "plugin": "wikisource",
+        "title": "關尹子 · 8",
+        "url": "https://zh.wikisource.org/wiki/關尹子/8",
+        "work": "關尹子"
       }
     ]
   },
