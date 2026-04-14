@@ -1531,6 +1531,24 @@
     ]
   },
   {
+    "slug": "七政",
+    "title": "七政",
+    "summary": "天子所欲齊之七事，日月五星。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "七政四守",
     "title": "七政四守",
     "summary": "兵事之七政、人之四守，並為軍國之大節。",
@@ -2601,6 +2619,27 @@
     ]
   },
   {
+    "slug": "三宿三祭三咤",
+    "title": "三宿三祭三咤",
+    "summary": "王行受同之禮，三宿升降，三祭酒茅，三咤而退。",
+    "tags": [
+      "冊命",
+      "儀制",
+      "尚書",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "顧命",
+        "plugin": "wikisource",
+        "title": "尚書 · 顧命",
+        "url": "https://zh.wikisource.org/wiki/尚書/顧命",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "三寶",
     "title": "三寶",
     "summary": "農、工、商為國之三寶，各安其業則民不匱、國可昌。",
@@ -3497,6 +3536,24 @@
         "title": "管子 · 第57篇度地",
         "url": "https://zh.wikisource.org/wiki/管子/第57篇度地",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "三考黜陟",
+    "title": "三考黜陟",
+    "summary": "三年考績，三考則賞罰明焉。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
       }
     ]
   },
@@ -15605,6 +15662,27 @@
     ]
   },
   {
+    "slug": "五流",
+    "title": "五流",
+    "summary": "流放之刑，分等以居。",
+    "tags": [
+      "刑罰",
+      "尚書",
+      "舜典",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "五漫漫六惛惛",
     "title": "五漫漫，六惛惛",
     "summary": "時令之理幽微，庸主茫昧，唯聖人乃能知之。",
@@ -15665,6 +15743,24 @@
         "title": "關尹子 · 6",
         "url": "https://zh.wikisource.org/wiki/關尹子/6",
         "work": "關尹子"
+      }
+    ]
+  },
+  {
+    "slug": "五瑞",
+    "title": "五瑞",
+    "summary": "諸侯朝聘之玉，五等之瑞。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
       }
     ]
   },
@@ -25782,6 +25878,26 @@
     ]
   },
   {
+    "slug": "伯相命士須材",
+    "title": "伯相命士須材",
+    "summary": "伯相命士須材，為嗣王備器用也。",
+    "tags": [
+      "官制",
+      "尚書",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "顧命",
+        "plugin": "wikisource",
+        "title": "尚書 · 顧命",
+        "url": "https://zh.wikisource.org/wiki/尚書/顧命",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "伯禽之法",
     "title": "伯禽之法",
     "summary": "伯禽受封於魯，所傳治國之要道，儉以足用、寬以愛民、務農重穀是也。",
@@ -30145,6 +30261,27 @@
     ]
   },
   {
+    "slug": "側階",
+    "title": "側階",
+    "summary": "王崩，側階立一人，執銳以守。",
+    "tags": [
+      "喪禮",
+      "儀制",
+      "尚書",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "顧命",
+        "plugin": "wikisource",
+        "title": "尚書 · 顧命",
+        "url": "https://zh.wikisource.org/wiki/尚書/顧命",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "傅寬",
     "title": "傅寬",
     "summary": "陽陵侯傅寬，以舍人從起横陽，佐漢定齊，封侯傳世。",
@@ -32812,7 +32949,9 @@
     "tags": [
       "尚書",
       "周初",
-      "德行"
+      "德行",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -37163,6 +37302,24 @@
     ]
   },
   {
+    "slug": "共工",
+    "title": "共工",
+    "summary": "掌工役之官，製作器用。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "共患難易共安樂難",
     "title": "共患難易共安樂難",
     "summary": "句踐可與同患難，不可與共安樂。",
@@ -38444,6 +38601,28 @@
     ]
   },
   {
+    "slug": "典樂",
+    "title": "典樂",
+    "summary": "掌樂教冑子之官，和神人。",
+    "tags": [
+      "官制",
+      "尚書",
+      "舜典",
+      "音樂",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "兼上下以環其私",
     "title": "兼上下以環其私",
     "summary": "兼上下而環營私利者，爵制不可加，必危其上",
@@ -39006,6 +39185,27 @@
         "title": "史記 · 卷047",
         "url": "https://zh.wikisource.org/wiki/史記/卷047",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "冊度",
+    "title": "冊度",
+    "summary": "王崩之明日，命作冊度以待嗣王。",
+    "tags": [
+      "官制",
+      "尚書",
+      "冊命",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "顧命",
+        "plugin": "wikisource",
+        "title": "尚書 · 顧命",
+        "url": "https://zh.wikisource.org/wiki/尚書/顧命",
+        "work": "尚書"
       }
     ]
   },
@@ -40148,6 +40348,24 @@
         "title": "史記 · 卷104",
         "url": "https://zh.wikisource.org/wiki/史記/卷104",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "分北三苗",
+    "title": "分北三苗",
+    "summary": "考績之後，別善惡以殊之。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
       }
     ]
   },
@@ -50224,6 +50442,27 @@
     ]
   },
   {
+    "slug": "受同",
+    "title": "受同",
+    "summary": "王受同瑁，三宿三祭三咤，禮成。",
+    "tags": [
+      "冊命",
+      "儀制",
+      "尚書",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "顧命",
+        "plugin": "wikisource",
+        "title": "尚書 · 顧命",
+        "url": "https://zh.wikisource.org/wiki/尚書/顧命",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "受命若斯之亟",
     "title": "受命若斯之亟",
     "summary": "天命之改，五年而成，前古未有。",
@@ -51707,6 +51946,27 @@
     ]
   },
   {
+    "slug": "司徒",
+    "title": "司徒",
+    "summary": "掌教萬民之官，使親遜有序。",
+    "tags": [
+      "官制",
+      "尚書",
+      "舜典",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "司徒掌邦教",
     "title": "司徒掌邦教",
     "summary": "司徒敷五典，擾兆民",
@@ -52611,6 +52871,24 @@
         "title": "韓非子 · 八奸",
         "url": "https://zh.wikisource.org/wiki/韓非子/八奸",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "同律度量衡",
+    "title": "同律度量衡",
+    "summary": "天下法度度量衡皆同，無有乖異。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
       }
     ]
   },
@@ -60489,11 +60767,11 @@
       "修身",
       "心術",
       "傅說",
-      "部:經",
-      "部:經/書類",
       "輔臣",
       "納誨",
-      "尚書"
+      "尚書",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -61139,7 +61417,9 @@
     "tags": [
       "尚書",
       "費誓",
-      "治兵"
+      "治兵",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -64694,6 +64974,24 @@
         "title": "詩經 · 山有樞",
         "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "四門穆穆",
+    "title": "四門穆穆",
+    "summary": "明堂四門，諸侯來朝，穆穆然皆有威儀。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
       }
     ]
   },
@@ -70161,6 +70459,27 @@
     ]
   },
   {
+    "slug": "士師",
+    "title": "士",
+    "summary": "掌刑罰之官，聽獄之成。",
+    "tags": [
+      "官制",
+      "尚書",
+      "舜典",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "士有十難分之",
     "title": "士有十難分之",
     "summary": "葛洪舉十例，以見士之外貌與才德往往不符，知人實難。",
@@ -73193,6 +73512,21 @@
         "title": "禮記 · 郊特牲",
         "url": "https://zh.wikisource.org/wiki/禮記/郊特牲",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "大訓",
+    "title": "大訓",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "顧命",
+        "plugin": "wikisource",
+        "title": "尚書 · 顧命",
+        "url": "https://zh.wikisource.org/wiki/尚書/顧命",
+        "work": "尚書"
       }
     ]
   },
@@ -82548,6 +82882,13 @@
         "title": "詩經 · 淇奧",
         "url": "https://zh.wikisource.org/wiki/詩經/淇奧",
         "work": "詩經"
+      },
+      {
+        "chapter": "顧命",
+        "plugin": "wikisource",
+        "title": "尚書 · 顧命",
+        "url": "https://zh.wikisource.org/wiki/尚書/顧命",
+        "work": "尚書"
       }
     ]
   },
@@ -97082,7 +97423,9 @@
       "尚書",
       "費誓",
       "軍需",
-      "征伐"
+      "征伐",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -97102,7 +97445,9 @@
       "尚書",
       "費誓",
       "軍需",
-      "芻茭"
+      "芻茭",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -99191,6 +99536,42 @@
     ]
   },
   {
+    "slug": "帝舜側微",
+    "title": "帝舜側微",
+    "summary": "聖人起於側陋微賤之中，天生之德不可掩。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "帝舜受終",
+    "title": "帝舜受終",
+    "summary": "正月朔日，受堯之命于文祖，天命傳受。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "帝舜耕歷山",
     "title": "帝舜耕歷山",
     "summary": "舜耕於歷山，人讓畔；漁於雷澤，人讓居；陶於濱，器不苦窳。",
@@ -99238,7 +99619,9 @@
     "tags": [
       "求賢",
       "感應",
-      "尚書"
+      "尚書",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -101124,7 +101507,9 @@
     "tags": [
       "尚書",
       "治民",
-      "德治"
+      "德治",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -103332,6 +103717,13 @@
         "plugin": "wikisource",
         "title": "尚書 · 畢命",
         "url": "https://zh.wikisource.org/wiki/尚書/畢命",
+        "work": "尚書"
+      },
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
         "work": "尚書"
       }
     ]
@@ -110682,6 +111074,13 @@
         "title": "尚書 · 泰誓上",
         "url": "https://zh.wikisource.org/wiki/尚書/泰誓上",
         "work": "尚書"
+      },
+      {
+        "chapter": "顧命",
+        "plugin": "wikisource",
+        "title": "尚書 · 顧命",
+        "url": "https://zh.wikisource.org/wiki/尚書/顧命",
+        "work": "尚書"
       }
     ]
   },
@@ -110920,7 +111319,9 @@
     "tags": [
       "尚書",
       "忠孝",
-      "人倫"
+      "人倫",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -112606,7 +113007,9 @@
     "tags": [
       "尚書",
       "修身",
-      "慎終"
+      "慎終",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -114445,6 +114848,24 @@
         "plugin": "wikisource",
         "title": "尚書 · 周官",
         "url": "https://zh.wikisource.org/wiki/尚書/周官",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "戒飭臣工",
+    "title": "戒飭臣工",
+    "summary": "聖人御下之嚴，敬慎以終。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
         "work": "尚書"
       }
     ]
@@ -119787,6 +120208,13 @@
         "title": "尚書 · 堯典",
         "url": "https://zh.wikisource.org/wiki/尚書/堯典",
         "work": "尚書"
+      },
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
       }
     ]
   },
@@ -120063,6 +120491,24 @@
         "plugin": "wikisource",
         "title": "尚書 · 大誥",
         "url": "https://zh.wikisource.org/wiki/尚書/大誥",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "敷奏明試",
+    "title": "敷奏明試",
+    "summary": "巡守之制，諸侯述職，天子考核。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
         "work": "尚書"
       }
     ]
@@ -132042,6 +132488,27 @@
     ]
   },
   {
+    "slug": "朕虞",
+    "title": "朕虞",
+    "summary": "掌山林川澤之官。",
+    "tags": [
+      "官制",
+      "尚書",
+      "舜典",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "望之不似人君",
     "title": "望之不似人君",
     "summary": "梁襄王威儀不足，孟子目之以為不似人君",
@@ -132104,13 +132571,33 @@
     ]
   },
   {
+    "slug": "望秩山川",
+    "title": "望秩山川",
+    "summary": "望祭山川，按秩序以祀之。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "朝夕納誨",
     "title": "朝夕納誨",
     "summary": "臣朝夕進諫，以正其君之德。",
     "tags": [
       "納諫",
       "臣道",
-      "尚書"
+      "尚書",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -132366,7 +132853,9 @@
     "tags": [
       "君臣",
       "納諫",
-      "尚書"
+      "尚書",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -135047,6 +135536,20 @@
         "plugin": "wikisource",
         "title": "尚書 · 文侯之命",
         "url": "https://zh.wikisource.org/wiki/尚書/文侯之命",
+        "work": "尚書"
+      },
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      },
+      {
+        "chapter": "顧命",
+        "plugin": "wikisource",
+        "title": "尚書 · 顧命",
+        "url": "https://zh.wikisource.org/wiki/尚書/顧命",
         "work": "尚書"
       }
     ]
@@ -139570,6 +140073,27 @@
     ]
   },
   {
+    "slug": "欽恤",
+    "title": "欽恤",
+    "summary": "刑罰之時，敬慎而不濫。",
+    "tags": [
+      "刑罰",
+      "尚書",
+      "舜典",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "欽欽",
     "title": "欽欽",
     "summary": "鍾聲欽欽，言其和而不失其正，以起下文鼓瑟鼓琴。",
@@ -141034,6 +141558,24 @@
         "title": "管子 · 第40篇四時",
         "url": "https://zh.wikisource.org/wiki/管子/第40篇四時",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "歲二月東巡守",
+    "title": "歲二月東巡守",
+    "summary": "天子巡省四方，諸侯述職。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
       }
     ]
   },
@@ -143890,7 +144432,9 @@
     "tags": [
       "尚書",
       "民心",
-      "為政"
+      "為政",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -153598,6 +154142,24 @@
     ]
   },
   {
+    "slug": "濬哲文明",
+    "title": "濬哲文明",
+    "summary": "舜德之形容，深沉而明達。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "濮上北里",
     "title": "濮上北里",
     "summary": "批判淫聲艷色日夕不休，流連羽觴，沈淪弦節。",
@@ -154251,6 +154813,9 @@
       "孔子",
       "仕宦",
       "官職",
+      "官制",
+      "尚書",
+      "舜典",
       "部:史",
       "部:史/正史類"
     ],
@@ -154261,6 +154826,13 @@
         "title": "史記 · 卷047",
         "url": "https://zh.wikisource.org/wiki/史記/卷047",
         "work": "史記"
+      },
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
       }
     ]
   },
@@ -154349,7 +154921,9 @@
     "tags": [
       "尚書",
       "治道",
-      "歸一"
+      "歸一",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -156097,7 +156671,9 @@
     "tags": [
       "尚書",
       "法治",
-      "舊章"
+      "舊章",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -156861,7 +157437,9 @@
     "tags": [
       "尚書",
       "費誓",
-      "禁令"
+      "禁令",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -158671,6 +159249,24 @@
     ]
   },
   {
+    "slug": "燮和天下",
+    "title": "燮和天下",
+    "summary": "",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "顧命",
+        "plugin": "wikisource",
+        "title": "尚書 · 顧命",
+        "url": "https://zh.wikisource.org/wiki/尚書/顧命",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "爪牙之士",
     "title": "爪牙之士",
     "summary": "爪牙之士施，則仇讎不作；邊境之臣處，則疆垂不喪。",
@@ -159427,7 +160023,9 @@
     "tags": [
       "尚書",
       "命誥",
-      "敬事"
+      "敬事",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -161460,7 +162058,9 @@
     "tags": [
       "尚書",
       "祖訓",
-      "文王"
+      "文王",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -168187,6 +168787,24 @@
     ]
   },
   {
+    "slug": "百姓如喪考妣",
+    "title": "百姓如喪考妣",
+    "summary": "聖人亡則民哀，如失父母。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "百姓有過在予一人",
     "title": "百姓有過在予一人",
     "summary": "君王自任百姓之過，不以責民。",
@@ -168356,6 +168974,27 @@
         "title": "詩經 · 兔爰",
         "url": "https://zh.wikisource.org/wiki/詩經/兔爰",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "百揆",
+    "title": "百揆",
+    "summary": "總揆百官之職，舜命禹所居。",
+    "tags": [
+      "官制",
+      "尚書",
+      "舜典",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
       }
     ]
   },
@@ -168684,7 +169323,9 @@
     "tags": [
       "尚書",
       "天命",
-      "德治"
+      "德治",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -170679,7 +171320,9 @@
     "tags": [
       "尚書",
       "外交",
-      "鄰國"
+      "鄰國",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -177086,6 +177729,27 @@
     ]
   },
   {
+    "slug": "秩宗",
+    "title": "秩宗",
+    "summary": "掌宗廟祭祀之官，典禮序神。",
+    "tags": [
+      "官制",
+      "尚書",
+      "舜典",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "秩秩大猷",
     "title": "秩秩大猷",
     "summary": "聖人制治之大法",
@@ -181618,6 +182282,27 @@
     ]
   },
   {
+    "slug": "納言",
+    "title": "納言",
+    "summary": "出入王命、傳達下情之官。",
+    "tags": [
+      "官制",
+      "尚書",
+      "舜典",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "純嘏",
     "title": "純嘏",
     "summary": "大福也。祭祀祝頌之辭，祈祖先后福無疆也。",
@@ -183990,7 +184675,9 @@
     "tags": [
       "尚書",
       "聽諫",
-      "法度"
+      "法度",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -190038,6 +190725,24 @@
     ]
   },
   {
+    "slug": "肆類上帝",
+    "title": "肆類上帝",
+    "summary": "因事而祭天帝，稟受天命。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "肇修人紀",
     "title": "肇修人紀",
     "summary": "先王始修人倫綱紀以為治本。",
@@ -190077,6 +190782,24 @@
         "plugin": "wikisource",
         "title": "尚書 · 文侯之命",
         "url": "https://zh.wikisource.org/wiki/尚書/文侯之命",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "肇十二州",
+    "title": "肇十二州",
+    "summary": "肇始分天下為十二州，以別九州之制。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
         "work": "尚書"
       }
     ]
@@ -191486,6 +192209,13 @@
         "title": "春秋公羊傳 · 莊公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/莊公",
         "work": "春秋公羊傳"
+      },
+      {
+        "chapter": "顧命",
+        "plugin": "wikisource",
+        "title": "尚書 · 顧命",
+        "url": "https://zh.wikisource.org/wiki/尚書/顧命",
+        "work": "尚書"
       }
     ]
   },
@@ -196043,7 +196773,9 @@
       "君臣",
       "賢臣",
       "輔政",
-      "尚書"
+      "尚書",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -196645,6 +197377,27 @@
         "title": "抱朴子 · 卷12",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷12",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "荊室",
+    "title": "荊室",
+    "summary": "延太子入翼室，俾知恤宅宗之意。",
+    "tags": [
+      "喪禮",
+      "儀制",
+      "尚書",
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "顧命",
+        "plugin": "wikisource",
+        "title": "尚書 · 顧命",
+        "url": "https://zh.wikisource.org/wiki/尚書/顧命",
+        "work": "尚書"
       }
     ]
   },
@@ -201202,7 +201955,9 @@
     "tags": [
       "納諫",
       "苦諫",
-      "尚書"
+      "尚書",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -209932,6 +210687,24 @@
     ]
   },
   {
+    "slug": "詢事考言",
+    "title": "詢事考言",
+    "summary": "三載試人之法，言行相驗。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "詢於芻蕘",
     "title": "詢於芻蕘",
     "summary": "聖賢問政，不遺賤業者",
@@ -210514,6 +211287,24 @@
     ]
   },
   {
+    "slug": "詩言志",
+    "title": "詩言志",
+    "summary": "詩所以言志，歌所以永言，樂所以和神人。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "詭使",
     "title": "詭使",
     "summary": "詭所施之使，明賞罰之所以行，以詰名實之所歸。",
@@ -210606,7 +211397,9 @@
     "tags": [
       "尚書",
       "為君",
-      "聽諫"
+      "聽諫",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -211379,7 +212172,9 @@
       "賢才",
       "求賢",
       "傅說",
-      "尚書"
+      "尚書",
+      "部:經",
+      "部:經/書類"
     ],
     "sources": [
       {
@@ -213238,6 +214033,8 @@
       "刑罰",
       "古制",
       "禮義",
+      "尚書",
+      "舜典",
       "部:史",
       "部:史/正史類"
     ],
@@ -213255,6 +214052,13 @@
         "title": "荀子 · 正論篇",
         "url": "https://zh.wikisource.org/wiki/荀子/正論篇",
         "work": "荀子"
+      },
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
       }
     ]
   },
@@ -219944,6 +220748,24 @@
     ]
   },
   {
+    "slug": "辟四門",
+    "title": "辟四門",
+    "summary": "廣開賢路，招徠俊乂。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
+      }
+    ]
+  },
+  {
     "slug": "辟山川百鬼",
     "title": "辟山川百鬼",
     "summary": "述辟山川廟堂百鬼之符法。",
@@ -223261,6 +224083,24 @@
         "title": "詩經 · 武",
         "url": "https://zh.wikisource.org/wiki/詩經/武",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "遏密八音",
+    "title": "遏密八音",
+    "summary": "聖王之喪，萬物肅穆，音樂不行。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
       }
     ]
   },
@@ -230482,6 +231322,24 @@
         "title": "詩經 · 殷武",
         "url": "https://zh.wikisource.org/wiki/詩經/殷武",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "陟方乃死",
+    "title": "陟方乃死",
+    "summary": "巡狩南方而崩，聖人死于王事。",
+    "tags": [
+      "部:經",
+      "部:經/書類"
+    ],
+    "sources": [
+      {
+        "chapter": "舜典",
+        "plugin": "wikisource",
+        "title": "尚書 · 舜典",
+        "url": "https://zh.wikisource.org/wiki/尚書/舜典",
+        "work": "尚書"
       }
     ]
   },
