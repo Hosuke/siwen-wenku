@@ -4123,6 +4123,21 @@
     ]
   },
   {
+    "slug": "三盜既宜",
+    "title": "三盜既宜",
+    "summary": "天地萬物人互相盜，而後三才安。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
+      }
+    ]
+  },
+  {
     "slug": "三禮刪定",
     "title": "三禮刪定",
     "summary": "議刪定三禮，割棄繁重，務令簡約易行。",
@@ -5622,11 +5637,11 @@
       "道家",
       "德行",
       "無為",
-      "部:子",
-      "部:子/道家類",
       "王弼",
       "老子",
-      "德"
+      "德",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -14209,7 +14224,9 @@
       "易學",
       "乾坤",
       "剛柔",
-      "象數"
+      "象數",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -18263,7 +18280,10 @@
       "道家",
       "兵法",
       "部:子",
-      "部:子/兵家類"
+      "部:子/兵家類",
+      "陰符",
+      "天人",
+      "養生"
     ],
     "sources": [
       {
@@ -18272,6 +18292,13 @@
         "title": "陰符經",
         "url": "https://zh.wikisource.org/wiki/七注陰符經",
         "work": "陰符經"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -21350,7 +21377,9 @@
     "tags": [
       "爾雅",
       "單字",
-      "釋詁"
+      "釋詁",
+      "部:經",
+      "部:經/小學類"
     ],
     "sources": [
       {
@@ -45332,7 +45361,9 @@
       "易學",
       "剝卦",
       "復卦",
-      "天道"
+      "天道",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -58828,7 +58859,9 @@
       "易學",
       "否卦",
       "泰卦",
-      "治道"
+      "治道",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -79246,6 +79279,21 @@
     ]
   },
   {
+    "slug": "天人合發",
+    "title": "天人合發",
+    "summary": "天時人事合而後萬變有基。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
+      }
+    ]
+  },
+  {
     "slug": "天以時為權",
     "title": "天以時為權",
     "summary": "天以時節為權柄，人當順時以待天權。",
@@ -80748,6 +80796,21 @@
     ]
   },
   {
+    "slug": "天性人心",
+    "title": "天性人心",
+    "summary": "天性在人，人心有機，機者善惡之樞。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
+      }
+    ]
+  },
+  {
     "slug": "天所助焉",
     "title": "天助",
     "summary": "秦并天下，非必險固形勢，天實助之。",
@@ -81199,7 +81262,10 @@
       "道家",
       "兵法",
       "部:子",
-      "部:子/兵家類"
+      "部:子/兵家類",
+      "陰符",
+      "天人",
+      "哲理"
     ],
     "sources": [
       {
@@ -81208,6 +81274,13 @@
         "title": "陰符經",
         "url": "https://zh.wikisource.org/wiki/七注陰符經",
         "work": "陰符經"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -81333,6 +81406,13 @@
         "title": "陰符經",
         "url": "https://zh.wikisource.org/wiki/七注陰符經",
         "work": "陰符經"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -81571,6 +81651,13 @@
         "title": "陰符經",
         "url": "https://zh.wikisource.org/wiki/七注陰符經",
         "work": "陰符經"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -83951,7 +84038,9 @@
       "易學",
       "夬卦",
       "治道",
-      "消長"
+      "消長",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -84602,6 +84691,13 @@
         "title": "陰符經",
         "url": "https://zh.wikisource.org/wiki/七注陰符經",
         "work": "陰符經"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -86605,7 +86701,9 @@
     "tags": [
       "爾雅",
       "成書",
-      "周初"
+      "周初",
+      "部:經",
+      "部:經/小學類"
     ],
     "sources": [
       {
@@ -93318,6 +93416,21 @@
         "title": "尚書 · 多士",
         "url": "https://zh.wikisource.org/wiki/尚書/多士",
         "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "宇宙在乎手萬化生乎身",
+    "title": "宇宙在乎手萬化生乎身",
+    "summary": "聖人與天為一，手攬造化，身即道樞。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -112806,7 +112919,9 @@
       "王弼",
       "老子",
       "善為士者",
-      "玄通"
+      "玄通",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -114548,6 +114663,13 @@
         "title": "陰符經",
         "url": "https://zh.wikisource.org/wiki/七注陰符經",
         "work": "陰符經"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -116600,6 +116722,21 @@
         "title": "詩經 · 鴟鴞",
         "url": "https://zh.wikisource.org/wiki/詩經/鴟鴞",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "恩生於害",
+    "title": "恩生於害",
+    "summary": "恩與害相倚而成，聖人知此則無怨。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -124996,7 +125133,9 @@
       "易學",
       "損卦",
       "益卦",
-      "盛衰"
+      "盛衰",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -126207,7 +126346,9 @@
     "tags": [
       "爾雅",
       "單字",
-      "釋詁"
+      "釋詁",
+      "部:經",
+      "部:經/小學類"
     ],
     "sources": [
       {
@@ -134715,6 +134856,13 @@
         "title": "陰符經",
         "url": "https://zh.wikisource.org/wiki/七注陰符經",
         "work": "陰符經"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -151706,7 +151854,9 @@
       "易學",
       "比卦",
       "師卦",
-      "治道"
+      "治道",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -160745,6 +160895,21 @@
     ]
   },
   {
+    "slug": "湯武得之以王天下",
+    "title": "湯武得之以王天下",
+    "summary": "黃帝得之以登天，湯武得之以王天下，五霸得之以統諸侯。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
+      }
+    ]
+  },
+  {
     "slug": "湯武染乎伊呂",
     "title": "湯武染乎伊呂",
     "summary": "湯武親近伊尹呂尚，故興勃然；辛癸親近小人，故亡忽焉。",
@@ -168355,7 +168520,9 @@
     "tags": [
       "爾雅",
       "語辭",
-      "釋詁"
+      "釋詁",
+      "部:經",
+      "部:經/小學類"
     ],
     "sources": [
       {
@@ -169769,12 +169936,12 @@
       "辯證",
       "環流",
       "轉化",
-      "部:子",
-      "部:子/雜家類",
       "哲學",
       "天道",
       "盛衰",
-      "剝復"
+      "剝復",
+      "部:子",
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -173549,7 +173716,9 @@
       "哲學",
       "道家",
       "生死觀",
-      "部:子"
+      "部:子",
+      "陰符",
+      "生死"
     ],
     "sources": [
       {
@@ -173558,6 +173727,13 @@
         "title": "陰符經",
         "url": "https://zh.wikisource.org/wiki/七注陰符經",
         "work": "陰符經"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -179507,6 +179683,13 @@
         "title": "陰符經",
         "url": "https://zh.wikisource.org/wiki/七注陰符經",
         "work": "陰符經"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -181229,6 +181412,21 @@
         "title": "墨子 · 貴義",
         "url": "https://zh.wikisource.org/wiki/墨子/貴義",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "瞽者善聽聾者善視",
+    "title": "瞽者善聽聾者善視",
+    "summary": "絕外損而內明，專精之力也。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -186455,6 +186653,13 @@
         "title": "陰符經",
         "url": "https://zh.wikisource.org/wiki/七注陰符經",
         "work": "陰符經"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -191689,7 +191894,9 @@
     "tags": [
       "爾雅",
       "語辭",
-      "釋詁"
+      "釋詁",
+      "部:經",
+      "部:經/小學類"
     ],
     "sources": [
       {
@@ -193318,6 +193525,13 @@
         "title": "陰符經",
         "url": "https://zh.wikisource.org/wiki/七注陰符經",
         "work": "陰符經"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -196581,7 +196795,9 @@
     "tags": [
       "爾雅",
       "單字",
-      "釋詁"
+      "釋詁",
+      "部:經",
+      "部:經/小學類"
     ],
     "sources": [
       {
@@ -203631,6 +203847,13 @@
         "title": "陰符經",
         "url": "https://zh.wikisource.org/wiki/七注陰符經",
         "work": "陰符經"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -204353,6 +204576,13 @@
         "title": "陰符經",
         "url": "https://zh.wikisource.org/wiki/七注陰符經",
         "work": "陰符經"
+      },
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -207964,6 +208194,21 @@
     ]
   },
   {
+    "slug": "范蠡重而長文種輕而亡",
+    "title": "范蠡重而長文種輕而亡",
+    "summary": "同佐句踐，而一知退一不知退，運命遂異。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
+      }
+    ]
+  },
+  {
     "slug": "茅津封殽",
     "title": "茅津封殽",
     "summary": "記繆公伐晉渡河焚船報殽之役，封尸哭之三日，作誓以記過。",
@@ -209407,7 +209652,9 @@
     "tags": [
       "爾雅",
       "單字",
-      "釋詁"
+      "釋詁",
+      "部:經",
+      "部:經/小學類"
     ],
     "sources": [
       {
@@ -219924,6 +220171,21 @@
         "title": "荀子 · 宥坐篇",
         "url": "https://zh.wikisource.org/wiki/荀子/宥坐篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "觀天之道",
+    "title": "觀天之道執天之行",
+    "summary": "天道天行，一覽無餘，聖人之學盡於此。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
@@ -232569,7 +232831,9 @@
     "tags": [
       "爾雅",
       "辭書",
-      "小學"
+      "小學",
+      "部:經",
+      "部:經/小學類"
     ],
     "sources": [
       {
@@ -238133,7 +238397,9 @@
     "tags": [
       "爾雅",
       "單字",
-      "釋詁"
+      "釋詁",
+      "部:經",
+      "部:經/小學類"
     ],
     "sources": [
       {
@@ -245809,11 +246075,11 @@
     "title": "子所雅言：詩、書、執禮，皆雅言也",
     "summary": "聖人言詩書禮皆用正言。",
     "tags": [
-      "部:經",
-      "部:經/四書類",
       "雅言",
       "爾雅",
-      "語言"
+      "語言",
+      "部:經",
+      "部:經/四書類"
     ],
     "sources": [
       {
@@ -246141,7 +246407,9 @@
       "象數",
       "哲學",
       "雜卦",
-      "六十四卦"
+      "六十四卦",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -249063,7 +249331,9 @@
       "易學",
       "革卦",
       "鼎卦",
-      "變革"
+      "變革",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -257769,6 +258039,21 @@
         "title": "莊子 · 天地",
         "url": "https://zh.wikisource.org/wiki/莊子/天地",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "黃帝陰符經集註",
+    "title": "黃帝陰符經集註",
+    "summary": "唐代集七家之註，解《陰符經》之書。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "全文",
+        "plugin": "wikisource",
+        "title": "黃帝陰符經集註",
+        "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
+        "work": "黃帝陰符經集註"
       }
     ]
   },
