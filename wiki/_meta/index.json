@@ -3470,6 +3470,26 @@
     ]
   },
   {
+    "slug": "三才",
+    "title": "三才",
+    "summary": "立天之道曰陰與陽，立地之道曰柔與剛，立人之道曰仁與義。",
+    "tags": [
+      "易理",
+      "三才",
+      "性命",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "卷09",
+        "plugin": "wikisource",
+        "title": "周易註 (王弼) · 卷09",
+        "url": "https://zh.wikisource.org/wiki/周易註 (四庫全書本)/卷09",
+        "work": "周易註 (王弼)"
+      }
+    ]
+  },
+  {
     "slug": "三才之道",
     "title": "三才之道",
     "summary": "兼天道、人道、地道而兩之，是為六爻。",
@@ -15243,6 +15263,8 @@
       "宇宙觀",
       "乾坤",
       "易",
+      "象數",
+      "周易",
       "部:子",
       "部:子/道家類"
     ],
@@ -15253,6 +15275,13 @@
         "title": "周易參同契 · 02章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/02章",
         "work": "周易參同契"
+      },
+      {
+        "chapter": "卷09",
+        "plugin": "wikisource",
+        "title": "周易註 (王弼) · 卷09",
+        "url": "https://zh.wikisource.org/wiki/周易註 (四庫全書本)/卷09",
+        "work": "周易註 (王弼)"
       }
     ]
   },
@@ -26467,6 +26496,13 @@
         "title": "老子河上公章句 · 修觀",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章五十四",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十四",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -31950,6 +31986,28 @@
         "title": "史記 · 卷053",
         "url": "https://zh.wikisource.org/wiki/史記/卷053",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "侯王得一以為天下正",
+    "title": "侯王得一以為天下正",
+    "summary": "侯王失一則蹶，以明為政恃道、賤為本之旨。",
+    "tags": [
+      "老子",
+      "帛書",
+      "侯王",
+      "得一",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第二章 得一",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第二章 得一",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -38764,13 +38822,34 @@
     ]
   },
   {
+    "slug": "八卦性情",
+    "title": "八卦性情",
+    "summary": "乾健坤順，震動巽入，坎陷離麗，艮止兌說。",
+    "tags": [
+      "象數",
+      "八卦",
+      "性情",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷09",
+        "plugin": "wikisource",
+        "title": "周易註 (王弼) · 卷09",
+        "url": "https://zh.wikisource.org/wiki/周易註 (四庫全書本)/卷09",
+        "work": "周易註 (王弼)"
+      }
+    ]
+  },
+  {
     "slug": "八卦成列",
     "title": "八卦成列",
     "summary": "聖人觀象於天俯法於地，近取諸身，遠取諸物，始作八卦，以通神明之德，以類萬物之情。",
     "tags": [
       "易學",
       "宇宙觀",
-      "聖人"
+      "聖人",
+      "部:子"
     ],
     "sources": [
       {
@@ -38813,6 +38892,7 @@
       "八卦",
       "象數",
       "萬物",
+      "物象",
       "部:經",
       "部:經/易類"
     ],
@@ -38823,6 +38903,33 @@
         "title": "周易 · 說卦",
         "url": "https://zh.wikisource.org/wiki/易傳/說卦",
         "work": "周易"
+      },
+      {
+        "chapter": "卷09",
+        "plugin": "wikisource",
+        "title": "周易註 (王弼) · 卷09",
+        "url": "https://zh.wikisource.org/wiki/周易註 (四庫全書本)/卷09",
+        "work": "周易註 (王弼)"
+      }
+    ]
+  },
+  {
+    "slug": "八卦身象",
+    "title": "八卦身象",
+    "summary": "乾為首坤為腹，震為足巽為股，坎為耳離為目，艮為手兌為口。",
+    "tags": [
+      "象數",
+      "八卦",
+      "身象",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷09",
+        "plugin": "wikisource",
+        "title": "周易註 (王弼) · 卷09",
+        "url": "https://zh.wikisource.org/wiki/周易註 (四庫全書本)/卷09",
+        "work": "周易註 (王弼)"
       }
     ]
   },
@@ -44926,6 +45033,9 @@
       "韓非子",
       "養生",
       "形神",
+      "生死觀",
+      "帛書本",
+      "攝生",
       "部:子",
       "部:子/法家類"
     ],
@@ -44936,6 +45046,13 @@
         "title": "韓非子 · 解老",
         "url": "https://zh.wikisource.org/wiki/韓非子/解老",
         "work": "韓非子"
+      },
+      {
+        "chapter": "章五十",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -59360,6 +59477,13 @@
         "title": "老子河上公章句 · 立戒",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "第七章 立戒",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第七章 立戒",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -65458,6 +65582,27 @@
     ]
   },
   {
+    "slug": "咎莫憯於欲得",
+    "title": "咎莫憯於欲得",
+    "summary": "禍患之烈，以欲得為甚",
+    "tags": [
+      "老子",
+      "欲得",
+      "咎莫",
+      "帛書",
+      "方言"
+    ],
+    "sources": [
+      {
+        "chapter": "第九章 知足",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第九章 知足",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "咨諏",
     "title": "咨諏",
     "summary": "訪問有道之人，求其智慮以決疑惑。",
@@ -67733,6 +67878,24 @@
         "title": "詩經 · 緇衣",
         "url": "https://zh.wikisource.org/wiki/詩經/緇衣",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "善始善成",
+    "title": "善始善成",
+    "summary": "道善於起始，亦善於完成，以明道之全功。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第三章 聞道",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第三章 聞道",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -74173,6 +74336,28 @@
         "title": "淮南子 · 墜形訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/墜形訓",
         "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "地得一以寧",
+    "title": "地得一以寧",
+    "summary": "地恃道一以安，失一則震發不寧，天地之理無二致。",
+    "tags": [
+      "老子",
+      "帛書",
+      "地道",
+      "得一",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第二章 得一",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第二章 得一",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -80661,7 +80846,10 @@
       "行事",
       "玄德",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "悖論",
+      "技藝",
+      "帛書老子"
     ],
     "sources": [
       {
@@ -80670,6 +80858,13 @@
         "title": "老子河上公章句 · 洪德",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "第八章 請靚",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第八章 請靚",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -80826,7 +81021,10 @@
       "行事",
       "玄德",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "悖論",
+      "治國",
+      "帛書老子"
     ],
     "sources": [
       {
@@ -80835,6 +81033,13 @@
         "title": "老子河上公章句 · 洪德",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "第八章 請靚",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第八章 請靚",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -81291,6 +81496,26 @@
         "title": "莊子 · 寓言",
         "url": "https://zh.wikisource.org/wiki/莊子/寓言",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "大盈若沖",
+    "title": "大盈若沖",
+    "summary": "至滿者其容若虛空",
+    "tags": [
+      "道家",
+      "悖論",
+      "修身",
+      "帛書老子"
+    ],
+    "sources": [
+      {
+        "chapter": "第八章 請靚",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第八章 請靚",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -82691,6 +82916,13 @@
         "title": "老子河上公章句 · 歸元",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章五十二",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十二",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -82746,7 +82978,10 @@
       "治國",
       "韓非子",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "天下有道",
+      "卻馬以糞",
+      "帛書"
     ],
     "sources": [
       {
@@ -82755,6 +82990,13 @@
         "title": "韓非子 · 解老",
         "url": "https://zh.wikisource.org/wiki/韓非子/解老",
         "work": "韓非子"
+      },
+      {
+        "chapter": "第九章 知足",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第九章 知足",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -84217,6 +84459,26 @@
         "title": "周易參同契 · 03章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/03章",
         "work": "周易參同契"
+      }
+    ]
+  },
+  {
+    "slug": "天地定位",
+    "title": "天地定位",
+    "summary": "天地之象，乾坤對待；山澤通氣，雷風相薄；水火不相射，八卦相錯。",
+    "tags": [
+      "象數",
+      "八卦",
+      "天地",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷09",
+        "plugin": "wikisource",
+        "title": "周易註 (王弼) · 卷09",
+        "url": "https://zh.wikisource.org/wiki/周易註 (四庫全書本)/卷09",
+        "work": "周易註 (王弼)"
       }
     ]
   },
@@ -85738,6 +86000,28 @@
     ]
   },
   {
+    "slug": "天毋已清將恐裂",
+    "title": "天毋已清將恐裂",
+    "summary": "天失道則清者復歸於裂，以明萬物恃一以生，失一必敗。",
+    "tags": [
+      "老子",
+      "帛書",
+      "天道",
+      "得一",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第二章 得一",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第二章 得一",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "天求民主",
     "title": "天求民主",
     "summary": "天以生民為心，迭求能安民者而立之。",
@@ -86343,6 +86627,13 @@
         "title": "老子 (帛書本) · 章四十一",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第三章 聞道",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第三章 聞道",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -97442,6 +97733,9 @@
       "道家哲學",
       "稱謂",
       "侯王",
+      "道家",
+      "老子",
+      "謙德",
       "部:子",
       "部:子/道家類"
     ],
@@ -97452,6 +97746,13 @@
         "title": "老子 (帛書本) · 章三十九",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第五章 中和",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五章 中和",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -98115,6 +98416,8 @@
       "老子",
       "修身",
       "帛書本",
+      "道家",
+      "教化",
       "部:子",
       "部:子/道家類"
     ],
@@ -98125,6 +98428,13 @@
         "title": "老子 (帛書本) · 章四十二",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第五章 中和",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五章 中和",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -105374,6 +105684,9 @@
     "title": "尊道貴德",
     "summary": "萬物尊道而貴德，夫莫之命而常自然。",
     "tags": [
+      "老子",
+      "道德",
+      "貴賤",
       "部:子",
       "部:子/道家類"
     ],
@@ -105384,6 +105697,13 @@
         "title": "老子河上公章句 · 養德",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章五十一",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十一",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -107275,7 +107595,9 @@
     "tags": [
       "道家",
       "老子",
-      "修身"
+      "修身",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -110317,6 +110639,7 @@
       "八卦",
       "四時",
       "方位",
+      "象數",
       "部:經",
       "部:經/易類"
     ],
@@ -110327,6 +110650,13 @@
         "title": "周易 · 說卦",
         "url": "https://zh.wikisource.org/wiki/易傳/說卦",
         "work": "周易"
+      },
+      {
+        "chapter": "卷09",
+        "plugin": "wikisource",
+        "title": "周易註 (王弼) · 卷09",
+        "url": "https://zh.wikisource.org/wiki/周易註 (四庫全書本)/卷09",
+        "work": "周易註 (王弼)"
       }
     ]
   },
@@ -112188,6 +112518,9 @@
       "宇宙論",
       "哲學",
       "辯證法",
+      "周易",
+      "序卦",
+      "萬物",
       "部:經",
       "部:經/易類"
     ],
@@ -112198,6 +112531,13 @@
         "title": "周易 · 序卦",
         "url": "https://zh.wikisource.org/wiki/易傳/序卦",
         "work": "周易"
+      },
+      {
+        "chapter": "卷09",
+        "plugin": "wikisource",
+        "title": "周易註 (王弼) · 卷09",
+        "url": "https://zh.wikisource.org/wiki/周易註 (四庫全書本)/卷09",
+        "work": "周易註 (王弼)"
       }
     ]
   },
@@ -113312,6 +113652,24 @@
     ]
   },
   {
+    "slug": "廣德如不足",
+    "title": "廣德如不足",
+    "summary": "德逾廣而被視為闕如，以明上德若無之義。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第三章 聞道",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第三章 聞道",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "廣成子",
     "title": "廣成子",
     "summary": "居空同之陽帝，黃帝問道之仙人。",
@@ -113724,6 +114082,24 @@
         "title": "史記 · 卷022",
         "url": "https://zh.wikisource.org/wiki/史記/卷022",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "建德如偷",
+    "title": "建德如偷",
+    "summary": "立德之初，若竊然不昭，以明積德之義。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第三章 聞道",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第三章 聞道",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -114228,6 +114604,27 @@
         "title": "淮南子 · 道應訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/道應訓",
         "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "弗宰",
+    "title": "弗宰",
+    "summary": "生長萬物而不加宰制，天地玄德之極致也。",
+    "tags": [
+      "老子",
+      "無為",
+      "德行",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章五十一",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十一",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -115420,6 +115817,27 @@
     ]
   },
   {
+    "slug": "強良者不得其死",
+    "title": "強良者不得其死",
+    "summary": "強梁者不得其死，[[天道好還|天道之常也]]。",
+    "tags": [
+      "道家",
+      "老子",
+      "天道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第五章 中和",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五章 中和",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "强本事去無用",
     "title": "强本事去無用",
     "summary": "明主之務，在於强本業、去無用之物，使民富國治。",
@@ -116069,7 +116487,8 @@
     "tags": [
       "易學",
       "哲學",
-      "道器"
+      "道器",
+      "部:子"
     ],
     "sources": [
       {
@@ -117210,6 +117629,13 @@
         "title": "老子 (帛書本) · 章三十九",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第二章 得一",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第二章 得一",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -121212,7 +121638,10 @@
     "slug": "忠信之薄",
     "title": "忠信之薄",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
     "sources": [
       {
         "chapter": "第一章 論德",
@@ -127106,6 +127535,27 @@
     ]
   },
   {
+    "slug": "戎馬生於郊",
+    "title": "戎馬生於郊",
+    "summary": "無道之世，戰事不息，母馬產駒於戰地",
+    "tags": [
+      "老子",
+      "戎馬",
+      "戰爭",
+      "天下無道",
+      "帛書"
+    ],
+    "sources": [
+      {
+        "chapter": "第九章 知足",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第九章 知足",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "成不以富亦祇以異",
     "title": "成不以富亦祇以異",
     "summary": "詩人言夫之變心，非因利也，特以情異耳。",
@@ -131809,6 +132259,8 @@
       "周易",
       "王弼",
       "損卦",
+      "道家",
+      "辨證",
       "部:子",
       "部:子/道家類"
     ],
@@ -131826,6 +132278,13 @@
         "title": "周易註 (王弼) · 卷04",
         "url": "https://zh.wikisource.org/wiki/周易註 (四庫全書本)/卷04",
         "work": "周易註 (王弼)"
+      },
+      {
+        "chapter": "第五章 中和",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五章 中和",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -144654,11 +145113,11 @@
       "言意之辯",
       "聖人之意",
       "立象",
-      "部:經",
-      "部:經/易類",
       "哲學",
       "語言",
-      "認識論"
+      "認識論",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -163594,6 +164053,13 @@
         "title": "老子河上公章句 · 道化",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "第五章 中和",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五章 中和",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -166691,6 +167157,24 @@
         "title": "論語 · 述而第七",
         "url": "https://zh.wikisource.org/wiki/論語/述而第七",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "浴得一以盈",
+    "title": "浴得一以盈",
+    "summary": "谷神失一則竭，以明虛受恃道之旨。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第二章 得一",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第二章 得一",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -175472,6 +175956,9 @@
       "無為",
       "虛無",
       "道術",
+      "老子",
+      "帛書",
+      "至柔",
       "部:子",
       "部:子/道家類"
     ],
@@ -175482,6 +175969,13 @@
         "title": "老子河上公章句 · 徧用",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "第六章 至柔",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第六章 至柔",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -180567,6 +181061,9 @@
       "道家",
       "德",
       "玄德",
+      "老子",
+      "無為",
+      "德行",
       "部:子",
       "部:子/道家類"
     ],
@@ -180577,6 +181074,13 @@
         "title": "老子河上公章句 · 淳德",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章五十一",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十一",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -183240,6 +183744,8 @@
       "不有",
       "德",
       "玄德",
+      "無私",
+      "自然",
       "部:子",
       "部:子/道家類"
     ],
@@ -183257,6 +183763,13 @@
         "title": "老子河上公章句 · 能為",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章五十一",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十一",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -189578,6 +190091,28 @@
     ]
   },
   {
+    "slug": "盜賊多有",
+    "title": "盜賊多有",
+    "summary": "老子譏世道衰微、盜賊並起之語。",
+    "tags": [
+      "老子",
+      "帛書本",
+      "盜賊",
+      "世道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章五十三",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十三",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
     "slug": "盜賊無有",
     "title": "盜賊無有",
     "summary": "絕巧棄利則盜賊無由生。",
@@ -192635,6 +193170,26 @@
     ]
   },
   {
+    "slug": "知足之足恆足矣",
+    "title": "知足之足恆足矣",
+    "summary": "知足者，常足而無匱乏之患",
+    "tags": [
+      "老子",
+      "知足",
+      "恆足",
+      "帛書"
+    ],
+    "sources": [
+      {
+        "chapter": "第九章 知足",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第九章 知足",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "知足者富",
     "title": "知足者富",
     "summary": "物慾無涯，止足則富。",
@@ -193076,6 +193631,28 @@
         "title": "詩經 · 載驅",
         "url": "https://zh.wikisource.org/wiki/詩經/載驅",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "硌硌若石",
+    "title": "硌硌若石",
+    "summary": "不欲華美若玉，而務樸質若石，以明返樸之旨。",
+    "tags": [
+      "老子",
+      "帛書",
+      "樸素",
+      "修身",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第二章 得一",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第二章 得一",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -193828,6 +194405,13 @@
         "title": "周易 · 說卦",
         "url": "https://zh.wikisource.org/wiki/易傳/說卦",
         "work": "周易"
+      },
+      {
+        "chapter": "卷09",
+        "plugin": "wikisource",
+        "title": "周易註 (王弼) · 卷09",
+        "url": "https://zh.wikisource.org/wiki/周易註 (四庫全書本)/卷09",
+        "work": "周易註 (王弼)"
       }
     ]
   },
@@ -194007,6 +194591,28 @@
         "title": "史記 · 卷082",
         "url": "https://zh.wikisource.org/wiki/史記/卷082",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "神得一以霝",
+    "title": "神得一以霝",
+    "summary": "神失其一則休歇，不能常靈，以明精氣恃道以靈之理。",
+    "tags": [
+      "老子",
+      "帛書",
+      "神道",
+      "得一",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第二章 得一",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第二章 得一",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -205770,7 +206376,12 @@
     "summary": "縱欲為罪之大者，知足則常足。",
     "tags": [
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "老子",
+      "可欲",
+      "止欲",
+      "戒貪",
+      "帛書"
     ],
     "sources": [
       {
@@ -205779,6 +206390,13 @@
         "title": "老子 (帛書本) · 章四十六",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第九章 知足",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第九章 知足",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -209876,7 +210494,9 @@
     "tags": [
       "易學",
       "哲學",
-      "象數"
+      "象數",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -216349,6 +216969,28 @@
     ]
   },
   {
+    "slug": "致數與无與",
+    "title": "致數與无與",
+    "summary": "過於計度反失其實，聖人不欲華美而務返樸質。",
+    "tags": [
+      "老子",
+      "帛書",
+      "修身",
+      "樸素",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第二章 得一",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第二章 得一",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "致數車無車",
     "title": "致數車無車",
     "summary": "致譽於無譽，不欲琭琭如玉，當如石之落落。",
@@ -221968,6 +222610,7 @@
       "老子",
       "陰陽",
       "萬物",
+      "道家",
       "部:子",
       "部:子/道家類"
     ],
@@ -221978,6 +222621,13 @@
         "title": "老子河上公章句 · 道化",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "第五章 中和",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五章 中和",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -235697,6 +236347,8 @@
       "象數",
       "八卦",
       "宇宙論",
+      "周易",
+      "說卦",
       "部:經",
       "部:經/易類"
     ],
@@ -235707,6 +236359,13 @@
         "title": "周易 · 說卦",
         "url": "https://zh.wikisource.org/wiki/易傳/說卦",
         "work": "周易"
+      },
+      {
+        "chapter": "卷09",
+        "plugin": "wikisource",
+        "title": "周易註 (王弼) · 卷09",
+        "url": "https://zh.wikisource.org/wiki/周易註 (四庫全書本)/卷09",
+        "work": "周易註 (王弼)"
       }
     ]
   },
@@ -236338,6 +236997,13 @@
         "title": "老子 (帛書本) · 章四十五",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第八章 請靚",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第八章 請靚",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -240896,6 +241562,24 @@
     ]
   },
   {
+    "slug": "質真如渝",
+    "title": "質真如渝",
+    "summary": "質性至真，反若變渝，以明返本之義。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第三章 聞道",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第三章 聞道",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "贊能",
     "title": "贊能",
     "summary": "進賢者功最高，功無大乎進賢。",
@@ -243064,7 +243748,10 @@
       "陰陽",
       "相反相成",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "動靜",
+      "修身",
+      "帛書老子"
     ],
     "sources": [
       {
@@ -243080,6 +243767,13 @@
         "title": "老子 (帛書本) · 章四十五",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第八章 請靚",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第八章 請靚",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -249104,10 +249798,10 @@
       "前識",
       "華",
       "愚",
-      "部:子",
-      "部:子/道家類",
       "道家",
-      "認識論"
+      "認識論",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -249695,6 +250389,24 @@
     ]
   },
   {
+    "slug": "道殷无名",
+    "title": "道殷無名",
+    "summary": "道至博厚，反若無名，以明道隱无名之義。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第三章 聞道",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第三章 聞道",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "道沖",
     "title": "道沖",
     "summary": "道體虛空，用之不盈，萬物宗主。",
@@ -249859,6 +250571,7 @@
       "創生",
       "宇宙生成",
       "帛書本",
+      "道家",
       "部:子",
       "部:子/道家類"
     ],
@@ -249874,6 +250587,34 @@
         "chapter": "章四十二",
         "plugin": "wikisource",
         "title": "老子 (帛書本) · 章四十二",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第五章 中和",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五章 中和",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
+    "slug": "道生之德畜之",
+    "title": "道生之，德畜之",
+    "summary": "道生萬物，德養萬物，自然之理也。",
+    "tags": [
+      "老子",
+      "道德",
+      "生成",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章五十一",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十一",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
       }
@@ -259712,6 +260453,8 @@
       "哲學",
       "雜卦",
       "六十四卦",
+      "周易",
+      "剛柔",
       "部:經",
       "部:經/易類"
     ],
@@ -259722,6 +260465,13 @@
         "title": "周易 · 雜卦",
         "url": "https://zh.wikisource.org/wiki/易傳/雜卦",
         "work": "周易"
+      },
+      {
+        "chapter": "卷09",
+        "plugin": "wikisource",
+        "title": "周易註 (王弼) · 卷09",
+        "url": "https://zh.wikisource.org/wiki/周易註 (四庫全書本)/卷09",
+        "work": "周易註 (王弼)"
       }
     ]
   },
