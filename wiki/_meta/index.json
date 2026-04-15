@@ -5770,6 +5770,13 @@
         "title": "老子河上公章句 · 德經",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章三十八",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十八",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -6740,6 +6747,27 @@
         "title": "春秋穀梁傳 · 莊公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/莊公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "不以智治國",
+    "title": "不以智治國國之福",
+    "summary": "任道德自然，則百姓自化，天下有福。",
+    "tags": [
+      "道家",
+      "治國",
+      "無為",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "淳德",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 淳德",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -8704,6 +8732,27 @@
     ]
   },
   {
+    "slug": "不欲如玉若石",
+    "title": "不欲如玉若石",
+    "summary": "聖人不欲祿祿若玉硌若石，守質全真，不以外物累其德。",
+    "tags": [
+      "道家哲學",
+      "寡欲",
+      "去欲",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章三十九",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十九",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
     "slug": "不欲盈",
     "title": "不欲盈",
     "summary": "持盈則失，唯不盈乃可長保。",
@@ -9104,6 +9153,8 @@
       "道家",
       "德",
       "上善",
+      "聖人",
+      "後己",
       "部:子",
       "部:子/道家類"
     ],
@@ -9128,6 +9179,34 @@
         "title": "老子 (帛書本) · 章八",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
+    "slug": "不爭之德",
+    "title": "不爭之德",
+    "summary": "以不爭為德，天下莫能與之争。",
+    "tags": [
+      "德行",
+      "無為",
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "配天",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 配天",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -14469,7 +14548,9 @@
       "守微",
       "慎始",
       "積微",
-      "為山"
+      "為山",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -24825,6 +24906,9 @@
     "title": "以智治國國之賊也-之",
     "summary": "",
     "tags": [
+      "道家",
+      "治國",
+      "智巧",
       "部:子",
       "部:子/法家類"
     ],
@@ -24835,6 +24919,13 @@
         "title": "韓非子 · 難三",
         "url": "https://zh.wikisource.org/wiki/韓非子/難三",
         "work": "韓非子"
+      },
+      {
+        "chapter": "淳德",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 淳德",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -34820,6 +34911,27 @@
     ]
   },
   {
+    "slug": "儉故能廣",
+    "title": "儉故能廣",
+    "summary": "節儉之德，可致廣大之功",
+    "tags": [
+      "老子",
+      "德行",
+      "儉",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "儉節",
     "title": "儉節",
     "summary": "",
@@ -42739,6 +42851,27 @@
     ]
   },
   {
+    "slug": "其細也夫",
+    "title": "其細也夫",
+    "summary": "不肖者自小，然大者反似不肖",
+    "tags": [
+      "老子",
+      "形名",
+      "大道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "其羽可用為儀",
     "title": "其羽可用為儀",
     "summary": "鴻羽有序可以為法",
@@ -42771,7 +42904,9 @@
       "守微",
       "防患",
       "微芒",
-      "未然"
+      "未然",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -45890,6 +46025,13 @@
         "title": "老子河上公章句 · 微明",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章三十六",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十六",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -48275,6 +48417,25 @@
         "title": "禮記 · 聘義",
         "url": "https://zh.wikisource.org/wiki/禮記/聘義",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "勇於不敢",
+    "title": "勇於不敢則活",
+    "summary": "勇于不敢則活，怯弱以全生也。",
+    "tags": [
+      "老子",
+      "修身",
+      "柔弱"
+    ],
+    "sources": [
+      {
+        "chapter": "任為",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 任為",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -51324,7 +51485,9 @@
       "守微",
       "慎始",
       "積微",
-      "千里之行"
+      "千里之行",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -67035,6 +67198,27 @@
     ]
   },
   {
+    "slug": "善勝敵者不與",
+    "title": "善勝敵者不與",
+    "summary": "善勝人者不與之争。",
+    "tags": [
+      "兵事",
+      "治道",
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "配天",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 配天",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "善名命善",
     "title": "善名命善",
     "summary": "名以善惡分，聖賢頑嚚各有定命",
@@ -67271,6 +67455,27 @@
         "title": "韓非子 · 揚榷",
         "url": "https://zh.wikisource.org/wiki/韓非子/揚榷",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "善戰者不怒",
+    "title": "善戰者不怒",
+    "summary": "良將制怒以應萬變。",
+    "tags": [
+      "兵事",
+      "治道",
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "配天",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 配天",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -67760,6 +67965,27 @@
     ]
   },
   {
+    "slug": "善為士者不武",
+    "title": "善為士者不武",
+    "summary": "君子為治不以武力威服。",
+    "tags": [
+      "治道",
+      "無為",
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "配天",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 配天",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "善為政者",
     "title": "善為政者",
     "summary": "善政之君能使田野闢、倉廩實、賢人進、姦民退，上下和同而有禮義。",
@@ -67788,6 +68014,7 @@
       "道家",
       "治國",
       "玄德",
+      "無為",
       "部:子",
       "部:子/道家類"
     ],
@@ -67805,6 +68032,13 @@
         "title": "老子 (帛書本) · 章十五",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "淳德",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 淳德",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -67826,6 +68060,27 @@
         "title": "荀子 · 仲尼篇",
         "url": "https://zh.wikisource.org/wiki/荀子/仲尼篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "善用人者為之下",
+    "title": "善用人者為之下",
+    "summary": "善用賢者必自居人下。",
+    "tags": [
+      "任賢",
+      "治道",
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "配天",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 配天",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -81141,6 +81396,9 @@
       "禮運",
       "和",
       "治道",
+      "道家",
+      "大順",
+      "至治",
       "部:經",
       "部:經/禮類"
     ],
@@ -81151,6 +81409,13 @@
         "title": "禮記 · 禮運",
         "url": "https://zh.wikisource.org/wiki/禮記/禮運",
         "work": "禮記"
+      },
+      {
+        "chapter": "淳德",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 淳德",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -82430,6 +82695,25 @@
         "title": "莊子 · 天運",
         "url": "https://zh.wikisource.org/wiki/莊子/天運",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "天之所惡",
+    "title": "天之所惡",
+    "summary": "天道惡勇而取利，與人情相左。",
+    "tags": [
+      "老子",
+      "天道",
+      "賞罰"
+    ],
+    "sources": [
+      {
+        "chapter": "任為",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 任為",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -84064,6 +84348,27 @@
     ]
   },
   {
+    "slug": "天將救之以慈衛之",
+    "title": "天將救之以慈衛之",
+    "summary": "天助聖人，以慈為衛",
+    "tags": [
+      "老子",
+      "天道",
+      "慈",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "天尊地卑",
     "title": "天尊地卑",
     "summary": "天尊地卑而禮制行，流息合同而樂興；化不時不生，男女無別則亂。",
@@ -85282,6 +85587,25 @@
     ]
   },
   {
+    "slug": "天網恢恢",
+    "title": "天網恢恢踈而不失",
+    "summary": "天網廣大雖疏，善惡之報終不遺漏。",
+    "tags": [
+      "老子",
+      "天道",
+      "報應"
+    ],
+    "sources": [
+      {
+        "chapter": "任為",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 任為",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "天與不取反受其咎",
     "title": "天與不取，反受其咎",
     "summary": "當取而不取，必受其殃，天之道也。",
@@ -85535,6 +85859,25 @@
         "title": "周易 · 謙",
         "url": "https://zh.wikisource.org/wiki/周易/謙",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "天道不爭",
+    "title": "天之道不爭而善勝",
+    "summary": "天道不爭而無往不勝，自然之理也。",
+    "tags": [
+      "老子",
+      "天道",
+      "無為"
+    ],
+    "sources": [
+      {
+        "chapter": "任為",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 任為",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -87473,6 +87816,21 @@
     ]
   },
   {
+    "slug": "夫唯不厭是以不厭",
+    "title": "夫唯不厭是以不厭",
+    "summary": "惟不厭斁於己，是以人亦不厭斁之。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "愛己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 愛己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "夫唯弗居是以不去",
     "title": "夫唯弗居是以不去",
     "summary": "不居功則功不去，不執名則道不失。",
@@ -88087,6 +88445,31 @@
         "title": "韓非子 · 外儲說左下",
         "url": "https://zh.wikisource.org/wiki/韓非子/外儲說左下",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "失道失德失仁失義失禮",
+    "title": "失道失德失仁失義失禮",
+    "summary": "德衰而仁，仁衰而義，義衰而禮，禮衰而亂。",
+    "tags": [
+      "老子",
+      "帛書本",
+      "道",
+      "德",
+      "仁",
+      "義",
+      "禮",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章三十八",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十八",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -96383,6 +96766,27 @@
     ]
   },
   {
+    "slug": "孤寡不穀",
+    "title": "孤寡不穀",
+    "summary": "侯王以孤、寡、不穀自稱，明貴以賤為本、高以下為基之旨。",
+    "tags": [
+      "道家哲學",
+      "稱謂",
+      "侯王",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章三十九",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十九",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
     "slug": "孤寡不轂",
     "title": "孤寡不轂",
     "summary": "王公下人以求自輔",
@@ -96835,12 +97239,12 @@
       "韓非",
       "為學",
       "老子道德經",
-      "部:子",
-      "部:子/法家類",
       "河上公章句",
       "守微",
       "聖人之學",
-      "無為之學"
+      "無為之學",
+      "部:子",
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -97031,6 +97435,27 @@
         "title": "詩經 · 子衿",
         "url": "https://zh.wikisource.org/wiki/詩經/子衿",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "學父",
+    "title": "學父",
+    "summary": "以退讓自斂為學之本，此聖人之教也。",
+    "tags": [
+      "老子",
+      "修身",
+      "帛書本",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章四十二",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章四十二",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -103674,6 +104099,29 @@
         "title": "呂氏春秋 · 卷二十",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十",
         "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "將欲翕之必古張之",
+    "title": "將欲翕之必古張之",
+    "summary": "欲翕故先張，欲弱故先強，欲去故先與，欲奪故先予。",
+    "tags": [
+      "老子",
+      "帛書本",
+      "辯證法",
+      "逆向思維",
+      "欲取先予",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章三十六",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十六",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -114201,6 +114649,9 @@
       "老子",
       "強弱",
       "戒慎",
+      "天道",
+      "柔弱勝剛強",
+      "帛書本",
       "部:子",
       "部:子/道家類"
     ],
@@ -114211,6 +114662,13 @@
         "title": "老子河上公章句 · 道化",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章四十二",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章四十二",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -115993,6 +116451,9 @@
       "老子",
       "帛書本",
       "得一",
+      "道家哲學",
+      "本體論",
+      "帛書老子",
       "部:子",
       "部:子/雜家類"
     ],
@@ -116015,6 +116476,13 @@
         "chapter": "全文",
         "plugin": "wikisource",
         "title": "老子 (帛書本)",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "章三十九",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十九",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
       }
@@ -117311,7 +117779,9 @@
       "守微",
       "聖人",
       "救過",
-      "學不學"
+      "學不學",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -119955,6 +120425,29 @@
         "title": "詩經 · 晨風",
         "url": "https://zh.wikisource.org/wiki/詩經/晨風",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "忠信之泊",
+    "title": "忠信之泊",
+    "summary": "禮者，忠信衰薄之所致，亂之首也。",
+    "tags": [
+      "老子",
+      "帛書本",
+      "德",
+      "禮",
+      "忠信",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章三十八",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十八",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -123576,6 +124069,27 @@
     ]
   },
   {
+    "slug": "愚之",
+    "title": "非以明民將以愚之",
+    "summary": "聖人治民務使返樸，非明示以智巧。",
+    "tags": [
+      "道家",
+      "治道",
+      "返樸",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "淳德",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 淳德",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "愚人知利而病",
     "title": "愚人知利而病",
     "summary": "聖人知病之為利，愚人反是；利害之反，禍福之門也。",
@@ -123936,6 +124450,21 @@
         "title": "史記 · 卷091",
         "url": "https://zh.wikisource.org/wiki/史記/卷091",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "愛己",
+    "title": "愛己",
+    "summary": "治世之要在自知、自愛、不迫、不厭。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "愛己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 愛己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -124551,6 +125080,7 @@
       "慈",
       "勇",
       "韓非子",
+      "德行",
       "部:子",
       "部:子/法家類"
     ],
@@ -124566,6 +125096,13 @@
         "chapter": "德經",
         "plugin": "wikisource",
         "title": "老子河上公章句 · 德經",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      },
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
       }
@@ -124897,7 +125434,9 @@
       "守微",
       "慎終",
       "慎始",
-      "敬慎"
+      "敬慎",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -131129,6 +131668,29 @@
         "title": "尚書 · 微子",
         "url": "https://zh.wikisource.org/wiki/尚書/微子",
         "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "攘臂而扔之",
+    "title": "攘臂而扔之",
+    "summary": "禮之應者，攘臂抑扔，强抑而争；明上德之不用是。",
+    "tags": [
+      "老子",
+      "帛書本",
+      "禮",
+      "德",
+      "仁義",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章三十八",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十八",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -142492,6 +143054,27 @@
     ]
   },
   {
+    "slug": "智多",
+    "title": "民之難治以其智多",
+    "summary": "民心多智則難以馭化，上下交賊。",
+    "tags": [
+      "道家",
+      "治道",
+      "智巧",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "淳德",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 淳德",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "智大量遠者",
     "title": "智大量遠者",
     "summary": "智量宏遠之人，如山峙而不動；志小器近之人，如萍浮而流易。",
@@ -149194,6 +149777,28 @@
     ]
   },
   {
+    "slug": "柔弱朕強",
+    "title": "柔弱朕強",
+    "summary": "柔弱勝剛強，魚不脫淵，邦利器不可以示人。",
+    "tags": [
+      "老子",
+      "帛書本",
+      "柔弱勝剛強",
+      "利器不可以示人",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章三十六",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十六",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
     "slug": "柔弱者生之幹",
     "title": "柔弱者生之幹",
     "summary": "",
@@ -152262,6 +152867,27 @@
     ]
   },
   {
+    "slug": "楷式",
+    "title": "知此兩者亦楷式",
+    "summary": "以智、不以智治國，二者皆可為法式。",
+    "tags": [
+      "道家",
+      "治國",
+      "楷式",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "淳德",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 淳德",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "榛楛濟濟",
     "title": "榛楛濟濟",
     "summary": "榛楛叢生，以喻君子育成人材，蔚然可觀。",
@@ -153958,6 +154584,28 @@
     ]
   },
   {
+    "slug": "欲上民下",
+    "title": "欲上民下",
+    "summary": "聖人欲居上位者，必以言下之；欲居前位者，必以身後之。取法[[江海善下]]之義。",
+    "tags": [
+      "治道",
+      "聖人",
+      "謙遜",
+      "後己",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "欲不可從",
     "title": "欲不可從",
     "summary": "",
@@ -154011,7 +154659,9 @@
       "守微",
       "無欲",
       "聖人",
-      "去欲"
+      "去欲",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -161380,6 +162030,28 @@
         "title": "淮南子 · 墜形訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/墜形訓",
         "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "江海善下",
+    "title": "江海善下",
+    "summary": "水性趨下，江海善下，故能為百谷王；聖人法之，治天下者當以謙遜居下。",
+    "tags": [
+      "治道",
+      "水喻",
+      "謙遜",
+      "無為",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -171479,13 +172151,13 @@
       "無為",
       "敗亡",
       "自然",
-      "部:子",
-      "部:子/道家類",
       "老子",
       "河上公章句",
       "守微",
       "無執",
-      "聖人"
+      "聖人",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -173000,6 +173672,28 @@
     ]
   },
   {
+    "slug": "無厭其所生",
+    "title": "無厭其所生",
+    "summary": "治道尚寬，不厭民之生計。",
+    "tags": [
+      "老子",
+      "河上公",
+      "愛己",
+      "治道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "愛己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 愛己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "無厭將及我",
     "title": "無厭將及我",
     "summary": "貪以求無厭，禍必及其身。",
@@ -173038,6 +173732,28 @@
         "title": "韓非子 · 顯學",
         "url": "https://zh.wikisource.org/wiki/韓非子/顯學",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "無名之樸",
+    "title": "無名之樸",
+    "summary": "以道之淳樸，鎮抑萬物之欲。",
+    "tags": [
+      "老子",
+      "樸",
+      "無名",
+      "修養",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章三十七",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十七",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -173880,6 +174596,9 @@
     "title": "無為而治",
     "summary": "本文阐明“无为而治”并非无所作为，而是",
     "tags": [
+      "無為",
+      "治道",
+      "老子",
       "部:子",
       "部:子/道家類"
     ],
@@ -173911,6 +174630,13 @@
         "title": "論語 · 衞靈公第十五",
         "url": "https://zh.wikisource.org/wiki/論語/衞靈公第十五",
         "work": "論語"
+      },
+      {
+        "chapter": "章三十七",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十七",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -174000,6 +174726,28 @@
         "title": "韓非子 · 解老",
         "url": "https://zh.wikisource.org/wiki/韓非子/解老",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "無狹其所居",
+    "title": "無狹其所居",
+    "summary": "聖人治世，不迫民使居隘。",
+    "tags": [
+      "老子",
+      "河上公",
+      "愛己",
+      "治道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "愛己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 愛己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -178697,6 +179445,48 @@
     ]
   },
   {
+    "slug": "玄德",
+    "title": "常知楷式是謂玄德",
+    "summary": "常知楷式，任道德而不任智巧，是之謂玄德。",
+    "tags": [
+      "道家",
+      "德",
+      "玄德",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "淳德",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 淳德",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
+    "slug": "玄德深矣",
+    "title": "玄德深矣遠矣",
+    "summary": "玄德幽深廣遠，非俗智所能測。",
+    "tags": [
+      "道家",
+      "玄德",
+      "德行",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "淳德",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 淳德",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "玄泊先生",
     "title": "玄泊先生",
     "summary": "抱朴子所述持重不言之隱士，以儒墨為城、以機神為戈，終日默然，終無一言。",
@@ -181563,6 +182353,27 @@
         "title": "論語 · 述而第七",
         "url": "https://zh.wikisource.org/wiki/論語/述而第七",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "用人之力的力",
+    "title": "用人之力",
+    "summary": "能下人者，斯能用人之力。",
+    "tags": [
+      "任賢",
+      "治道",
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "配天",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 配天",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -207603,13 +208414,22 @@
       "恩始",
       "慎微",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "聖人",
+      "慎行"
     ],
     "sources": [
       {
         "chapter": "恩始",
         "plugin": "wikisource",
         "title": "老子河上公章句 · 恩始",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      },
+      {
+        "chapter": "任為",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 任為",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
       }
@@ -212530,6 +213350,21 @@
     ]
   },
   {
+    "slug": "自愛不自貴",
+    "title": "自愛不自貴",
+    "summary": "聖人自愛其身而不自尊以陵人。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "愛己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 愛己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "自我不見于今三年",
     "title": "自我不見于今三年",
     "summary": "征人與妻相別，已越三年，言室家之思之久。",
@@ -212773,6 +213608,21 @@
         "title": "老子 (帛書本) · 章二十四",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
+    "slug": "自知不自見",
+    "title": "自知不自見",
+    "summary": "聖人知己之明而不顯己以示人。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "愛己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 愛己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -214315,6 +215165,27 @@
     ]
   },
   {
+    "slug": "致輿無輿",
+    "title": "致輿無輿",
+    "summary": "致譽者無譽，求榮者反辱，不爭乃全，不取乃得。",
+    "tags": [
+      "道家哲學",
+      "無為",
+      "處世",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章三十九",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十九",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
     "slug": "致道",
     "title": "致道",
     "summary": "致道於民，民乃付而不爭。",
@@ -214799,6 +215670,27 @@
     ]
   },
   {
+    "slug": "與物反矣",
+    "title": "與物反矣",
+    "summary": "玄德返於物情，逆世俗而合天德。",
+    "tags": [
+      "道家",
+      "玄德",
+      "返樸",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "淳德",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 淳德",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "與眾同好靡不成",
     "title": "與眾同好靡不成",
     "summary": "與眾同好則無不成，與眾同惡則無不傾。",
@@ -215163,6 +216055,27 @@
         "title": "三略",
         "url": "https://zh.wikisource.org/wiki/三略",
         "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "舍慈且勇",
+    "title": "舍慈且勇",
+    "summary": "遺其根本而徒矜其末，必至敗亡",
+    "tags": [
+      "老子",
+      "修身",
+      "戒",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -227121,6 +228034,10 @@
       "象喻",
       "真人",
       "丹道",
+      "老子",
+      "聖人",
+      "修身",
+      "玄德",
       "部:子",
       "部:子/道家類"
     ],
@@ -227131,6 +228048,13 @@
         "title": "周易參同契 · 07章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/07章",
         "work": "周易參同契"
+      },
+      {
+        "chapter": "知難",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 知難",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -236066,6 +236990,8 @@
       "道家",
       "政治哲學",
       "謙下",
+      "道家哲學",
+      "處世哲學",
       "部:子",
       "部:子/道家類"
     ],
@@ -236076,6 +237002,13 @@
         "title": "老子河上公章句 · 法本",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章三十九",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十九",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -241542,7 +242475,9 @@
       "守微",
       "自然",
       "無為",
-      "輔物"
+      "輔物",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -246670,6 +247605,30 @@
     ]
   },
   {
+    "slug": "道之華愚之首",
+    "title": "道之華愚之首",
+    "summary": "前識者，道之華，愚之首；明道者不貴華而貴實。",
+    "tags": [
+      "老子",
+      "帛書本",
+      "道",
+      "前識",
+      "華",
+      "愚",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章三十八",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十八",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
     "slug": "道之衡",
     "title": "道之衡",
     "summary": "道為萬物之衡，心不可以不知道。",
@@ -247119,6 +248078,13 @@
         "title": "老子 (帛書本) · 章三十二",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "章三十七",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十七",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -247393,6 +248359,8 @@
       "老子",
       "宇宙論",
       "創生",
+      "宇宙生成",
+      "帛書本",
       "部:子",
       "部:子/道家類"
     ],
@@ -247403,6 +248371,13 @@
         "title": "老子河上公章句 · 道化",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章四十二",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章四十二",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -250306,6 +251281,27 @@
         "title": "周易參同契 · 26章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/26章",
         "work": "周易參同契"
+      }
+    ]
+  },
+  {
+    "slug": "配天古之極",
+    "title": "配天古之極",
+    "summary": "不爭用人，合於天道古聖之至。",
+    "tags": [
+      "天道",
+      "德行",
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "配天",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 配天",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -266348,6 +267344,24 @@
         "title": "韓非子 · 喻老",
         "url": "https://zh.wikisource.org/wiki/韓非子/喻老",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "魚不可脫於淵",
+    "title": "魚不可脫於淵",
+    "summary": "",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章三十六",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章三十六",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
