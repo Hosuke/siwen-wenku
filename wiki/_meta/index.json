@@ -9448,6 +9448,13 @@
         "title": "老子 (帛書校勘版) · 第四十二章 天道",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "七十七章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 七十七章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -24343,11 +24350,11 @@
       "天道自然",
       "無為",
       "刑罰",
-      "部:子",
-      "部:子/道家類",
       "治道",
       "越俎",
-      "自傷"
+      "自傷",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -59013,6 +59020,25 @@
     ]
   },
   {
+    "slug": "受國不祥",
+    "title": "受國不祥",
+    "summary": "聖人承天下之凶禍，乃得為天下之王。",
+    "tags": [
+      "道家",
+      "聖人",
+      "為王"
+    ],
+    "sources": [
+      {
+        "chapter": "七十八章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 七十八章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
     "slug": "受國之垢",
     "title": "受國之垢",
     "summary": "聖人受國之垢、不祥，乃為社稷主、天下王。",
@@ -60743,11 +60769,11 @@
       "老子",
       "刑殺",
       "帛書本",
-      "部:子",
-      "部:子/道家類",
       "刑罰",
       "無為",
-      "自然"
+      "自然",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -90820,11 +90846,11 @@
       "老子",
       "天道",
       "報應",
-      "部:子",
-      "部:子/道家類",
       "無為",
       "天網",
-      "自然"
+      "自然",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -91343,6 +91369,8 @@
       "老子",
       "損補",
       "聖人",
+      "損有餘補不足",
+      "自然之衡",
       "部:子",
       "部:子/道家類"
     ],
@@ -91360,6 +91388,13 @@
         "title": "老子 (帛書本) · 章七十七",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "七十七章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 七十七章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -111004,7 +111039,9 @@
       "治國",
       "理想社會",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "政治理想",
+      "無為之治"
     ],
     "sources": [
       {
@@ -111020,6 +111057,13 @@
         "title": "老子河上公章句 · 獨立",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "八十章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 八十章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -120408,6 +120452,25 @@
     ]
   },
   {
+    "slug": "弱之勝強",
+    "title": "弱之勝強",
+    "summary": "柔弱之物能勝剛強，以柔克剛之理也。",
+    "tags": [
+      "道家",
+      "柔弱",
+      "克剛"
+    ],
+    "sources": [
+      {
+        "chapter": "七十八章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 七十八章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
     "slug": "弱民",
     "title": "弱民",
     "summary": "民弱則國強，務在削民之志使歸於耕戰",
@@ -124424,7 +124487,10 @@
       "治道",
       "結繩",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "道家",
+      "上古之風",
+      "反樸歸真"
     ],
     "sources": [
       {
@@ -124433,6 +124499,13 @@
         "title": "老子河上公章句 · 獨立",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "八十章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 八十章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -138452,6 +138525,8 @@
       "人道",
       "乖反",
       "不均",
+      "劫貧奉富",
+      "世弊",
       "部:子",
       "部:子/道家類"
     ],
@@ -138462,6 +138537,13 @@
         "title": "老子河上公章句 · 天道",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "七十七章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 七十七章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -138588,6 +138670,13 @@
         "title": "老子河上公章句 · 天道",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "七十七章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 七十七章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -154308,6 +154397,13 @@
         "title": "老子河上公章句 · 天道",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "七十七章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 七十七章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -155464,6 +155560,27 @@
         "title": "史記 · 卷104",
         "url": "https://zh.wikisource.org/wiki/史記/卷104",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "木強則兵",
+    "title": "木強則兵",
+    "summary": "木質剛強則遭斧斤，人勢過強必受攻伐。",
+    "tags": [
+      "老子",
+      "柔弱",
+      "強弱",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七十六章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 七十六章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -158058,6 +158175,25 @@
     ]
   },
   {
+    "slug": "柔之勝剛",
+    "title": "柔之勝剛",
+    "summary": "柔性之物能勝剛性，以柔克剛之理也。",
+    "tags": [
+      "道家",
+      "柔性",
+      "克剛"
+    ],
+    "sources": [
+      {
+        "chapter": "七十八章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 七十八章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
     "slug": "柔乘剛",
     "title": "柔乘剛",
     "summary": "无攸利之故，柔爻凌乘於剛爻之上，剛道不行也。",
@@ -158265,6 +158401,27 @@
         "title": "老子 (帛書本) · 章七十六",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
+    "slug": "柔弱處上",
+    "title": "柔弱處上",
+    "summary": "柔弱者反居上位，堅強者反居下位。",
+    "tags": [
+      "老子",
+      "柔弱",
+      "貴謙",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七十六章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 七十六章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -164635,6 +164792,25 @@
     ]
   },
   {
+    "slug": "正言若反",
+    "title": "正言若反",
+    "summary": "至理之言，辭似乖反而意實相成。",
+    "tags": [
+      "道家",
+      "辭令",
+      "妙理"
+    ],
+    "sources": [
+      {
+        "chapter": "七十八章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 七十八章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
     "slug": "正靜-之",
     "title": "正靜-之",
     "summary": "",
@@ -168056,12 +168232,12 @@
       "政治",
       "刑法",
       "老子",
-      "部:子",
-      "部:子/道家類",
       "治道",
       "刑罰",
       "生死",
-      "無為"
+      "無為",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -169100,6 +169276,13 @@
         "title": "老子 (帛書校勘版) · 第三十章 安居",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "八十章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 八十章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -170467,6 +170650,28 @@
         "title": "詩經 · 我行其野",
         "url": "https://zh.wikisource.org/wiki/詩經/我行其野",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "求生之厚",
+    "title": "求生之厚",
+    "summary": "言在上者厚養其生，則民輕死而難治。",
+    "tags": [
+      "老子",
+      "無為",
+      "政治哲學",
+      "生死觀",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "七十五章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 七十五章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -181717,6 +181922,26 @@
     ]
   },
   {
+    "slug": "為而不恃功成不處",
+    "title": "為而不恃功成不處",
+    "summary": "聖人施澤於物，不居其功，不欲見賢以自伐也",
+    "tags": [
+      "聖人",
+      "不居功",
+      "不伐",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "七十七章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 七十七章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
     "slug": "為而不爭",
     "title": "為而不爭",
     "summary": "聖人有所作為而不與物爭，此其所以為聖。",
@@ -191770,6 +191995,13 @@
         "title": "老子 (帛書校勘版) · 第三十章 安居",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "八十章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 八十章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -194278,7 +194510,8 @@
       "不用",
       "偃武",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "道家"
     ],
     "sources": [
       {
@@ -194294,6 +194527,13 @@
         "title": "老子 (帛書校勘版) · 第三十章 安居",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "八十章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 八十章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -272512,6 +272752,13 @@
         "title": "老子 (帛書本) · 章八十",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "八十章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 八十章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
