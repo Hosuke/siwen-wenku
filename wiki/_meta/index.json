@@ -5349,7 +5349,10 @@
       "仁義",
       "德治",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "道德",
+      "無為",
+      "王弼注"
     ],
     "sources": [
       {
@@ -5372,6 +5375,13 @@
         "title": "老子 (帛書校勘版) · 第一章 論德",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "三十八章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十八章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -6188,7 +6198,10 @@
       "韓非子",
       "德治",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "道德",
+      "忠信",
+      "亂之首"
     ],
     "sources": [
       {
@@ -6211,6 +6224,13 @@
         "title": "老子 (帛書校勘版) · 第一章 論德",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "三十八章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十八章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -6269,7 +6289,10 @@
       "韓非子",
       "德治",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "道德",
+      "有為",
+      "王弼注"
     ],
     "sources": [
       {
@@ -6292,6 +6315,13 @@
         "title": "老子 (帛書校勘版) · 第一章 論德",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "三十八章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十八章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -6461,6 +6491,26 @@
         "title": "莊子 · 漁父",
         "url": "https://zh.wikisource.org/wiki/莊子/漁父",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "下德為之而有以為",
+    "title": "下德為之而有以為",
+    "summary": "下德據法有為，非自然無為",
+    "tags": [
+      "道德",
+      "無為",
+      "有為",
+      "王弼注"
+    ],
+    "sources": [
+      {
+        "chapter": "三十八章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十八章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -7938,6 +7988,28 @@
     ]
   },
   {
+    "slug": "不失其所者久",
+    "title": "不失其所者久",
+    "summary": "不失根本者乃可長久",
+    "tags": [
+      "修身",
+      "守道",
+      "老子",
+      "道德經",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三十三章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十三章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
     "slug": "不奪人之喪亦不可奪喪",
     "title": "不奪人之喪亦不可奪喪",
     "summary": "",
@@ -9159,6 +9231,13 @@
         "title": "道德經 (王弼本) · 十五章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "第五十九章 不盈",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十九章 不盈",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -10746,6 +10825,27 @@
     ]
   },
   {
+    "slug": "不自為大成其大",
+    "title": "不自為大成其大",
+    "summary": "不自大者終能成其大，此道之玄德",
+    "tags": [
+      "道德經",
+      "玄德",
+      "無為",
+      "聖人",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "三十四章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十四章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
     "slug": "不自生",
     "title": "不自生",
     "summary": "天地長久，以其不為己而生。",
@@ -11398,6 +11498,26 @@
         "title": "韓非子 · 主道",
         "url": "https://zh.wikisource.org/wiki/韓非子/主道",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "不辭",
+    "title": "不辭",
+    "summary": "道生養萬物而不辭謝",
+    "tags": [
+      "道德經",
+      "道",
+      "無為",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "三十四章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十四章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -18122,6 +18242,28 @@
     ]
   },
   {
+    "slug": "五味使人之口爽",
+    "title": "五味使人之口爽",
+    "summary": "嗜於厚味則口失其正。",
+    "tags": [
+      "老子",
+      "感官",
+      "養生",
+      "無為",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第五十六章 為腹",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十六章 為腹",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "五味偏傷",
     "title": "五味偏傷",
     "summary": "五味入口，不可偏多；偏多則各傷相應之臟。",
@@ -19620,6 +19762,28 @@
     ]
   },
   {
+    "slug": "五色使人目盲",
+    "title": "五色使人目盲",
+    "summary": "耽於美色則目失其明。",
+    "tags": [
+      "老子",
+      "感官",
+      "養生",
+      "無為",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第五十六章 為腹",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十六章 為腹",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "五色診病",
     "title": "五色診病",
     "summary": "倉公受黃帝、扁鵲脈書，知人死生決嫌疑定可治，皆以五色觀面部以為據。",
@@ -20163,6 +20327,28 @@
         "title": "管子 · 第58篇地員",
         "url": "https://zh.wikisource.org/wiki/管子/第58篇地員",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "五音使人之耳聾",
+    "title": "五音使人之耳聾",
+    "summary": "溺於聲樂則耳失其聽。",
+    "tags": [
+      "老子",
+      "感官",
+      "無為",
+      "音樂",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第五十六章 為腹",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十六章 為腹",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -24885,7 +25071,8 @@
     "tags": [
       "老子",
       "兵事",
-      "禮制"
+      "禮制",
+      "部:經"
     ],
     "sources": [
       {
@@ -40605,7 +40792,10 @@
       "公",
       "王",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "道家",
+      "天",
+      "道"
     ],
     "sources": [
       {
@@ -40614,6 +40804,13 @@
         "title": "老子河上公章句 · 歸根",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "第六十章 歸根",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第六十章 歸根",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -51874,6 +52071,25 @@
         "title": "晏子春秋 · 卷四",
         "url": "https://zh.wikisource.org/wiki/晏子春秋/卷四",
         "work": "晏子春秋"
+      }
+    ]
+  },
+  {
+    "slug": "化而欲作",
+    "title": "化而欲作",
+    "summary": "萬物自化之時，嗜欲將興。",
+    "tags": [
+      "道家",
+      "無為",
+      "嗜欲"
+    ],
+    "sources": [
+      {
+        "chapter": "三十七章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十七章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -70736,7 +70952,11 @@
       "玄德",
       "無為",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "老子",
+      "修道",
+      "德行",
+      "形容"
     ],
     "sources": [
       {
@@ -70759,6 +70979,13 @@
         "title": "老子河上公章句 · 淳德",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "第五十九章 不盈",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十九章 不盈",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -78176,6 +78403,27 @@
     ]
   },
   {
+    "slug": "執今之道",
+    "title": "執今之道",
+    "summary": "循今御物，可知古始。此老子道紀之樞要也。",
+    "tags": [
+      "道家",
+      "老子",
+      "帛書",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第五十八章 道紀",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十八章 道紀",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "執其契操其符",
     "title": "執契操符",
     "summary": "君執符契以驗賞罰",
@@ -78272,6 +78520,13 @@
         "title": "老子 (帛書本) · 章三十五",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "三十五章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十五章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -103013,6 +103268,13 @@
         "title": "老子 (帛書本) · 章三十五",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "三十五章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十五章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -105527,6 +105789,28 @@
     ]
   },
   {
+    "slug": "寄天下",
+    "title": "寄天下",
+    "summary": "聖人愛身以化天下，則天下可寄。",
+    "tags": [
+      "老子",
+      "治道",
+      "愛身",
+      "無為",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第五十七章 寵辱",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十七章 寵辱",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "寄帑與賄",
     "title": "寄帑與賄",
     "summary": "桓公預為避禍，寄財賄於十邑。",
@@ -107288,6 +107572,13 @@
         "title": "老子河上公章句 · 厭恥",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "第五十七章 寵辱",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十七章 寵辱",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -108064,6 +108355,23 @@
         "title": "老子 (帛書本) · 章二十九",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
+    "slug": "將欲歙之必固張之",
+    "title": "將欲歙之必固張之",
+    "summary": "聖人欲收斂者，必先縱張以待之。",
+    "tags": [
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "三十六章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十六章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -115080,6 +115388,8 @@
       "道家",
       "無欲",
       "玄德",
+      "道德經",
+      "小",
       "部:子",
       "部:子/道家類"
     ],
@@ -115090,6 +115400,13 @@
         "title": "老子河上公章句 · 任成",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "三十四章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十四章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -119046,6 +119363,25 @@
     ]
   },
   {
+    "slug": "強為之容",
+    "title": "強為之容",
+    "summary": "德不可測，勉強形容。",
+    "tags": [
+      "老子",
+      "修道",
+      "形容"
+    ],
+    "sources": [
+      {
+        "chapter": "第五十九章 不盈",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十九章 不盈",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "強而弗抑",
     "title": "強而弗抑",
     "summary": "勉勵之而不挫折之，使學者易於自強。",
@@ -122621,6 +122957,25 @@
         "title": "老子 (帛書本) · 章三十四",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
+    "slug": "微妙玄達",
+    "title": "微妙玄達",
+    "summary": "德行微妙，深遠通達。",
+    "tags": [
+      "老子",
+      "德行",
+      "玄妙"
+    ],
+    "sources": [
+      {
+        "chapter": "第五十九章 不盈",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十九章 不盈",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -133008,6 +133363,28 @@
     ]
   },
   {
+    "slug": "托天下",
+    "title": "托天下",
+    "summary": "聖人貴身以應天下，則天下可托。",
+    "tags": [
+      "老子",
+      "治道",
+      "貴身",
+      "無為",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第五十七章 寵辱",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十七章 寵辱",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "扞蔽席薦",
     "title": "扞蔽席薦",
     "summary": "喻韓事秦如屏障之扞禦、蓆墊之供奉，卑微無異郡縣。",
@@ -138194,6 +138571,25 @@
     ]
   },
   {
+    "slug": "敝而不成",
+    "title": "敝而不成",
+    "summary": "不欲盈滿，故能保守而成。",
+    "tags": [
+      "老子",
+      "修道",
+      "不盈"
+    ],
+    "sources": [
+      {
+        "chapter": "第五十九章 不盈",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十九章 不盈",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "散其黨收其餘",
     "title": "散其黨收其餘",
     "summary": "去虎賊之法在散黨閉門",
@@ -141573,6 +141969,27 @@
         "title": "周易 · 无妄",
         "url": "https://zh.wikisource.org/wiki/周易/无妄",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "无狀之狀无物之象",
+    "title": "無狀之狀、無物之象",
+    "summary": "道无形而可狀，象恍惚而難名。",
+    "tags": [
+      "道家",
+      "老子",
+      "帛書",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第五十八章 道紀",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十八章 道紀",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -145231,7 +145648,8 @@
       "自然哲學",
       "一",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "宇宙論"
     ],
     "sources": [
       {
@@ -145240,6 +145658,13 @@
         "title": "老子河上公章句 · 法本",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "三十九章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十九章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -149896,6 +150321,13 @@
         "title": "老子 (帛書本) · 章十一",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第五十五章 玄中",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十五章 玄中",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -159440,6 +159872,9 @@
       "道家",
       "老子",
       "警誡",
+      "無為",
+      "聲色",
+      "歸往",
       "部:子",
       "部:子/道家類"
     ],
@@ -159450,6 +159885,13 @@
         "title": "老子 (帛書本) · 章三十五",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "三十五章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十五章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -163285,7 +163727,8 @@
       "道家",
       "歸根",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "復命"
     ],
     "sources": [
       {
@@ -163301,6 +163744,13 @@
         "title": "道德經 (王弼本) · 十六章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "第六十章 歸根",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第六十章 歸根",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -164189,7 +164639,9 @@
     "tags": [
       "老子",
       "兵事",
-      "仁心"
+      "仁心",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -172938,7 +173390,9 @@
       "老子",
       "認識論",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "玄妙",
+      "難測"
     ],
     "sources": [
       {
@@ -172947,6 +173401,13 @@
         "title": "老子 (帛書本) · 章十五",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第五十九章 不盈",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十九章 不盈",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -176639,7 +177100,9 @@
       "道德經",
       "歸靜",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "修煉",
+      "濁清"
     ],
     "sources": [
       {
@@ -176655,6 +177118,13 @@
         "title": "道德經 (王弼本) · 十五章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "第五十九章 不盈",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十九章 不盈",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -192237,6 +192707,13 @@
         "title": "老子 (帛書本) · 章十一",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第五十五章 玄中",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十五章 玄中",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -192269,6 +192746,13 @@
         "title": "老子 (帛書本) · 章十一",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第五十五章 玄中",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十五章 玄中",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -192302,6 +192786,13 @@
         "title": "老子 (帛書本) · 章十一",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第五十五章 玄中",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十五章 玄中",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -198292,6 +198783,27 @@
         "title": "道德經 (王弼本) · 十六章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
+    "slug": "知常明",
+    "title": "知常明",
+    "summary": "知曉恆常之理，則通達無蔽。",
+    "tags": [
+      "道家",
+      "知常",
+      "明",
+      "老子",
+      "恆常"
+    ],
+    "sources": [
+      {
+        "chapter": "第六十章 歸根",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第六十章 歸根",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -216449,8 +216961,11 @@
       "聖人",
       "寡欲",
       "修身",
+      "治道",
+      "無為",
+      "實質",
       "部:子",
-      "部:子/儒家類"
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -216459,6 +216974,13 @@
         "title": "道德經 (王弼本) · 十二章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "第五十六章 為腹",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十六章 為腹",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -221537,6 +222059,26 @@
     ]
   },
   {
+    "slug": "自小自大",
+    "title": "自小自大",
+    "summary": "萬物歸焉而不主，故可名為大",
+    "tags": [
+      "道德經",
+      "玄德",
+      "大小",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "三十四章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十四章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
     "slug": "自度稍侵",
     "title": "自度稍侵",
     "summary": "恐罪將及，度己日蹙，不能自安。",
@@ -223381,6 +223923,25 @@
         "title": "老子河上公章句 · 法本",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
+    "slug": "致數輿無輿",
+    "title": "致數輿無輿",
+    "summary": "求譽反無譽，不欲如玉當如石",
+    "tags": [
+      "道家",
+      "名譽觀",
+      "謙德"
+    ],
+    "sources": [
+      {
+        "chapter": "三十九章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十九章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -228976,6 +229537,9 @@
       "道家",
       "生成",
       "萬物",
+      "道德經",
+      "道",
+      "無為",
       "部:子",
       "部:子/道家類"
     ],
@@ -228986,6 +229550,13 @@
         "title": "老子河上公章句 · 任成",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "三十四章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十四章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -236520,6 +237091,26 @@
     ]
   },
   {
+    "slug": "衣養萬物",
+    "title": "衣養萬物",
+    "summary": "道衣被涵養萬物而不為主",
+    "tags": [
+      "道德經",
+      "道",
+      "無為",
+      "部:經"
+    ],
+    "sources": [
+      {
+        "chapter": "三十四章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十四章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
     "slug": "衰世之君",
     "title": "衰世之君",
     "summary": "晏子言衰世之君辟邪阿黨，與盛聖相反，此治亂之別也。",
@@ -238698,6 +239289,28 @@
         "chapter": "十四章",
         "plugin": "wikisource",
         "title": "道德經 (王弼本) · 十四章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
+    "slug": "視之不足見聽之不足聞用之不足既",
+    "title": "視之不足見，聽之不足聞，用之不足既",
+    "summary": "道視不見聽不聞，用之則無有竭盡。",
+    "tags": [
+      "老子",
+      "道的特性",
+      "感官",
+      "無盡",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三十五章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十五章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
       }
@@ -246113,7 +246726,8 @@
       "道家哲學",
       "處世哲學",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "相對性"
     ],
     "sources": [
       {
@@ -246129,6 +246743,13 @@
         "title": "老子 (帛書本) · 章三十九",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "三十九章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十九章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -246161,6 +246782,13 @@
         "title": "老子 (帛書本) · 章十三",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第五十七章 寵辱",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十七章 寵辱",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -256816,6 +257444,9 @@
       "道家",
       "老子",
       "玄道",
+      "道的特性",
+      "淡",
+      "歸真",
       "部:子",
       "部:子/道家類"
     ],
@@ -256826,6 +257457,13 @@
         "title": "老子 (帛書本) · 章三十五",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "三十五章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十五章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -256893,6 +257531,27 @@
         "title": "老子河上公章句 · 任成",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
         "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
+    "slug": "道之氾廣",
+    "title": "道之氾廣",
+    "summary": "道覆萬物而無遠弗屆",
+    "tags": [
+      "道德經",
+      "道",
+      "無為",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三十四章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十四章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -257346,6 +258005,10 @@
     "title": "道常無名",
     "summary": "道體虛無，恆久無名，不可得而名也",
     "tags": [
+      "道家",
+      "無名",
+      "治道",
+      "自然",
       "部:子",
       "部:子/道家類"
     ],
@@ -257356,6 +258019,13 @@
         "title": "老子河上公章句 · 聖德",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "三十二章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十二章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -257954,6 +258624,7 @@
       "道",
       "古始",
       "綱紀",
+      "帛書",
       "部:子",
       "部:子/道家類"
     ],
@@ -257971,6 +258642,13 @@
         "title": "道德經 (王弼本) · 十四章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "第五十八章 道紀",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十八章 道紀",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -268396,6 +269074,28 @@
     ]
   },
   {
+    "slug": "難得之貨使人之行妨",
+    "title": "難得之貨使人之行妨",
+    "summary": "貪珍奇則德行受損。",
+    "tags": [
+      "老子",
+      "欲望",
+      "德行",
+      "無為",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第五十六章 為腹",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十六章 為腹",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "難易之相成",
     "title": "難易之相成",
     "summary": "明難以易成、易以難成，相待而成之理。",
@@ -275073,6 +275773,9 @@
       "老子",
       "修身",
       "物欲",
+      "嗜欲",
+      "養生",
+      "無為",
       "部:子",
       "部:子/道家類"
     ],
@@ -275083,6 +275786,13 @@
         "title": "老子 (帛書本) · 章十二",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第五十六章 為腹",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第五十六章 為腹",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -277148,6 +277858,13 @@
         "title": "韓非子 · 喻老",
         "url": "https://zh.wikisource.org/wiki/韓非子/喻老",
         "work": "韓非子"
+      },
+      {
+        "chapter": "三十六章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三十六章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
