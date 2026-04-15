@@ -11068,6 +11068,13 @@
         "title": "老子河上公章句 · 玄符",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章五十五",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十五",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -24243,6 +24250,27 @@
     ]
   },
   {
+    "slug": "以天下觀天下",
+    "title": "以天下觀天下",
+    "summary": "聖人觀天下之俗，驗之於天下。",
+    "tags": [
+      "老子",
+      "觀法",
+      "治道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十七章 善觀",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十七章 善觀",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "以天為師",
     "title": "以天為師",
     "summary": "道成德就，上與天合。",
@@ -25308,7 +25336,9 @@
     "tags": [
       "老子",
       "治國",
-      "無為"
+      "無為",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -25349,14 +25379,16 @@
       "道家",
       "觀物",
       "天下",
-      "部:子",
-      "部:子/道家類",
       "老子",
       "帛書",
       "聖人",
       "無為",
       "內觀",
-      "知"
+      "知",
+      "觀法",
+      "治道",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -25370,6 +25402,13 @@
         "chapter": "第十章 知天下",
         "plugin": "wikisource",
         "title": "老子 (帛書校勘版) · 第十章 知天下",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "第十七章 善觀",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十七章 善觀",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
       }
@@ -25682,6 +25721,28 @@
         "title": "淮南子 · 精神訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/精神訓",
         "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "以為天下母",
+    "title": "以為天下母",
+    "summary": "天下之本源，萬物所從生",
+    "tags": [
+      "老子",
+      "帛書",
+      "本體論",
+      "道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十五章 守母",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十五章 守母",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -26685,6 +26746,26 @@
         "title": "莊子 · 秋水",
         "url": "https://zh.wikisource.org/wiki/莊子/秋水",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "以邦觀邦",
+    "title": "以邦觀邦",
+    "summary": "觀邦之治亂，驗之於邦。",
+    "tags": [
+      "老子",
+      "觀法",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十七章 善觀",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十七章 善觀",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -32948,7 +33029,9 @@
     "tags": [
       "老子",
       "聖人之德",
-      "信"
+      "信",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -33095,6 +33178,87 @@
         "title": "史記 · 卷079",
         "url": "https://zh.wikisource.org/wiki/史記/卷079",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "修之天下亓德乃博",
+    "title": "修之天下亓德乃博",
+    "summary": "德修天下，博厚無疆，覆載萬物。",
+    "tags": [
+      "老子",
+      "治天下",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十七章 善觀",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十七章 善觀",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
+    "slug": "修之家亓德有餘",
+    "title": "修之家亓德有餘",
+    "summary": "修身及家，德充有餘，可以庇後。",
+    "tags": [
+      "老子",
+      "修身",
+      "齊家",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十七章 善觀",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十七章 善觀",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
+    "slug": "修之邦亓德乃豐",
+    "title": "修之邦亓德乃豐",
+    "summary": "德修於邦，敷布廣被，百物豐盛。",
+    "tags": [
+      "老子",
+      "治國",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十七章 善觀",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十七章 善觀",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
+    "slug": "修之鄉亓德乃長",
+    "title": "修之鄉亓德乃長",
+    "summary": "德修於鄉，其德滋長，可以化俗。",
+    "tags": [
+      "老子",
+      "治鄉",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十七章 善觀",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十七章 善觀",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -37089,6 +37253,24 @@
         "title": "老子河上公章句 · 順化",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
+    "slug": "光而不眺",
+    "title": "光而不眺",
+    "summary": "光明而不炫耀。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章五十八",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十八",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -43869,6 +44051,24 @@
     ]
   },
   {
+    "slug": "兼而不刺",
+    "title": "兼而不刺",
+    "summary": "兼容並蓄而不傷人。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章五十八",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十八",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
     "slug": "兼與別",
     "title": "兼與別",
     "summary": "墨家哲學之核心對比，兼為兼愛天下，別為別相人類，反映天志賞罰之標準。",
@@ -45087,6 +45287,7 @@
       "生死觀",
       "帛書本",
       "攝生",
+      "帛書",
       "部:子",
       "部:子/法家類"
     ],
@@ -45104,6 +45305,13 @@
         "title": "老子 (帛書本) · 章五十",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第十三章 生死",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十三章 生死",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -55084,7 +55292,10 @@
     "slug": "及亓有事不足以取天下",
     "title": "及亓有事也不足以取天下",
     "summary": "聖人以有事取天下，則不足以取天下。",
-    "tags": [],
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
     "sources": [
       {
         "chapter": "第十一章 无為",
@@ -56131,7 +56342,9 @@
     "tags": [
       "老子",
       "無為",
-      "天下"
+      "天下",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -62036,7 +62249,11 @@
       "德行",
       "長生",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "老子",
+      "帛書",
+      "德",
+      "養生"
     ],
     "sources": [
       {
@@ -62045,6 +62262,20 @@
         "title": "周易參同契 · 35章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/35章",
         "work": "周易參同契"
+      },
+      {
+        "chapter": "章五十五",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十五",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第十八章 含德",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十八章 含德",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -65261,7 +65492,9 @@
       "和光",
       "同塵",
       "玄德",
-      "帛書本"
+      "帛書本",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -66870,6 +67103,24 @@
     ]
   },
   {
+    "slug": "唯施是畏",
+    "title": "唯施是畏",
+    "summary": "行道之人，以施設為可畏，慎其所施不敢妄施也",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十六章 盜竽",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十六章 盜竽",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "唯止能止眾止",
     "title": "唯止能止眾止",
     "summary": "物之能用者，必有待於無用；止能止眾止，萬動原於不動。",
@@ -67554,6 +67805,28 @@
     ]
   },
   {
+    "slug": "啓亓兌濟亓事",
+    "title": "啓亓兌濟亓事",
+    "summary": "開塞有時，終事無害",
+    "tags": [
+      "老子",
+      "帛書",
+      "修身",
+      "道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十五章 守母",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十五章 守母",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "啟伐有扈",
     "title": "啟伐有扈",
     "summary": "記啟伐有扈作誓之辭",
@@ -68109,6 +68382,27 @@
     ]
   },
   {
+    "slug": "善建者不拔",
+    "title": "善建者不拔",
+    "summary": "建德於身，堅固不拔，子孫承嗣，祭祀不絕。",
+    "tags": [
+      "老子",
+      "修身",
+      "厚德",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十七章 善觀",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十七章 善觀",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "善待問者如撞鐘",
     "title": "善待問者如撞鐘",
     "summary": "善答問者，如鐘之待叩，叩小則小鳴，叩大則大鳴。",
@@ -68209,6 +68503,27 @@
         "title": "詩經 · 淇奧",
         "url": "https://zh.wikisource.org/wiki/詩經/淇奧",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "善抱者不脫",
+    "title": "善抱者不脫",
+    "summary": "抱道懷德，牢固不脫，永傳於後。",
+    "tags": [
+      "老子",
+      "守道",
+      "厚德",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十七章 善觀",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十七章 善觀",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -68358,6 +68673,13 @@
         "title": "莊子 · 至樂",
         "url": "https://zh.wikisource.org/wiki/莊子/至樂",
         "work": "莊子"
+      },
+      {
+        "chapter": "第十三章 生死",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十三章 生死",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -68930,7 +69252,9 @@
     "tags": [
       "老子",
       "聖人之德",
-      "善"
+      "善",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -69793,6 +70117,7 @@
       "守道",
       "治道",
       "嗇德",
+      "積德",
       "部:子",
       "部:子/法家類"
     ],
@@ -69817,6 +70142,13 @@
         "title": "老子河上公章句 · 守道",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章五十九",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十九",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -77665,6 +77997,29 @@
     ]
   },
   {
+    "slug": "塞亓兌閉亓門",
+    "title": "塞亓兌閉亓門",
+    "summary": "閉塞感官，終身不苦",
+    "tags": [
+      "老子",
+      "帛書",
+      "修身",
+      "養生",
+      "道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十五章 守母",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十五章 守母",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "塞侯微巧",
     "title": "塞侯微巧",
     "summary": "",
@@ -77690,7 +78045,9 @@
       "老子",
       "閉關",
       "玄德",
-      "帛書本"
+      "帛書本",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -82263,6 +82620,24 @@
     ]
   },
   {
+    "slug": "大道甚夷",
+    "title": "大道甚夷",
+    "summary": "大道平平，其行甚易；民不好道，反解之以為甚難",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十六章 盜竽",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十六章 盜竽",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "大鐘將毀",
     "title": "大鐘將毀",
     "summary": "景公鑄大鐘，晏子、仲尼、柏常騫皆知將毀，而論毀之因各異。",
@@ -82933,11 +83308,11 @@
       "治國",
       "無為",
       "禁令",
-      "部:子",
-      "部:子/道家類",
       "老子",
       "政治",
-      "禁制"
+      "禁制",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -94203,6 +94578,27 @@
         "title": "史記 · 卷088",
         "url": "https://zh.wikisource.org/wiki/史記/卷088",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "子孫以祭祀不絕",
+    "title": "子孫以祭祀不絕",
+    "summary": "德修於身，澤被子孫，祭祀永繼。",
+    "tags": [
+      "老子",
+      "積德",
+      "祭祀",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十七章 善觀",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十七章 善觀",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -118990,6 +119386,28 @@
     ]
   },
   {
+    "slug": "復守亓母",
+    "title": "復守亓母",
+    "summary": "歸本返始，守道不渝",
+    "tags": [
+      "老子",
+      "帛書",
+      "修身",
+      "道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十五章 守母",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十五章 守母",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "復我邦族",
     "title": "復我邦族",
     "summary": "返歸故土宗族。",
@@ -120922,6 +121340,24 @@
         "title": "老子河上公章句 · 玄符",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
+    "slug": "心使氣曰強",
+    "title": "心使氣曰強",
+    "summary": "用心志使血氣，是謂逞強，早衰之道。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章五十五",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十五",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -137144,6 +137580,13 @@
         "title": "老子河上公章句 · 順化",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章五十八",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十八",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -137902,6 +138345,28 @@
         "title": "尚書 · 太甲中",
         "url": "https://zh.wikisource.org/wiki/尚書/太甲中",
         "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "既得亓母",
+    "title": "既得亓母",
+    "summary": "得道則知子，循本則無危",
+    "tags": [
+      "老子",
+      "帛書",
+      "認識論",
+      "道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十五章 守母",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十五章 守母",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -148053,6 +148518,24 @@
     ]
   },
   {
+    "slug": "服文采帶利劍厭食而齎財有餘",
+    "title": "服文采帶利劍厭食而齎財有餘",
+    "summary": "衣飾奢靡、佩兵自衛、厭於所用而積不能散，盜者之象也",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十六章 盜竽",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十六章 盜竽",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "服桂",
     "title": "服桂",
     "summary": "桂合蔥涕或竹瀝服之，七年能步行水上，長生不死。",
@@ -148567,6 +149050,24 @@
     ]
   },
   {
+    "slug": "朝甚除田甚蕪倉甚虛",
+    "title": "朝甚除田甚蕪倉甚虛",
+    "summary": "宮朝飾治而田野荒廢、倉廩空竭，上下異象也",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十六章 盜竽",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十六章 盜竽",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "朝聞道夕死可矣",
     "title": "朝聞道夕死可矣",
     "summary": "道之得聞，死無憾也。",
@@ -149070,6 +149571,24 @@
         "title": "周易 · 歸妹",
         "url": "https://zh.wikisource.org/wiki/周易/歸妹",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "未知牝牡之會而朘怒",
+    "title": "未知牝牡之會而朘怒",
+    "summary": "德全者精之至。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章五十五",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十五",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -157165,6 +157684,24 @@
     ]
   },
   {
+    "slug": "正察亓邦缺",
+    "title": "正察亓邦缺",
+    "summary": "上察太明，則下民昏昧。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章五十八",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十八",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
     "slug": "正形飾德",
     "title": "正形飾德",
     "summary": "形正則德自來，心精則萬物畢得。",
@@ -160285,6 +160822,29 @@
         "title": "禮記 · 月令",
         "url": "https://zh.wikisource.org/wiki/禮記/月令",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "毋遺身殃",
+    "title": "毋遺身殃",
+    "summary": "不自取殃，是為襲常",
+    "tags": [
+      "老子",
+      "帛書",
+      "修身",
+      "避患",
+      "道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十五章 守母",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十五章 守母",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -165130,7 +165690,9 @@
       "治國",
       "韓非子",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "無為",
+      "帛書本"
     ],
     "sources": [
       {
@@ -165139,6 +165701,13 @@
         "title": "韓非子 · 解老",
         "url": "https://zh.wikisource.org/wiki/韓非子/解老",
         "work": "韓非子"
+      },
+      {
+        "chapter": "章六十",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章六十",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -176271,6 +176840,7 @@
       "攝生",
       "老子",
       "仙道",
+      "帛書",
       "部:子",
       "部:子/道家類"
     ],
@@ -176281,6 +176851,13 @@
         "title": "老子河上公章句 · 貴生",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "第十三章 生死",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十三章 生死",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -179777,6 +180354,33 @@
         "title": "老子河上公章句 · 儉武",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "章五十五",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十五",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
+    "slug": "物壯即老",
+    "title": "物壯即老",
+    "summary": "物至壯盛，必趨衰朽，不道者速亡。",
+    "tags": [
+      "老子",
+      "帛書",
+      "物極必反",
+      "天道"
+    ],
+    "sources": [
+      {
+        "chapter": "第十八章 含德",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十八章 含德",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -181193,11 +181797,11 @@
       "玄德",
       "玄德",
       "修身",
-      "部:子",
-      "部:子/道家類",
       "玄同",
       "和光同塵",
-      "帛書本"
+      "帛書本",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -184187,6 +184791,28 @@
         "title": "論語 · 述而第七",
         "url": "https://zh.wikisource.org/wiki/論語/述而第七",
         "work": "論語"
+      }
+    ]
+  },
+  {
+    "slug": "用亓光復歸亓明",
+    "title": "用亓光復歸亓明",
+    "summary": "用光返明，返照本原",
+    "tags": [
+      "老子",
+      "帛書",
+      "修身",
+      "道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十五章 守母",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十五章 守母",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -187303,7 +187929,9 @@
     "tags": [
       "老子",
       "兵事",
-      "無為"
+      "無為",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -188988,7 +189616,9 @@
     "tags": [
       "老子",
       "聖人之治",
-      "耳目"
+      "耳目",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -190017,6 +190647,24 @@
     ]
   },
   {
+    "slug": "益生曰祥",
+    "title": "益生曰祥",
+    "summary": "益求生則有殃。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章五十五",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十五",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
     "slug": "益用凶事",
     "title": "益用凶事",
     "summary": "凶事亦可為益，固有之也；在於以誠信行中道。",
@@ -190289,6 +190937,24 @@
         "title": "春秋穀梁傳 · 昭公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/昭公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "盜竽",
+    "title": "盜竽",
+    "summary": "飾辭耀物、竊據高位，實非道之盜也",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "第十六章 盜竽",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十六章 盜竽",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -190903,6 +191569,24 @@
         "title": "韓非子 · 說林下",
         "url": "https://zh.wikisource.org/wiki/韓非子/說林下",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "直而不紲",
+    "title": "直而不紲",
+    "summary": "耿直而不拘滯。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章五十八",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十八",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -192664,6 +193348,26 @@
     ]
   },
   {
+    "slug": "知和曰明",
+    "title": "知和曰明",
+    "summary": "明由和生，知和則達於常道。",
+    "tags": [
+      "老子",
+      "帛書",
+      "和",
+      "明"
+    ],
+    "sources": [
+      {
+        "chapter": "第十八章 含德",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十八章 含德",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "知天命",
     "title": "知天命",
     "summary": "五十而知天命，謂知天道之流行、事物之必然。",
@@ -193138,9 +193842,9 @@
       "老子",
       "玄德",
       "知行",
+      "帛書本",
       "部:子",
-      "部:子/道家類",
-      "帛書本"
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -196176,6 +196880,24 @@
         "title": "抱朴子 · 卷15",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷15",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "禍福之所伏",
+    "title": "禍福之所伏",
+    "summary": "禍福相倚，伏而不測。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章五十八",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十八",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -203001,6 +203723,26 @@
     ]
   },
   {
+    "slug": "精之至",
+    "title": "精之至",
+    "summary": "精全則自然充溢，不假作為。",
+    "tags": [
+      "老子",
+      "帛書",
+      "精",
+      "養生"
+    ],
+    "sources": [
+      {
+        "chapter": "第十八章 含德",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十八章 含德",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
     "slug": "精合神",
     "title": "精合神",
     "summary": "精與神合，長生久視",
@@ -204507,6 +205249,35 @@
         "title": "老子河上公章句 · 玄符",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
+    "slug": "終日號而不嚘",
+    "title": "終日號而不嚘",
+    "summary": "和之至也。",
+    "tags": [
+      "部:子",
+      "部:子/道家類",
+      "老子",
+      "帛書",
+      "和",
+      "養生"
+    ],
+    "sources": [
+      {
+        "chapter": "章五十五",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十五",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第十八章 含德",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十八章 含德",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
@@ -210662,7 +211433,9 @@
     "tags": [
       "老子",
       "聖人之德",
-      "聖人"
+      "聖人",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -227381,6 +228154,24 @@
         "title": "春秋左氏傳 · 文公",
         "url": "https://zh.wikisource.org/wiki/春秋左氏傳/文公",
         "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
+    "slug": "蜂蠆虺蛇弗螫",
+    "title": "蜂蠆虺蛇弗螫",
+    "summary": "德厚者物不害。",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "章五十五",
+        "plugin": "wikisource",
+        "title": "老子 (帛書本) · 章五十五",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
+        "work": "老子 (帛書本)"
       }
     ]
   },
@@ -250859,6 +251650,8 @@
       "老子",
       "道德",
       "生成",
+      "道家",
+      "自然",
       "部:子",
       "部:子/道家類"
     ],
@@ -250869,6 +251662,13 @@
         "title": "老子 (帛書本) · 章五十一",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "第十四章 尊貴",
+        "plugin": "wikisource",
+        "title": "老子 (帛書校勘版) · 第十四章 尊貴",
+        "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
+        "work": "老子 (帛書校勘版)"
       }
     ]
   },
