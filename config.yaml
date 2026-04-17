@@ -33,3 +33,8 @@ branding:
 
 entities:
   enabled: true
+
+sister_wiki:
+  enabled: true
+  url: https://fo.siwen.ink
+  label: 太虛間·釋家
