@@ -2091,6 +2091,26 @@
     ]
   },
   {
+    "slug": "七祖解脫",
+    "title": "七祖解脫",
+    "summary": "救度七世祖先，使解脫幽滯，魂魄更生。",
+    "tags": [
+      "上清",
+      "祖靈",
+      "救度",
+      "煉形"
+    ],
+    "sources": [
+      {
+        "chapter": "25章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 25章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/25章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "七竅",
     "title": "七竅",
     "summary": "耳目口鼻，精氣通達",
@@ -4182,6 +4202,26 @@
     ]
   },
   {
+    "slug": "三涂",
+    "title": "三塗",
+    "summary": "塗者滯也，三塗之滯與三塗之地皆可滅絕也。",
+    "tags": [
+      "上清",
+      "存思",
+      "昇仙",
+      "滯病"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "三滅關",
     "title": "三滅關",
     "summary": "天地人三重死關，必俱濟之乃得超昇。",
@@ -4519,7 +4559,10 @@
       "存思",
       "咽津",
       "身神",
-      "部:其他"
+      "部:其他",
+      "存神",
+      "內修",
+      "泥丸"
     ],
     "sources": [
       {
@@ -4527,6 +4570,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 10章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/10章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "1章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 1章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/1章",
         "work": "上清大洞真經"
       }
     ]
@@ -4904,6 +4954,26 @@
         "title": "管子 · 第28篇參患",
         "url": "https://zh.wikisource.org/wiki/管子/第28篇參患",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "三華之炁",
+    "title": "三華之炁",
+    "summary": "三華之精華，充罩兆頂，結作一神。",
+    "tags": [
+      "上清",
+      "煉形",
+      "氣",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "25章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 25章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/25章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -7390,6 +7460,26 @@
         "title": "詩經 · 斯干",
         "url": "https://zh.wikisource.org/wiki/詩經/斯干",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "下關之境",
+    "title": "下關之境",
+    "summary": "人身下半部之稱，白素右元君所主治者。",
+    "tags": [
+      "人身",
+      "上清",
+      "內修",
+      "身國"
+    ],
+    "sources": [
+      {
+        "chapter": "24章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 24章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/24章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -14455,6 +14545,26 @@
     ]
   },
   {
+    "slug": "中玄",
+    "title": "中玄",
+    "summary": "斗中抱定陵之帝女，司命之玄神也。",
+    "tags": [
+      "上清",
+      "存思",
+      "斗宿",
+      "司命"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "中石沒鏃",
     "title": "中石沒鏃",
     "summary": "廣射虎，誤以石為虎，矢沒入石。",
@@ -16747,7 +16857,8 @@
       "上清",
       "大洞真經",
       "真氣",
-      "修煉"
+      "修煉",
+      "部:經"
     ],
     "sources": [
       {
@@ -19945,7 +20056,8 @@
       "上清",
       "大洞真經",
       "存思",
-      "臟腑"
+      "臟腑",
+      "部:經"
     ],
     "sources": [
       {
@@ -20847,7 +20959,8 @@
       "上清",
       "大洞真經",
       "神祇",
-      "存思"
+      "存思",
+      "部:子"
     ],
     "sources": [
       {
@@ -39154,7 +39267,8 @@
       "上清",
       "大洞真經",
       "神祇",
-      "存思"
+      "存思",
+      "部:經"
     ],
     "sources": [
       {
@@ -41841,7 +41955,13 @@
       "音呪",
       "內音",
       "外音",
-      "部:其他"
+      "部:其他",
+      "存思",
+      "咒語",
+      "天音",
+      "音聲",
+      "內修",
+      "天人"
     ],
     "sources": [
       {
@@ -41849,6 +41969,20 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 15章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/15章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "1章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 1章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/1章",
         "work": "上清大洞真經"
       }
     ]
@@ -51074,6 +51208,21 @@
     ]
   },
   {
+    "slug": "制鍊百神",
+    "title": "製鍊百神",
+    "summary": "以一炁統攝百神之使",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "1章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 1章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/1章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "券內",
     "title": "券內",
     "summary": "券內者行乎无名，券外者志乎期費；行乎无名者唯庸有光。",
@@ -54535,6 +54684,26 @@
         "title": "周易參同契 · 35章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/35章",
         "work": "周易參同契"
+      }
+    ]
+  },
+  {
+    "slug": "化桃康",
+    "title": "化桃康",
+    "summary": "帝一迴風之合，化生之仙道也。",
+    "tags": [
+      "上清",
+      "存思",
+      "內丹",
+      "昇仙"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -62020,6 +62189,21 @@
     ]
   },
   {
+    "slug": "叩齒咽液",
+    "title": "叩齒咽液",
+    "summary": "行道收神之法",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "1章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 1章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/1章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "召伯聽讼",
     "title": "召伯聽讼",
     "summary": "召伯聽斷是非，明察曲直，故能使教化大行。",
@@ -62532,6 +62716,27 @@
         "title": "韓非子 · 功名",
         "url": "https://zh.wikisource.org/wiki/韓非子/功名",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "右手通真之戶",
+    "title": "右手通真之戶",
+    "summary": "右手之戶，死炁之門對，生門也。",
+    "tags": [
+      "上清",
+      "身戶",
+      "修真",
+      "通真",
+      "右手"
+    ],
+    "sources": [
+      {
+        "chapter": "26章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 26章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/26章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -70210,12 +70415,14 @@
       "道經",
       "身內",
       "修真",
-      "部:子",
-      "部:子/道家類",
       "上清",
       "大洞真經",
       "身形",
-      "長生"
+      "長生",
+      "部:子",
+      "部:子/道家類",
+      "煉形",
+      "命功"
     ],
     "sources": [
       {
@@ -70237,6 +70444,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 22章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "25章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 25章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/25章",
         "work": "上清大洞真經"
       }
     ]
@@ -72775,6 +72989,25 @@
         "title": "尚書 · 君牙",
         "url": "https://zh.wikisource.org/wiki/尚書/君牙",
         "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "啟明蕭刅",
+    "title": "啟明蕭刅",
+    "summary": "白素右元君之內諱，修誦此章當存呼以鎮下關。",
+    "tags": [
+      "上清",
+      "神仙名號",
+      "大洞真經"
+    ],
+    "sources": [
+      {
+        "chapter": "24章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 24章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/24章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -76612,6 +76845,26 @@
     ]
   },
   {
+    "slug": "四大正明",
+    "title": "四大正明",
+    "summary": "四大神明，正照明晰，護兆之身，魔炁滅絕。",
+    "tags": [
+      "上清",
+      "神祇",
+      "護衛",
+      "煉形"
+    ],
+    "sources": [
+      {
+        "chapter": "25章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 25章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/25章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "四夷左衽",
     "title": "四夷左衽",
     "summary": "四夷左衽，皆仰賴王化。",
@@ -79332,6 +79585,26 @@
         "title": "關尹子 · 9",
         "url": "https://zh.wikisource.org/wiki/關尹子/9",
         "work": "關尹子"
+      }
+    ]
+  },
+  {
+    "slug": "圓華宮",
+    "title": "圓華宮",
+    "summary": "太張之上黃素之字所居，玉壽靈山之別名也。",
+    "tags": [
+      "上清",
+      "存思",
+      "宮觀",
+      "仙境"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -87536,6 +87809,25 @@
     ]
   },
   {
+    "slug": "大洞玉經",
+    "title": "大洞玉經",
+    "summary": "上清大洞真經之別稱",
+    "tags": [
+      "上清",
+      "經典",
+      "上清大洞真經"
+    ],
+    "sources": [
+      {
+        "chapter": "1章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 1章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/1章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "大清明",
     "title": "大清明",
     "summary": "虛壹而靜，萬物莫不見，莫不論，得其正。",
@@ -94577,7 +94869,8 @@
       "大洞真經",
       "神祇",
       "真氣",
-      "存思"
+      "存思",
+      "部:經"
     ],
     "sources": [
       {
@@ -95362,6 +95655,26 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 12章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/12章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "太微小童",
+    "title": "太微小童",
+    "summary": "守護舌本、斷塞死源之上清神吏",
+    "tags": [
+      "上清",
+      "內修",
+      "守一",
+      "舌根"
+    ],
+    "sources": [
+      {
+        "chapter": "1章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 1章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/1章",
         "work": "上清大洞真經"
       }
     ]
@@ -103130,7 +103443,8 @@
     "tags": [
       "上清",
       "大洞真經",
-      "存思"
+      "存思",
+      "部:子"
     ],
     "sources": [
       {
@@ -109633,7 +109947,8 @@
       "上清",
       "大洞真經",
       "存思",
-      "長生"
+      "長生",
+      "部:經"
     ],
     "sources": [
       {
@@ -117513,6 +117828,26 @@
     ]
   },
   {
+    "slug": "左手通真之戶死炁之門",
+    "title": "左手通真之戶死炁之門",
+    "summary": "左手之戶，通真而出死炁，司命所守也。",
+    "tags": [
+      "上清",
+      "身內",
+      "煉形",
+      "煉己"
+    ],
+    "sources": [
+      {
+        "chapter": "25章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 25章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/25章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "左操五音右執五味",
     "title": "左操五音右執五味",
     "summary": "君操五音以出令，臣執五味以任力，分職明則國治。",
@@ -118442,6 +118777,46 @@
     ]
   },
   {
+    "slug": "帝一大洞尊君",
+    "title": "帝一大洞尊君",
+    "summary": "統攝上景連眾之神帝",
+    "tags": [
+      "上清",
+      "帝君",
+      "大洞",
+      "一氣"
+    ],
+    "sources": [
+      {
+        "chapter": "1章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 1章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/1章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "帝一迴風",
+    "title": "帝一迴風",
+    "summary": "帝一與徊風相合，流生起福之術也。",
+    "tags": [
+      "上清",
+      "存思",
+      "內丹",
+      "長生"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "帝乙歸妹",
     "title": "帝乙歸妹，其君之袂，不如其娣之袂良，月幾望，吉",
     "summary": "帝乙嫁女與諸侯，諸侯夫人衣飾不及娣，然居中履正，以貴行之，吉。",
@@ -118612,6 +118987,26 @@
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "帝女抱定陵",
+    "title": "帝女抱定陵",
+    "summary": "斗中中玄之異名，司命之神也。",
+    "tags": [
+      "上清",
+      "存思",
+      "斗宿",
+      "司命"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -129046,6 +129441,27 @@
     ]
   },
   {
+    "slug": "心中一真天精液君",
+    "title": "心中一真天精液君",
+    "summary": "守兆胸中四極之口、死炁之門，上昇玉天之神君也。",
+    "tags": [
+      "上清",
+      "存思",
+      "心神",
+      "飛昇",
+      "守一"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "心之中又有心焉",
     "title": "心之中又有心焉",
     "summary": "心有多層，深處別有真心，聲音形言皆由此出。",
@@ -129453,6 +129869,26 @@
         "title": "詩經 · 伯兮",
         "url": "https://zh.wikisource.org/wiki/詩經/伯兮",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "心感物",
+    "title": "心中一真",
+    "summary": "心之真一，心神之主，萬化生乎身也。",
+    "tags": [
+      "上清",
+      "存思",
+      "心神",
+      "守一"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -138840,7 +139276,8 @@
       "上清",
       "大洞真經",
       "消魔",
-      "存思"
+      "存思",
+      "部:經"
     ],
     "sources": [
       {
@@ -146210,7 +146647,8 @@
       "上清",
       "大洞真經",
       "存思",
-      "長生"
+      "長生",
+      "部:經"
     ],
     "sources": [
       {
@@ -147638,6 +148076,26 @@
         "title": "周易 · 豐",
         "url": "https://zh.wikisource.org/wiki/周易/豐",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "日中司命接生君",
+    "title": "日中司命接生君",
+    "summary": "日中神君，主司命接生，守兆左手之戶，脫七祖之滯。",
+    "tags": [
+      "上清",
+      "神祇",
+      "司命",
+      "煉形"
+    ],
+    "sources": [
+      {
+        "chapter": "25章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 25章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/25章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -154176,7 +154634,9 @@
       "上清",
       "大洞真經",
       "存思",
-      "真炁"
+      "真炁",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -154196,7 +154656,8 @@
       "上清",
       "大洞真經",
       "存思",
-      "景雲"
+      "景雲",
+      "部:經"
     ],
     "sources": [
       {
@@ -155604,6 +156065,27 @@
     ]
   },
   {
+    "slug": "月中桃君",
+    "title": "月中桃君",
+    "summary": "月中真神，名方盈字運梁，主右手通真之戶。",
+    "tags": [
+      "上清",
+      "月",
+      "神名",
+      "修真",
+      "桃君"
+    ],
+    "sources": [
+      {
+        "chapter": "26章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 26章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/26章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "月令",
     "title": "月令",
     "summary": "",
@@ -155747,7 +156229,11 @@
       "罰",
       "冬令",
       "部:子",
-      "部:子/法家類"
+      "部:子/法家類",
+      "月",
+      "天神",
+      "刑罰",
+      "上清"
     ],
     "sources": [
       {
@@ -155756,6 +156242,34 @@
         "title": "管子 · 第40篇四時",
         "url": "https://zh.wikisource.org/wiki/管子/第40篇四時",
         "work": "管子"
+      },
+      {
+        "chapter": "26章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 26章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/26章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "月暉之炁",
+    "title": "月暉之炁",
+    "summary": "月之精光，修真者存思以通神。",
+    "tags": [
+      "上清",
+      "存思",
+      "月",
+      "炁",
+      "修真"
+    ],
+    "sources": [
+      {
+        "chapter": "26章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 26章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/26章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -177957,6 +178471,27 @@
     ]
   },
   {
+    "slug": "泥丸百神方位",
+    "title": "泥丸百神方位",
+    "summary": "上丹田百神定位之所在",
+    "tags": [
+      "上清",
+      "內景",
+      "丹田",
+      "泥丸",
+      "百神"
+    ],
+    "sources": [
+      {
+        "chapter": "1章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 1章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/1章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "泥竭火滅",
     "title": "泥竭火滅",
     "summary": "山澤之氣相蒸，興雲雨；泥竭成塵，火滅化土，喻物化之自然。",
@@ -178656,6 +179191,26 @@
     ]
   },
   {
+    "slug": "流風",
+    "title": "流風",
+    "summary": "斷血滯之神風，掃三塗之滯者也。",
+    "tags": [
+      "上清",
+      "存思",
+      "治病",
+      "風神"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "浚恆之凶",
     "title": "浚恆之凶",
     "summary": "始即求深，躁進則凶。",
@@ -179108,7 +179663,10 @@
       "叩齒",
       "消魔",
       "存思",
-      "部:其他"
+      "部:其他",
+      "玉符",
+      "內修",
+      "太微小童"
     ],
     "sources": [
       {
@@ -179123,6 +179681,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 18章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/18章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "1章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 1章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/1章",
         "work": "上清大洞真經"
       }
     ]
@@ -180905,7 +181470,11 @@
       "齋法",
       "傳經",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "上清",
+      "儀軌",
+      "潔淨",
+      "煉形"
     ],
     "sources": [
       {
@@ -180914,6 +181483,13 @@
         "title": "黃庭內景經 · 序",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/序",
         "work": "黃庭內景經"
+      },
+      {
+        "chapter": "25章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 25章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/25章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -193719,7 +194295,8 @@
       "上清",
       "大洞真經",
       "天界",
-      "存思"
+      "存思",
+      "部:經"
     ],
     "sources": [
       {
@@ -194071,7 +194648,8 @@
       "上清",
       "大洞真經",
       "存思",
-      "身形"
+      "身形",
+      "部:經"
     ],
     "sources": [
       {
@@ -194504,7 +195082,10 @@
       "上清",
       "大洞真經",
       "天宮",
-      "存思"
+      "存思",
+      "部:經",
+      "宮觀",
+      "昇仙"
     ],
     "sources": [
       {
@@ -194512,6 +195093,33 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 22章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "玉壽靈山",
+    "title": "玉壽靈山",
+    "summary": "圓華宮所在之山，黃素之炁所聚也。",
+    "tags": [
+      "上清",
+      "存思",
+      "仙境",
+      "洞天"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
         "work": "上清大洞真經"
       }
     ]
@@ -194756,7 +195364,8 @@
       "上清",
       "大洞真經",
       "神祇",
-      "存思"
+      "存思",
+      "部:經"
     ],
     "sources": [
       {
@@ -194791,6 +195400,55 @@
     ]
   },
   {
+    "slug": "玉符",
+    "title": "玉符",
+    "summary": "朱書青繒佩之，存呼神名，以鎮守護。",
+    "tags": [
+      "上清",
+      "符籙",
+      "儀軌",
+      "護衛",
+      "修真",
+      "消魔"
+    ],
+    "sources": [
+      {
+        "chapter": "25章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 25章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/25章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "26章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 26章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/26章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "玉經",
+    "title": "玉經",
+    "summary": "大洞玉經，上清核心文本，誦之以招仙也。",
+    "tags": [
+      "上清",
+      "經典",
+      "呪辭",
+      "煉形"
+    ],
+    "sources": [
+      {
+        "chapter": "25章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 25章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/25章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "玉色頩以脕顏",
     "title": "玉色頩以脕顏",
     "summary": "仙人容色之美",
@@ -194808,6 +195466,26 @@
         "title": "楚辭 · 遠遊",
         "url": "https://zh.wikisource.org/wiki/楚辭/遠遊",
         "work": "楚辭"
+      }
+    ]
+  },
+  {
+    "slug": "玉華保真",
+    "title": "玉華保真",
+    "summary": "玉華精華，守護真氣，不為魔侵。",
+    "tags": [
+      "上清",
+      "護衛",
+      "煉形",
+      "玉華"
+    ],
+    "sources": [
+      {
+        "chapter": "25章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 25章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/25章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -194896,6 +195574,26 @@
         "title": "黃庭內景經 · 玄元章第二十七",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/玄元章第二十七",
         "work": "黃庭內景經"
+      }
+    ]
+  },
+  {
+    "slug": "玉門",
+    "title": "玉門",
+    "summary": "太張上黃素字，伏雲三刃明之處，與玉門相通也。",
+    "tags": [
+      "上清",
+      "存思",
+      "丹田",
+      "門戶"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -201808,6 +202506,46 @@
         "title": "詩經 · 揚之水",
         "url": "https://zh.wikisource.org/wiki/詩經/揚之水",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "白素右元君",
+    "title": "白素右元君",
+    "summary": "上清大洞第二十四章所奉神尊，主下關之境，治人身下部之穢濁。",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "神仙",
+      "內修"
+    ],
+    "sources": [
+      {
+        "chapter": "24章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 24章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/24章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "白素右元君消魔玉符",
+    "title": "大洞白素右元君消魔玉符",
+    "summary": "佩之以鎮下關、固魂魄、散祖殃之符籙。",
+    "tags": [
+      "上清",
+      "符籙",
+      "大洞真經",
+      "消魔"
+    ],
+    "sources": [
+      {
+        "chapter": "24章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 24章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/24章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -218850,7 +219588,8 @@
       "大洞真經",
       "神祇",
       "存思",
-      "消魔"
+      "消魔",
+      "部:經"
     ],
     "sources": [
       {
@@ -219419,7 +220158,12 @@
       "內丹",
       "煉精",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "上清",
+      "內修",
+      "精",
+      "胞",
+      "化生"
     ],
     "sources": [
       {
@@ -219428,6 +220172,13 @@
         "title": "黃庭內景經 · 呼吸章第二十",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/呼吸章第二十",
         "work": "黃庭內景經"
+      },
+      {
+        "chapter": "1章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 1章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/1章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -229338,6 +230089,26 @@
     ]
   },
   {
+    "slug": "胸中四極之口",
+    "title": "胸中四極之口",
+    "summary": "心中一真天精液君所守之死炁之門，四關之口也。",
+    "tags": [
+      "上清",
+      "存思",
+      "治病",
+      "關竅"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "能不可蔽而敗不可飾",
     "title": "能不可蔽而敗不可飾",
     "summary": "能者見功而舉，敗者見過而廢",
@@ -238096,7 +238867,8 @@
       "上清",
       "大洞真經",
       "天宮",
-      "存思"
+      "存思",
+      "部:經"
     ],
     "sources": [
       {
@@ -244739,6 +245511,47 @@
         "title": "尚書 · 武成",
         "url": "https://zh.wikisource.org/wiki/尚書/武成",
         "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "血液之府",
+    "title": "血液之府",
+    "summary": "舌本下所以生血化液之宅",
+    "tags": [
+      "上清",
+      "內景",
+      "舌根",
+      "血",
+      "液"
+    ],
+    "sources": [
+      {
+        "chapter": "1章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 1章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/1章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "血滯",
+    "title": "血滯",
+    "summary": "身中死根之滯，流風所斷之患也。",
+    "tags": [
+      "上清",
+      "存思",
+      "治病",
+      "死根"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -259240,6 +260053,26 @@
     ]
   },
   {
+    "slug": "赤景翳逸寥",
+    "title": "赤景翳逸寥",
+    "summary": "月中夫人之名，赤景所覆，神光所宅也。",
+    "tags": [
+      "上清",
+      "存思",
+      "月神",
+      "夫人"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "赤松王喬",
     "title": "赤松王喬",
     "summary": "仙人赤松子與王子喬，皆在少原之野。",
@@ -273442,7 +274275,8 @@
       "上清",
       "大洞真經",
       "真液",
-      "存思"
+      "存思",
+      "部:經"
     ],
     "sources": [
       {
@@ -284557,6 +285391,26 @@
     ]
   },
   {
+    "slug": "飛生上英",
+    "title": "飛生上英",
+    "summary": "心中一真天精液君之字，上清守心之神名。",
+    "tags": [
+      "上清",
+      "存思",
+      "心神",
+      "神名"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "飛神作我",
     "title": "飛神作我",
     "summary": "知身如夢則可飛神作我而遊太清，知物如夢則可凝精作物而駕八荒。",
@@ -286769,6 +287623,21 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 18章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/18章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "高上虛皇君道經第一",
+    "title": "高上虛皇君道經第一",
+    "summary": "上清大洞真經第一章以虛皇為宗",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "1章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 1章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/1章",
         "work": "上清大洞真經"
       }
     ]
@@ -291252,6 +292121,26 @@
     ]
   },
   {
+    "slug": "黃寧",
+    "title": "黃寧",
+    "summary": "流風斷血滯、滅三塗後所臻之清寧境界也。",
+    "tags": [
+      "上清",
+      "存思",
+      "昇仙",
+      "長生"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "黃屋左纛",
     "title": "黃屋左纛",
     "summary": "天子車駕之飾，越王佗自尊號，僭用之以侔中國。",
@@ -291667,7 +292556,8 @@
       "上清",
       "大洞真經",
       "符籙",
-      "法器"
+      "法器",
+      "部:經"
     ],
     "sources": [
       {
@@ -291783,6 +292673,26 @@
         "title": "抱朴子 · 卷11",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷11",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "黃素之炁",
+    "title": "黃素之炁",
+    "summary": "中央黃老君之黃素真炁，圓華宮之精華也。",
+    "tags": [
+      "上清",
+      "存思",
+      "黃老君",
+      "真炁"
+    ],
+    "sources": [
+      {
+        "chapter": "19章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 19章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -292324,7 +293234,14 @@
       "上清",
       "呪術",
       "存思",
-      "部:其他"
+      "部:其他",
+      "呪",
+      "內修",
+      "儀軌",
+      "呪辭",
+      "煉形",
+      "呪語",
+      "修真"
     ],
     "sources": [
       {
@@ -292339,6 +293256,27 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 23章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/23章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "1章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 1章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/1章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "25章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 25章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/25章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "26章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 26章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/26章",
         "work": "上清大洞真經"
       }
     ]
