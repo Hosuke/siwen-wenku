@@ -5163,7 +5163,8 @@
     "tags": [
       "上清",
       "內丹",
-      "驅邪"
+      "驅邪",
+      "部:其他"
     ],
     "sources": [
       {
@@ -16739,6 +16740,26 @@
     ]
   },
   {
+    "slug": "九素炁",
+    "title": "九素炁",
+    "summary": "太初天真氣，分化九道，以成上仙",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "真氣",
+      "修煉"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "九經",
     "title": "九經",
     "summary": "治天下國家之九常法：脩身、尊賢、親親、敬大臣、體群臣、子庶民、來百工、柔遠人、懷諸侯。",
@@ -19917,6 +19938,26 @@
     ]
   },
   {
+    "slug": "五府生華",
+    "title": "五府生華",
+    "summary": "五臟真炁化生光華",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "存思",
+      "臟腑"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "五廟",
     "title": "五廟",
     "summary": "諸侯立五廟，一壇一墠，月祭考廟、王考廟、皇考廟，享嚐乃止顯考、祖考也。",
@@ -20795,6 +20836,26 @@
         "title": "尚書 · 呂刑",
         "url": "https://zh.wikisource.org/wiki/尚書/呂刑",
         "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "五老翁",
+    "title": "五老翁",
+    "summary": "斗中五真之神，逡巡守護",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "神祇",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -31077,7 +31138,8 @@
     "tags": [
       "上清",
       "人身",
-      "關竅"
+      "關竅",
+      "部:其他"
     ],
     "sources": [
       {
@@ -39081,6 +39143,26 @@
         "title": "周易 · 萃",
         "url": "https://zh.wikisource.org/wiki/周易/萃",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "元父",
+    "title": "元父",
+    "summary": "混會太微，天真之父",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "神祇",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -70129,7 +70211,11 @@
       "身內",
       "修真",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "上清",
+      "大洞真經",
+      "身形",
+      "長生"
     ],
     "sources": [
       {
@@ -70145,6 +70231,13 @@
         "title": "黃庭內景經 · 隱藏章第三十五",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/隱藏章第三十五",
         "work": "黃庭內景經"
+      },
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -94476,6 +94569,27 @@
     ]
   },
   {
+    "slug": "太初九素金華景元君",
+    "title": "太初九素金華景元君",
+    "summary": "太初天真氣所化，居華景宮，主九素之炁",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "神祇",
+      "真氣",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "太初元年",
     "title": "太初元年",
     "summary": "漢武太初元年，歲名焉逢攝提格，月名畢聚，日得甲子，定夏正。",
@@ -103010,6 +103124,25 @@
     ]
   },
   {
+    "slug": "存神吐萬道景霞之雲",
+    "title": "存神吐萬道景霞之雲",
+    "summary": "存思景霞萬道，覆罩頭面",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "存象忘意",
     "title": "存象忘意",
     "summary": "存象忘意之由，在互體不足遂及卦變，變又不足推致五行；忘象以求其義，斯見矣。",
@@ -109489,6 +109622,26 @@
         "title": "詩經 · 頍弁",
         "url": "https://zh.wikisource.org/wiki/詩經/頍弁",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "宴盻劫年",
+    "title": "宴盻劫年",
+    "summary": "天庭宴樂，歷劫而存",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "存思",
+      "長生"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -138680,6 +138833,26 @@
     ]
   },
   {
+    "slug": "披散積穢",
+    "title": "披散積穢",
+    "summary": "披散累世之穢，斷絕死根",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "消魔",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "披木之喻",
     "title": "披木之喻",
     "summary": "數披其木，毋使枝茂，塞公門",
@@ -139133,7 +139306,8 @@
     "tags": [
       "上清",
       "內丹",
-      "神名"
+      "神名",
+      "部:其他"
     ],
     "sources": [
       {
@@ -146025,6 +146199,26 @@
         "title": "抱朴子 · 卷15",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷15",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "斷絕死根",
+    "title": "斷絕死根",
+    "summary": "斷死戶之根，上生玉房受位金仙",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "存思",
+      "長生"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -153971,6 +154165,46 @@
         "title": "史記 · 卷111",
         "url": "https://zh.wikisource.org/wiki/史記/卷111",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "景雲之色",
+    "title": "景雲之色",
+    "summary": "紫素左元君之炁象，景雲紫炁",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "存思",
+      "真炁"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "景霞之雲",
+    "title": "景霞之雲",
+    "summary": "景雲之霞，吐於頭面，罩護兆身",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "存思",
+      "景雲"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -169917,9 +170151,9 @@
       "竅道",
       "泥丸",
       "守一",
-      "部:子",
       "內丹",
-      "關竅"
+      "關竅",
+      "部:子"
     ],
     "sources": [
       {
@@ -193478,6 +193712,26 @@
     ]
   },
   {
+    "slug": "玄凝天",
+    "title": "玄凝天",
+    "summary": "上一天帝之號號，玄凝清靜",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "天界",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "玄同",
     "title": "玄同",
     "summary": "塞解和同，無所偏待，達於玄妙之同一。",
@@ -193806,6 +194060,26 @@
         "title": "韓非子 · 主道",
         "url": "https://zh.wikisource.org/wiki/韓非子/主道",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "玄達之戶",
+    "title": "玄達之戶",
+    "summary": "泥丸之下戶，炁脈通會之處",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "存思",
+      "身形"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -194223,6 +194497,26 @@
     ]
   },
   {
+    "slug": "玉堂",
+    "title": "玉堂",
+    "summary": "天之玉堂，上接帝賢",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "天宮",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "玉巵無當",
     "title": "玉巵無當",
     "summary": "人主漏群臣之言，猶玉巵無底，無以盛水。",
@@ -194455,6 +194749,26 @@
     ]
   },
   {
+    "slug": "玉皇",
+    "title": "玉皇",
+    "summary": "泥丸真帝，列圖玉皇",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "神祇",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "玉石易別",
     "title": "玉石易別",
     "summary": "抱朴子言玉石賢愚易別，而愛寶之情人皆有之，猶且獲罪受誣，況賢才之難知者乎。",
@@ -194504,7 +194818,8 @@
     "tags": [
       "上清",
       "內丹",
-      "鍊形"
+      "鍊形",
+      "部:子"
     ],
     "sources": [
       {
@@ -208579,7 +208894,8 @@
     "tags": [
       "上清",
       "內丹",
-      "煉神"
+      "煉神",
+      "部:其他"
     ],
     "sources": [
       {
@@ -218526,6 +218842,27 @@
     ]
   },
   {
+    "slug": "紫素左元君",
+    "title": "紫素左元君",
+    "summary": "上清神君，主頭面境，護泥丸，制千精",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "神祇",
+      "存思",
+      "消魔"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "累呵似無所歸",
     "title": "累呵似無所歸",
     "summary": "聖人無所滞著，蕩蕩然無定處",
@@ -228315,7 +228652,8 @@
       "玉經",
       "神霄玉清王祝",
       "內音外音",
-      "消魔玉符"
+      "消魔玉符",
+      "部:經"
     ],
     "sources": [
       {
@@ -228343,7 +228681,8 @@
       "玉符",
       "青繒",
       "叩齒",
-      "咽液"
+      "咽液",
+      "部:經"
     ],
     "sources": [
       {
@@ -237746,6 +238085,26 @@
         "title": "莊子 · 天地",
         "url": "https://zh.wikisource.org/wiki/莊子/天地",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "華景宮",
+    "title": "華景宮",
+    "summary": "九素之炁所出，與太初天相表裏",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "天宮",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -273076,6 +273435,26 @@
     ]
   },
   {
+    "slug": "金津",
+    "title": "金津",
+    "summary": "太素金華之津，六液之源",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "真液",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "金液還丹破迷",
     "title": "金液還丹破迷",
     "summary": "辨金丹正道，破旁門小術",
@@ -284268,7 +284647,8 @@
     "tags": [
       "上清",
       "仙術",
-      "飛昇"
+      "飛昇",
+      "部:其他"
     ],
     "sources": [
       {
@@ -291280,6 +291660,26 @@
     ]
   },
   {
+    "slug": "黃書青繒",
+    "title": "黃書青繒",
+    "summary": "書符之材，黃繒為地青書為字",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "符籙",
+      "法器"
+    ],
+    "sources": [
+      {
+        "chapter": "22章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 22章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "黃池之會吳子進",
     "title": "黃池之會吳子進",
     "summary": "吳以子爵自卑，辭尊稱而居卑稱，實以會諸侯尊天王。",
@@ -291391,10 +291791,10 @@
     "title": "黃繒",
     "summary": "朱書玉符之材，佩之以消魔。",
     "tags": [
-      "部:經",
       "上清",
       "玉符",
-      "書寫"
+      "書寫",
+      "部:經"
     ],
     "sources": [
       {
@@ -291932,6 +292332,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 18章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/18章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "23章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 23章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/23章",
         "work": "上清大洞真經"
       }
     ]
