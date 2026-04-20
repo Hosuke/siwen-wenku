@@ -1216,6 +1216,27 @@
     ]
   },
   {
+    "slug": "一目觀大天一人君兆民",
+    "title": "一目觀大天一人君兆民",
+    "summary": "一目可以觀大天，一人可以君兆民",
+    "tags": [
+      "化書",
+      "術化",
+      "一",
+      "樞機",
+      "化"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "一紀",
     "title": "一紀",
     "summary": "天一元始，正月建寅，七十六歲為一紀，二十紀千五百二十歲大終。",
@@ -3195,11 +3216,11 @@
       "道經",
       "修真",
       "精氣神",
-      "部:子",
-      "部:子/道家類",
       "上清",
       "道藏",
-      "三經"
+      "三經",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -4649,10 +4670,11 @@
       "存神",
       "內修",
       "泥丸",
-      "部:其他",
       "內觀",
       "命門",
-      "絳宮"
+      "絳宮",
+      "部:其他",
+      "大洞真經"
     ],
     "sources": [
       {
@@ -4681,6 +4703,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 7章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/7章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "8章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 8章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/8章",
         "work": "上清大洞真經"
       }
     ]
@@ -5107,7 +5136,11 @@
       "煉形",
       "氣",
       "存思",
-      "部:其他"
+      "部:其他",
+      "大洞真經",
+      "三華",
+      "玉清",
+      "默呪"
     ],
     "sources": [
       {
@@ -5115,6 +5148,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 25章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/25章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "8章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 8章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/8章",
         "work": "上清大洞真經"
       }
     ]
@@ -6208,6 +6248,27 @@
         "title": "管子 · 第43篇正",
         "url": "https://zh.wikisource.org/wiki/管子/第43篇正",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "上元大素三元君",
+    "title": "上元大素三元君",
+    "summary": "泥丸上一赤子章所奉之上清至真，主三元之炁、掌大洞三十九章之首要也。",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "存思",
+      "三元",
+      "泥丸"
+    ],
+    "sources": [
+      {
+        "chapter": "8章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 8章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/8章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -20301,6 +20362,25 @@
     ]
   },
   {
+    "slug": "五嶽真人",
+    "title": "五嶽真人",
+    "summary": "五嶽之神，稟受上清之炁，主奠地土，與神仙真人相往來。",
+    "tags": [
+      "上清",
+      "神祇",
+      "嶽瀆"
+    ],
+    "sources": [
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "五嶽真人定錄四賓",
     "title": "五嶽真人定錄四賓四門賓友",
     "summary": "五嶽真人主定錄之官，四門賓友為近侍之臣，共佐[[命門桃君孩道康]]以召萬神。",
@@ -20309,7 +20389,8 @@
       "神名",
       "五嶽",
       "命門",
-      "存思"
+      "存思",
+      "部:子"
     ],
     "sources": [
       {
@@ -20495,6 +20576,25 @@
         "title": "上清大洞真經 · 37章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/37章",
         "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "五常之道一也",
+    "title": "五常之道一也",
+    "summary": "五常散萬殊而歸一本，忘名得理，忘理得情，則與道合真。",
+    "tags": [
+      "五常",
+      "化書",
+      "德化"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
       }
     ]
   },
@@ -36186,6 +36286,13 @@
         "title": "周易註 (王弼) · 卷01",
         "url": "https://zh.wikisource.org/wiki/周易註 (四庫全書本)/卷01",
         "work": "周易註 (王弼)"
+      },
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -42524,10 +42631,10 @@
       "天人",
       "秘呪",
       "神呪",
-      "部:其他",
       "密語",
       "生死",
-      "胎門"
+      "胎門",
+      "部:其他"
     ],
     "sources": [
       {
@@ -51954,6 +52061,26 @@
     ]
   },
   {
+    "slug": "刻畫之戒",
+    "title": "刻畫之戒",
+    "summary": "始制作於我，又要敬於我，又要禍於我；機貴乎明，險貴乎平，功貴乎無狀，法貴乎無象。",
+    "tags": [
+      "刻畫",
+      "化書",
+      "德化",
+      "制事"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "刻舟以摸遺劍",
     "title": "刻舟以摸遺劍，參天而射五步",
     "summary": "譏拘泥古道、不達時變之弊",
@@ -54059,6 +54186,28 @@
         "title": "周易參同契 · 17章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/17章",
         "work": "周易參同契"
+      }
+    ]
+  },
+  {
+    "slug": "動靜相摩化火",
+    "title": "動靜相摩化火",
+    "summary": "動靜燥濕水火湯盎飲水皆可化物，陰陽可召，五行可役",
+    "tags": [
+      "化書",
+      "術化",
+      "陰陽",
+      "五行",
+      "動靜",
+      "變化"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
       }
     ]
   },
@@ -56603,11 +56752,11 @@
       "軍事",
       "旗幟",
       "管子",
-      "部:史",
-      "部:史/正史類",
       "上清",
       "秘笈",
-      "修仙"
+      "修仙",
+      "部:史",
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -60775,6 +60924,28 @@
     ]
   },
   {
+    "slug": "反胎更生",
+    "title": "反胎更生",
+    "summary": "承三元君之德，七世父母解宿罪而受生新世、返胎更化之道也。",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "承負",
+      "解脫",
+      "七祖",
+      "魂魄"
+    ],
+    "sources": [
+      {
+        "chapter": "8章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 8章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/8章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "反覆-之",
     "title": "反覆-之",
     "summary": "",
@@ -62912,6 +63083,13 @@
         "title": "上清大洞真經 · 10章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/10章",
         "work": "上清大洞真經"
+      },
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -62920,12 +63098,14 @@
     "title": "叩齒咽液",
     "summary": "行道收神之法",
     "tags": [
-      "部:子",
       "上清",
       "叩齒",
       "咽液",
       "存思",
-      "法儀"
+      "法儀",
+      "部:子",
+      "內修",
+      "咽津"
     ],
     "sources": [
       {
@@ -62947,6 +63127,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 7章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/7章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
         "work": "上清大洞真經"
       }
     ]
@@ -64766,6 +64953,21 @@
         "title": "老子 (帛書本) · 章二十三",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
+    "slug": "同於火者化為火",
+    "title": "同於火者化為火",
+    "summary": "達虛含虛、神含神之理，則情可通、形可同，以大人無所不同無所不化",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
       }
     ]
   },
@@ -71262,7 +71464,8 @@
       "神名",
       "命門",
       "存思",
-      "內諱"
+      "內諱",
+      "部:子"
     ],
     "sources": [
       {
@@ -72003,6 +72206,25 @@
         "title": "莊子 · 天運",
         "url": "https://zh.wikisource.org/wiki/莊子/天運",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "咸淳壬申",
+    "title": "咸淳壬申",
+    "summary": "宋度宗咸淳八年，中元，程公端書《上清大洞真經後序》之日。",
+    "tags": [
+      "史事",
+      "上清",
+      "書法"
+    ],
+    "sources": [
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -76775,6 +76997,24 @@
     ]
   },
   {
+    "slug": "噦咽",
+    "title": "噦咽",
+    "summary": "臭腐虛而噦不止，知此理者可以齊奢儉外榮辱忘禍福。",
+    "tags": [
+      "修身",
+      "養生"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "器之制",
     "title": "器之制",
     "summary": "諸侯千乘之國，地小大有數，任之輕重有制。",
@@ -79225,6 +79465,24 @@
         "title": "詩經 · 山有樞",
         "url": "https://zh.wikisource.org/wiki/詩經/山有樞",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "四鏡",
+    "title": "四鏡",
+    "summary": "小人四鏡各見一曲，唯戒之如虎然後跡容廣躋三五。",
+    "tags": [
+      "修身",
+      "認知"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
       }
     ]
   },
@@ -87412,6 +87670,24 @@
     ]
   },
   {
+    "slug": "大化",
+    "title": "大化",
+    "summary": "虛化神氣形精而遞至於甲兵爭奪敗亡，大人以道德仁義刑禮籠罩以護富貴。",
+    "tags": [
+      "政治",
+      "化境"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "大化四",
     "title": "人自生至終大化有四",
     "summary": "人生大化四階段：嬰孩、少壯、老耄、死亡。",
@@ -87557,6 +87833,24 @@
         "title": "禮記 · 禮運",
         "url": "https://zh.wikisource.org/wiki/禮記/禮運",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "大含",
+    "title": "大含",
+    "summary": "聲氣形相乘相含，絲毫之慮必有所察，啁啾之言必有所聞，唯大人機天地莫能見陰陽莫能知鬼神莫能窺。",
+    "tags": [
+      "化境",
+      "認知"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
       }
     ]
   },
@@ -88628,7 +88922,8 @@
     "tags": [
       "上清",
       "存思",
-      "修仙"
+      "修仙",
+      "部:子"
     ],
     "sources": [
       {
@@ -88712,7 +89007,8 @@
       "符籙",
       "命門",
       "消魔",
-      "存思"
+      "存思",
+      "部:經"
     ],
     "sources": [
       {
@@ -88741,6 +89037,26 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 39章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/39章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "大洞後序",
+    "title": "大洞後序",
+    "summary": "程公端與張宇初各為大洞經作後序，闡性命修真之旨。",
+    "tags": [
+      "上清",
+      "書法",
+      "性命",
+      "宗敎文獻"
+    ],
+    "sources": [
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
         "work": "上清大洞真經"
       }
     ]
@@ -88801,10 +89117,10 @@
       "上清",
       "符呪",
       "玉符",
-      "部:經",
       "符籙",
       "消魔",
-      "紫戶"
+      "紫戶",
+      "部:經"
     ],
     "sources": [
       {
@@ -92153,6 +92469,24 @@
         "title": "周易 · 大畜",
         "url": "https://zh.wikisource.org/wiki/周易/大畜",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "天地",
+    "title": "天地",
+    "summary": "天地盜太虛生，人蟲盜天地生，虰盜我精氣魂魄，大人錄精氣藏魂魄則天地老而我不傾。",
+    "tags": [
+      "養生",
+      "化境"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
       }
     ]
   },
@@ -97065,6 +97399,21 @@
         "title": "列子 · 天瑞篇",
         "url": "https://zh.wikisource.org/wiki/列子/天瑞篇",
         "work": "列子"
+      }
+    ]
+  },
+  {
+    "slug": "太醫之道",
+    "title": "太醫之道",
+    "summary": "天下之理一也；觀其國知其臣，觀其臣知其君，觀其君知其興亡。",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
       }
     ]
   },
@@ -104588,6 +104937,13 @@
         "title": "黃庭內景經 · 百榖章第三十",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/百榖章第三十",
         "work": "黃庭內景經"
+      },
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -106566,6 +106922,27 @@
         "title": "尚書 · 盤庚中",
         "url": "https://zh.wikisource.org/wiki/尚書/盤庚中",
         "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "孩道康",
+    "title": "孩道康",
+    "summary": "命門桃君之字，大洞玉經所言守命之真也。",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "桃君",
+      "守命",
+      "命門"
+    ],
+    "sources": [
+      {
+        "chapter": "8章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 8章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/8章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -113820,6 +114197,24 @@
     ]
   },
   {
+    "slug": "射虎",
+    "title": "射虎",
+    "summary": "射虎見虎不見石，斬蛟見蛟不見水，以我之無合彼之虛則隱顯死生無所拘。",
+    "tags": [
+      "齊物",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "射雉一矢亡終以譽命",
     "title": "射雉一矢亡終以譽命",
     "summary": "射雉失矢，然終以美譽受命。",
@@ -120032,7 +120427,9 @@
       "道經",
       "存思",
       "帝一",
-      "部:經"
+      "部:經",
+      "存神",
+      "內修"
     ],
     "sources": [
       {
@@ -120040,6 +120437,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 39章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/39章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
         "work": "上清大洞真經"
       }
     ]
@@ -120170,7 +120574,8 @@
     "tags": [
       "上清",
       "道經",
-      "存思"
+      "存思",
+      "部:經"
     ],
     "sources": [
       {
@@ -121645,6 +122050,26 @@
         "title": "道德經 (王弼本) · 三十四章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
+    "slug": "常道",
+    "title": "常道",
+    "summary": "仁義忠信廉潔財辯，用之不得其術，皆足以亡國、獲罪、暴民、罹禍。",
+    "tags": [
+      "常道",
+      "化書",
+      "德化",
+      "術"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
       }
     ]
   },
@@ -124321,6 +124746,26 @@
     ]
   },
   {
+    "slug": "弓矢盜以侮天子",
+    "title": "弓矢盜以侮天子",
+    "summary": "天子作弓矢威天下，天下盜弓矢以侮天子；君子作禮樂防小人，小人盜禮樂以僣君子。",
+    "tags": [
+      "弓矢",
+      "化書",
+      "德化",
+      "盜"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "引兌",
     "title": "引兌",
     "summary": "援引他人以相悅，邪道引長，其德未光。",
@@ -125435,6 +125880,26 @@
     ]
   },
   {
+    "slug": "張宇初",
+    "title": "張宇初",
+    "summary": "正一嗣教道合無為闡祖光範真人，四十三代天師，書大洞後序。",
+    "tags": [
+      "正一",
+      "天師",
+      "書法",
+      "上清"
+    ],
+    "sources": [
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "張湯",
     "title": "張湯",
     "summary": "杜人，漢御史大夫，與趙禹共定律令，用法益刻。",
@@ -126449,6 +126914,24 @@
     ]
   },
   {
+    "slug": "形影",
+    "title": "形影",
+    "summary": "形影非實非虛，無實無虛可與道俱。",
+    "tags": [
+      "齊物",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "形者生之舍",
     "title": "形者生之舍",
     "summary": "",
@@ -127234,6 +127717,26 @@
         "title": "韓非子 · 難勢",
         "url": "https://zh.wikisource.org/wiki/韓非子/難勢",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "徊風混合",
+    "title": "徊風混合",
+    "summary": "百神化炁、上下混合之秘法。",
+    "tags": [
+      "上清",
+      "內修",
+      "存神",
+      "煉炁"
+    ],
+    "sources": [
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -131000,6 +131503,27 @@
     ]
   },
   {
+    "slug": "心之所變不得不變",
+    "title": "心之所變不得不變",
+    "summary": "至淫者化為婦 人，至暴者化為猛虎，心變可成龍蛇金石",
+    "tags": [
+      "化書",
+      "術化",
+      "心變",
+      "化",
+      "形神"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "心使氣日強",
     "title": "心使氣日強",
     "summary": "以心志之力驅使精氣，是為太過，反速其亡。",
@@ -131053,6 +131577,27 @@
         "title": "黃庭內景經 · 心典章第三十一",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/心典章第三十一",
         "work": "黃庭內景經"
+      }
+    ]
+  },
+  {
+    "slug": "心可以交神可以奪",
+    "title": "心可以交神可以奪",
+    "summary": "魍魎附巫，小人知心可交、神可奪、形可化",
+    "tags": [
+      "化書",
+      "術化",
+      "心神",
+      "魍魎",
+      "變化"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
       }
     ]
   },
@@ -131327,6 +131872,27 @@
         "title": "黃庭外景經",
         "url": "https://zh.wikisource.org/wiki/黃庭外景經",
         "work": "黃庭外景經"
+      }
+    ]
+  },
+  {
+    "slug": "心有虛實",
+    "title": "心有虛實",
+    "summary": "方咫之木置地有餘，置竿端不足，非物有小大，蓋心有虛實",
+    "tags": [
+      "化書",
+      "術化",
+      "心",
+      "虛實",
+      "感知"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
       }
     ]
   },
@@ -133221,6 +133787,13 @@
         "title": "悟真篇",
         "url": "https://zh.wikisource.org/wiki/悟真篇",
         "work": "悟真篇"
+      },
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -133798,6 +134371,26 @@
         "title": "黃帝陰符經集註",
         "url": "https://zh.wikisource.org/wiki/黃帝陰符經集註",
         "work": "黃帝陰符經集註"
+      }
+    ]
+  },
+  {
+    "slug": "恩賞",
+    "title": "恩賞",
+    "summary": "賞不可妄行，恩不可妄施；自卑則賞不能大，自儉則恩不得奇。",
+    "tags": [
+      "恩賞",
+      "化書",
+      "德化",
+      "賞罰"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
       }
     ]
   },
@@ -134391,6 +134984,27 @@
         "title": "春秋左氏傳 · 閔公",
         "url": "https://zh.wikisource.org/wiki/春秋左氏傳/閔公",
         "work": "春秋左氏傳"
+      }
+    ]
+  },
+  {
+    "slug": "悲則雨淚辛則雨涕",
+    "title": "悲則雨淚辛則雨涕",
+    "summary": "心所欲，氣所屬，無所不育；節悲辛，誡憤怒，收元精韜光",
+    "tags": [
+      "化書",
+      "術化",
+      "心",
+      "氣",
+      "養生"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
       }
     ]
   },
@@ -136704,6 +137318,26 @@
         "title": "老子河上公章句 · 任成",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
         "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
+    "slug": "感喜非孝",
+    "title": "感喜非孝",
+    "summary": "感父之慈非孝，喜君之寵非忠；感喜在心由物之有毒，由蓬之藏火，不可不慮。",
+    "tags": [
+      "感喜",
+      "化書",
+      "德化",
+      "孝忠"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
       }
     ]
   },
@@ -152209,6 +152843,27 @@
     ]
   },
   {
+    "slug": "明鏡無心",
+    "title": "明鏡無心",
+    "summary": "明鏡無心故不能幻，明鏡之鑒者以其無心",
+    "tags": [
+      "化書",
+      "術化",
+      "虛無",
+      "鏡",
+      "心"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "明鏡照魅",
     "title": "明鏡照魅",
     "summary": "古之入山道士以明鏡懸於背後，可辨老魅與山神。",
@@ -158322,6 +158977,26 @@
         "title": "道德經 (王弼本) · 五十九章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
+    "slug": "有國之禮",
+    "title": "有國之禮",
+    "summary": "有國者疑貳於鬼神、欺惑於龜策、不信於天下，賞不足動、罰不足懼，國不足守。",
+    "tags": [
+      "有國",
+      "化書",
+      "德化",
+      "祭祀"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
       }
     ]
   },
@@ -165750,6 +166425,24 @@
     ]
   },
   {
+    "slug": "梟雞",
+    "title": "梟雞",
+    "summary": "梟雞晝夜異狀，能齊昏明者其唯大人乎。",
+    "tags": [
+      "齊物",
+      "認知"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "梟鳥必匿其形",
     "title": "梟鳥必匿其形",
     "summary": "伐敵當匿其形，以待時而動。",
@@ -169586,6 +170279,24 @@
     ]
   },
   {
+    "slug": "正一",
+    "title": "正一",
+    "summary": "太虛太神太氣太形命之則四根之則一，守之不得舍之不失是謂正一。",
+    "tags": [
+      "內丹",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "正一右仙曲文子",
     "title": "正一右仙曲文子",
     "summary": "右仙輔正，與三素老君同守死門。",
@@ -172262,6 +172973,24 @@
         "title": "上清大洞真經 · 33章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/33章",
         "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "死生",
+    "title": "死生",
+    "summary": "虛化神氣形血而遞至於老死，死復化虛，達此理者虛而乳之神可以不化形可以不生。",
+    "tags": [
+      "化境",
+      "長生"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
       }
     ]
   },
@@ -175152,6 +175881,28 @@
     ]
   },
   {
+    "slug": "氣由聲發聲由氣振",
+    "title": "氣由聲發聲由氣振",
+    "summary": "氣動聲發，聲發氣振，風行萬物變化；和則生萬物，不和則辱萬物",
+    "tags": [
+      "化書",
+      "術化",
+      "聲氣",
+      "音樂",
+      "陰陽",
+      "和"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "氣與目為利",
     "title": "氣與目為利",
     "summary": "在於身者孰為利？氣與目為利；聖人得利而託焉，民重而名遂。",
@@ -175753,6 +176504,27 @@
         "title": "文子 · 卷一",
         "url": "https://zh.wikisource.org/wiki/文子/卷一",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "水竇杵糠",
+    "title": "水竇杵糠",
+    "summary": "法本無祖，術本無狀，師之於心，得之於象",
+    "tags": [
+      "化書",
+      "術化",
+      "法術",
+      "心",
+      "虛"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
       }
     ]
   },
@@ -180000,6 +180772,28 @@
     ]
   },
   {
+    "slug": "泥丸上一赤子消魔玉符",
+    "title": "大洞泥丸天帝君上一赤子消魔玉符",
+    "summary": "書符佩帶以朱書黃繒，存呼赤子內諱，鎮護泥丸，令死氣沉藏、七祖昇騰之秘符也。",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "消魔玉符",
+      "泥丸",
+      "佩符",
+      "黃繒"
+    ],
+    "sources": [
+      {
+        "chapter": "8章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 8章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/8章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "泥丸九真",
     "title": "泥丸九真",
     "summary": "上清大洞真經所言居於泥丸之九位真神。",
@@ -180432,6 +181226,27 @@
         "title": "黃庭內景經 · 治生章第二十三",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/治生章第二十三",
         "work": "黃庭內景經"
+      }
+    ]
+  },
+  {
+    "slug": "洞陽白元",
+    "title": "洞陽白元",
+    "summary": "洞陽宮白元君，主魂魄上登之號也。",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "白元君",
+      "魂魄",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "8章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 8章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/8章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -190093,6 +190908,27 @@
     ]
   },
   {
+    "slug": "無心者火不能燒",
+    "title": "無心者火不能燒",
+    "summary": "無心則水火兵刃天命皆不能加，亦忘生死",
+    "tags": [
+      "化書",
+      "術化",
+      "無心",
+      "虛無",
+      "道"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "無忝皇祖",
     "title": "無忝皇祖",
     "summary": "不辱先祖，救其子孫",
@@ -190321,6 +191157,26 @@
         "title": "詩經 · 板",
         "url": "https://zh.wikisource.org/wiki/詩經/板",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "無所不能者有大不能",
+    "title": "無所不能者有大不能",
+    "summary": "無所不能者有不能，無所不知者有不知；忘弓矢而後知射，忘智慮而後知大人之道。",
+    "tags": [
+      "智弊",
+      "化書",
+      "德化",
+      "忘"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
       }
     ]
   },
@@ -192815,6 +193671,24 @@
         "title": "韓非子 · 人主",
         "url": "https://zh.wikisource.org/wiki/韓非子/人主",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "爪發",
+    "title": "爪發",
+    "summary": "爪髮榮衛所不至，則是我本無害無痛，知喜怒非我作哀樂非我動，達此理者可以出生死之外。",
+    "tags": [
+      "修身",
+      "養生"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
       }
     ]
   },
@@ -195965,7 +196839,10 @@
       "大洞真經",
       "天界",
       "存思",
-      "部:經"
+      "部:經",
+      "泥丸",
+      "上一赤子",
+      "天帝君"
     ],
     "sources": [
       {
@@ -195973,6 +196850,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 22章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/22章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "8章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 8章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/8章",
         "work": "上清大洞真經"
       }
     ]
@@ -196842,7 +197726,8 @@
       "上清",
       "祝",
       "誦經",
-      "玉清"
+      "玉清",
+      "部:經"
     ],
     "sources": [
       {
@@ -197058,7 +197943,13 @@
       "呪語",
       "玉清",
       "消魔",
-      "部:其他"
+      "部:其他",
+      "上清",
+      "大洞真經",
+      "玉清王",
+      "默呪",
+      "魂魄",
+      "存思"
     ],
     "sources": [
       {
@@ -197066,6 +197957,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 6章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/6章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "8章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 8章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/8章",
         "work": "上清大洞真經"
       }
     ]
@@ -198856,6 +199754,24 @@
     ]
   },
   {
+    "slug": "環舞",
+    "title": "環舞",
+    "summary": "物不欺人，人自惑之；唯清靜者物不能欺。",
+    "tags": [
+      "修身",
+      "認知"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "瓊琚瓊瑤瓊玖",
     "title": "瓊琚瓊瑤瓊玖",
     "summary": "瓊玉之美，詩人所以表厚意也",
@@ -200318,6 +201234,27 @@
         "title": "韓非子 · 顯學",
         "url": "https://zh.wikisource.org/wiki/韓非子/顯學",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "用神坐致萬里",
+    "title": "用神坐致萬里",
+    "summary": "以神用形則可坐致萬里，蟲之無足者蛇蛭蝸牛皆能如此",
+    "tags": [
+      "化書",
+      "術化",
+      "神",
+      "形",
+      "養生"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
       }
     ]
   },
@@ -202685,6 +203622,25 @@
         "title": "史記 · 卷054",
         "url": "https://zh.wikisource.org/wiki/史記/卷054",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "異心之害",
+    "title": "異心之害",
+    "summary": "異心則眾獸不伏、眾鳥不賓、天下不臣；同心得遂機巧之功。",
+    "tags": [
+      "異心",
+      "化書",
+      "德化"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
       }
     ]
   },
@@ -211320,6 +212276,24 @@
     ]
   },
   {
+    "slug": "神交",
+    "title": "神交",
+    "summary": "情愛相接神氣可交，大人和其心融其氣則可以將天下之兵滅天下之敵。",
+    "tags": [
+      "修身",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "神人",
     "title": "神人",
     "summary": "上神乘光，與形滅亡，照曠致命盡情，天地樂而萬事銷亡。",
@@ -211479,6 +212453,47 @@
         "title": "黃庭內景經 · 肺部章第九",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/肺部章第九",
         "work": "黃庭內景經"
+      }
+    ]
+  },
+  {
+    "slug": "神全威大精全氣雄",
+    "title": "神全威大精全氣雄",
+    "summary": "神全則威大，精全則氣雄，威大可以敵萬人",
+    "tags": [
+      "化書",
+      "術化",
+      "威",
+      "神",
+      "精",
+      "氣"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
+      }
+    ]
+  },
+  {
+    "slug": "神化",
+    "title": "神化",
+    "summary": "道虛神氣形之遞化，聖人忘形以養虛而歸大同。",
+    "tags": [
+      "道家",
+      "化境",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
       }
     ]
   },
@@ -211780,7 +212795,9 @@
       "三等書",
       "治道",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "化境",
+      "修身"
     ],
     "sources": [
       {
@@ -211796,6 +212813,13 @@
         "title": "太平經 · 09",
         "url": "https://zh.wikisource.org/wiki/太平經/09",
         "work": "太平經"
+      },
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
       }
     ]
   },
@@ -211839,8 +212863,8 @@
       "存思",
       "咽津",
       "煉形",
-      "部:其他",
-      "內修"
+      "內修",
+      "部:其他"
     ],
     "sources": [
       {
@@ -215835,6 +216859,26 @@
     ]
   },
   {
+    "slug": "程公端",
+    "title": "程公端",
+    "summary": "嗣法道士，咸淳壬申刊刻大洞真經於茅山。",
+    "tags": [
+      "上清",
+      "書法",
+      "茅山",
+      "刊刻"
+    ],
+    "sources": [
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "程姬子",
     "title": "程姬子",
     "summary": "程姬三子，分封魯、江都、膠西，皆有好惡之行。",
@@ -215897,6 +216941,24 @@
         "title": "史記 · 卷129",
         "url": "https://zh.wikisource.org/wiki/史記/卷129",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "稚子",
+    "title": "稚子",
+    "summary": "弄影不知為影所弄，化家化國化天下者不知為所化，由道而德而仁義而戰爭，其勢彌顛病彌篤。",
+    "tags": [
+      "化境",
+      "政治"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
       }
     ]
   },
@@ -217930,6 +218992,27 @@
     ]
   },
   {
+    "slug": "童子景精太微",
+    "title": "童子景精太微",
+    "summary": "高上清魔玉清王祝中之隱名，神在太微，號童子景精，能知者長生不衰也。",
+    "tags": [
+      "上清",
+      "大洞真經",
+      "默呪",
+      "太微",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "8章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 8章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/8章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "童子曜威明",
     "title": "童子曜威明",
     "summary": "膽中童子主宰威嚴光明，能攝虎兵、馭萬神。",
@@ -219793,6 +220876,26 @@
     ]
   },
   {
+    "slug": "籠中之猿",
+    "title": "籠中之猿",
+    "summary": "機變萬端不能出大人之道，蓋道大無外，無日不怨、無人不欺，萬物知其所歸。",
+    "tags": [
+      "籠猿",
+      "化書",
+      "德化",
+      "道"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "籩豆有踐",
     "title": "籩豆有踐",
     "summary": "籩豆成行而有次，禮之於迎妻，亦有其則也。",
@@ -221435,7 +222538,10 @@
     "title": "紫房",
     "summary": "定生之宮，五神交渾之所。",
     "tags": [
-      "部:其他"
+      "部:其他",
+      "上清",
+      "內景",
+      "修煉"
     ],
     "sources": [
       {
@@ -221443,6 +222549,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 15章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/15章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
         "work": "上清大洞真經"
       }
     ]
@@ -222514,7 +223627,8 @@
     "tags": [
       "上清",
       "道經",
-      "神名"
+      "神名",
+      "部:經"
     ],
     "sources": [
       {
@@ -222575,7 +223689,8 @@
       "存思",
       "絳宮",
       "心丹田",
-      "丹道"
+      "丹道",
+      "部:經"
     ],
     "sources": [
       {
@@ -226401,6 +227516,24 @@
     ]
   },
   {
+    "slug": "老楓",
+    "title": "老楓",
+    "summary": "萬物皆有情性精魄，虛無所不至，萬物一物，萬神一神。",
+    "tags": [
+      "物化",
+      "齊物"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "老老",
     "title": "老老",
     "summary": "敬老是政，惠施於耆老者也。",
@@ -226801,6 +227934,24 @@
         "title": "管子 · 第85篇輕重己",
         "url": "https://zh.wikisource.org/wiki/管子/第85篇輕重己",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "耳目",
+    "title": "耳目",
+    "summary": "精神在我視聽在彼，耳目可妄設而神形有疣則皆為所役。",
+    "tags": [
+      "認知",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
       }
     ]
   },
@@ -230099,6 +231250,25 @@
     ]
   },
   {
+    "slug": "聚精會神",
+    "title": "聚精會神",
+    "summary": "斂精凝神，與道合真，大洞修真之要法。",
+    "tags": [
+      "上清",
+      "內修",
+      "存神"
+    ],
+    "sources": [
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "聞其聲而知其風",
     "title": "聞其聲而知其風",
     "summary": "音發於外，可驗人心之風志。",
@@ -232131,6 +233301,27 @@
         "title": "詩經 · 伐檀",
         "url": "https://zh.wikisource.org/wiki/詩經/伐檀",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "胡夫越婦",
+    "title": "胡夫越婦",
+    "summary": "以陰孕陽、以柔孕剛、以短孕長，造化之道也",
+    "tags": [
+      "化書",
+      "術化",
+      "造化",
+      "陰陽",
+      "嫁接"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
       }
     ]
   },
@@ -239729,6 +240920,25 @@
     ]
   },
   {
+    "slug": "茅山上清宗壇",
+    "title": "茅山上清宗壇",
+    "summary": "大洞真經歷代單傳之地，千餘年間才三十八人。",
+    "tags": [
+      "上清",
+      "宗派",
+      "授受"
+    ],
+    "sources": [
+      {
+        "chapter": "結尾",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 結尾",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/結尾",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "茅津封殽",
     "title": "茅津封殽",
     "summary": "記繆公伐晉渡河焚船報殽之役，封尸哭之三日，作誓以記過。",
@@ -246805,6 +248015,24 @@
     ]
   },
   {
+    "slug": "蛇雀",
+    "title": "蛇雀",
+    "summary": "物化之速由於忘形，見塊而不見空則人自滯。",
+    "tags": [
+      "物化",
+      "認知"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "蛩蛩駏驢",
     "title": "蛩蛩駏驢",
     "summary": "以所能託所不能，獸亦有義",
@@ -247208,6 +248436,21 @@
     ]
   },
   {
+    "slug": "蜾蠃負螟蛉之子",
+    "title": "蜾蠃負螟蛉之子",
+    "summary": "蠢動無定情，萬物無定形，馬可飛、魚可馳、土木偶可有知",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "蝃蝀",
     "title": "蝃蝀",
     "summary": "詩經篇名，刺淫奔之詩，以虹象女子之非禮。",
@@ -247396,6 +248639,24 @@
         "title": "詩經 · 螽斯",
         "url": "https://zh.wikisource.org/wiki/詩經/螽斯",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "蟄藏",
+    "title": "蟄藏",
+    "summary": "物善蟄藏者，心冥神怡萬慮不惑，可以禦大寒去大饑萬歲不死。",
+    "tags": [
+      "修身",
+      "長生"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
       }
     ]
   },
@@ -258411,6 +259672,26 @@
         "title": "詩經 · 小弁",
         "url": "https://zh.wikisource.org/wiki/詩經/小弁",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "讒語",
+    "title": "讒語",
+    "summary": "賞罰進則邪道進，親疏分則小人入；至公之世，盜不敢取金於市，讒不敢語於朝。",
+    "tags": [
+      "讒語",
+      "化書",
+      "德化",
+      "公私"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
       }
     ]
   },
@@ -269763,6 +271044,24 @@
     ]
   },
   {
+    "slug": "遊雲",
+    "title": "遊雲",
+    "summary": "遊雲無質明鏡無瑕，故五色舍焉萬物象焉，君子常正心常儼容則可以遊泳寥廓。",
+    "tags": [
+      "修身",
+      "齊物"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "運潰",
     "title": "運潰",
     "summary": "潰之為言，上下不相得，昭公失國而邑亂。",
@@ -274804,6 +276103,26 @@
     ]
   },
   {
+    "slug": "酒醴之情",
+    "title": "酒醴之情",
+    "summary": "抑人者人抑之，容人者人容之；能知反覆之道者，可以居兆民之職。",
+    "tags": [
+      "酒醴",
+      "化書",
+      "德化",
+      "恩怨"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "酷吏",
     "title": "酷吏",
     "summary": "以嚴酷著稱之官吏，秦漢以降多有之。",
@@ -277020,6 +278339,24 @@
         "title": "楚辭 · 七諫",
         "url": "https://zh.wikisource.org/wiki/楚辭/七諫",
         "work": "楚辭"
+      }
+    ]
+  },
+  {
+    "slug": "鉛丹",
+    "title": "鉛丹",
+    "summary": "食之飽饑不在丹而在人誠，能齊一有亡則蛻五行脫三光。",
+    "tags": [
+      "修身",
+      "內丹"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
       }
     ]
   },
@@ -280663,6 +282000,24 @@
     ]
   },
   {
+    "slug": "陽燧",
+    "title": "陽燧",
+    "summary": "陽燧召火方諸召水，視之異則得失從之，用神合真可以長存。",
+    "tags": [
+      "修身",
+      "齊物"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "陽燧取火",
     "title": "陽燧取火",
     "summary": "陽燧聚焦取火，非日則光不生，以喻真陽之炁必資虛無而後成。",
@@ -283092,6 +284447,26 @@
         "title": "周易 · 屯",
         "url": "https://zh.wikisource.org/wiki/周易/屯",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "雲龍風虎",
+    "title": "雲龍風虎",
+    "summary": "以神召氣、以母召子，則無所不至",
+    "tags": [
+      "化書",
+      "術化",
+      "神氣",
+      "感應"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "化書 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/化書/卷二",
+        "work": "化書"
       }
     ]
   },
@@ -287885,6 +289260,25 @@
     ]
   },
   {
+    "slug": "飛蛾投燭",
+    "title": "飛蛾投燭",
+    "summary": "天下賢愚營營若飛蛾之投夜燭，不知往而返、知進而退，卒以自焚。",
+    "tags": [
+      "飛蛾",
+      "化書",
+      "德化"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "飛霄紫輿",
     "title": "飛霄紫輿",
     "summary": "仙人乘之以升天之紫車，上清修真之究竟也",
@@ -288646,6 +290040,26 @@
         "title": "韓非子 · 八奸",
         "url": "https://zh.wikisource.org/wiki/韓非子/八奸",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "養民",
+    "title": "養民",
+    "summary": "禁民火不如禁心火，防人盜不如防我盜；濟民不如不濟，愛民不如不愛。",
+    "tags": [
+      "養民",
+      "化書",
+      "德化",
+      "為政"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
       }
     ]
   },
@@ -290039,9 +291453,9 @@
       "神霄",
       "煉神",
       "司命",
-      "部:子",
       "祝",
-      "誦經"
+      "誦經",
+      "部:子"
     ],
     "sources": [
       {
@@ -295426,6 +296840,26 @@
     ]
   },
   {
+    "slug": "黃雀之戒",
+    "title": "黃雀之戒",
+    "summary": "疑人者為人所疑，防人者為人所防；君子行道無憂無害。",
+    "tags": [
+      "黃雀",
+      "化書",
+      "德化",
+      "防備"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "化書 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/化書/卷三",
+        "work": "化書"
+      }
+    ]
+  },
+  {
     "slug": "黃頭郎",
     "title": "黃頭郎",
     "summary": "為皇帝操舟之官，服黃帽，故名",
@@ -295745,8 +297179,8 @@
       "功法",
       "呪法",
       "大洞真經",
-      "部:子",
-      "命門"
+      "命門",
+      "部:子"
     ],
     "sources": [
       {
@@ -295829,7 +297263,8 @@
       "上清",
       "呪語",
       "存思",
-      "五帝"
+      "五帝",
+      "部:其他"
     ],
     "sources": [
       {
@@ -297338,6 +298773,24 @@
         "title": "管子 · 第39篇水地",
         "url": "https://zh.wikisource.org/wiki/管子/第39篇水地",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "龍虎",
+    "title": "龍虎",
+    "summary": "龍化虎變蹈虛貫石，有無相通，物我相同，形不可斃神不可逝。",
+    "tags": [
+      "內丹",
+      "齊物"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "化書 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/化書/卷一",
+        "work": "化書"
       }
     ]
   },
