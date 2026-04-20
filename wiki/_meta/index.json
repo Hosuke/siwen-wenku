@@ -2152,7 +2152,8 @@
       "大洞真經",
       "存神",
       "胞胎",
-      "內修"
+      "內修",
+      "部:經"
     ],
     "sources": [
       {
@@ -3195,7 +3196,10 @@
       "修真",
       "精氣神",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "上清",
+      "道藏",
+      "三經"
     ],
     "sources": [
       {
@@ -3204,6 +3208,13 @@
         "title": "黃庭外景經",
         "url": "https://zh.wikisource.org/wiki/黃庭外景經",
         "work": "黃庭外景經"
+      },
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 序",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/序",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -4638,7 +4649,10 @@
       "存神",
       "內修",
       "泥丸",
-      "部:其他"
+      "部:其他",
+      "內觀",
+      "命門",
+      "絳宮"
     ],
     "sources": [
       {
@@ -4660,6 +4674,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 5章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/5章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "7章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 7章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/7章",
         "work": "上清大洞真經"
       }
     ]
@@ -6966,7 +6987,8 @@
       "存神",
       "陽神",
       "呪語",
-      "默呪"
+      "默呪",
+      "部:經"
     ],
     "sources": [
       {
@@ -7613,7 +7635,8 @@
       "上清",
       "大洞真經",
       "存神",
-      "陰神"
+      "陰神",
+      "部:經"
     ],
     "sources": [
       {
@@ -14266,7 +14289,8 @@
     "tags": [
       "上清",
       "神仙",
-      "存思"
+      "存思",
+      "部:其他"
     ],
     "sources": [
       {
@@ -16832,7 +16856,8 @@
       "上清",
       "大洞真經",
       "存神",
-      "九帝"
+      "九帝",
+      "部:經"
     ],
     "sources": [
       {
@@ -20272,6 +20297,27 @@
         "title": "抱朴子 · 卷17",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷17",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "五嶽真人定錄四賓",
+    "title": "五嶽真人定錄四賓四門賓友",
+    "summary": "五嶽真人主定錄之官，四門賓友為近侍之臣，共佐[[命門桃君孩道康]]以召萬神。",
+    "tags": [
+      "上清",
+      "神名",
+      "五嶽",
+      "命門",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "7章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 7章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/7章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -42478,7 +42524,10 @@
       "天人",
       "秘呪",
       "神呪",
-      "部:其他"
+      "部:其他",
+      "密語",
+      "生死",
+      "胎門"
     ],
     "sources": [
       {
@@ -42521,6 +42570,20 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 38章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/38章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "3章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 3章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/3章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "7章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 7章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/7章",
         "work": "上清大洞真經"
       }
     ]
@@ -56541,7 +56604,10 @@
       "旗幟",
       "管子",
       "部:史",
-      "部:史/正史類"
+      "部:史/正史類",
+      "上清",
+      "秘笈",
+      "修仙"
     ],
     "sources": [
       {
@@ -56557,6 +56623,13 @@
         "title": "管子 · 第17篇兵法",
         "url": "https://zh.wikisource.org/wiki/管子/第17篇兵法",
         "work": "管子"
+      },
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 序",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/序",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -62121,7 +62194,8 @@
       "大洞真經",
       "日光",
       "月明",
-      "太一"
+      "太一",
+      "部:經"
     ],
     "sources": [
       {
@@ -62846,7 +62920,12 @@
     "title": "叩齒咽液",
     "summary": "行道收神之法",
     "tags": [
-      "部:子"
+      "部:子",
+      "上清",
+      "叩齒",
+      "咽液",
+      "存思",
+      "法儀"
     ],
     "sources": [
       {
@@ -62861,6 +62940,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 29章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/29章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "7章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 7章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/7章",
         "work": "上清大洞真經"
       }
     ]
@@ -63428,7 +63514,8 @@
     "tags": [
       "存思",
       "呪語",
-      "上清"
+      "上清",
+      "部:其他"
     ],
     "sources": [
       {
@@ -71134,6 +71221,13 @@
         "title": "上清大洞真經 · 25章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/25章",
         "work": "上清大洞真經"
+      },
+      {
+        "chapter": "7章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 7章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/7章",
+        "work": "上清大洞真經"
       }
     ]
   },
@@ -71155,6 +71249,27 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 10章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/10章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "命門桃君孩道康",
+    "title": "命門桃君孩道康",
+    "summary": "命門桃君之內諱曰孩道康，字合精延，主臍中死炁之門。",
+    "tags": [
+      "上清",
+      "神名",
+      "命門",
+      "存思",
+      "內諱"
+    ],
+    "sources": [
+      {
+        "chapter": "7章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 7章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/7章",
         "work": "上清大洞真經"
       }
     ]
@@ -80969,9 +81084,9 @@
       "外音",
       "地音",
       "消魔",
-      "部:其他",
       "內外音",
-      "修煉"
+      "修煉",
+      "部:其他"
     ],
     "sources": [
       {
@@ -88507,6 +88622,25 @@
     ]
   },
   {
+    "slug": "大洞",
+    "title": "大洞",
+    "summary": "斂精聚神、鍊神會道之要徑，動極復靜，恍惚圍帝一之妙。",
+    "tags": [
+      "上清",
+      "存思",
+      "修仙"
+    ],
+    "sources": [
+      {
+        "chapter": "序",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 序",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/序",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "大洞上玄元父消魔玉符",
     "title": "大洞上玄元父消魔玉符",
     "summary": "青書白繒佩之，存呼元父內諱，叩齒咽液，所以鎮本命之根者也。",
@@ -88515,7 +88649,8 @@
       "大洞真經",
       "玉符",
       "消魔",
-      "呪術"
+      "呪術",
+      "部:經"
     ],
     "sources": [
       {
@@ -88534,7 +88669,8 @@
     "tags": [
       "符籙",
       "消魔",
-      "上清"
+      "上清",
+      "部:經"
     ],
     "sources": [
       {
@@ -88563,6 +88699,27 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 10章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/10章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "大洞命門桃君消魔玉符",
+    "title": "大洞命門桃君消魔玉符",
+    "summary": "命門桃君之符，硃書黃繒佩之，存呼內諱，鎮守臍關，斷絕死根。",
+    "tags": [
+      "上清",
+      "符籙",
+      "命門",
+      "消魔",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "7章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 7章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/7章",
         "work": "上清大洞真經"
       }
     ]
@@ -88644,7 +88801,10 @@
       "上清",
       "符呪",
       "玉符",
-      "部:經"
+      "部:經",
+      "符籙",
+      "消魔",
+      "紫戶"
     ],
     "sources": [
       {
@@ -88652,6 +88812,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 2章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/2章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "3章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 3章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/3章",
         "work": "上清大洞真經"
       }
     ]
@@ -93143,7 +93310,8 @@
       "上清",
       "大洞真經",
       "存神",
-      "魂魄"
+      "魂魄",
+      "部:經"
     ],
     "sources": [
       {
@@ -94339,7 +94507,8 @@
       "上清",
       "大洞真經",
       "存神",
-      "魂魄"
+      "魂魄",
+      "部:史"
     ],
     "sources": [
       {
@@ -96524,7 +96693,8 @@
       "上清",
       "大洞真經",
       "存神",
-      "精魂"
+      "精魂",
+      "部:經"
     ],
     "sources": [
       {
@@ -119994,6 +120164,25 @@
     ]
   },
   {
+    "slug": "帝君內諱",
+    "title": "帝君內諱",
+    "summary": "帝君之名，存思誦呪所呼召者也。",
+    "tags": [
+      "上清",
+      "道經",
+      "存思"
+    ],
+    "sources": [
+      {
+        "chapter": "3章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 3章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/3章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "帝命率育",
     "title": "帝命率育",
     "summary": "天帝命后稷率天下萬物遂其生。",
@@ -120390,7 +120579,8 @@
       "上清",
       "大洞真經",
       "太一",
-      "存神"
+      "存神",
+      "部:經"
     ],
     "sources": [
       {
@@ -196645,6 +196835,26 @@
     ]
   },
   {
+    "slug": "玉帝祝",
+    "title": "玉帝祝",
+    "summary": "玉清大和王之祝辭，誦之以成仙也。",
+    "tags": [
+      "上清",
+      "祝",
+      "誦經",
+      "玉清"
+    ],
+    "sources": [
+      {
+        "chapter": "3章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 3章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/3章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "玉幣七筴",
     "title": "玉幣七筴",
     "summary": "天下七種玉幣，乃以寡為多、以狹為廣之道",
@@ -196847,7 +197057,8 @@
     "tags": [
       "呪語",
       "玉清",
-      "消魔"
+      "消魔",
+      "部:其他"
     ],
     "sources": [
       {
@@ -211628,7 +211839,8 @@
       "存思",
       "咽津",
       "煉形",
-      "部:其他"
+      "部:其他",
+      "內修"
     ],
     "sources": [
       {
@@ -211636,6 +211848,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 39章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/39章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "3章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 3章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/3章",
         "work": "上清大洞真經"
       }
     ]
@@ -222289,6 +222508,25 @@
     ]
   },
   {
+    "slug": "絳凌梵",
+    "title": "絳凌梵",
+    "summary": "帝君之名字，存思之主神也。",
+    "tags": [
+      "上清",
+      "道經",
+      "神名"
+    ],
+    "sources": [
+      {
+        "chapter": "3章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 3章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/3章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
     "slug": "絳宮",
     "title": "絳宮",
     "summary": "重樓之下，五臟之上，神明之宇",
@@ -222324,6 +222562,27 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 15章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/15章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "絳宮中一元丹皇君",
+    "title": "絳宮中一元丹皇君",
+    "summary": "存想心丹田神君、咽津誦呪、化日輪光之內修法也",
+    "tags": [
+      "上清大洞真經",
+      "存思",
+      "絳宮",
+      "心丹田",
+      "丹道"
+    ],
+    "sources": [
+      {
+        "chapter": "9章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 9章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/9章",
         "work": "上清大洞真經"
       }
     ]
@@ -231819,7 +232078,8 @@
       "上清",
       "大洞真經",
       "胞胎",
-      "內修"
+      "內修",
+      "部:經"
     ],
     "sources": [
       {
@@ -243548,7 +243808,8 @@
       "大洞真經",
       "存思",
       "神雲",
-      "咽津"
+      "咽津",
+      "部:經"
     ],
     "sources": [
       {
@@ -289744,9 +290005,9 @@
       "呪",
       "消魔",
       "五藏",
-      "部:其他",
       "大洞真經",
-      "祝語"
+      "祝語",
+      "部:經"
     ],
     "sources": [
       {
@@ -289778,7 +290039,9 @@
       "神霄",
       "煉神",
       "司命",
-      "部:子"
+      "部:子",
+      "祝",
+      "誦經"
     ],
     "sources": [
       {
@@ -289807,6 +290070,13 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 6章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/6章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "3章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 3章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/3章",
         "work": "上清大洞真經"
       }
     ]
@@ -295475,7 +295745,8 @@
       "功法",
       "呪法",
       "大洞真經",
-      "部:子"
+      "部:子",
+      "命門"
     ],
     "sources": [
       {
@@ -295539,6 +295810,33 @@
         "plugin": "wikisource",
         "title": "上清大洞真經 · 34章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/34章",
+        "work": "上清大洞真經"
+      },
+      {
+        "chapter": "7章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 7章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/7章",
+        "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "默呪五帝",
+    "title": "默呪五帝",
+    "summary": "存思之先，默誦五帝之呪也。",
+    "tags": [
+      "上清",
+      "呪語",
+      "存思",
+      "五帝"
+    ],
+    "sources": [
+      {
+        "chapter": "3章",
+        "plugin": "wikisource",
+        "title": "上清大洞真經 · 3章",
+        "url": "https://zh.wikisource.org/wiki/上清大洞真經/3章",
         "work": "上清大洞真經"
       }
     ]
