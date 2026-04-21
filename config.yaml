@@ -1,39 +1,30 @@
-# 斯文文庫之配
 llm:
   max_tokens: 16384
-
 paths:
   raw: raw
   wiki: wiki
   concepts: wiki/concepts
   outputs: wiki/outputs
   meta: wiki/_meta
-
 compile:
   batch_size: 10
   backlinks: true
-  # model: MiniMax-M2.7  # 1M 上下文太慢，暫用 highspeed
   max_tokens: 16384
   max_content_chars: 6000
-
 search:
   port: 5555
-
 worker:
   enabled: false
-
 lint:
   web_search: false
-
 branding:
   name: 斯文
   name_short: 斯
   tagline: 文言知識庫
   language: wenyan
-
+  canonical_origin: https://siwen.ink
 entities:
   enabled: true
-
 sister_wiki:
   enabled: true
   url: https://fo.siwen.ink
