@@ -3105,6 +3105,26 @@
     ]
   },
   {
+    "slug": "三十六鬼",
+    "title": "三十六鬼",
+    "summary": "具列三十六鬼之名，皆遊行世間，乘人衰隙，伺侯有惡，助佐凶殃。",
+    "tags": [
+      "道教",
+      "鬼律",
+      "鬼學",
+      "禁厭"
+    ],
+    "sources": [
+      {
+        "chapter": "卷6",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷6",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷6",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
     "slug": "三危",
     "title": "三危",
     "summary": "人臣三者皆危，示居寵高位者之戒。",
@@ -6932,6 +6952,25 @@
     ]
   },
   {
+    "slug": "上弦",
+    "title": "上弦",
+    "summary": "月之陽半，金水會合，丹法喻陰中之陽",
+    "tags": [
+      "內丹",
+      "火候",
+      "象數"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "上弦兌數八下弦艮亦八",
     "title": "上弦兌數八下弦艮亦八",
     "summary": "上弦法兌數八，下弦法艮數八，二八合一斤。",
@@ -7784,6 +7823,25 @@
         "title": "道德經 (王弼本) · 六十一章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
+    "slug": "下弦",
+    "title": "下弦",
+    "summary": "月之晦半，陰氣漸盛，丹法喻陽中之陰",
+    "tags": [
+      "內丹",
+      "火候",
+      "象數"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
       }
     ]
   },
@@ -14686,6 +14744,25 @@
     ]
   },
   {
+    "slug": "中央正位",
+    "title": "中央正位",
+    "summary": "龍虎交會歸中，聖胎凝結之處",
+    "tags": [
+      "內丹",
+      "火候",
+      "功法"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "中央黃帝含光露",
     "title": "中央黃帝含光露",
     "summary": "黃帝守脾胃，司中細之衛。",
@@ -17565,7 +17642,8 @@
     "summary": "九江鬼活，三河鬼建，四瀆鬼候。",
     "tags": [
       "水鬼",
-      "鬼名"
+      "鬼名",
+      "部:其他"
     ],
     "sources": [
       {
@@ -17751,6 +17829,26 @@
         "title": "淮南子 · 墜形訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/墜形訓",
         "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "九蠱鬼",
+    "title": "九蠱鬼",
+    "summary": "述九蠱鬼之名，行諸惡毒，妖媚蠱亂天下。",
+    "tags": [
+      "道教",
+      "鬼律",
+      "蠱毒",
+      "巫蠱"
+    ],
+    "sources": [
+      {
+        "chapter": "卷6",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷6",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷6",
+        "work": "女青鬼律"
       }
     ]
   },
@@ -18112,7 +18210,8 @@
       "鼎器",
       "修煉",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "乾坤"
     ],
     "sources": [
       {
@@ -18121,6 +18220,13 @@
         "title": "悟真篇",
         "url": "https://zh.wikisource.org/wiki/悟真篇",
         "work": "悟真篇"
+      },
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
       }
     ]
   },
@@ -19181,6 +19287,25 @@
     ]
   },
   {
+    "slug": "二八",
+    "title": "二八",
+    "summary": "陰陽相合之數，金丹成象之徵",
+    "tags": [
+      "內丹",
+      "陰陽",
+      "數象"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "二八應一斤",
     "title": "二八應一斤",
     "summary": "二八之數合而成斤，以應易道之正。",
@@ -19304,6 +19429,25 @@
         "title": "黃庭內景經 · 治生章第二十三",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/治生章第二十三",
         "work": "黃庭內景經"
+      }
+    ]
+  },
+  {
+    "slug": "二十四鬼",
+    "title": "二十四鬼",
+    "summary": "述昊時病人及金木水火土精遊獵血食虎狼蛇龍狐狸黿鼉露死傷死獄死餓死客死男女傷冢訴訟丘丞墓伯冢下等二十四鬼，放縱作祟。",
+    "tags": [
+      "道教",
+      "鬼律",
+      "鬼學"
+    ],
+    "sources": [
+      {
+        "chapter": "卷6",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷6",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷6",
+        "work": "女青鬼律"
       }
     ]
   },
@@ -20778,7 +20922,8 @@
     "tags": [
       "山鬼",
       "鬼名",
-      "五嶽"
+      "五嶽",
+      "部:其他"
     ],
     "sources": [
       {
@@ -21670,6 +21815,25 @@
     ]
   },
   {
+    "slug": "五溫鬼七兄弟",
+    "title": "五溫鬼七兄弟",
+    "summary": "述五方溫鬼兄弟七人並祖父母父母之名形能飛，隨月行毒以誅惡人。",
+    "tags": [
+      "道教",
+      "鬼律",
+      "鬼學"
+    ],
+    "sources": [
+      {
+        "chapter": "卷6",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷6",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷6",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
     "slug": "五漫漫六惛惛",
     "title": "五漫漫，六惛惛",
     "summary": "時令之理幽微，庸主茫昧，唯聖人乃能知之。",
@@ -21696,7 +21860,8 @@
     "summary": "五色炁溫鬼各有其名。",
     "tags": [
       "炁鬼",
-      "鬼名"
+      "鬼名",
+      "部:其他"
     ],
     "sources": [
       {
@@ -21704,6 +21869,26 @@
         "plugin": "wikisource",
         "title": "女青鬼律 · 卷2",
         "url": "https://zh.wikisource.org/wiki/女青鬼律/卷2",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
+    "slug": "五炁鬼主",
+    "title": "五炁鬼主",
+    "summary": "天師述五方鬼主之名姓職司，各主萬鬼，行五炁之病。",
+    "tags": [
+      "道教",
+      "鬼律",
+      "天師道",
+      "鬼學"
+    ],
+    "sources": [
+      {
+        "chapter": "卷6",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷6",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷6",
         "work": "女青鬼律"
       }
     ]
@@ -23454,6 +23639,25 @@
     ]
   },
   {
+    "slug": "井蛙與籬鷃",
+    "title": "井蛙與籬鷃",
+    "summary": "迷徒不知長生之藥，以喻見識淺狹",
+    "tags": [
+      "內丹",
+      "警誡",
+      "寓言"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "井谷射鮒",
     "title": "井谷射鮒",
     "summary": "井如谷中射鮒，泉下流而不上汲，喻無與之援。",
@@ -23502,7 +23706,8 @@
     "summary": "井鬼名瓊。",
     "tags": [
       "井鬼",
-      "鬼名"
+      "鬼名",
+      "部:其他"
     ],
     "sources": [
       {
@@ -24736,6 +24941,25 @@
         "title": "國語 · 卷21",
         "url": "https://zh.wikisource.org/wiki/國語/卷21",
         "work": "國語"
+      }
+    ]
+  },
+  {
+    "slug": "人人自有長生藥",
+    "title": "人人自有長生藥",
+    "summary": "長生大藥不待他求，在人良知良能之本性",
+    "tags": [
+      "內丹",
+      "本體",
+      "宗旨"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
       }
     ]
   },
@@ -33847,6 +34071,21 @@
     ]
   },
   {
+    "slug": "伶倫造律",
+    "title": "伶倫造律",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "似不解之而問之無崖",
     "title": "似不解之而問之無崖",
     "summary": "解之似不解之者，不知而後知之；問之不可以有崖，亦不可以無崖。",
@@ -38550,6 +38789,25 @@
     ]
   },
   {
+    "slug": "偃月爐",
+    "title": "偃月爐",
+    "summary": "初三微陽之候，道心光現，有象偃月。",
+    "tags": [
+      "內丹",
+      "火候",
+      "活子時"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "偃月鑪",
     "title": "偃月鑪",
     "summary": "偃月鑪，丹房要器，取太陰之象，以煉真汞。",
@@ -41091,7 +41349,9 @@
       "內丹",
       "先天炁",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "本體",
+      "功法"
     ],
     "sources": [
       {
@@ -41100,6 +41360,13 @@
         "title": "張三丰先生全集 · 卷4",
         "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷4",
         "work": "張三丰先生全集"
+      },
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
       }
     ]
   },
@@ -42584,6 +42851,25 @@
     ]
   },
   {
+    "slug": "內丹還丹之別",
+    "title": "內丹還丹之別",
+    "summary": "外丹乃還丹之別名，已去而複來、已失而複得",
+    "tags": [
+      "內丹",
+      "名相",
+      "功法"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "內作色荒",
     "title": "內作色荒，外作禽荒，甘酒嗜音，峻宇彫牆",
     "summary": "荒淫嗜欲，亡國之戒。",
@@ -43200,7 +43486,9 @@
       "內藥",
       "外藥",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "性命雙修",
+      "真知靈知"
     ],
     "sources": [
       {
@@ -43209,6 +43497,13 @@
         "title": "張三丰先生全集 · 卷3",
         "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷3",
         "work": "張三丰先生全集"
+      },
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷三",
+        "work": "悟真直指"
       }
     ]
   },
@@ -52738,6 +53033,25 @@
     ]
   },
   {
+    "slug": "制符辟百鬼",
+    "title": "制符辟百鬼",
+    "summary": "桃刺朱書，制符辟除百鬼",
+    "tags": [
+      "制鬼",
+      "符籙",
+      "厭勝"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
     "slug": "制詔御史",
     "title": "制詔御史令諸侯推恩分子弟",
     "summary": "天子令諸侯王推私恩於子弟，各條上名號。",
@@ -56993,6 +57307,25 @@
     ]
   },
   {
+    "slug": "匡續",
+    "title": "匡阜先生",
+    "summary": "南楚隱士，師柱下史得道，靖廬山福地。",
+    "tags": [
+      "仙人",
+      "廬山",
+      "隱逸"
+    ],
+    "sources": [
+      {
+        "chapter": "10",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 10",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/10",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "匪伊垂之",
     "title": "匪伊垂之",
     "summary": "物有自然之理，非人之所能強",
@@ -57722,6 +58055,46 @@
     ]
   },
   {
+    "slug": "十二日溫鬼",
+    "title": "十二日溫鬼",
+    "summary": "述十二日溫鬼之名，各直其日，迭以害人。",
+    "tags": [
+      "道教",
+      "鬼律",
+      "干支",
+      "鬼學"
+    ],
+    "sources": [
+      {
+        "chapter": "卷6",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷6",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷6",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
+    "slug": "十二月溫鬼",
+    "title": "十二月溫鬼",
+    "summary": "述十二月溫鬼之名，各隨其月，放逸天下，傷害群生。",
+    "tags": [
+      "道教",
+      "鬼律",
+      "歲時",
+      "鬼學"
+    ],
+    "sources": [
+      {
+        "chapter": "卷6",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷6",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷6",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
     "slug": "十二節",
     "title": "十二節",
     "summary": "周旋十二節，節盡更須親，氣索命絕，體死亡魄魂。",
@@ -58045,7 +58418,8 @@
     "summary": "千歲白骨鬼名遠世，百歲白骨鬼名音世。",
     "tags": [
       "骨鬼",
-      "鬼名"
+      "鬼名",
+      "部:其他"
     ],
     "sources": [
       {
@@ -58584,6 +58958,25 @@
     ]
   },
   {
+    "slug": "南北宗源",
+    "title": "南北宗源",
+    "summary": "聖胎凝結，和氣薰蒸，水火自相烹煎",
+    "tags": [
+      "內丹",
+      "火候",
+      "功法"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "南北斗",
     "title": "南北斗",
     "summary": "南斗六星為天廟，丞相宰輔之位；北斗七星為帝車，運天綱。",
@@ -58727,6 +59120,27 @@
         "title": "詩經 · 候人",
         "url": "https://zh.wikisource.org/wiki/詩經/候人",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "南嶽子三生奉道",
+    "title": "南嶽子三生奉道",
+    "summary": "累世修道，功遲未度，再授之以法也。",
+    "tags": [
+      "三生",
+      "奉道",
+      "朱綱",
+      "南宮",
+      "隱遁"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -59640,6 +60054,26 @@
         "title": "史記 · 卷127",
         "url": "https://zh.wikisource.org/wiki/史記/卷127",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "卜筮益命",
+    "title": "卜筮益命",
+    "summary": "以祭禱之術增益人之壽命也。",
+    "tags": [
+      "卜筮",
+      "延命",
+      "雲母丸子",
+      "九子丸"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -62570,6 +63004,25 @@
     ]
   },
   {
+    "slug": "取坎填離",
+    "title": "取坎填離",
+    "summary": "取出坎中道心實，點化離宮人心虛，複歸乾元本性。",
+    "tags": [
+      "內丹",
+      "坎離",
+      "返本"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "取天下以无事",
     "title": "取天下以无事",
     "summary": "取天下在无事，不在有為。",
@@ -63856,6 +64309,25 @@
         "title": "抱朴子 · 卷30",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷30",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "古死人敗冢鬼",
+    "title": "古死人敗冢鬼",
+    "summary": "古死人敗冢及巫師不正道士之鬼",
+    "tags": [
+      "冢鬼",
+      "古鬼",
+      "巫鬼"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
       }
     ]
   },
@@ -74105,6 +74577,26 @@
     ]
   },
   {
+    "slug": "唐建威",
+    "title": "唐建威",
+    "summary": "秦武士，與二友棄官學道，棲於靈溪，種桃茹芝，後皆仙去。",
+    "tags": [
+      "仙人",
+      "秦",
+      "靈溪",
+      "隱逸"
+    ],
+    "sources": [
+      {
+        "chapter": "10",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 10",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/10",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "唐易之言弋",
     "title": "唐易之言弋",
     "summary": "弋者謹廪，猶人主之謹法令；虚静無為乃治國之本",
@@ -79002,6 +79494,25 @@
     ]
   },
   {
+    "slug": "四壁角鬼",
+    "title": "四壁角鬼",
+    "summary": "人屋四壁角中鬼，知其名則不敢動",
+    "tags": [
+      "屋鬼",
+      "壁鬼",
+      "四隅"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
     "slug": "四大正明",
     "title": "四大正明",
     "summary": "四大神明，正照明晰，護兆之身，魔炁滅絕。",
@@ -79628,6 +80139,25 @@
         "title": "管子 · 第57篇度地",
         "url": "https://zh.wikisource.org/wiki/管子/第57篇度地",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "四時十二次",
+    "title": "四時十二次",
+    "summary": "以二十八宿分為十二次，配四方以候吉凶。",
+    "tags": [
+      "天文",
+      "黃帝",
+      "占候"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -80618,7 +81148,9 @@
       "儒學",
       "宇宙論",
       "部:經",
-      "部:經/禮類"
+      "部:經/禮類",
+      "黃帝",
+      "四靈"
     ],
     "sources": [
       {
@@ -80627,6 +81159,13 @@
         "title": "禮記 · 禮運",
         "url": "https://zh.wikisource.org/wiki/禮記/禮運",
         "work": "禮記"
+      },
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -81918,7 +82457,8 @@
     "summary": "五色土公鬼各有其名。",
     "tags": [
       "土鬼",
-      "鬼名"
+      "鬼名",
+      "部:其他"
     ],
     "sources": [
       {
@@ -82151,6 +82691,25 @@
         "title": "周易參同契 · 11章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/11章",
         "work": "周易參同契"
+      }
+    ]
+  },
+  {
+    "slug": "土釜封固",
+    "title": "土釜封固",
+    "summary": "藥物既得，歸土釜中，牢封固濟",
+    "tags": [
+      "內丹",
+      "功法",
+      "火候"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
       }
     ]
   },
@@ -83076,6 +83635,25 @@
         "title": "周易參同契 · 02章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/02章",
         "work": "周易參同契"
+      }
+    ]
+  },
+  {
+    "slug": "坎電烹轟",
+    "title": "坎電烹轟",
+    "summary": "道心真知在至暗中發現為坎電，急以離火迎之而成丹。",
+    "tags": [
+      "內丹",
+      "火候",
+      "活子時"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
       }
     ]
   },
@@ -87596,6 +88174,26 @@
     ]
   },
   {
+    "slug": "夔牛鼓",
+    "title": "夔牛鼓",
+    "summary": "黃帝殺夔牛以皮冒鼓，聲聞五百里。",
+    "tags": [
+      "黃帝",
+      "發明",
+      "音樂",
+      "兵事"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "外之有徒",
     "title": "外之有徒",
     "summary": "命令不行於內，民心遂流於外，外患由是而生。",
@@ -88466,6 +89064,25 @@
         "title": "關尹子 · 6",
         "url": "https://zh.wikisource.org/wiki/關尹子/6",
         "work": "關尹子"
+      }
+    ]
+  },
+  {
+    "slug": "夢謁西華",
+    "title": "夢謁西華",
+    "summary": "西華真金產處，真知陽光發現，與靈知合煉至純陽。",
+    "tags": [
+      "內丹",
+      "煉己",
+      "金丹"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
       }
     ]
   },
@@ -89493,6 +90110,25 @@
     ]
   },
   {
+    "slug": "大小無傷",
+    "title": "大小無傷",
+    "summary": "陽大陰小，不可偏傷，兩國全乃結丹。",
+    "tags": [
+      "內丹",
+      "陰陽",
+      "持滿"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "大巧若拙",
     "title": "大巧若拙",
     "summary": "至巧者若拙，至直者若屈，至辯者若訥。",
@@ -89735,6 +90371,25 @@
         "title": "尚書 · 甘誓",
         "url": "https://zh.wikisource.org/wiki/尚書/甘誓",
         "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "大撓作甲子",
+    "title": "大撓作甲子",
+    "summary": "帝令大撓探五行之情作甲乙十干以名日。",
+    "tags": [
+      "黃帝",
+      "曆法",
+      "甲子"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -91382,6 +92037,25 @@
     ]
   },
   {
+    "slug": "大隱居廛市",
+    "title": "大隱居廛市",
+    "summary": "修真在塵市中用功，不必避世離俗",
+    "tags": [
+      "內丹",
+      "功法",
+      "宗旨"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "大音希聲",
     "title": "大音希聲",
     "summary": "至音希聲，聽之不聞。",
@@ -91576,7 +92250,8 @@
     "tags": [
       "神名",
       "辟鬼",
-      "法術"
+      "法術",
+      "部:其他"
     ],
     "sources": [
       {
@@ -93237,6 +93912,25 @@
     ]
   },
   {
+    "slug": "天仙",
+    "title": "天仙",
+    "summary": "性命俱了，身外有身，與道合真，超出造化之外",
+    "tags": [
+      "內丹",
+      "果位",
+      "修煉"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "天以時為權",
     "title": "天以時為權",
     "summary": "天以時節為權柄，人當順時以待天權。",
@@ -94806,7 +95500,8 @@
     "summary": "天嶽鬼名瑾生子，天鞭鬼名客夫元。",
     "tags": [
       "天鬼",
-      "鬼名"
+      "鬼名",
+      "部:子"
     ],
     "sources": [
       {
@@ -94916,6 +95611,45 @@
         "plugin": "wikisource",
         "title": "女青鬼律 · 卷1",
         "url": "https://zh.wikisource.org/wiki/女青鬼律/卷1",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
+    "slug": "天師自罰身中神鬼要法",
+    "title": "天師自罰身中神鬼要法",
+    "summary": "天師罰身中神鬼之要法",
+    "tags": [
+      "天師",
+      "自罰",
+      "神鬼"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
+    "slug": "天師述世亂",
+    "title": "天師述世亂",
+    "summary": "天師言災害之由，在人事失理，末世廢道，法令不行，寇賊充斥，萬民流散。",
+    "tags": [
+      "道教",
+      "天師道",
+      "治亂",
+      "鬼律"
+    ],
+    "sources": [
+      {
+        "chapter": "卷6",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷6",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷6",
         "work": "女青鬼律"
       }
     ]
@@ -97514,6 +98248,25 @@
     ]
   },
   {
+    "slug": "太乙含真氣",
+    "title": "太乙含真氣",
+    "summary": "太乙者，真陰真陽渾然合一之象，一粒金丹之別名也。",
+    "tags": [
+      "內丹",
+      "金丹",
+      "真陰真陽"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷三",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "太伯虞仲亡荊蠻",
     "title": "太伯虞仲亡荊蠻",
     "summary": "太伯、虞仲知古公欲立季歷以傳昌，乃亡如荊蠻，文身斷髪，以讓季歷。",
@@ -98195,7 +98948,8 @@
     "summary": "無身有頭之鬼，見者呼其名碑則形自見，終鬼皆伏。",
     "tags": [
       "鬼類",
-      "辟鬼"
+      "辟鬼",
+      "部:其他"
     ],
     "sources": [
       {
@@ -98752,6 +99506,13 @@
         "title": "墉城集仙錄 · 卷06",
         "url": "https://zh.wikisource.org/wiki/墉城集仙錄/卷06",
         "work": "墉城集仙錄"
+      },
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -101254,7 +102015,8 @@
     "summary": "此律重下第二卷山海鬼姓名，服之三年，萬鬼不敢當。",
     "tags": [
       "鬼律",
-      "辟鬼"
+      "辟鬼",
+      "部:其他"
     ],
     "sources": [
       {
@@ -101610,6 +102372,25 @@
         "title": "詩經 · 晨風",
         "url": "https://zh.wikisource.org/wiki/詩經/晨風",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "如來妙體遍河沙",
+    "title": "如來妙體遍河沙",
+    "summary": "如來真空妙體，遍虛空而無礙，三界即是一家。",
+    "tags": [
+      "性宗",
+      "如來",
+      "真空"
+    ],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷四",
+        "work": "悟真直指"
       }
     ]
   },
@@ -109606,6 +110387,45 @@
     ]
   },
   {
+    "slug": "宅中死煞守鬼",
+    "title": "宅中死煞守鬼",
+    "summary": "宅中死煞守鬼，常住堂屋梁上",
+    "tags": [
+      "宅鬼",
+      "煞鬼",
+      "梁鬼"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
+    "slug": "宅樹竹林邪魅鬼",
+    "title": "宅樹竹林邪魅鬼",
+    "summary": "宅上有樹竹林為烏鳩止之邪魅",
+    "tags": [
+      "宅鬼",
+      "樹鬼",
+      "竹鬼",
+      "邪魅"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
     "slug": "宅爾宅田爾田",
     "title": "宅爾宅田爾田",
     "summary": "周已宅爾居、畋爾田，爾尚惠王熙天之命。",
@@ -111110,7 +111930,11 @@
     "summary": "安期生為海上僊人，食臣棗大如瓜，通道蓬萊，合則見人，不合則隱。",
     "tags": [
       "部:史",
-      "部:史/正史類"
+      "部:史/正史類",
+      "仙人",
+      "秦皇",
+      "道授",
+      "蓬萊"
     ],
     "sources": [
       {
@@ -111119,6 +111943,13 @@
         "title": "史記 · 卷012",
         "url": "https://zh.wikisource.org/wiki/史記/卷012",
         "work": "史記"
+      },
+      {
+        "chapter": "13",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 13",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/13",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -118673,6 +119504,26 @@
     ]
   },
   {
+    "slug": "尸解",
+    "title": "尸解",
+    "summary": "遺形假而去，肉身不存也。",
+    "tags": [
+      "尸解",
+      "仙去",
+      "形體灰土",
+      "竹杖"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "尸蹷",
     "title": "尸蹷",
     "summary": "表象如死而實非死，乃陽氣入陰中、經絡氣閉所致，太子之病是也。",
@@ -120204,7 +121055,8 @@
     "summary": "山精之鬼長一尺，名濯肉。",
     "tags": [
       "山鬼",
-      "鬼名"
+      "鬼名",
+      "部:其他"
     ],
     "sources": [
       {
@@ -120356,6 +121208,21 @@
         "title": "張三丰先生全集 · 卷8",
         "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷8",
         "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
+    "slug": "岐伯",
+    "title": "岐伯",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -123426,6 +124293,26 @@
     ]
   },
   {
+    "slug": "師日月精華",
+    "title": "師日月精華",
+    "summary": "導引日月之精華以修真也。",
+    "tags": [
+      "服食",
+      "日月",
+      "導引",
+      "長生"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "師曠撞平公",
     "title": "師曠撞平公",
     "summary": "師曠援琴撞平公，以警其言「莫樂爲人君，惟其言而莫之違」。",
@@ -124053,6 +124940,65 @@
         "title": "詩經 · 干旄",
         "url": "https://zh.wikisource.org/wiki/詩經/干旄",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "干犯五靈七政",
+    "title": "干犯五靈七政",
+    "summary": "戒勿干犯五星七政之禁也。",
+    "tags": [
+      "天象",
+      "五星",
+      "七政",
+      "戒律",
+      "女青鬼律"
+    ],
+    "sources": [
+      {
+        "chapter": "卷5",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷5",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷5",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
+    "slug": "干犯神衹",
+    "title": "干犯神衹",
+    "summary": "戒勿干犯擾亂神祇之禁也。",
+    "tags": [
+      "戒律",
+      "神祇",
+      "女青鬼律"
+    ],
+    "sources": [
+      {
+        "chapter": "卷5",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷5",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷5",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
+    "slug": "干犯神靈",
+    "title": "干犯神靈",
+    "summary": "戒勿犯天地神靈之禁也。",
+    "tags": [
+      "戒律",
+      "神靈",
+      "女青鬼律"
+    ],
+    "sources": [
+      {
+        "chapter": "卷5",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷5",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷5",
+        "work": "女青鬼律"
       }
     ]
   },
@@ -129212,6 +130158,26 @@
     ]
   },
   {
+    "slug": "彭祖經",
+    "title": "彭祖經",
+    "summary": "記彭祖之言為書以傳後世也。",
+    "tags": [
+      "彭祖",
+      "地仙",
+      "傳書",
+      "長生"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "彭祖非死",
     "title": "彭祖非死",
     "summary": "彭祖年七八百，去時非死，乃逃；其弟子數人亦皆數百歲而在殷仙去。",
@@ -130184,7 +131150,10 @@
       "本體論",
       "帛書老子",
       "部:子",
-      "部:子/雜家類"
+      "部:子/雜家類",
+      "內丹",
+      "道心",
+      "得一萬事畢"
     ],
     "sources": [
       {
@@ -130221,6 +131190,13 @@
         "title": "老子 (帛書校勘版) · 第二章 得一",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷三",
+        "work": "悟真直指"
       }
     ]
   },
@@ -134153,6 +135129,25 @@
     ]
   },
   {
+    "slug": "心若不生法自滅",
+    "title": "心若不生法自滅",
+    "summary": "心不生則法皆空，定慧圓明，內外皎然。",
+    "tags": [
+      "性宗",
+      "無心",
+      "定慧"
+    ],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷四",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "心術",
     "title": "心術",
     "summary": "存心處事之法，施恕度物，發號施令之本也。",
@@ -135880,6 +136875,25 @@
         "title": "荀子 · 性惡篇",
         "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
         "work": "荀子"
+      }
+    ]
+  },
+  {
+    "slug": "性珠常朗",
+    "title": "性珠常朗",
+    "summary": "吾人性中之珠，本自圓明，歷劫不昧。",
+    "tags": [
+      "性宗",
+      "性珠",
+      "內丹"
+    ],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷四",
+        "work": "悟真直指"
       }
     ]
   },
@@ -139490,6 +140504,26 @@
     ]
   },
   {
+    "slug": "慈仁成仙",
+    "title": "慈仁成仙",
+    "summary": "以慈仁之行而得仙道也。",
+    "tags": [
+      "慈仁",
+      "修仙",
+      "守一",
+      "傳道"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "慈仁過之母",
     "title": "慈仁過之母",
     "summary": "慈愛仁恩，反為過失所由生",
@@ -140648,6 +141682,25 @@
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷05",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "戊己",
+    "title": "戊己",
+    "summary": "戊己為脾土，誠意立信之功，陰陽四象之主宰。",
+    "tags": [
+      "內丹",
+      "戊己",
+      "中宮"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
       }
     ]
   },
@@ -143760,6 +144813,25 @@
     ]
   },
   {
+    "slug": "抽添運用",
+    "title": "抽添運用",
+    "summary": "抽假添真，浮沉顛倒，以歸中正，即五行成准之功。",
+    "tags": [
+      "內丹",
+      "火候",
+      "五行"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷三",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "拂世以為行",
     "title": "拂世以為行",
     "summary": "聖王禁反上法制以成羣立名。",
@@ -144441,6 +145513,25 @@
         "title": "黃庭外景經",
         "url": "https://zh.wikisource.org/wiki/黃庭外景經",
         "work": "黃庭外景經"
+      }
+    ]
+  },
+  {
+    "slug": "指南車",
+    "title": "指南車",
+    "summary": "風後法鬥機所作，以別四方。",
+    "tags": [
+      "發明",
+      "黃帝",
+      "風後"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -151398,7 +152489,11 @@
     "summary": "人身有疾，可施符呼名鬼煞名，用制鬼法。",
     "tags": [
       "法術",
-      "辟鬼"
+      "辟鬼",
+      "部:其他",
+      "制鬼",
+      "符籙",
+      "呼名"
     ],
     "sources": [
       {
@@ -151406,6 +152501,13 @@
         "plugin": "wikisource",
         "title": "女青鬼律 · 卷2",
         "url": "https://zh.wikisource.org/wiki/女青鬼律/卷2",
+        "work": "女青鬼律"
+      },
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
         "work": "女青鬼律"
       }
     ]
@@ -158919,6 +160021,25 @@
     ]
   },
   {
+    "slug": "景星",
+    "title": "景星",
+    "summary": "黃帝時有德感之星，形似月助月為光。",
+    "tags": [
+      "天文",
+      "祥瑞",
+      "黃帝"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "景桓侯",
     "title": "景桓侯",
     "summary": "霍去病卒，謚曰景桓侯，取其武與廣地之意。",
@@ -160629,6 +161750,25 @@
         "title": "呂氏春秋 · 卷九",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷九",
         "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "月水之精鬼",
+    "title": "月水之精鬼",
+    "summary": "女人月水之精，鬼常貪陰陽血味",
+    "tags": [
+      "月水鬼",
+      "血鬼",
+      "邪魅"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
       }
     ]
   },
@@ -163924,7 +165064,8 @@
     "summary": "木精之鬼名群夭，烏老切，一名式。",
     "tags": [
       "木鬼",
-      "鬼名"
+      "鬼名",
+      "部:子"
     ],
     "sources": [
       {
@@ -164771,6 +165912,45 @@
     ]
   },
   {
+    "slug": "李八百",
+    "title": "李八百",
+    "summary": "蜀人修仙，以八百歲名，行止莫測。",
+    "tags": [
+      "仙人",
+      "蜀中",
+      "丹道"
+    ],
+    "sources": [
+      {
+        "chapter": "10",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 10",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/10",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
+    "slug": "李冰",
+    "title": "李冰",
+    "summary": "蜀川道士，佐開明理水，琢五石犀以厭水怪。",
+    "tags": [
+      "仙人",
+      "蜀",
+      "治水",
+      "道術"
+    ],
+    "sources": [
+      {
+        "chapter": "10",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 10",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/10",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "李同赴難",
     "title": "李同赴難",
     "summary": "邯鄲危急，李同說平原君散財餉士，率敢死三千人卻秦軍。",
@@ -165163,6 +166343,25 @@
         "title": "墨子 · 明鬼下",
         "url": "https://zh.wikisource.org/wiki/墨子/明鬼下",
         "work": "墨子"
+      }
+    ]
+  },
+  {
+    "slug": "杜宇",
+    "title": "杜宇",
+    "summary": "蜀主讓位鱉靈，得道昇天。",
+    "tags": [
+      "蜀",
+      "禪讓",
+      "昇天"
+    ],
+    "sources": [
+      {
+        "chapter": "10",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 10",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/10",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -167513,7 +168712,9 @@
       "黃庭內景",
       "本末",
       "根柢",
-      "修真"
+      "修真",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -169829,6 +171030,25 @@
         "title": "春秋穀梁傳 · 昭公",
         "url": "https://zh.wikisource.org/wiki/春秋穀梁傳/昭公",
         "work": "春秋穀梁傳"
+      }
+    ]
+  },
+  {
+    "slug": "楚康王",
+    "title": "楚康王",
+    "summary": "懷王後，避秦入廬山得道。",
+    "tags": [
+      "仙人",
+      "廬山",
+      "隱逸"
+    ],
+    "sources": [
+      {
+        "chapter": "10",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 10",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/10",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -175069,6 +176289,25 @@
     ]
   },
   {
+    "slug": "歸藏書",
+    "title": "歸藏書",
+    "summary": "黃帝所名之制易之書。",
+    "tags": [
+      "黃帝",
+      "易學",
+      "典籍"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "歸谷子",
     "title": "歸谷子",
     "summary": "張儀、蘇秦師事之山谷隱士，或稱「歸谷子」，乃鬼谷子之別號。",
@@ -178372,6 +179611,25 @@
     ]
   },
   {
+    "slug": "水中銀",
+    "title": "水中銀",
+    "summary": "坎宮真知陷溺欲海，如銀在水中，絕無僅有，必待真知攝之",
+    "tags": [
+      "內丹",
+      "象徵",
+      "功法"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "水之五名",
     "title": "水之五名",
     "summary": "水有經、枝、谷、川、淵五名，因利而往、因扼而止，皆可制之。",
@@ -180927,6 +182185,27 @@
     ]
   },
   {
+    "slug": "河上文帝",
+    "title": "河上文帝",
+    "summary": "河上公授書老子章句於漢文帝也。",
+    "tags": [
+      "河上公",
+      "老子上經",
+      "素書",
+      "文帝",
+      "隱顯"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "河之滸涘漘",
     "title": "河之滸涘漘",
     "summary": "河岸漸移而下，人亦愈疏矣。",
@@ -180997,7 +182276,8 @@
     "tags": [
       "水鬼",
       "鬼名",
-      "河伯"
+      "河伯",
+      "部:其他"
     ],
     "sources": [
       {
@@ -181118,6 +182398,25 @@
         "title": "太平經 · 09",
         "url": "https://zh.wikisource.org/wiki/太平經/09",
         "work": "太平經"
+      }
+    ]
+  },
+  {
+    "slug": "河圖洛書",
+    "title": "河圖",
+    "summary": "黃帝齋於中宮沉璧得黃龍負圖。",
+    "tags": [
+      "黃帝",
+      "祥瑞",
+      "天瑞"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -181247,7 +182546,8 @@
       "內丹",
       "河車",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "火候"
     ],
     "sources": [
       {
@@ -181256,6 +182556,13 @@
         "title": "周易參同契 · 07章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/07章",
         "work": "周易參同契"
+      },
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷三",
+        "work": "悟真直指"
       }
     ]
   },
@@ -184016,6 +185323,25 @@
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "流珠",
+    "title": "流珠",
+    "summary": "靈知妄動如流珠，常欲離人，必待真鉛攝之",
+    "tags": [
+      "內丹",
+      "象徵",
+      "功法"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
       }
     ]
   },
@@ -189769,7 +191095,8 @@
       "火候",
       "修煉",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "功法"
     ],
     "sources": [
       {
@@ -189785,6 +191112,13 @@
         "title": "周易參同契 · 13章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/13章",
         "work": "周易參同契"
+      },
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
       }
     ]
   },
@@ -189819,7 +191153,9 @@
       "符圖",
       "火兵",
       "辟邪",
-      "靈關"
+      "靈關",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -190079,7 +191415,9 @@
       "黃庭內景",
       "火鈴",
       "法器",
-      "感應"
+      "感應",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -198580,7 +199918,8 @@
     "summary": "狐精之鬼名迨午。音代。",
     "tags": [
       "狐鬼",
-      "鬼名"
+      "鬼名",
+      "部:其他"
     ],
     "sources": [
       {
@@ -199656,6 +200995,24 @@
     ]
   },
   {
+    "slug": "玄囂昌意",
+    "title": "玄囂昌意",
+    "summary": "黃帝二子，嫘祖所生。",
+    "tags": [
+      "黃帝",
+      "世系"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "玄德-之",
     "title": "玄德-之",
     "summary": "",
@@ -199859,6 +201216,25 @@
         "title": "老子 (帛書本) · 章六",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
+    "slug": "玄珠",
+    "title": "玄珠",
+    "summary": "聖胎凝結一粒黍珠，光輝朗澈",
+    "tags": [
+      "內丹",
+      "象徵",
+      "功法"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
       }
     ]
   },
@@ -200459,6 +201835,26 @@
         "title": "上清大洞真經 · 19章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/19章",
         "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "玉子",
+    "title": "玉子",
+    "summary": "南郡章震學道，能務鬿五行，後合丹崆峒白日昇天。",
+    "tags": [
+      "仙人",
+      "五行",
+      "丹道",
+      "昇天"
+    ],
+    "sources": [
+      {
+        "chapter": "10",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 10",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/10",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -202966,6 +204362,25 @@
     ]
   },
   {
+    "slug": "甘露黃芽",
+    "title": "甘露黃芽",
+    "summary": "心地清靜則甘露降、意念虛明則黃芽生",
+    "tags": [
+      "內丹",
+      "象徵",
+      "功法"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "甚哉愛憎之時",
     "title": "甚哉愛憎之時",
     "summary": "愛則尊之至高，憎則棄之至賤，愛憎之際，成敗分焉",
@@ -203559,6 +204974,25 @@
         "title": "史記 · 卷025",
         "url": "https://zh.wikisource.org/wiki/史記/卷025",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "產鬼",
+    "title": "產鬼",
+    "summary": "女臨產時之鬼，知其名則不害人",
+    "tags": [
+      "產鬼",
+      "制鬼",
+      "厭勝"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
       }
     ]
   },
@@ -204297,6 +205731,25 @@
         "title": "呂氏春秋 · 卷二十四",
         "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十四",
         "work": "呂氏春秋"
+      }
+    ]
+  },
+  {
+    "slug": "用鉛不用鉛",
+    "title": "用鉛不用鉛",
+    "summary": "結丹用真鉛，丹成則棄道心，如捕魚兔之筌蹄。",
+    "tags": [
+      "內丹",
+      "抽添",
+      "火候"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
       }
     ]
   },
@@ -206142,7 +207595,8 @@
     "summary": "男淫之鬼名戴文，女淫之鬼名截交。",
     "tags": [
       "淫鬼",
-      "鬼名"
+      "鬼名",
+      "部:其他"
     ],
     "sources": [
       {
@@ -207462,6 +208916,25 @@
         "title": "抱朴子 · 卷14",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷14",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "癲癇煞鬼",
+    "title": "癲癇煞鬼",
+    "summary": "世中癲癇煞人之鬼，衣赤衣烏冠幘",
+    "tags": [
+      "煞鬼",
+      "癲癇",
+      "制鬼"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
       }
     ]
   },
@@ -210541,6 +212014,25 @@
     ]
   },
   {
+    "slug": "盟威正一之氣",
+    "title": "盟威正一之氣",
+    "summary": "天師制民勑鬼之正氣",
+    "tags": [
+      "正一",
+      "天師道",
+      "制鬼"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
     "slug": "盟津",
     "title": "盟津",
     "summary": "",
@@ -211839,7 +213331,9 @@
       "黃庭內景",
       "仙人",
       "巾服",
-      "真人"
+      "真人",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -211891,6 +213385,25 @@
     ]
   },
   {
+    "slug": "真信",
+    "title": "真信",
+    "summary": "真信為真意，乃木性金情之媒，性情合一之樞機。",
+    "tags": [
+      "內丹",
+      "媒人",
+      "木金"
+    ],
+    "sources": [
+      {
+        "chapter": "卷三",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷三",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷三",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "真券",
     "title": "真券",
     "summary": "以事試驗，觀其所成。",
@@ -211908,6 +213421,25 @@
         "title": "太平經 · 07",
         "url": "https://zh.wikisource.org/wiki/太平經/07",
         "work": "太平經"
+      }
+    ]
+  },
+  {
+    "slug": "真心常住",
+    "title": "真心常住",
+    "summary": "真心光暉萬象，無[[生滅]]，無來去，十方通塞中無處不是。",
+    "tags": [
+      "性宗",
+      "真心",
+      "常住"
+    ],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷四",
+        "work": "悟真直指"
       }
     ]
   },
@@ -211967,6 +213499,63 @@
         "title": "抱朴子 · 卷11",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷11",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "真空不空",
+    "title": "真空不空",
+    "summary": "真空非頑空，妙有光明，含容萬象。",
+    "tags": [
+      "性宗",
+      "真空",
+      "妙有"
+    ],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷四",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
+    "slug": "真空之性本光",
+    "title": "真空之性本光",
+    "summary": "真空之性非死空，光暉萬象，無增無減。",
+    "tags": [
+      "性宗",
+      "真空",
+      "光明"
+    ],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷四",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
+    "slug": "真鉛",
+    "title": "真鉛",
+    "summary": "道心真知，先天真一之氣，成仙作佛之真種子。",
+    "tags": [
+      "內丹",
+      "鉛汞",
+      "道心"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
       }
     ]
   },
@@ -214274,7 +215863,8 @@
     "tags": [
       "辟鬼",
       "法術",
-      "鬼律"
+      "鬼律",
+      "部:其他"
     ],
     "sources": [
       {
@@ -214282,6 +215872,25 @@
         "plugin": "wikisource",
         "title": "女青鬼律 · 卷2",
         "url": "https://zh.wikisource.org/wiki/女青鬼律/卷2",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
+    "slug": "知鬼名鬼自伏",
+    "title": "知鬼名鬼自伏",
+    "summary": "知鬼之名，則鬼自伏不敢害人",
+    "tags": [
+      "制鬼",
+      "鬼律",
+      "厭勝"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
         "work": "女青鬼律"
       }
     ]
@@ -214512,7 +216121,8 @@
     "summary": "石精之鬼名環，環於巾切。",
     "tags": [
       "石鬼",
-      "鬼名"
+      "鬼名",
+      "部:其他"
     ],
     "sources": [
       {
@@ -215658,6 +217268,25 @@
     ]
   },
   {
+    "slug": "神功運火",
+    "title": "神功運火",
+    "summary": "戒慎恐懼、不睹不聞之慎獨功",
+    "tags": [
+      "內丹",
+      "火候",
+      "功法"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "神化",
     "title": "神化",
     "summary": "道虛神氣形之遞化，聖人忘形以養虛而歸大同。",
@@ -215819,6 +217448,26 @@
         "title": "楚辭 · 惜誓",
         "url": "https://zh.wikisource.org/wiki/楚辭/惜誓",
         "work": "楚辭"
+      }
+    ]
+  },
+  {
+    "slug": "神方授人",
+    "title": "神方授人",
+    "summary": "神仙以神方授凡人，使傳後世也。",
+    "tags": [
+      "神方",
+      "秘方傳授",
+      "度世",
+      "神仙授書"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -220719,6 +222368,25 @@
     ]
   },
   {
+    "slug": "穀神",
+    "title": "穀神",
+    "summary": "玄牝交而合一之神，即聖胎之別名",
+    "tags": [
+      "內丹",
+      "象徵",
+      "本體"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "穀者民之司命",
     "title": "穀者民之司命",
     "summary": "穀為民命，智為民輔；民智而君愚，下富而君貧。",
@@ -221079,7 +222747,9 @@
       "黃庭內景",
       "修真",
       "精氣",
-      "仙道"
+      "仙道",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -221579,7 +223249,8 @@
     "summary": "竈鬼名干遠。",
     "tags": [
       "竈鬼",
-      "鬼名"
+      "鬼名",
+      "部:其他"
     ],
     "sources": [
       {
@@ -222640,6 +224311,25 @@
         "title": "韓非子 · 三守",
         "url": "https://zh.wikisource.org/wiki/韓非子/三守",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "竹破竹補",
+    "title": "竹破竹補",
+    "summary": "以類求類，異類徒勞，真鉛乃聖人之種。",
+    "tags": [
+      "內丹",
+      "同類",
+      "真種"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
       }
     ]
   },
@@ -223770,6 +225460,25 @@
         "title": "詩經 · 緜",
         "url": "https://zh.wikisource.org/wiki/詩經/緜",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "築屋柱色鼻鬼",
+    "title": "築屋柱色鼻鬼",
+    "summary": "人家作屋不契柱色鼻之星月邪神",
+    "tags": [
+      "屋鬼",
+      "柱鬼",
+      "煞神"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
       }
     ]
   },
@@ -228222,6 +229931,25 @@
     ]
   },
   {
+    "slug": "縉雲之官",
+    "title": "縉雲之官",
+    "summary": "黃帝以雲紀官，春夏秋冬各有名號，總曰縉雲。",
+    "tags": [
+      "官制",
+      "黃帝",
+      "祥瑞"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "縝密以栗",
     "title": "縝密以栗",
     "summary": "玉質縝密堅栗，比君子之智",
@@ -230256,6 +231984,25 @@
     ]
   },
   {
+    "slug": "羲和佔日",
+    "title": "羲和佔日",
+    "summary": "帝使羲和佔日，常儀佔月，鬼臾區佔星。",
+    "tags": [
+      "黃帝",
+      "天文",
+      "佔候"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "羸其瓶",
     "title": "羸其瓶",
     "summary": "汲水瓶敝而覆，凶象也，功敗於垂成。",
@@ -231230,7 +232977,8 @@
     "tags": [
       "天考",
       "奪算",
-      "鬼律"
+      "鬼律",
+      "部:子"
     ],
     "sources": [
       {
@@ -234355,6 +236103,25 @@
     ]
   },
   {
+    "slug": "聖胎",
+    "title": "聖胎",
+    "summary": "性情合一凝結之胎，修丹之極功",
+    "tags": [
+      "內丹",
+      "果位",
+      "功法"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "聖胎凝結",
     "title": "聖胎凝結",
     "summary": "十月溫養，凝結聖胎，乃脫胎神化之基。",
@@ -236712,6 +238479,26 @@
         "title": "張三丰先生全集 · 卷3",
         "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷3",
         "work": "張三丰先生全集"
+      }
+    ]
+  },
+  {
+    "slug": "胎息還元",
+    "title": "胎息還元",
+    "summary": "煉神還虛，返於真元也。",
+    "tags": [
+      "胎息",
+      "煉神",
+      "上昇",
+      "道成"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -245793,6 +247580,25 @@
     ]
   },
   {
+    "slug": "莫莢",
+    "title": "莫莢",
+    "summary": "異草生於庭，一日生一葉至十五日，又日落至三十日落盡，以明於月。",
+    "tags": [
+      "祥瑞",
+      "黃帝",
+      "植物"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "莫赤匪狐",
     "title": "莫赤匪狐",
     "summary": "赤狐黑烏比比皆是，則敗德之行不復知羞，亂亡之象明矣。",
@@ -246118,7 +247924,10 @@
       "肺",
       "紫微",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "黃帝",
+      "發明",
+      "儀仗"
     ],
     "sources": [
       {
@@ -246134,6 +247943,13 @@
         "title": "黃庭內景經 · 肝氣章第三十三",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/肝氣章第三十三",
         "work": "黃庭內景經"
+      },
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -248508,6 +250324,21 @@
     ]
   },
   {
+    "slug": "蒼頡造字",
+    "title": "蒼頡造字",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "蒼鷹",
     "title": "蒼鷹",
     "summary": "郅都之號，以比其酷烈。",
@@ -250136,6 +251967,25 @@
     ]
   },
   {
+    "slug": "藥物火候",
+    "title": "藥物火候",
+    "summary": "藥物易知，火候最難，差毫失釐，天地懸隔",
+    "tags": [
+      "內丹",
+      "火候",
+      "功法"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "藥物非種",
     "title": "藥物非種",
     "summary": "藥物分刻參差、失其綱紀，雖聖人臨爐亦無功。",
@@ -250598,7 +252448,9 @@
     "summary": "虎精之鬼名健莊子。",
     "tags": [
       "虎鬼",
-      "鬼名"
+      "鬼名",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -250674,6 +252526,25 @@
         "title": "韓非子 · 八說",
         "url": "https://zh.wikisource.org/wiki/韓非子/八說",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "虎躍龍騰",
+    "title": "虎躍龍騰",
+    "summary": "陰陽搏聚，龍虎交會，性情合一之象",
+    "tags": [
+      "內丹",
+      "火候",
+      "象徵"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
       }
     ]
   },
@@ -251043,7 +252914,10 @@
       "治道",
       "聖人",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "內丹",
+      "性命",
+      "虛心實腹"
     ],
     "sources": [
       {
@@ -251052,6 +252926,32 @@
         "title": "老子 (帛書校勘版) · 第四十七章 安民",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
+    "slug": "虛無一氣",
+    "title": "虛無一氣",
+    "summary": "道自虛無生一氣，一氣生陰陽，陽生三體，三體生萬物。",
+    "tags": [
+      "內丹",
+      "宇宙論",
+      "造化"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
       }
     ]
   },
@@ -251693,6 +253593,26 @@
     ]
   },
   {
+    "slug": "虹景丹方",
+    "title": "虹景丹方",
+    "summary": "虹景丹之方，令內外洞徹者也。",
+    "tags": [
+      "虹景丹",
+      "內外洞徹",
+      "守一",
+      "昇天"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "虺隤",
     "title": "虺隤",
     "summary": "馬疲極至病之謂。",
@@ -251779,6 +253699,21 @@
     ]
   },
   {
+    "slug": "蚩尤",
+    "title": "蚩尤",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "蚩尤與其大夫作亂百姓",
     "title": "蚩尤與其大夫作亂百姓",
     "summary": "述蚩尤作亂，先王誅之，以為後戒。",
@@ -251823,7 +253758,8 @@
     "summary": "蛇精之鬼名戚石圭。戚音戚。",
     "tags": [
       "蛇鬼",
-      "鬼名"
+      "鬼名",
+      "部:其他"
     ],
     "sources": [
       {
@@ -252696,6 +254632,25 @@
     ]
   },
   {
+    "slug": "蟾光終日照西川",
+    "title": "蟾光終日照西川",
+    "summary": "真知在彼家如月光西照，修丹者當引歸我家。",
+    "tags": [
+      "內丹",
+      "真知",
+      "比喻"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "蟾蜍兔魄",
     "title": "蟾蜍兔魄",
     "summary": "蟾蜍視卦節，兔者吐生光，象日月之精，以成[[日月炁雙明]]。",
@@ -252762,7 +254717,10 @@
       "仙人",
       "孝道",
       "起源傳說",
-      "部:史"
+      "部:史",
+      "蠶鬼",
+      "田蠶",
+      "制鬼"
     ],
     "sources": [
       {
@@ -252771,6 +254729,13 @@
         "title": "墉城集仙錄 · 卷06",
         "url": "https://zh.wikisource.org/wiki/墉城集仙錄/卷06",
         "work": "墉城集仙錄"
+      },
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
       }
     ]
   },
@@ -253642,6 +255607,26 @@
         "title": "抱朴子 · 卷05",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷05",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "行氣絕穀",
+    "title": "行氣絕穀",
+    "summary": "以行氣斷穀而臻長生也。",
+    "tags": [
+      "行氣",
+      "絕穀",
+      "服食",
+      "房中"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -255696,6 +257681,25 @@
     ]
   },
   {
+    "slug": "西南",
+    "title": "西南",
+    "summary": "坤方月沒復蘇之處，真陽發動之鄉，丹法取象為藥生之地",
+    "tags": [
+      "內丹",
+      "火候",
+      "方位"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "西南外徼莊蹻首通",
     "title": "西南外徼莊蹻首通",
     "summary": "太史公論西南夷緣起、置郡及滇王獨受王印之事",
@@ -256708,6 +258712,25 @@
         "title": "詩經 · 綢繆",
         "url": "https://zh.wikisource.org/wiki/詩經/綢繆",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "見物便見心",
+    "title": "見物便見心",
+    "summary": "真心靈光常朗，有物無物皆此，[[見物便見心]]，無物心不現者[[人心]]也。",
+    "tags": [
+      "性宗",
+      "真心",
+      "見性"
+    ],
+    "sources": [
+      {
+        "chapter": "卷四",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷四",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷四",
+        "work": "悟真直指"
       }
     ]
   },
@@ -263306,6 +265329,26 @@
     ]
   },
   {
+    "slug": "變化如意",
+    "title": "變化如意",
+    "summary": "神通變化，隨意所欲也。",
+    "tags": [
+      "變化",
+      "金銀",
+      "行廚",
+      "地仙"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "變化者乃天地之自然",
     "title": "變化者乃天地之自然",
     "summary": "萬物之變化乃天地自然之理，非怪異也。",
@@ -269599,6 +271642,25 @@
     ]
   },
   {
+    "slug": "蹴踘",
+    "title": "蹴踘",
+    "summary": "黃帝令作蹴踘之戲以練武士。",
+    "tags": [
+      "黃帝",
+      "軍事",
+      "游戲"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "蹶父孔武",
     "title": "蹶父孔武",
     "summary": "蹶父勇武，足跡遍天下，為女相攸得所。",
@@ -270539,7 +272601,11 @@
       "輔星",
       "輔臣",
       "部:史",
-      "部:史/正史類"
+      "部:史/正史類",
+      "三尸",
+      "守真",
+      "長生",
+      "關竅"
     ],
     "sources": [
       {
@@ -270548,6 +272614,13 @@
         "title": "史記 · 卷027",
         "url": "https://zh.wikisource.org/wiki/史記/卷027",
         "work": "史記"
+      },
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -271522,6 +273595,26 @@
         "title": "史記 · 卷069",
         "url": "https://zh.wikisource.org/wiki/史記/卷069",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "轉老還少",
+    "title": "轉老還少",
+    "summary": "年老而反如童稚也。",
+    "tags": [
+      "返老還童",
+      "服氣",
+      "斷穀",
+      "胎息"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -273046,7 +275139,9 @@
       "內丹",
       "詩歌",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "宗旨",
+      "功法"
     ],
     "sources": [
       {
@@ -273062,6 +275157,13 @@
         "title": "張三丰先生全集 · 卷5",
         "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷5",
         "work": "張三丰先生全集"
+      },
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
       }
     ]
   },
@@ -273664,7 +275766,8 @@
     "tags": [
       "悔過",
       "奪算",
-      "鬼律"
+      "鬼律",
+      "部:其他"
     ],
     "sources": [
       {
@@ -273739,6 +275842,44 @@
         "title": "史記 · 卷006",
         "url": "https://zh.wikisource.org/wiki/史記/卷006",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "逐鬼呪",
+    "title": "逐鬼呪",
+    "summary": "逐鬼出宅之呪語",
+    "tags": [
+      "呪語",
+      "制鬼",
+      "厭勝"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
+    "slug": "逐鬼四將",
+    "title": "逐鬼四將",
+    "summary": "主風雨之四鬼，呼名則惡氣不敢加",
+    "tags": [
+      "風雨",
+      "制鬼",
+      "將軍"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
       }
     ]
   },
@@ -274553,6 +276694,26 @@
         "title": "抱朴子 · 卷20",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷20",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "遁甲",
+    "title": "遁甲",
+    "summary": "風後演河圖而創百八局，以推主客勝負。",
+    "tags": [
+      "黃帝",
+      "風後",
+      "兵法",
+      "術數"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -276554,7 +278715,8 @@
       "道律",
       "禁忌",
       "奪算",
-      "天師"
+      "天師",
+      "部:子"
     ],
     "sources": [
       {
@@ -276584,6 +278746,25 @@
         "title": "三略",
         "url": "https://zh.wikisource.org/wiki/三略",
         "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "道心人心",
+    "title": "道心人心",
+    "summary": "道心剛健主事，人心柔弱聽命，修丹以道心制人心而歸中正。",
+    "tags": [
+      "內丹",
+      "心性",
+      "坎離"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
       }
     ]
   },
@@ -278279,6 +280460,25 @@
         "title": "詩經 · 大田",
         "url": "https://zh.wikisource.org/wiki/詩經/大田",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "避世非丹成",
+    "title": "避世非丹成",
+    "summary": "丹還後方可言避世，入山修道山中盡是陰氣，無真鉛可求。",
+    "tags": [
+      "內丹",
+      "入山",
+      "真鉛"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
       }
     ]
   },
@@ -281767,7 +283967,9 @@
       "修仙",
       "金液還丹",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "宗旨",
+      "警誡"
     ],
     "sources": [
       {
@@ -281783,6 +283985,13 @@
         "title": "張三丰先生全集 · 卷5",
         "url": "https://zh.wikisource.org/wiki/張三丰先生全集/卷5",
         "work": "張三丰先生全集"
+      },
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
       }
     ]
   },
@@ -282501,6 +284710,25 @@
     ]
   },
   {
+    "slug": "鉛遇癸生",
+    "title": "鉛遇癸生",
+    "summary": "癸水初生，真鉛當採，此時不易多得",
+    "tags": [
+      "內丹",
+      "火候",
+      "時機"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "鉤弋夫人",
     "title": "鉤弋夫人",
     "summary": "河間趙氏女，得幸武帝而生昭帝，武帝恐主少母壯亂國，遂先處死。",
@@ -282569,6 +284797,25 @@
         "title": "史記 · 卷010",
         "url": "https://zh.wikisource.org/wiki/史記/卷010",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "銅金錢精鬼",
+    "title": "銅金錢精鬼",
+    "summary": "宅中銅金錢精主作祟之鬼",
+    "tags": [
+      "錢鬼",
+      "宅鬼",
+      "邪魅"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
       }
     ]
   },
@@ -283246,7 +285493,12 @@
       "仙道",
       "[[真人]]",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "仙人",
+      "馬明生",
+      "金液神丹",
+      "青城山",
+      "忠州平都山"
     ],
     "sources": [
       {
@@ -283255,6 +285507,13 @@
         "title": "周易參同契 · 33章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/33章",
         "work": "周易參同契"
+      },
+      {
+        "chapter": "13",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 13",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/13",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -283448,6 +285707,24 @@
     ]
   },
   {
+    "slug": "門伯戶丞",
+    "title": "門伯戶丞",
+    "summary": "門戶之鬼，晝為神福，暮作鬼",
+    "tags": [
+      "門戶鬼",
+      "制鬼"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
+      }
+    ]
+  },
+  {
     "slug": "門僮萬人",
     "title": "門僮萬人",
     "summary": "臣下之盛，童僕至於萬人，言其豪貴無比。",
@@ -283465,6 +285742,25 @@
         "title": "史記 · 卷085",
         "url": "https://zh.wikisource.org/wiki/史記/卷085",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "門戶呼名止鬼法",
+    "title": "門戶呼名止鬼法",
+    "summary": "人定時呼門伯戶丞名三掌手，鬼即止不敢作害",
+    "tags": [
+      "制鬼",
+      "呼名",
+      "厭勝"
+    ],
+    "sources": [
+      {
+        "chapter": "卷4",
+        "plugin": "wikisource",
+        "title": "女青鬼律 · 卷4",
+        "url": "https://zh.wikisource.org/wiki/女青鬼律/卷4",
+        "work": "女青鬼律"
       }
     ]
   },
@@ -285074,6 +287370,27 @@
         "title": "管子 · 第80篇輕重甲",
         "url": "https://zh.wikisource.org/wiki/管子/第80篇輕重甲",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "陰道之術",
+    "title": "陰道之術",
+    "summary": "房中之要道，人所難言也。",
+    "tags": [
+      "房中",
+      "陰道",
+      "水銀",
+      "昇天",
+      "漢武帝"
+    ],
+    "sources": [
+      {
+        "chapter": "12",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 12",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/12",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -288071,6 +290388,25 @@
     ]
   },
   {
+    "slug": "離明",
+    "title": "太陽子",
+    "summary": "太陽子離明師事玉子，嗜酒好道，容顏三百歲不改。",
+    "tags": [
+      "仙人",
+      "玉子",
+      "五行"
+    ],
+    "sources": [
+      {
+        "chapter": "10",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 10",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/10",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "離會不致",
     "title": "離會不致",
     "summary": "離會者非兩君相會，乃大夫出會，故不書至。",
@@ -289086,6 +291422,25 @@
         "title": "周易 · 震",
         "url": "https://zh.wikisource.org/wiki/周易/震",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "震龍兌虎",
+    "title": "震龍兌虎",
+    "summary": "震龍出離，兌虎生坎，東木西金之二物。",
+    "tags": [
+      "內丹",
+      "龍虎",
+      "鉛汞"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
       }
     ]
   },
@@ -292671,6 +295026,44 @@
     ]
   },
   {
+    "slug": "顛倒",
+    "title": "顛倒",
+    "summary": "丹法以陰陽互用、逆施造化為顛倒",
+    "tags": [
+      "內丹",
+      "功法",
+      "造化"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
+    "slug": "顛倒坎離",
+    "title": "顛倒坎離",
+    "summary": "靈知外陽而翻為女，真知外陰而卻是男，修丹以男制女。",
+    "tags": [
+      "內丹",
+      "坎離",
+      "顛倒"
+    ],
+    "sources": [
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
+      }
+    ]
+  },
+  {
     "slug": "顛越不恭",
     "title": "顛越不恭",
     "summary": "顛覆法度，不敬上位。",
@@ -293155,6 +295548,25 @@
         "title": "詩經 · 蘀兮",
         "url": "https://zh.wikisource.org/wiki/詩經/蘀兮",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "風後力牧",
+    "title": "風後力牧",
+    "summary": "黃帝夢兆得之二人遂以為將相。",
+    "tags": [
+      "黃帝",
+      "賢臣",
+      "夢兆"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -293769,6 +296181,25 @@
         "title": "周易 · 小過",
         "url": "https://zh.wikisource.org/wiki/周易/小過",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "飛黃",
+    "title": "飛黃",
+    "summary": "騰黃之獸，色黃狀如狐，背有兩角，龍翼，出日本國，壽三千歲，日行萬里。",
+    "tags": [
+      "祥瑞",
+      "瑞獸",
+      "黃帝"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -295126,6 +297557,26 @@
     ]
   },
   {
+    "slug": "馬成子",
+    "title": "馬成子",
+    "summary": "扶風人遇道童，授胎元煉氣之法，入蜀隱鳴鵠山成道。",
+    "tags": [
+      "仙人",
+      "蜀",
+      "煉氣",
+      "丹道"
+    ],
+    "sources": [
+      {
+        "chapter": "10",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 10",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/10",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "馬明生",
     "title": "馬明生",
     "summary": "臨淄吏和君賢易名，師事太真夫人，授金液昇天",
@@ -295133,7 +297584,11 @@
       "神仙",
       "煉丹",
       "昇仙",
-      "部:經"
+      "部:經",
+      "仙人",
+      "太真夫人",
+      "安期生",
+      "金液神丹"
     ],
     "sources": [
       {
@@ -295142,6 +297597,13 @@
         "title": "墉城集仙錄 · 卷04",
         "url": "https://zh.wikisource.org/wiki/墉城集仙錄/卷04",
         "work": "墉城集仙錄"
+      },
+      {
+        "chapter": "13",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 13",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/13",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -297573,6 +300035,26 @@
     ]
   },
   {
+    "slug": "魏伯陽",
+    "title": "魏伯陽",
+    "summary": "吳人高門子，好道術，入山作丹，試藥以狗，以身殉道，弟子感悟，皆仙而去。",
+    "tags": [
+      "仙人",
+      "參同契",
+      "金丹",
+      "以身試丹"
+    ],
+    "sources": [
+      {
+        "chapter": "13",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 13",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/13",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "魏公子兵法",
     "title": "魏公子兵法",
     "summary": "諸侯之客進兵法，公子皆名之，世俗稱魏公子兵法。",
@@ -298553,6 +301035,25 @@
         "title": "抱朴子 · 卷12",
         "url": "https://zh.wikisource.org/wiki/抱朴子/外篇/卷12",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "魯般",
+    "title": "魯般",
+    "summary": "燉煌功匠，作木仙人，以術怨昊人。",
+    "tags": [
+      "工匠",
+      "方術",
+      "怨毒"
+    ],
+    "sources": [
+      {
+        "chapter": "10",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 10",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/10",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -300654,6 +303155,21 @@
     ]
   },
   {
+    "slug": "黃帝-之-理天下",
+    "title": "黃帝-之-理天下",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "黃帝",
     "title": "黃帝",
     "summary": "軒轅氏，代神農為天子，肇造文明，功被華夏。",
@@ -300870,6 +303386,25 @@
         "title": "史記 · 卷001",
         "url": "https://zh.wikisource.org/wiki/史記/卷001",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "黃帝紀世之九事",
+    "title": "黃帝紀世之九事",
+    "summary": "自垂衣裳至制文字凡九事，皆黃帝時創始。",
+    "tags": [
+      "黃帝",
+      "典制",
+      "發明"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
       }
     ]
   },
@@ -301187,7 +303722,9 @@
       "黃庭內景",
       "童神",
       "內神",
-      "妙音"
+      "妙音",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -301315,7 +303852,10 @@
       "[[黃白之術]]",
       "仙藥",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "內丹",
+      "內藥",
+      "溫養"
     ],
     "sources": [
       {
@@ -301324,6 +303864,13 @@
         "title": "周易參同契 · 33章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/33章",
         "work": "周易參同契"
+      },
+      {
+        "chapter": "卷二",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷二",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷二",
+        "work": "悟真直指"
       }
     ]
   },
@@ -303385,6 +305932,25 @@
     ]
   },
   {
+    "slug": "龍旂之頌",
+    "title": "龍旂之頌",
+    "summary": "黃帝作龍一表之服以象天。",
+    "tags": [
+      "黃帝",
+      "禮制",
+      "服飾"
+    ],
+    "sources": [
+      {
+        "chapter": "1",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 1",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/1",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "龍旂陽陽",
     "title": "龍旂陽陽",
     "summary": "龍旗之盛，在風而揚。寫王朝威儀之赫也。",
@@ -303455,7 +306021,9 @@
     "tags": [
       "內丹",
       "齊物",
-      "部:其他"
+      "部:其他",
+      "象徵",
+      "性命"
     ],
     "sources": [
       {
@@ -303464,6 +306032,13 @@
         "title": "化書 · 卷一",
         "url": "https://zh.wikisource.org/wiki/化書/卷一",
         "work": "化書"
+      },
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
       }
     ]
   },
@@ -303593,6 +306168,25 @@
         "title": "韓非子 · 難勢",
         "url": "https://zh.wikisource.org/wiki/韓非子/難勢",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "龍蟠虎踞",
+    "title": "龍蟠虎踞",
+    "summary": "龍虎各返其所，性定情忘，殺氣化生氣",
+    "tags": [
+      "內丹",
+      "火候",
+      "象徵"
+    ],
+    "sources": [
+      {
+        "chapter": "卷一",
+        "plugin": "wikisource",
+        "title": "悟真直指 · 卷一",
+        "url": "https://zh.wikisource.org/wiki/悟真直指/卷一",
+        "work": "悟真直指"
       }
     ]
   },
