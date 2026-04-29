@@ -70265,7 +70265,9 @@
       "史學",
       "史法",
       "左丘明",
-      "南董"
+      "南董",
+      "部:集",
+      "部:集/詩文評類"
     ],
     "sources": [
       {
@@ -171846,6 +171848,24 @@
         "title": "管子 · 第79篇國準",
         "url": "https://zh.wikisource.org/wiki/管子/第79篇國準",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "時運交移",
+    "title": "時運交移",
+    "summary": "文章之風，隨時運為推移，與之轉移",
+    "tags": [
+      "文論",
+      "文心雕龍"
+    ],
+    "sources": [
+      {
+        "chapter": "時序",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 時序",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/時序",
+        "work": "文心雕龍"
       }
     ]
   },
@@ -308209,6 +308229,21 @@
         "plugin": "wikisource",
         "title": "歷世真仙體道通鑑 · 2",
         "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/2",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
+    "slug": "郭四朝",
+    "title": "郭四朝",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "6",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 6",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/6",
         "work": "歷世真仙體道通鑑"
       }
     ]
