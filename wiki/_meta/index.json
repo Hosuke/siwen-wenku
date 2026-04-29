@@ -6336,6 +6336,25 @@
     ]
   },
   {
+    "slug": "三驅弛剛",
+    "title": "三驅弛剛",
+    "summary": "三驅弛剛，九伐先話。",
+    "tags": [
+      "兵戎",
+      "伐",
+      "伐辭"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
+      }
+    ]
+  },
+  {
     "slug": "三魂七魄",
     "title": "三魂七魄",
     "summary": "魂魄與邪相干，清齋誦經可以制鍊。",
@@ -20105,6 +20124,25 @@
         "title": "老子 (帛書校勘版) · 第二十六章 无難",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
+    "slug": "事昭理辨",
+    "title": "事昭而理辨",
+    "summary": "事昭理辨，檄文之要。",
+    "tags": [
+      "檄文",
+      "辭令",
+      "明辨"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
       }
     ]
   },
@@ -35521,7 +35559,10 @@
       "會稽",
       "興亡",
       "部:子",
-      "部:子/墨家類"
+      "部:子/墨家類",
+      "兵戎",
+      "問罪",
+      "伐吳"
     ],
     "sources": [
       {
@@ -35537,6 +35578,13 @@
         "title": "國語 · 卷21",
         "url": "https://zh.wikisource.org/wiki/國語/卷21",
         "work": "國語"
+      },
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
       }
     ]
   },
@@ -51518,6 +51566,25 @@
     ]
   },
   {
+    "slug": "兵先乎聲",
+    "title": "兵先乎聲",
+    "summary": "兵以定亂，莫敢自專，聲威在先。",
+    "tags": [
+      "兵戎",
+      "辭令",
+      "威讓"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
+      }
+    ]
+  },
+  {
     "slug": "兵半用",
     "title": "兵半用",
     "summary": "賞罰之利出於二塗，則兵半為國用，半為姦利用。",
@@ -58424,6 +58491,25 @@
         "title": "歷世真仙體道通鑑 · 20",
         "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/20",
         "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
+    "slug": "劉歆移太常",
+    "title": "劉歆移太常",
+    "summary": "辭剛而義辨，文移之首也。",
+    "tags": [
+      "移文",
+      "劉歆",
+      "辭令"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
       }
     ]
   },
@@ -112750,6 +112836,25 @@
     ]
   },
   {
+    "slug": "威讓之令",
+    "title": "威讓之令",
+    "summary": "古有威讓之令，檄之本源也。",
+    "tags": [
+      "兵戎",
+      "威讓",
+      "文告"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
+      }
+    ]
+  },
+  {
     "slug": "威重於爵祿",
     "title": "威重於爵祿",
     "summary": "威嚴之於爵祿為重，不可以祿分威。",
@@ -139251,6 +139356,25 @@
     ]
   },
   {
+    "slug": "張儀檄楚",
+    "title": "張儀檄楚",
+    "summary": "尺二之書，明以露布，檄之一端。",
+    "tags": [
+      "兵戎",
+      "露布",
+      "張儀"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
+      }
+    ]
+  },
+  {
     "slug": "張儀欺楚",
     "title": "張儀欺楚",
     "summary": "張儀以商於六百里之地誘楚絕齊，楚懷王貪而信之，卒為秦破。",
@@ -160311,6 +160435,25 @@
     ]
   },
   {
+    "slug": "摧壓鯨鯢",
+    "title": "摧壓鯨鯢",
+    "summary": "摧壓鯨鯢，移俗之效。",
+    "tags": [
+      "移文",
+      "移風",
+      "教化"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
+      }
+    ]
+  },
+  {
     "slug": "摯",
     "title": "摯",
     "summary": "士大夫相見時所執之贄物也。",
@@ -171857,7 +172000,9 @@
     "summary": "文章之風，隨時運為推移，與之轉移",
     "tags": [
       "文論",
-      "文心雕龍"
+      "文心雕龍",
+      "部:集",
+      "部:集/詩文評類"
     ],
     "sources": [
       {
@@ -185097,6 +185242,25 @@
     ]
   },
   {
+    "slug": "植義颺辭",
+    "title": "植義颺辭",
+    "summary": "植義颺辭，務在剛健，辭之正道。",
+    "tags": [
+      "修辭",
+      "剛健",
+      "檄文"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
+      }
+    ]
+  },
+  {
     "slug": "椒聊",
     "title": "椒聊",
     "summary": "以椒實蕃衍喻子孫昌盛。",
@@ -187945,6 +188109,25 @@
         "title": "詩經 · 大明",
         "url": "https://zh.wikisource.org/wiki/詩經/大明",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "檄移為用事兼文武",
+    "title": "檄移為用，事兼文武",
+    "summary": "檄移為用，事兼文武，金革則異用。",
+    "tags": [
+      "兵戎",
+      "檄移",
+      "文武"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
       }
     ]
   },
@@ -241977,6 +242160,25 @@
     ]
   },
   {
+    "slug": "移風易俗",
+    "title": "移風易俗",
+    "summary": "移風易俗，令往而民隨。",
+    "tags": [
+      "移文",
+      "移風",
+      "教化"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
+      }
+    ]
+  },
+  {
     "slug": "程以立數禮以定倫",
     "title": "程者物之準　禮者節之準",
     "summary": "程以立數，禮以定倫，德以敘位，能以授官。",
@@ -290083,6 +290285,25 @@
     ]
   },
   {
+    "slug": "譎詭以馳旨",
+    "title": "譎詭以馳旨",
+    "summary": "本國信而參兵詐，譎詭以致誡。",
+    "tags": [
+      "兵戎",
+      "詭道",
+      "檄文"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
+      }
+    ]
+  },
+  {
     "slug": "識神",
     "title": "識神",
     "summary": "居於血肉之心，逐物而生，蔽元神者也。",
@@ -308237,7 +308458,9 @@
     "slug": "郭四朝",
     "title": "郭四朝",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "6",
@@ -312838,6 +313061,25 @@
     ]
   },
   {
+    "slug": "鍾會檄蜀",
+    "title": "鍾會檄蜀",
+    "summary": "徵驗甚明，伐而有辭，兵師之壯筆。",
+    "tags": [
+      "兵戎",
+      "鍾會",
+      "伐蜀"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
+      }
+    ]
+  },
+  {
     "slug": "鍾解",
     "title": "鍾解",
     "summary": "九針之解，虛實之道，及持針臨穴之法。",
@@ -316365,6 +316607,25 @@
         "title": "春秋公羊傳 · 昭公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/昭公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "陳琳檄豫州",
+    "title": "陳琳檄豫州",
+    "summary": "壯有骨鯁，抗辭書釁，皦然露骨。",
+    "tags": [
+      "兵戎",
+      "陳琳",
+      "抗辭"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
       }
     ]
   },
@@ -320355,6 +320616,25 @@
     ]
   },
   {
+    "slug": "震雷始乎曜電",
+    "title": "震雷始於曜電",
+    "summary": "師出威聲，電先雷而後震。",
+    "tags": [
+      "兵戎",
+      "威聲",
+      "伐交"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
+      }
+    ]
+  },
+  {
     "slug": "震驚百里",
     "title": "震驚百里",
     "summary": "威嚴一震，遐邇咸服。",
@@ -320542,6 +320822,25 @@
         "plugin": "wikisource",
         "title": "文心雕龍 · 辨騷",
         "url": "https://zh.wikisource.org/wiki/文心雕龍/辨騷"
+      }
+    ]
+  },
+  {
+    "slug": "露板宣眾",
+    "title": "露板宣眾",
+    "summary": "露板以宣眾，不可使義隱。",
+    "tags": [
+      "檄文",
+      "剛健",
+      "辭令"
+    ],
+    "sources": [
+      {
+        "chapter": "檄移",
+        "plugin": "wikisource",
+        "title": "文心雕龍 · 檄移",
+        "url": "https://zh.wikisource.org/wiki/文心雕龍/檄移",
+        "work": "文心雕龍"
       }
     ]
   },
