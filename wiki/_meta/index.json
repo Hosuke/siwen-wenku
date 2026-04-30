@@ -129264,6 +129264,21 @@
     ]
   },
   {
+    "slug": "尹喜",
+    "title": "尹喜",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "8",
+        "plugin": "wikisource",
+        "title": "歷世真仙體道通鑑 · 8",
+        "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/8",
+        "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
     "slug": "尹壽子",
     "title": "尹壽子",
     "summary": "虞舜時降河陽，說《道德經》，教以無為之道，傳道與彭祖。",
@@ -181995,7 +182010,9 @@
     "slug": "林靈蘁-之",
     "title": "林靈蘁-之",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "53",
