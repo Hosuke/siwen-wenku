@@ -59220,6 +59220,21 @@
     ]
   },
   {
+    "slug": "功成弗居",
+    "title": "功成弗居",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "養身",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 養身",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "功成者隳名成者虧",
     "title": "功成者隳，名成者虧",
     "summary": "功成名遂則必有所虧損，此盈虛之天道。",
@@ -129267,7 +129282,9 @@
     "slug": "尹喜",
     "title": "尹喜",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:其他"
+    ],
     "sources": [
       {
         "chapter": "8",
