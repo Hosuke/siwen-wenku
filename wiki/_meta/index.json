@@ -11869,7 +11869,8 @@
       "修真",
       "黃庭經",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "安民"
     ],
     "sources": [
       {
@@ -32718,6 +32719,21 @@
         "title": "黃帝內經 · 靈樞第四卷",
         "url": "https://zh.wikisource.org/wiki/黃帝內經/靈樞第四卷",
         "work": "黃帝內經"
+      }
+    ]
+  },
+  {
+    "slug": "以百姓為芻狗-之",
+    "title": "以百姓為芻狗-之",
+    "summary": "",
+    "tags": [],
+    "sources": [
+      {
+        "chapter": "虛用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 虛用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -59223,7 +59239,10 @@
     "slug": "功成弗居",
     "title": "功成弗居",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
     "sources": [
       {
         "chapter": "養身",
@@ -71996,6 +72015,24 @@
     ]
   },
   {
+    "slug": "同其塵",
+    "title": "同其塵",
+    "summary": "與眾庶同垢塵，不自別殊。",
+    "tags": [
+      "道家",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "無源",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 無源",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "同出而異名",
     "title": "同出而異名",
     "summary": "觀妙觀徼二者同名異實，共出於道。",
@@ -77046,6 +77083,24 @@
     ]
   },
   {
+    "slug": "吾不知誰之子",
+    "title": "吾不知誰之子",
+    "summary": "老子言道所從生，無名無始。",
+    "tags": [
+      "道家",
+      "本體論"
+    ],
+    "sources": [
+      {
+        "chapter": "無源",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 無源",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "吾乃今於是乎見龍",
     "title": "吾乃今於是乎見龍",
     "summary": "孔子見老子，喻以龍德，合而成體，散而成章。",
@@ -79251,6 +79306,24 @@
         "title": "黃庭內景經 · 肺部章第九",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/肺部章第九",
         "work": "黃庭內景經"
+      }
+    ]
+  },
+  {
+    "slug": "和其光",
+    "title": "和其光",
+    "summary": "獨見之明當知闇昧，不以曜亂人。",
+    "tags": [
+      "道家",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "無源",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 無源",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -124724,6 +124797,25 @@
     ]
   },
   {
+    "slug": "實腹",
+    "title": "實腹",
+    "summary": "懷道抱一，守五藏之神，使腹充實。",
+    "tags": [
+      "治身",
+      "河上公章句",
+      "守一"
+    ],
+    "sources": [
+      {
+        "chapter": "安民",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 安民",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "寧丁我躬",
     "title": "寧丁我躬",
     "summary": "旱災適加於我身，言天祸之酷。",
@@ -140661,6 +140753,25 @@
         "title": "老子 (帛書校勘版) · 第七十七章 盡己",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
+    "slug": "強骨",
+    "title": "強骨",
+    "summary": "愛精重施，髓滿骨堅，身強而不爭。",
+    "tags": [
+      "修身",
+      "河上公章句",
+      "治身"
+    ],
+    "sources": [
+      {
+        "chapter": "安民",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 安民",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -204892,6 +205003,24 @@
     ]
   },
   {
+    "slug": "湛兮似若存",
+    "title": "湛兮似若存",
+    "summary": "道湛然安靜，長存不亡。",
+    "tags": [
+      "道家",
+      "形上學"
+    ],
+    "sources": [
+      {
+        "chapter": "無源",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 無源",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "湛呵佁",
     "title": "湛呵佁",
     "summary": "道隱而若存，不可以形名求。",
@@ -209732,7 +209861,8 @@
       "老子",
       "帛書",
       "部:子",
-      "部:子/雜家類"
+      "部:子/雜家類",
+      "河上公章句"
     ],
     "sources": [
       {
@@ -271659,7 +271789,8 @@
     "tags": [
       "道家",
       "宇宙觀",
-      "部:子"
+      "部:子",
+      "本體論"
     ],
     "sources": [
       {
@@ -271668,6 +271799,13 @@
         "title": "道德經 (王弼本) · 四章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "無源",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 無源",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -276689,6 +276827,25 @@
         "title": "淮南子 · 詮言訓",
         "url": "https://zh.wikisource.org/wiki/淮南子/詮言訓",
         "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "虛心",
+    "title": "虛心",
+    "summary": "聖人治國，先除嗜慾，以清虛其心。",
+    "tags": [
+      "治道",
+      "修身",
+      "河上公章句"
+    ],
+    "sources": [
+      {
+        "chapter": "安民",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 安民",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -284978,6 +285135,25 @@
     ]
   },
   {
+    "slug": "解其紛",
+    "title": "解其紛",
+    "summary": "念道無為以解人之紛恨。",
+    "tags": [
+      "道家",
+      "修身",
+      "無為"
+    ],
+    "sources": [
+      {
+        "chapter": "無源",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 無源",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "解其芬",
     "title": "解其芬",
     "summary": "道能解人之分爭。",
@@ -291749,7 +291925,9 @@
       "帝",
       "先",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "形上學",
+      "修身"
     ],
     "sources": [
       {
@@ -305607,6 +305785,25 @@
     ]
   },
   {
+    "slug": "道常謙虛",
+    "title": "道常謙虛",
+    "summary": "道常謙虛不盈，侯王守之可以為天下正。",
+    "tags": [
+      "道家",
+      "謙德",
+      "修身"
+    ],
+    "sources": [
+      {
+        "chapter": "無源",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 無源",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "道廢德用",
     "title": "道廢而德用",
     "summary": "道滅而德用，德衰而仁義生，此世道之序也。",
@@ -305888,7 +306085,9 @@
       "道德經",
       "虛無",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "河上公章句",
+      "修身"
     ],
     "sources": [
       {
@@ -305904,6 +306103,13 @@
         "title": "道德經 (王弼本) · 四章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "無源",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 無源",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -312798,6 +313004,25 @@
         "plugin": "wikisource",
         "title": "文心雕龍 · 徵聖",
         "url": "https://zh.wikisource.org/wiki/文心雕龍/徵聖"
+      }
+    ]
+  },
+  {
+    "slug": "銳",
+    "title": "銳",
+    "summary": "人欲銳精進取名當挫止之。",
+    "tags": [
+      "修身",
+      "河上公章句",
+      "戒盈"
+    ],
+    "sources": [
+      {
+        "chapter": "無源",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 無源",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
       }
     ]
   },
