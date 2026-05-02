@@ -122809,7 +122809,9 @@
     "tags": [
       "河上公",
       "居室",
-      "無用"
+      "無用",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -157490,6 +157492,24 @@
     ]
   },
   {
+    "slug": "抱其質樸",
+    "title": "抱其質樸",
+    "summary": "抱樸以示下，故可法則。",
+    "tags": [
+      "道家",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "還淳",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 還淳",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "抱布貿絲",
     "title": "抱布貿絲",
     "summary": "男子假貿易以誘女子，為求婚之由。",
@@ -164027,7 +164047,8 @@
       "治國",
       "無為",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "教化"
     ],
     "sources": [
       {
@@ -185346,6 +185367,24 @@
     ]
   },
   {
+    "slug": "棄利",
+    "title": "棄利",
+    "summary": "塞貪路閉權門。",
+    "tags": [
+      "道家",
+      "去欲"
+    ],
+    "sources": [
+      {
+        "chapter": "還淳",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 還淳",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "棄智",
     "title": "棄智",
     "summary": "捐棄機心智巧，使民返於無知。",
@@ -185354,7 +185393,26 @@
       "治國",
       "無為",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "還淳",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 還淳",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
+    "slug": "棄義",
+    "title": "棄義",
+    "summary": "棄尚華言，反於淳樸。",
+    "tags": [
+      "道家",
+      "返樸"
     ],
     "sources": [
       {
@@ -190420,6 +190478,24 @@
     ]
   },
   {
+    "slug": "正無私",
+    "title": "正無私",
+    "summary": "少私者，正無私也。",
+    "tags": [
+      "道家",
+      "去私"
+    ],
+    "sources": [
+      {
+        "chapter": "還淳",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 還淳",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "正紀",
     "title": "正紀",
     "summary": "能服信政，乃能正紀。",
@@ -190718,6 +190794,24 @@
         "title": "管子 · 第72篇海王",
         "url": "https://zh.wikisource.org/wiki/管子/第72篇海王",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "此三者",
+    "title": "此三者",
+    "summary": "謂上三事所棄絕者。",
+    "tags": [
+      "道家",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "還淳",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 還淳",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -211594,7 +211688,10 @@
     "slug": "無之以為用",
     "title": "無之以為用",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
     "sources": [
       {
         "chapter": "無用",
@@ -218641,7 +218738,8 @@
       "道德經",
       "本體論",
       "玄",
-      "部:經"
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -227778,6 +227876,24 @@
     ]
   },
   {
+    "slug": "當如下句",
+    "title": "當如下句",
+    "summary": "令有所屬，當如後句所云。",
+    "tags": [
+      "道家",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "還淳",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 還淳",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "當故不改",
     "title": "當故不改",
     "summary": "法者，因時而立，持之不改。",
@@ -227837,6 +227953,24 @@
         "title": "管子 · 第38篇白心",
         "url": "https://zh.wikisource.org/wiki/管子/第38篇白心",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "當知足",
+    "title": "當知足",
+    "summary": "寡欲者，當知足也。",
+    "tags": [
+      "道家",
+      "知足"
+    ],
+    "sources": [
+      {
+        "chapter": "還淳",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 還淳",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -249856,6 +249990,24 @@
     ]
   },
   {
+    "slug": "絕仁",
+    "title": "絕仁",
+    "summary": "絕仁之恩惠，復其孝慈之性。",
+    "tags": [
+      "道家",
+      "德化"
+    ],
+    "sources": [
+      {
+        "chapter": "還淳",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 還淳",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "絕仁棄義",
     "title": "絕仁棄義",
     "summary": "絕去仁義之名標，使歸孝慈之本性。",
@@ -249992,6 +250144,24 @@
     ]
   },
   {
+    "slug": "絕巧",
+    "title": "絕巧",
+    "summary": "絕其巧利，則盜賊無有。",
+    "tags": [
+      "道家",
+      "治化"
+    ],
+    "sources": [
+      {
+        "chapter": "還淳",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 還淳",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "絕巧棄利",
     "title": "絕巧棄利",
     "summary": "絕去奇技巧利，則盜賊自止。",
@@ -250072,7 +250242,8 @@
       "治國",
       "無為",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "治道"
     ],
     "sources": [
       {
@@ -261784,7 +261955,9 @@
     "tags": [
       "道",
       "古始",
-      "玄覽"
+      "玄覽",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -287594,6 +287767,24 @@
     ]
   },
   {
+    "slug": "詐偽亂真",
+    "title": "詐偽亂真",
+    "summary": "絕巧者則詐偽亂真者止。",
+    "tags": [
+      "道家",
+      "去巧"
+    ],
+    "sources": [
+      {
+        "chapter": "還淳",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 還淳",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "詒孫子",
     "title": "詒孫子",
     "summary": "君子積德，福貽後嗣",
@@ -299042,7 +299233,9 @@
       "河上公",
       "治身",
       "治國",
-      "無用"
+      "無用",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -301808,6 +302001,24 @@
         "title": "周易參同契 · 05章",
         "url": "https://zh.wikisource.org/wiki/周易參同契/05章",
         "work": "周易參同契"
+      }
+    ]
+  },
+  {
+    "slug": "農事修",
+    "title": "農事修",
+    "summary": "農事修治，公無私心。",
+    "tags": [
+      "治道",
+      "農業"
+    ],
+    "sources": [
+      {
+        "chapter": "還淳",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 還淳",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -317606,7 +317817,9 @@
     "tags": [
       "河上公",
       "養生",
-      "無用"
+      "無用",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
