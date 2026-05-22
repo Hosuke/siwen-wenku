@@ -76,7 +76,8 @@
     "tags": [
       "道家",
       "金丹",
-      "哲學"
+      "哲學",
+      "部:子"
     ],
     "sources": [
       {
@@ -4256,7 +4257,7 @@
   {
     "slug": "三患",
     "title": "三患",
-    "summary": "",
+    "summary": "墨子指出飢、寒、勞為民之三患，批判統治者不恤民苦而沉迷聲色，強調以民本思想為基礎，節用、兼愛、天志皆源於解決百姓實際苦難。",
     "tags": [
       "墨學",
       "民本",
@@ -5949,7 +5950,7 @@
   {
     "slug": "三表",
     "title": "三表法",
-    "summary": "",
+    "summary": "三表法是墨子提出的認識論方法，通過考查古聖事跡、百姓耳目之實及政令施行效果三個標準，來鑒別言論是非真偽，以駁斥命定論。",
     "tags": [
       "墨學",
       "方法論",
@@ -10425,6 +10426,19 @@
     ]
   },
   {
+    "slug": "不審也",
+    "title": "Lack of Scrutiny / 不審也",
+    "summary": "The failure to carefully examine information, contrasted with 審之也, leading to disastrous decisions in governance.",
+    "tags": [
+      "呂氏春秋",
+      "認識論",
+      "治國",
+      "察言",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "不尚賢使民不爭",
     "title": "不尚賢使民不爭",
     "summary": "聖人不尚賢能，使民不爭。",
@@ -13546,7 +13560,7 @@
   {
     "slug": "不言之教",
     "title": "不言之教",
-    "summary": "",
+    "summary": "不言之",
     "tags": [
       "道家",
       "政治哲學",
@@ -18535,7 +18549,7 @@
   {
     "slug": "九方皋相馬",
     "title": "九方皋相馬",
-    "summary": "",
+    "summary": "九方皋相马的故事说明，真正的慧眼在于超越外形、直取本质的洞察力。",
     "tags": [
       "認識論",
       "寓言",
@@ -23639,7 +23653,7 @@
   {
     "slug": "五祀",
     "title": "五祀",
-    "summary": "",
+    "summary": "五祀是古代按身份等级划分的祭祀制度，天子七祀、诸侯五祀、大夫三祀、士二祀、庶人一祀，各司其职，等级分明。",
     "tags": [
       "祭祀",
       "禮制",
@@ -27459,7 +27473,7 @@
   {
     "slug": "人情",
     "title": "人情",
-    "summary": "",
+    "summary": "The article explores the Confucian concept of human emotions (人情), emphasizing that ritual (禮) is essential for regulating innate emotions to achieve social harmony and moral order.",
     "tags": [
       "儒學",
       "禮記",
@@ -38195,7 +38209,7 @@
   {
     "slug": "佩玉",
     "title": "佩玉",
-    "summary": "",
+    "summary": "文章概述了古代君子",
     "tags": [
       "君子",
       "德行",
@@ -42790,7 +42804,7 @@
   {
     "slug": "備高臨",
     "title": "備高臨",
-    "summary": "",
+    "summary": "墨子主张以行城配合高威力連弩",
     "tags": [
       "墨子",
       "墨學",
@@ -43478,7 +43492,7 @@
   {
     "slug": "儉節",
     "title": "儉節",
-    "summary": "",
+    "summary": "**儉節**是墨家的重要倫理概念，指財用有度、節",
     "tags": [
       "德",
       "部:其他"
@@ -49703,7 +49717,7 @@
   {
     "slug": "公用亨于天子",
     "title": "公用亨于天子",
-    "summary": "",
+    "summary": "公用亨于天子是指公侯按礼仪接受天子的赏",
     "tags": [
       "部:經",
       "部:經/易類"
@@ -49788,7 +49802,7 @@
   {
     "slug": "公私不可不明",
     "title": "公私不可不明",
-    "summary": "",
+    "summary": "公私之别",
     "tags": [
       "部:子",
       "部:子/法家類"
@@ -54163,26 +54177,6 @@
     ]
   },
   {
-    "slug": "冠而字之敬其名也",
-    "title": "冠而字之敬其名也",
-    "summary": "加冠之後乃命字，所以尊名而不敢直稱之也。",
-    "tags": [
-      "儀禮",
-      "冠禮",
-      "記",
-      "名號",
-      "部:經",
-      "部:經/禮類"
-    ],
-    "sources": [
-      {
-        "plugin": "wikisource",
-        "title": "儀禮 · 士冠禮",
-        "url": "https://zh.wikisource.org/wiki/儀禮/士冠禮"
-      }
-    ]
-  },
-  {
     "slug": "冠軍侯",
     "title": "冠軍侯",
     "summary": "霍去病以驍勇冠軍，封冠軍侯，食邑千六百戶。",
@@ -55186,24 +55180,6 @@
         "title": "黃庭內景經 · 天中章第六",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/天中章第六",
         "work": "黃庭內景經"
-      }
-    ]
-  },
-  {
-    "slug": "函人為甲",
-    "title": "函人為甲",
-    "summary": "甲有犀兕合甲之異，壽有百年、二百年、三百年之分。",
-    "tags": [
-      "冬官",
-      "甲胄",
-      "兵甲",
-      "部:其他"
-    ],
-    "sources": [
-      {
-        "plugin": "wikisource",
-        "title": "周禮 · 冬官考工記",
-        "url": "https://zh.wikisource.org/wiki/周禮/冬官考工記"
       }
     ]
   },
@@ -56380,7 +56356,7 @@
   {
     "slug": "別",
     "title": "別",
-    "summary": "",
+    "summary": "别是墨学中与兼相对的自私自利、以力正人的邪恶之道，导致天下纷争与灾难，必遭天罚。",
     "tags": [
       "兼愛",
       "墨學",
@@ -57901,7 +57877,7 @@
   {
     "slug": "前王不忘",
     "title": "前王不忘",
-    "summary": "",
+    "summary": "這",
     "tags": [
       "部:經",
       "部:經/詩類"
@@ -68002,7 +67978,7 @@
   {
     "slug": "反間",
     "title": "反間",
-    "summary": "",
+    "summary": "陈平以黄金四万斤施展反间计，诱使项羽怀疑钟离昧等将领并疏远",
     "tags": [
       "部:史",
       "部:史/正史類"
@@ -79910,7 +79886,7 @@
   {
     "slug": "和者陰陽調",
     "title": "和者陰陽調",
-    "summary": "",
+    "summary": "本篇文章阐释了《文子》中\"和\"的道家核心义理，强调\"和\"源于阴阳、刚柔、宽严的动态平衡与辩证统一，是天地间最大的力量，也是圣人治国修身的中道智慧。",
     "tags": [
       "道家",
       "和",
@@ -79974,7 +79950,7 @@
   {
     "slug": "和親匈奴-之",
     "title": "和親匈奴-之",
-    "summary": "",
+    "summary": "汉文帝通过和亲与匈奴结为兄弟之约，虽匈奴违约侵扰，仍坚持边防并遣使劝和，终于稳固和平",
     "tags": [
       "部:史",
       "部:史/正史類"
@@ -94039,7 +94015,7 @@
   {
     "slug": "報本反始",
     "title": "報本反始",
-    "summary": "",
+    "summary": "**報本反始**是儒家祭祀的核心思想，意為透過郊天、祭祖及社祭等儀式，真誠地回報宇宙、祖先及土地的根本恩澤。",
     "tags": [
       "禮記",
       "郊特牲",
@@ -94437,7 +94413,7 @@
   {
     "slug": "墨子之鵲",
     "title": "墨子之鵲",
-    "summary": "",
+    "summary": "Mozi dismisses Gongshu Zi’s spectacular flying bird as pointless and asserts that true craftsmanship is judged by practical utility to people",
     "tags": [
       "墨學",
       "工巧",
@@ -94460,7 +94436,7 @@
   {
     "slug": "墨子旗幟",
     "title": "墨子旗幟制度",
-    "summary": "",
+    "summary": "《墨子》旗幟篇通过颜色、图形与符号建立完整的视觉指挥体系，以即时区分物资、军队职守与",
     "tags": [
       "信號",
       "城防",
@@ -99418,24 +99394,6 @@
         "title": "史記 · 卷099",
         "url": "https://zh.wikisource.org/wiki/史記/卷099",
         "work": "史記"
-      }
-    ]
-  },
-  {
-    "slug": "大祝",
-    "title": "大祝",
-    "summary": "掌祝號祈禱之官。",
-    "tags": [
-      "春官",
-      "祝官",
-      "祭祀",
-      "部:其他"
-    ],
-    "sources": [
-      {
-        "plugin": "wikisource",
-        "title": "周禮 · 春官宗伯",
-        "url": "https://zh.wikisource.org/wiki/周禮/春官宗伯"
       }
     ]
   },
@@ -107252,6 +107210,20 @@
         "work": "史記"
       }
     ]
+  },
+  {
+    "slug": "太史公",
+    "title": "太史公 / Grand Historiographer",
+    "summary": "The title of the Han-dynasty Grand Historian,esp. Sima Qian; author of the Shiji.",
+    "tags": [
+      "史記",
+      "司馬遷",
+      "西漢",
+      "史學",
+      "史記/史官",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "太史公因秦記表六國時事",
@@ -117343,7 +117315,7 @@
   {
     "slug": "孝文罷兵息民",
     "title": "孝文罷兵息民",
-    "summary": "",
+    "summary": "Emperor Wen of Han halted military",
     "tags": [
       "部:史",
       "部:史/正史類"
@@ -120391,7 +120363,7 @@
   {
     "slug": "守分循理",
     "title": "守分循理",
-    "summary": "",
+    "summary": "本文",
     "tags": [
       "道家哲學",
       "安分",
@@ -125764,6 +125736,20 @@
         "work": "史記"
       }
     ]
+  },
+  {
+    "slug": "審之也",
+    "title": "To Examine Carefully / 審之也",
+    "summary": "The principle of carefully examining advice before acting upon it, contrasted with heedlessness that leads to downfall.",
+    "tags": [
+      "呂氏春秋",
+      "察傳",
+      "治國",
+      "慎言",
+      "雜家",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "審之禮",
@@ -142582,7 +142568,7 @@
   {
     "slug": "形色天性",
     "title": "形色天性",
-    "summary": "",
+    "summary": "孟子认为人的形体容貌皆为天性的显现，圣人能充分实现形体所禀之天性，使内在美德通过身体仪容自然流露，从而将身体修养与道德实践、宇宙天道相统一。",
     "tags": [
       "孟子",
       "天人關係",
@@ -148289,7 +148275,7 @@
   {
     "slug": "必去六辟",
     "title": "必去六辟",
-    "summary": "",
+    "summary": "Mozi argues that the six emotional biases—excessive joy, anger, pleasure, sorrow, love, and hate—must be eliminated to practice universal love (兼愛) and true righteousness, stressing self‑reflection and the necessity of acting with one’s whole body to achieve moral perfection.",
     "tags": [
       "墨學",
       "修身",
@@ -155767,7 +155753,7 @@
   {
     "slug": "成功遂事-之",
     "title": "成功遂事-之",
-    "summary": "",
+    "summary": "帛书《老子》乙本与通行本在“成功遂事而弗名有”上略有文字差别，阐释道成万物而顺其本性、不居其功的哲学意涵。",
     "tags": [
       "部:子",
       "部:子/道家類"
@@ -155987,7 +155973,7 @@
   {
     "slug": "成湯",
     "title": "成湯",
-    "summary": "",
+    "summary": "成汤承天命，宽政治国，诛除邪虐，功垂后世。",
     "tags": [
       "部:經",
       "部:經/書類"
@@ -160080,24 +160066,6 @@
     ]
   },
   {
-    "slug": "捃摭經史",
-    "title": "捃摭經史",
-    "summary": "博採經史之事以為文",
-    "tags": [
-      "文心雕龍",
-      "文章法",
-      "博學",
-      "部:經"
-    ],
-    "sources": [
-      {
-        "plugin": "wikisource",
-        "title": "文心雕龍 · 事類",
-        "url": "https://zh.wikisource.org/wiki/文心雕龍/事類"
-      }
-    ]
-  },
-  {
     "slug": "捋",
     "title": "捋",
     "summary": "捋，抹取也。采芣苢之法。",
@@ -162506,6 +162474,20 @@
     ]
   },
   {
+    "slug": "收族",
+    "title": "收族",
+    "summary": "The ritual function of unifying and gathering the clan through the wedding ceremony.",
+    "tags": [
+      "儒學",
+      "昏禮",
+      "禮記",
+      "宗法",
+      "婚俗",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "改形免世厄",
     "title": "改形免世厄",
     "summary": "改形變化，脫離世網之厄，是為真人之驗。",
@@ -162809,7 +162791,7 @@
   {
     "slug": "政者正也",
     "title": "政者正也",
-    "summary": "",
+    "summary": "政者正也，强调统治者正己自律、爱人行礼，以实现儒学治道的完整。",
     "tags": [
       "修身",
       "儒學",
@@ -163093,7 +163075,7 @@
   {
     "slug": "敖不可長欲不可從",
     "title": "敖不可長，欲不可從",
-    "summary": "",
+    "summary": "The article stresses that according to the Book of Rites, proper self‑cultivation requires restraining four excesses—arrogance, desire, self‑satisfaction, and extreme pleasure—so",
     "tags": [
       "修身",
       "儒學",
@@ -164138,7 +164120,7 @@
   {
     "slug": "敬宗",
     "title": "敬宗",
-    "summary": "",
+    "summary": "敬宗是通过尊重",
     "tags": [
       "修身齊家",
       "儒家美德",
@@ -165343,6 +165325,21 @@
         "work": "尚書"
       }
     ]
+  },
+  {
+    "slug": "文心雕龍-·-諧讔",
+    "title": "Wenxin Diaolong · Xieyin / 文心雕龍 · 諧讔",
+    "summary": "A chapter from Liu Xie's 6th-century literary criticism treatise discussing the theory and examples of humorous and riddle discourse.",
+    "tags": [
+      "文心雕龍",
+      "劉勰",
+      "諧辭",
+      "讔",
+      "南北朝",
+      "文學批評",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "文心雕龍才略",
@@ -166650,7 +166647,7 @@
   {
     "slug": "方伯",
     "title": "方伯",
-    "summary": "",
+    "summary": "方伯是周代天子所任命的最高地方行政官，负责监督诸侯、传达王命并维护封建秩序",
     "tags": [
       "九州",
       "周代官制",
@@ -168927,6 +168924,19 @@
     ]
   },
   {
+    "slug": "昆莫",
+    "title": "Kunmo / 昆莫",
+    "summary": "King of Wusun who received Zhang Qian's diplomatic mission during the Han Dynasty.",
+    "tags": [
+      "昆莫",
+      "張騫",
+      "烏孫",
+      "西南夷",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "昇虛無",
     "title": "昇虛無",
     "summary": "神真一旦輕舉，上昇太無之域。",
@@ -170602,7 +170612,7 @@
   {
     "slug": "明法者强慢法者弱",
     "title": "明法者强慢法者弱",
-    "summary": "",
+    "summary": "严明法治使国家强盛，怠慢法律",
     "tags": [
       "部:子",
       "部:子/法家類"
@@ -176635,7 +176645,7 @@
   {
     "slug": "曾孫-之",
     "title": "曾孫-之",
-    "summary": "",
+    "summary": "《詩經·維天之命》中的「曾孫」意指後代子孫，「曾孫篤之」勉勵後人厚行先德，忠誠守護天命。",
     "tags": [
       "部:經",
       "部:經/詩類"
@@ -177893,7 +177903,7 @@
   {
     "slug": "有孚惠心",
     "title": "有孚惠心",
-    "summary": "",
+    "summary": "《周易·益》阐述九五以诚信惠泽天下，上下相惠、诚信回报，因而无需占问即获吉祥。",
     "tags": [
       "部:經",
       "部:經/易類"
@@ -179403,7 +179413,7 @@
   {
     "slug": "服丹守一",
     "title": "服丹守一",
-    "summary": "",
+    "summary": "葛洪提出「服丹守一」為修仙要法，透過服用丹藥與專注守心二者結合，內外兼修，以求長生不老、與天合一。",
     "tags": [
       "抱朴子",
       "修仙",
@@ -179626,7 +179636,7 @@
   {
     "slug": "服術",
     "title": "服術",
-    "summary": "",
+    "summary": "紫微",
     "tags": [
       "部:其他"
     ],
@@ -189355,7 +189365,7 @@
   {
     "slug": "橐熏",
     "title": "橐熏之法",
-    "summary": "",
+    "summary": "利用皮制鼓风机（橐）将火焰鼓旺产生浓烟，顺通道灌入敌穴以迫使敌人撤退的火攻战术。",
     "tags": [
       "先秦兵法",
       "地道戰",
@@ -191803,7 +191813,7 @@
   {
     "slug": "正靜-之",
     "title": "正靜-之",
-    "summary": "",
+    "summary": "本文阐释《管",
     "tags": [
       "部:子",
       "部:子/法家類"
@@ -195150,6 +195160,19 @@
     ]
   },
   {
+    "slug": "母追",
+    "title": "母追",
+    "summary": "夏后氏之冠名，行冠禮三加之首所加。",
+    "tags": [
+      "儀禮",
+      "冠禮",
+      "夏禮",
+      "冠制",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "毒而無怒怨而無言欲而無謀",
     "title": "毒而無怒怨而無言欲而無謀",
     "summary": "止忿速，濟沒法，慎言密謀，所以全身遠害。",
@@ -195452,24 +195475,6 @@
         "plugin": "wikisource",
         "title": "文心雕龍 · 比興",
         "url": "https://zh.wikisource.org/wiki/文心雕龍/比興"
-      }
-    ]
-  },
-  {
-    "slug": "比興之義",
-    "title": "比興之義",
-    "summary": "《離騷》以虯龍喻君子、雲蜺譬讒邪，有《風》《雅》比興之義。",
-    "tags": [
-      "離騷",
-      "比興",
-      "文心雕龍",
-      "部:子"
-    ],
-    "sources": [
-      {
-        "plugin": "wikisource",
-        "title": "文心雕龍 · 辨騷",
-        "url": "https://zh.wikisource.org/wiki/文心雕龍/辨騷"
       }
     ]
   },
@@ -197190,7 +197195,7 @@
   {
     "slug": "水之柔馳至堅",
     "title": "水之柔馳至堅",
-    "summary": "",
+    "summary": "Water’s supreme softness can overcome the hardest, illustrating the Tao",
     "tags": [
       "部:子",
       "部:子/道家類"
@@ -197684,7 +197689,7 @@
   {
     "slug": "水為道也",
     "title": "水為道也",
-    "summary": "",
+    "summary": "水以至柔馳騁至堅、無為而潤萬物，體現道的最高德行，聖人當效法此道以治天下。",
     "tags": [
       "道家",
       "部:子",
@@ -201964,7 +201969,7 @@
   {
     "slug": "法施於民則祀之",
     "title": "法施於民則祀之",
-    "summary": "",
+    "summary": "《禮記·祭法》闡述聖王以「法施於民」為核心的五項祭祀原則，強調對民有功烈者方得祭祀，此說奠定中華祭祀文化理論基礎，並成為後世功德祠之濫觴。",
     "tags": [
       "祭祀",
       "儒學",
@@ -211524,7 +211529,7 @@
   {
     "slug": "為禮者雕琢人性",
     "title": "為禮者雕琢人性",
-    "summary": "",
+    "summary": "文子认为礼仪是对人性的雕琢和压抑，主张根本消除欲念而非",
     "tags": [
       "禮",
       "道家",
@@ -214353,6 +214358,20 @@
     ]
   },
   {
+    "slug": "無為之事",
+    "title": "無為之事",
+    "summary": "The principle of the sage acting in accordance with nature without premature action.",
+    "tags": [
+      "老子",
+      "無為",
+      "河上公章句",
+      "道家",
+      "對待",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "無為之治",
     "title": "無為之治",
     "summary": "聖人正己而後行，不以法度拘民也。",
@@ -216456,7 +216475,7 @@
   {
     "slug": "燕義",
     "title": "燕義",
-    "summary": "",
+    "summary": "《燕義》闡釋燕禮之義，以「明君臣之義」為核心，論述君臣上下之分際、禮儀互答之道及治國取民有制之理，強調燕禮非小事，乃治國安民之大端。",
     "tags": [
       "儀禮",
       "儒學",
@@ -219230,6 +219249,19 @@
         "work": "抱朴子"
       }
     ]
+  },
+  {
+    "slug": "狗似玃，玃似母猴，母猴似人，人之與狗則遠矣。",
+    "title": "The Gradual Resemblance Paradox / 狗似玃論",
+    "summary": "A classical example illustrating how repeated transmission distorts truth through gradual, seemingly logical steps.",
+    "tags": [
+      "呂氏春秋",
+      "察傳",
+      "傳聞",
+      "審慎",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "狗彘食人食",
@@ -223594,7 +223626,7 @@
   {
     "slug": "王言如絲其出如綸",
     "title": "王言如絲，其出如綸",
-    "summary": "",
+    "summary": "君王之言如絲化綸，告誡上位者須慎言、言行一致，方能防止輕言流傳成天下法度。",
     "tags": [
       "政治語言",
       "君德",
@@ -224808,7 +224840,7 @@
   {
     "slug": "甘棠",
     "title": "甘棠",
-    "summary": "",
+    "summary": "《甘棠》詩颂扬召伯在甘棠树下听政的德政，百姓感念其恩而禁止砍伐此树，以三章叠咏表达对召伯的深切怀念。",
     "tags": [
       "部:史",
       "部:史/正史類"
@@ -225296,7 +225328,7 @@
   {
     "slug": "生相憐死相捐",
     "title": "生相憐，死相捐",
-    "summary": "",
+    "summary": "“生相憐，死相捐”是《列子·楊朱篇》中的古語，主張對生者應以實際物資與力量相助，對死者則應簡葬或直接拋棄，反對儒家厚葬與墨家薄葬的禮儀",
     "tags": [
       "楊朱",
       "生死",
@@ -232816,7 +232848,7 @@
   {
     "slug": "皐門",
     "title": "皐門",
-    "summary": "",
+    "summary": "A definition of \"皐門\" (city gate) from the *Book of Songs*, describing the Zhou dynasty's fortified outer gates as grand, majestic structures built for both defense and public safety.",
     "tags": [
       "部:經",
       "部:經/詩類"
@@ -235861,7 +235893,7 @@
   {
     "slug": "瞽不知白黑",
     "title": "瞽者不知白黑",
-    "summary": "",
+    "summary": "墨子以瞽者不知白黑之喻，揭示「知其名」與「辨其實」的認識論區別，批判當世君子空言仁義之名而無實踐辨別能力，強調真正的仁者必須能於行事中取仁而去不仁。",
     "tags": [
       "墨學",
       "認識論",
@@ -237086,7 +237118,7 @@
   {
     "slug": "知止不殆",
     "title": "知止不殆",
-    "summary": "",
+    "summary": "The article explains that “knowing when to stop” (知止) keeps one free from the entanglements of wealth and sensual pleasure, thereby avoiding danger, as taught by Laozi and commented on by Heshang Gong.",
     "tags": [
       "部:子",
       "部:子/道家類"
@@ -241490,7 +241522,7 @@
   {
     "slug": "禮-儒學-之",
     "title": "禮-儒學-之",
-    "summary": "",
+    "summary": "The passage details the hierarchical order of sacrificial rites by rank, specifies the proper objects and their formal names, and warns against improper “excessive”",
     "tags": [
       "部:經",
       "部:經/四書類"
@@ -242609,7 +242641,7 @@
   {
     "slug": "禮記月令",
     "title": "禮記月令",
-    "summary": "",
+    "summary": "《月令》為《禮記》中系統闡述天子與官府依據陰陽五行、天人相應之原則，按十二月份規定政令、祭祀及禁令的篇章，並透過「五行不應」之災異預言強調人事必須與天時相合。",
     "tags": [
       "禮記",
       "時令",
@@ -243292,25 +243324,6 @@
         "title": "詩經 · 桑柔",
         "url": "https://zh.wikisource.org/wiki/詩經/桑柔",
         "work": "詩經"
-      }
-    ]
-  },
-  {
-    "slug": "秉心養術",
-    "title": "秉心養術",
-    "summary": "持養心性，修養文思之法，不在苦慮，而在含章順理也。",
-    "tags": [
-      "文心雕龍",
-      "文學理論",
-      "心術",
-      "創作論",
-      "部:其他"
-    ],
-    "sources": [
-      {
-        "plugin": "wikisource",
-        "title": "文心雕龍 · 神思",
-        "url": "https://zh.wikisource.org/wiki/文心雕龍/神思"
       }
     ]
   },
@@ -248767,7 +248780,7 @@
   {
     "slug": "籍田禮",
     "title": "籍田禮",
-    "summary": "",
+    "summary": "A ceremonial rite in which the emperor personally plows the imperial fields to set an example for agriculture, pray for divine blessings, and",
     "tags": [
       "禮儀",
       "農業",
@@ -254641,7 +254654,7 @@
   {
     "slug": "羊黔",
     "title": "羊黔",
-    "summary": "",
+    "summary": "羊黔是利用积土筑高丘俯瞰城墙的攻城战术，虽然耗费大、效果有限，守方可通过建高行城并配备",
     "tags": [
       "城池攻防",
       "城防",
@@ -257921,7 +257934,7 @@
   {
     "slug": "聖人冬不為大",
     "title": "聖人冬不為大",
-    "summary": "",
+    "summary": "聖人謙",
     "tags": [
       "部:子",
       "部:子/道家類"
@@ -260662,6 +260675,20 @@
         "work": "抱朴子"
       }
     ]
+  },
+  {
+    "slug": "聞而審則為福矣，聞而不審，不若無聞矣。",
+    "title": "聞而審 / Hearing and Examining",
+    "summary": "A principle from Lüshi Chunqiu that proper examination of heard information brings fortune, while unexamined hearing is worse than not hearing at all.",
+    "tags": [
+      "察傳",
+      "審慎",
+      "傳聞",
+      "部:子",
+      "部:子/雜家類",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "聞聲知音",
@@ -267657,7 +267684,7 @@
   {
     "slug": "致樂以治心",
     "title": "致樂以治心",
-    "summary": "",
+    "summary": "以《禮記·樂記》為據，闡述儒家「致樂以治心」之命題，強調音樂修養心性、培養「易直子諒之心」之功效，並說明禮樂相須為用、內外兼養之道，確立音樂在儒學修身功夫中之根本地位。",
     "tags": [
       "修身",
       "儒學",
@@ -268349,7 +268376,7 @@
   {
     "slug": "與民同樂",
     "title": "與民同樂",
-    "summary": "",
+    "summary": "孟子认为，王者的欢乐应与百姓共享，只有“与民同乐”，才能得民心、致天下太平。",
     "tags": [
       "孟子",
       "仁政",
@@ -268975,7 +269002,7 @@
   {
     "slug": "舍生取義",
     "title": "舍生取義",
-    "summary": "",
+    "summary": "舍生取义源自《孟子》，强调在生死与道义冲突时应舍生而守义，因为义是人心固有、超越求生本能的至高品质。",
     "tags": [
       "孟子",
       "儒學",
@@ -272444,7 +272471,7 @@
   {
     "slug": "莊敬日強",
     "title": "莊敬日強",
-    "summary": "",
+    "summary": "君子當以莊敬持身，日日提升德",
     "tags": [
       "修身",
       "君子",
@@ -281590,7 +281617,7 @@
   {
     "slug": "行城襍樓",
     "title": "行城襍樓",
-    "summary": "",
+    "summary": "行城襍樓是墨子城守术中由可移动的“行城”与多层防御塔“襍樓”组成的复合防御体系，以外围行城阻挡敌人、主城居中互援，实现层层设防。",
     "tags": [
       "墨家",
       "防禦術",
@@ -286590,7 +286617,7 @@
   {
     "slug": "親親以三為五",
     "title": "親親以三為五，以五為九",
-    "summary": "",
+    "summary": "The article explains the Confucian mourning system where mourning grades and periods are determined by blood kinship distance, with mourning obligations gradually decreasing from direct family to distant relatives until the kinship bond is considered exhausted.",
     "tags": [
       "禮學",
       "喪服",
@@ -288708,7 +288735,7 @@
   {
     "slug": "言語之美",
     "title": "言語之美",
-    "summary": "",
+    "summary": "本文阐述儒家礼仪美学中“言语之美”的",
     "tags": [
       "儒學",
       "少儀",
@@ -288738,7 +288765,7 @@
   {
     "slug": "言足以遷行者",
     "title": "言足以遷行者",
-    "summary": "",
+    "summary": "墨子提出言論應以能否改變行為為價值標準，能使人付諸行動的言論才有意義，空談而無益於行事者僅是蕩口。",
     "tags": [
       "墨學",
       "言",
@@ -302077,7 +302104,7 @@
   {
     "slug": "輕財重禮",
     "title": "輕財重禮",
-    "summary": "",
+    "summary": "「輕財重禮」強調以禮義為先、財物為次，藉此培養謙讓、促進社會和諧與政治安定。",
     "tags": [
       "禮義",
       "財",
@@ -302853,7 +302880,7 @@
   {
     "slug": "辟侔援推",
     "title": "辟侔援推",
-    "summary": "",
+    "summary": "墨家的辟、侔、援、推四种论式是通过举例说明、辞式比较、引证对方观点和类比推导来进行逻辑论证的方法，需以类同为准则审慎使用，否则易产生名实不符的诡辩错误。",
     "tags": [
       "名實",
       "墨學",
@@ -306053,7 +306080,7 @@
   {
     "slug": "逢醜父",
     "title": "逢醜父",
-    "summary": "",
+    "summary": "逢醜父在齐晋之战中与頃公互换位置，助頃公脱险，彰显其忠义之心。",
     "tags": [
       "部:史",
       "部:史/正史類"
@@ -307891,7 +307918,7 @@
   {
     "slug": "道交-之",
     "title": "道交-之",
-    "summary": "",
+    "summary": "A philosophical observation that the natural communication of the Dao resembles the bond between father and son—transcending judgments of right/wrong and wisdom/foolishness, and thus enduring eternally.",
     "tags": [
       "部:子",
       "部:子/道家類"
@@ -310207,7 +310234,7 @@
   {
     "slug": "遺-之",
     "title": "遺-之",
-    "summary": "",
+    "summary": "The passage warns that in heat‑disease recovery, eating too much or consuming meat can provoke a “relapse” (遺), and such overindulgence is therefore forbidden.",
     "tags": [
       "部:子",
       "部:子/醫家類"
@@ -313213,24 +313240,6 @@
         "plugin": "wikisource",
         "title": "儀禮 · 士冠禮",
         "url": "https://zh.wikisource.org/wiki/儀禮/士冠禮"
-      }
-    ]
-  },
-  {
-    "slug": "醴賓",
-    "title": "醴賓",
-    "summary": "禮請使者，以甒醴酌而饗之，示厚待媒氏之使。",
-    "tags": [
-      "婚禮",
-      "酒禮",
-      "酬賓",
-      "部:經"
-    ],
-    "sources": [
-      {
-        "plugin": "wikisource",
-        "title": "儀禮 · 士昬禮",
-        "url": "https://zh.wikisource.org/wiki/儀禮/士昬禮"
       }
     ]
   },
@@ -317251,7 +317260,7 @@
   {
     "slug": "間傳",
     "title": "間傳",
-    "summary": "",
+    "summary": "《間傳》論述五服之喪禮中，哀情表達於容體、聲音、言語、飲食、居處、衣服及變除等七端之具體規範，闡明居喪者如何依服制輕重而調整其言行舉止與生活方式。",
     "tags": [
       "禮記",
       "喪禮",
@@ -324738,7 +324747,7 @@
   {
     "slug": "靜以脩身",
     "title": "靜以脩身",
-    "summary": "",
+    "summary": "靜以脩身闡述了道家以「靜」為修身治國之根本，通過內心澄明達到無為而治的政治理想。",
     "tags": [
       "道家",
       "修身",
@@ -325123,7 +325132,7 @@
   {
     "slug": "非攻",
     "title": "非攻",
-    "summary": "",
+    "summary": "墨子認為攻伐（三利皆失）為天下巨害，區分聖王順天誅暴與世俗私戰的本質差異，主張非攻以兼顧天、鬼、人的利益。",
     "tags": [
       "兼愛",
       "墨學",
@@ -331642,7 +331651,7 @@
   {
     "slug": "高傒",
     "title": "高傒",
-    "summary": "",
+    "summary": "高傒与鲍叔牙共同拥立小白为齐桓公，因而成为齐国的大功臣。",
     "tags": [
       "部:史",
       "部:史/正史類"
@@ -333027,23 +333036,6 @@
     ]
   },
   {
-    "slug": "魂與魄",
-    "title": "魂與魄",
-    "summary": "魂為神藏，稟陽而好生；魄為識根，稟陰而望死。",
-    "tags": [
-      "內丹",
-      "魂魄",
-      "部:其他"
-    ],
-    "sources": [
-      {
-        "plugin": "wikisource",
-        "title": "太乙金華宗旨",
-        "url": "https://zh.wikisource.org/wiki/太乙金華宗旨"
-      }
-    ]
-  },
-  {
     "slug": "魂靈",
     "title": "魂靈",
     "summary": "魂者神之主，靈者神之用，二者相合以成生命。",
@@ -333707,7 +333699,7 @@
   {
     "slug": "魚不可脫於淵",
     "title": "魚不可脫於淵",
-    "summary": "",
+    "summary": "A fish must stay in the deep to survive; likewise a state’s crucial power must be hidden, for once revealed",
     "tags": [
       "老子",
       "帛書",
