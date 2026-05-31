@@ -7786,7 +7786,7 @@
   {
     "slug": "上易事下易知",
     "title": "上易事下易知",
-    "summary": "",
+    "summary": "This article explains the Confucian principle that effective governance relies on virtuous leadership and moral example—when rulers act with simplicity and sincerity, their subjects will naturally understand and follow, making punishment unnecessary.",
     "tags": [
       "治國",
       "為政",
@@ -8770,10 +8770,11 @@
     "title": "下而取-之",
     "summary": "",
     "tags": [
-      "部:其他",
       "治道",
       "外交",
-      "謙讓"
+      "謙讓",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -8832,6 +8833,27 @@
         "title": "上清大洞真經 · 24章",
         "url": "https://zh.wikisource.org/wiki/上清大洞真經/24章",
         "work": "上清大洞真經"
+      }
+    ]
+  },
+  {
+    "slug": "下雖正化上為詐",
+    "title": "下正化上",
+    "summary": "君不正則臣化之為詐也。",
+    "tags": [
+      "治道",
+      "為政",
+      "順化",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "順化",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 順化",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -9070,6 +9092,7 @@
       "無為",
       "政治哲學",
       "治道",
+      "老子",
       "部:子",
       "部:子/道家類"
     ],
@@ -9389,6 +9412,27 @@
         "title": "詩經 · 振鷺",
         "url": "https://zh.wikisource.org/wiki/詩經/振鷺",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "不先行兵",
+    "title": "不先行兵",
+    "summary": "承天後動不敢先倡",
+    "tags": [
+      "兵事",
+      "無為",
+      "玄用",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -11252,6 +11296,11 @@
     "title": "不敢為主而為客",
     "summary": "兵不以先發為貴，後應者為主。",
     "tags": [
+      "兵事",
+      "無為",
+      "玄用",
+      "老子言",
+      "主客",
       "部:子",
       "部:子/道家類"
     ],
@@ -11269,6 +11318,13 @@
         "title": "道德經 (王弼本) · 六十九章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -11277,6 +11333,10 @@
     "title": "不敢為天下先",
     "summary": "",
     "tags": [
+      "老子",
+      "河上公章句",
+      "三寶",
+      "謙退",
       "部:子",
       "部:子/道家類"
     ],
@@ -11287,6 +11347,13 @@
         "title": "老子 (帛書本) · 章六十七",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -11298,6 +11365,8 @@
       "兵法",
       "退守",
       "玄用",
+      "兵事",
+      "老子言",
       "部:子",
       "部:子/道家類"
     ],
@@ -11988,6 +12057,7 @@
       "天道",
       "修身",
       "治術",
+      "道家",
       "部:子",
       "部:子/道家類"
     ],
@@ -12012,6 +12082,28 @@
         "title": "道德經 (王弼本) · 六十八章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
+    "slug": "不爭善勝",
+    "title": "不爭善勝",
+    "summary": "聖人不與人爭先後，故天下莫能與之争。",
+    "tags": [
+      "老子",
+      "不爭",
+      "聖人",
+      "河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -13481,6 +13573,26 @@
     ]
   },
   {
+    "slug": "不行執",
+    "title": "不行執",
+    "summary": "行誅不行執",
+    "tags": [
+      "兵事",
+      "玄用",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "不行而知",
     "title": "不行而知",
     "summary": "聖人不待外涉，內觀而周知。",
@@ -13725,7 +13837,9 @@
     "summary": "聖人脩德天下，不言不教而民自化。",
     "tags": [
       "無為",
-      "教化"
+      "教化",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -14090,7 +14204,10 @@
     "slug": "不道早亡",
     "title": "不道早亡",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
     "sources": [
       {
         "chapter": "玄符",
@@ -20390,7 +20507,9 @@
     "tags": [
       "無為",
       "治道",
-      "老子河上公章句"
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -20906,7 +21025,7 @@
   {
     "slug": "二山",
     "title": "二山",
-    "summary": "",
+    "summary": "The article introduces two mystical Daoist mountains—太元之山 and 長谷之山—as secret, symbolic realms for achieving immortality through internal cultivation.",
     "tags": [
       "道教",
       "仙山",
@@ -27951,7 +28070,7 @@
   {
     "slug": "人生百年",
     "title": "人生百年",
-    "summary": "",
+    "summary": "本文阐述《礼记·曲礼上》所载的十个人生阶段（从十岁求学至百岁颐养），每阶段对应相应的责任与礼仪，体现出儒家对人生有序、各尽其职的传统观念。",
     "tags": [
       "曲禮",
       "禮記",
@@ -30483,7 +30602,9 @@
     "summary": "以身、家、鄉、國、天下之五事，觀其脩悖。",
     "tags": [
       "觀人",
-      "五觀"
+      "五觀",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -30985,6 +31106,27 @@
         "title": "管子 · 第29篇制分",
         "url": "https://zh.wikisource.org/wiki/管子/第29篇制分",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "以卑下",
+    "title": "以卑下",
+    "summary": "聖人持卑下之德，故天下歸之。",
+    "tags": [
+      "謙德",
+      "治道",
+      "河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -32070,7 +32212,7 @@
   {
     "slug": "以智治國國之賊也-之",
     "title": "以智治國國之賊也-之",
-    "summary": "",
+    "summary": "Using cleverness to govern a nation brings harm, whereas",
     "tags": [
       "道家",
       "治國",
@@ -33658,10 +33800,10 @@
       "道家",
       "觀人",
       "反己",
-      "部:子",
-      "部:子/道家類",
       "自觀",
-      "脩德"
+      "脩德",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -35292,7 +35434,7 @@
   {
     "slug": "伊尹",
     "title": "伊尹",
-    "summary": "",
+    "summary": "伊尹（阿",
     "tags": [
       "部:史",
       "部:史/正史類"
@@ -39791,6 +39933,26 @@
     ]
   },
   {
+    "slug": "侵境利財",
+    "title": "侵境利財",
+    "summary": "侵人利己自取敗亡",
+    "tags": [
+      "兵事",
+      "玄用",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "侵官之害甚於寒",
     "title": "侵官之害甚於寒",
     "summary": "越職之害，大於被寒之苦",
@@ -40902,7 +41064,7 @@
   {
     "slug": "信身從事",
     "title": "信身從事",
-    "summary": "",
+    "summary": "执政者应以诚信立身、言行相孚，以此感召臣民竭忠效力，从而实现天下治理。",
     "tags": [
       "墨學",
       "治國",
@@ -43574,6 +43736,9 @@
       "老子",
       "德行",
       "儉",
+      "河上公章句",
+      "三寶",
+      "節用",
       "部:子",
       "部:子/道家類"
     ],
@@ -43913,7 +44078,7 @@
   {
     "slug": "儒者迎妻",
     "title": "儒者迎妻",
-    "summary": "",
+    "summary": "墨子批评儒家的婚礼仪式虚伪、颠倒尊卑、背逆孝道，实为大奸之行。",
     "tags": [
       "墨學",
       "昏禮",
@@ -44231,6 +44396,19 @@
         "work": "尚書"
       }
     ]
+  },
+  {
+    "slug": "元吉无咎下不厚事",
+    "title": "Yuanji Wujiu Xia Bu Hou Shi / 元吉无咎下不厚事",
+    "summary": "The Xiaoxiang commentary for Hexagram 益's first yang line, explaining that one in a lower position achieves great fortune by not undertaking heavy tasks.",
+    "tags": [
+      "zhouyi",
+      "xiaoxiang",
+      "hexagram 益",
+      "confucian classics",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "元封元年",
@@ -44661,6 +44839,28 @@
     ]
   },
   {
+    "slug": "先人而後己",
+    "title": "先人而後己",
+    "summary": "聖人欲先人者，必以身後之。",
+    "tags": [
+      "治道",
+      "聖人",
+      "老子",
+      "河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "先令者殺後令者斬",
     "title": "先令者殺後令者斬",
     "summary": "令行禁止，先後皆誅；唯貴如令，無問遲速。",
@@ -44730,7 +44930,7 @@
   {
     "slug": "先啬",
     "title": "先嗇",
-    "summary": "",
+    "summary": "先嗇是古代蜡祭中的谷神，代表宇宙赐予人类谷物的神圣起源，象征农业丰收的期盼，并与司嗇、百种共同构成古人对农业因果的完整信仰体系。",
     "tags": [
       "禮記",
       "郊特牲",
@@ -45572,6 +45772,7 @@
       "聖人",
       "順化",
       "德行",
+      "治道",
       "部:子",
       "部:子/道家類"
     ],
@@ -51163,7 +51364,7 @@
   {
     "slug": "六經之教",
     "title": "六經之教",
-    "summary": "",
+    "summary": "六經各有其德性培育之長與失衡之弊",
     "tags": [
       "六經",
       "詩",
@@ -52162,6 +52363,26 @@
     ]
   },
   {
+    "slug": "兵者危物",
+    "title": "兵者危物",
+    "summary": "兵凶器",
+    "tags": [
+      "兵事",
+      "玄用",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "兵者尊主安國之經",
     "title": "兵者，尊主安國之經",
     "summary": "誅暴禁邪，莫要於兵。",
@@ -52807,6 +53028,8 @@
       "順化",
       "治國",
       "苛政",
+      "為政",
+      "治道",
       "部:子",
       "部:子/道家類"
     ],
@@ -53206,6 +53429,8 @@
       "防患",
       "微芒",
       "未然",
+      "預防",
+      "辨微",
       "部:子",
       "部:子/道家類"
     ],
@@ -53756,9 +53981,9 @@
       "德治",
       "治道",
       "大國之道",
+      "兼并",
       "部:子",
-      "部:子/道家類",
-      "兼并"
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -58908,9 +59133,9 @@
   {
     "slug": "劉無名",
     "title": "劉無名",
-    "summary": "",
+    "summary": "劉無名，成都蜀裔，棄名利而好道，從青城真人受金液九變神丹之法，歷三十餘年煉成上品還丹，最終隱居青城山不知所終（《歷世真仙體道",
     "tags": [
-      "部:其他"
+      "部:子"
     ],
     "sources": [
       {
@@ -59543,7 +59768,7 @@
   {
     "slug": "功成弗居",
     "title": "功成弗居",
-    "summary": "",
+    "summary": "One should step back after achieving success, avoiding self‑credit,",
     "tags": [
       "部:子",
       "部:子/道家類"
@@ -64028,7 +64253,7 @@
   {
     "slug": "千鎰之裘非一狐之白",
     "title": "千鎰之裘非一狐之白",
-    "summary": "",
+    "summary": "《墨子》指出，千金之裘非一狐之白，治",
     "tags": [
       "墨學",
       "治國",
@@ -65425,7 +65650,7 @@
   {
     "slug": "卜筮之問",
     "title": "卜筮之問",
-    "summary": "",
+    "summary": "The article explains that in Confucian tradition, divination should only be used to ask whether an action",
     "tags": [
       "儒學",
       "卜筮",
@@ -67714,7 +67939,7 @@
   {
     "slug": "反天之意",
     "title": "反天之意",
-    "summary": "",
+    "summary": "“反天之意”是《墨子》中的概念，指违背天",
     "tags": [
       "墨學",
       "天志",
@@ -71321,7 +71546,7 @@
   {
     "slug": "司過之神",
     "title": "司過之神",
-    "summary": "",
+    "summary": "**司過之神**是道教中監視人間過失的天神，根據人所犯輕重奪減其「算」（壽命），算盡則人死，體現了中國傳統天道賞善罰惡的觀念。",
     "tags": [
       "道教",
       "天罰",
@@ -71694,7 +71919,9 @@
     "tags": [
       "治道",
       "外交",
-      "互利"
+      "互利",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -78936,6 +79163,15 @@
     ]
   },
   {
+    "slug": "周流六爻",
+    "title": "Zhou Liu Liu Yao / 周流六爻",
+    "summary": "The cyclical movement through the six lines of a hexagram, as described in the context of the celestial mechanism (璇璣) and the alternation of yin and yang.",
+    "tags": [
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "周流行六虛",
     "title": "周流行六虛",
     "summary": "坎離之二用，周流於六位之虛，往來不定。",
@@ -79309,11 +79545,11 @@
       "恩始",
       "滋味",
       "帛書",
-      "部:子",
-      "部:子/道家類",
       "修身",
       "味道",
-      "老子河上公章句"
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -80031,6 +80267,26 @@
         "title": "文子 · 卷十",
         "url": "https://zh.wikisource.org/wiki/文子/卷十",
         "work": "文子"
+      }
+    ]
+  },
+  {
+    "slug": "和而不倡",
+    "title": "和而不倡",
+    "summary": "客兵和而不先",
+    "tags": [
+      "兵事",
+      "玄用",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -80896,6 +81152,8 @@
       "兵機",
       "德行",
       "老子兵法",
+      "兵事",
+      "仁義",
       "部:子",
       "部:子/道家類"
     ],
@@ -82864,6 +83122,8 @@
       "兵事",
       "治道",
       "老子河上公章句",
+      "為政",
+      "不爭",
       "部:子",
       "部:子/道家類"
     ],
@@ -83090,9 +83350,9 @@
       "老子",
       "修身",
       "厚德",
+      "建德",
       "部:子",
-      "部:子/道家類",
-      "建德"
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -83221,6 +83481,7 @@
       "兵法",
       "德行",
       "為政",
+      "止殺",
       "部:子",
       "部:子/道家類"
     ],
@@ -83277,9 +83538,9 @@
       "老子",
       "守道",
       "厚德",
+      "抱神",
       "部:子",
-      "部:子/道家類",
-      "抱神"
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -83868,6 +84129,8 @@
       "治道",
       "無為",
       "老子河上公章句",
+      "為政",
+      "德治",
       "部:子",
       "部:子/道家類"
     ],
@@ -83991,6 +84254,7 @@
       "治術",
       "修身",
       "為政",
+      "為下",
       "部:子",
       "部:子/道家類"
     ],
@@ -85336,9 +85600,9 @@
       "治道",
       "嗇德",
       "積德",
+      "嗇為本",
       "部:子",
-      "部:子/法家類",
-      "嗇為本"
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -89215,6 +89479,20 @@
     ]
   },
   {
+    "slug": "固有之也",
+    "title": "固有之也 / 固有之也",
+    "summary": "A concept from the I Ching meaning that the benefit of misfortune is inherent to its nature, not accidental.",
+    "tags": [
+      "周易",
+      "i ching",
+      "易學",
+      "益",
+      "古典哲學",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "圃澤東里",
     "title": "圃澤東里",
     "summary": "圃澤多賢，東里多才",
@@ -90012,11 +90290,11 @@
       "老子",
       "帛書",
       "為難",
-      "部:子",
-      "部:子/道家類",
       "謀略",
       "慎微",
-      "老子河上公章句"
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -92718,6 +92996,10 @@
     "title": "執無兵",
     "summary": "持兵若未持，器之形不露。",
     "tags": [
+      "兵事",
+      "玄用",
+      "老子言",
+      "天道",
       "部:子",
       "部:子/道家類"
     ],
@@ -92728,6 +93010,13 @@
         "title": "老子 (帛書校勘版) · 第三十四章 用兵",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -92840,9 +93129,29 @@
     ]
   },
   {
+    "slug": "執者失之",
+    "title": "執者失之",
+    "summary": "執利遇患，執道全身",
+    "tags": [
+      "無執",
+      "老子",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "守微",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 守微",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "執虛如執盈",
     "title": "執虛如執盈，入虛如有人",
-    "summary": "",
+    "summary": "Maintain ritual propriety whether observed or not—treat empty vessels as full and enter empty rooms as if people were present, showing that virtue is internalized rather than performed for an audience.",
     "tags": [
       "修身",
       "儒學",
@@ -92865,6 +93174,27 @@
         "title": "禮記 · 緇衣",
         "url": "https://zh.wikisource.org/wiki/禮記/緇衣",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "執謙退",
+    "title": "執謙退",
+    "summary": "執謙退讓",
+    "tags": [
+      "老子",
+      "河上公章句",
+      "謙德",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -94112,11 +94442,11 @@
       "河上公章句",
       "恩始",
       "恕道",
-      "部:子",
-      "部:子/道家類",
       "報怨",
       "德",
-      "老子河上公章句"
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -97750,7 +98080,7 @@
   {
     "slug": "大同",
     "title": "大同",
-    "summary": "",
+    "summary": "The article explains the Confucian ideal of “Datong” – a",
     "tags": [
       "儒學",
       "天下為公",
@@ -97906,10 +98236,10 @@
       "治國",
       "謙德",
       "水喻",
-      "部:子",
-      "部:子/道家類",
       "治道",
-      "外交"
+      "外交",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -99648,9 +99978,10 @@
       "治道",
       "外交",
       "謙德",
-      "部:子",
       "謙讓",
-      "大小"
+      "大小",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -100910,7 +101241,7 @@
   {
     "slug": "天下之本",
     "title": "天下之本",
-    "summary": "",
+    "summary": "天下之本在於修身，以道德修養為根基，由內而外依次影響家庭、國家，最終達致天下太平。",
     "tags": [
       "儒家",
       "政治哲學",
@@ -101157,9 +101488,9 @@
       "慎微",
       "道家",
       "漸進",
+      "老子河上公章句",
       "部:子",
-      "部:子/法家類",
-      "老子河上公章句"
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -101555,6 +101886,27 @@
         "title": "老子 (帛書校勘版) · 第九章 知足",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
+    "slug": "天下樂推",
+    "title": "天下樂推",
+    "summary": "恩厚愛厚，視民如赤子，天下樂推進以為主。",
+    "tags": [
+      "聖人",
+      "治道",
+      "河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -104055,6 +104407,8 @@
       "老子",
       "天道",
       "慈",
+      "河上公章句",
+      "三寶",
       "部:子",
       "部:子/道家類"
     ],
@@ -104452,7 +104806,7 @@
   {
     "slug": "天志",
     "title": "天志",
-    "summary": "",
+    "summary": "天志在于义，顺天者存、逆天者亡，体现于古代圣王与暴君的对比及兼别之道中。",
     "tags": [
       "墨學",
       "天道",
@@ -106796,7 +107150,7 @@
   {
     "slug": "天鬼之罰",
     "title": "天鬼之罰",
-    "summary": "",
+    "summary": "本文援引《仲虺之告》《太誓》等古籍，阐明天鬼赏罚基于人的道德行为，是对善恶的因果报应，而非盲目的",
     "tags": [
       "墨學",
       "天志",
@@ -109905,7 +110259,7 @@
   {
     "slug": "夾脊",
     "title": "夾脊",
-    "summary": "",
+    "summary": "In Taoist practice, 夾脊 (Jiaji) is a crucial energy pathway that facilitates the ascent of spirit and qi, connecting with the tailbone point and forming one of the three key barriers in the body.",
     "tags": [
       "部:其他"
     ],
@@ -111766,7 +112120,7 @@
   {
     "slug": "如履薄冰",
     "title": "如履薄冰",
-    "summary": "",
+    "summary": "本文說明《詩經·小宛》中「如履薄冰」的由來，強調此喻警示人在危險環境中必須保持高度",
     "tags": [
       "部:經",
       "部:經/詩類"
@@ -118453,7 +118807,7 @@
   {
     "slug": "季子之遏惡",
     "title": "季子之遏惡",
-    "summary": "",
+    "summary": "季子在庄公病危时以隐蔽方式酖死有谋反嫌疑的公子牙，既执行刑罚防止祸乱，又维护亲亲之道，展现了行权有道的智慧。",
     "tags": [
       "部:經",
       "部:經/春秋類"
@@ -119461,6 +119815,7 @@
       "順化",
       "禍福",
       "辨證",
+      "天道",
       "部:子",
       "部:子/道家類"
     ],
@@ -119572,6 +119927,7 @@
       "守微",
       "聖人之學",
       "無為之學",
+      "為道",
       "部:子",
       "部:子/法家類"
     ],
@@ -120629,7 +120985,7 @@
   {
     "slug": "守圍城之法",
     "title": "守圍城之法",
-    "summary": "",
+    "summary": "墨子強調守城應速戰速決、",
     "tags": [
       "圍城",
       "城守",
@@ -121611,6 +121967,9 @@
     "title": "物易持易謀易判易散",
     "summary": "未兆易謀，未形易持，脆微易散",
     "tags": [
+      "守微",
+      "預防",
+      "事物之漸",
       "部:子",
       "部:子/道家類"
     ],
@@ -121621,6 +121980,13 @@
         "title": "老子 (帛書校勘版) · 第二十七章 輔物",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "守微",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 守微",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -128262,7 +128628,8 @@
       "尊行",
       "加人",
       "德行",
-      "部:其他"
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -130865,6 +131232,27 @@
     ]
   },
   {
+    "slug": "居上不重",
+    "title": "居上不重",
+    "summary": "聖人處上位而不以尊貴虐下，民戴之不以為重。",
+    "tags": [
+      "聖人",
+      "治道",
+      "河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "居上而民弗重",
     "title": "居上而民弗重也",
     "summary": "聖人在上位而民不以其為重，此[[無為之治]]之要義也。",
@@ -130924,6 +131312,27 @@
         "title": "詩經 · 菀柳",
         "url": "https://zh.wikisource.org/wiki/詩經/菀柳",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "居前不害",
+    "title": "居前不害",
+    "summary": "聖人在民前，不以光照蔽後，民親之若父母。",
+    "tags": [
+      "聖人",
+      "治道",
+      "河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -131666,7 +132075,7 @@
   {
     "slug": "履霜堅冰至",
     "title": "履霜堅冰至",
-    "summary": "",
+    "summary": "The passage warns that small warning signs—like frost",
     "tags": [
       "儒家",
       "周易",
@@ -133136,7 +133545,7 @@
   {
     "slug": "左史倚相",
     "title": "左史倚相",
-    "summary": "",
+    "summary": "左史倚相凭雨季与吴军疲惫之势，建议",
     "tags": [
       "部:史",
       "部:史/別史類"
@@ -138161,6 +138570,7 @@
       "聖人",
       "順化",
       "德行",
+      "治道",
       "部:子",
       "部:子/道家類"
     ],
@@ -138748,7 +139158,7 @@
   {
     "slug": "延陵季子葬其子",
     "title": "延陵季子葬其子",
-    "summary": "",
+    "summary": "延陵季子遵循古禮以節哀順變之精神安葬其子，孔子讚其合禮，體現儒家對生死與葬禮的中和之道。",
     "tags": [
       "延陵季子",
       "葬禮",
@@ -139606,7 +140016,7 @@
   {
     "slug": "弗弗之臣",
     "title": "弗弗之臣",
-    "summary": "",
+    "summary": "墨子强调「弗弗之臣」的重要性，认为敢于直言进谏的忠臣是国家长治久安的关键，君主应广开言路，任用能纠正过失、拯救国家的贤士。",
     "tags": [
       "墨學",
       "臣道",
@@ -139667,7 +140077,7 @@
   {
     "slug": "弗損益之-之",
     "title": "弗損益之-之",
-    "summary": "",
+    "summary": "《損》卦以“弗損益之”闡述剛柔迭用、",
     "tags": [
       "部:經",
       "部:經/易類"
@@ -144625,6 +145035,27 @@
     ]
   },
   {
+    "slug": "得福而驕恣",
+    "title": "驕恣",
+    "summary": "人得志則驕，取禍之道也。",
+    "tags": [
+      "禍福",
+      "修身",
+      "順化",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "順化",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 順化",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "得臣无家",
     "title": "得臣无家",
     "summary": "不損以益天下，則天下皆臣，其心無私家。",
@@ -145752,6 +146183,10 @@
       "聖人",
       "救過",
       "學不學",
+      "為道",
+      "反本",
+      "歸樸",
+      "教化",
       "部:子",
       "部:子/道家類"
     ],
@@ -150811,6 +151246,28 @@
     ]
   },
   {
+    "slug": "恩深愛厚",
+    "title": "恩深愛厚",
+    "summary": "聖人恩深愛厚，視民如赤子。",
+    "tags": [
+      "聖人",
+      "治民",
+      "老子",
+      "河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "恩生於害",
     "title": "恩生於害",
     "summary": "恩與害相倚而成，聖人知此則無怨。",
@@ -151377,6 +151834,27 @@
         "title": "韓非子 · 說林下",
         "url": "https://zh.wikisource.org/wiki/韓非子/說林下",
         "work": "韓非子"
+      }
+    ]
+  },
+  {
+    "slug": "悔過責己修道行善",
+    "title": "悔過責己",
+    "summary": "遭禍能悔、修道行善，則禍去福來也。",
+    "tags": [
+      "修身",
+      "禍福",
+      "順化",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "順化",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 順化",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -153918,6 +154396,27 @@
     ]
   },
   {
+    "slug": "愛百姓若赤子",
+    "title": "愛百姓若赤子",
+    "summary": "愛民如嬰",
+    "tags": [
+      "老子",
+      "河上公章句",
+      "愛民",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "愛而不見",
     "title": "愛而不見",
     "summary": "情方深而跡潛藏，相見之機在隱微也。",
@@ -154174,6 +154673,26 @@
     ]
   },
   {
+    "slug": "慈仁不遠死",
+    "title": "慈仁不遠死",
+    "summary": "哀者不愛其身",
+    "tags": [
+      "兵事",
+      "玄用",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "慈仁成仙",
     "title": "慈仁成仙",
     "summary": "以慈仁之行而得仙道也。",
@@ -154195,6 +154714,26 @@
     ]
   },
   {
+    "slug": "慈仁致勝",
+    "title": "慈仁致勝",
+    "summary": "哀將之師必勝",
+    "tags": [
+      "兵事",
+      "玄用",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "慈仁過之母",
     "title": "慈仁過之母",
     "summary": "慈愛仁恩，反為過失所由生",
@@ -154212,6 +154751,29 @@
         "title": "商君書 · 卷二",
         "url": "https://zh.wikisource.org/wiki/商君書/卷二",
         "work": "商君書"
+      }
+    ]
+  },
+  {
+    "slug": "慈以戰則勝",
+    "title": "慈以戰則勝",
+    "summary": "慈仁者戰守兼備",
+    "tags": [
+      "老子",
+      "河上公章句",
+      "三寶",
+      "征戰",
+      "慈",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -154264,6 +154826,8 @@
       "勇",
       "韓非子",
       "德行",
+      "河上公章句",
+      "三寶",
       "部:子",
       "部:子/法家類"
     ],
@@ -154645,6 +155209,7 @@
       "慎終",
       "慎始",
       "敬慎",
+      "恭謹",
       "部:子",
       "部:子/道家類"
     ],
@@ -156011,6 +156576,8 @@
       "道德經",
       "謙德",
       "治道",
+      "河上公章句",
+      "三寶",
       "部:子",
       "部:子/道家類"
     ],
@@ -156028,6 +156595,13 @@
         "title": "道德經 (王弼本) · 六十七章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -156554,7 +157128,7 @@
   {
     "slug": "我无為而民自化-之",
     "title": "我无為而民自化-之",
-    "summary": "",
+    "summary": "本文阐释老子「我无为而民自化」之义，认为君主若能不妄为、顺其自然，百姓便会自发自正、向善化行，此为圣人治",
     "tags": [
       "部:子",
       "部:子/道家類"
@@ -158016,6 +158590,27 @@
     ]
   },
   {
+    "slug": "承天而動",
+    "title": "承天而動",
+    "summary": "兵以天時為節",
+    "tags": [
+      "兵事",
+      "天時",
+      "玄用",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "承天而行",
     "title": "承天而行",
     "summary": "五運承天而行，無妄動，無不應；卒然而動，乃氣之交變，則不應焉。",
@@ -158347,7 +158942,7 @@
   {
     "slug": "抗世子法",
     "title": "抗世子法",
-    "summary": "",
+    "summary": "抗世子法是周公以伯禽受罚作榜样，通过间接身教向成王传授孝道、君臣礼义和长幼有序",
     "tags": [
       "世子教育",
       "伯禽",
@@ -158375,7 +158970,9 @@
       "兵事",
       "軍勢",
       "兩軍對壘",
-      "部:其他"
+      "玄用",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -158384,6 +158981,13 @@
         "title": "道德經 (王弼本) · 六十九章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -158630,6 +159234,27 @@
         "title": "詩經 · 氓",
         "url": "https://zh.wikisource.org/wiki/詩經/氓",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "抱持保倚",
+    "title": "抱持保倚",
+    "summary": "保守三寶",
+    "tags": [
+      "老子",
+      "河上公章句",
+      "守道",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -159334,7 +159959,8 @@
       "駟馬",
       "道",
       "獻道",
-      "部:子"
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -160952,6 +161578,22 @@
     ]
   },
   {
+    "slug": "推情合性，轉而相與",
+    "title": "推情合性，轉而相與 / 推情合性，轉而相與",
+    "summary": "A phrase from Zhouyi Cantong Qi describing the mutual transformation and interplay of emotion and nature in the cosmic process.",
+    "tags": [
+      "性情",
+      "造化",
+      "迭運",
+      "璇璣",
+      "周易參同契",
+      "部:子",
+      "部:子/道家類",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "推消息",
     "title": "推消息",
     "summary": "推究增減盈虛之理，以明天地之常道。",
@@ -162471,6 +163113,10 @@
     "title": "攘無臂",
     "summary": "攘臂若未攘，示之以虛。",
     "tags": [
+      "玄德",
+      "兵事",
+      "不爭",
+      "老子言",
       "部:子",
       "部:子/道家類"
     ],
@@ -162481,6 +163127,13 @@
         "title": "老子 (帛書校勘版) · 第三十四章 用兵",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -163301,7 +163954,7 @@
   {
     "slug": "敖不可長欲不可從志不可滿樂不可極",
     "title": "敖不可長，欲不可從，志不可滿，樂不可極",
-    "summary": "",
+    "summary": "Arrogance, unchecked desire, complacency, and extreme pleasure—four self‑indulgences",
     "tags": [
       "修身",
       "儒學",
@@ -167101,6 +167754,7 @@
       "聖人",
       "順化",
       "德行",
+      "治道",
       "部:子",
       "部:子/法家類"
     ],
@@ -170087,7 +170741,7 @@
   {
     "slug": "明堂之位",
     "title": "明堂之位",
-    "summary": "",
+    "summary": "明堂之位通过空间布局具体体现周代的政治",
     "tags": [
       "禮記",
       "明堂",
@@ -174473,7 +175127,7 @@
   {
     "slug": "晏子使楚",
     "title": "晏子使楚",
-    "summary": "",
+    "summary": "晏子",
     "tags": [
       "部:子",
       "部:子/雜家類"
@@ -174885,6 +175539,22 @@
         "work": "周易"
       }
     ]
+  },
+  {
+    "slug": "晦朔之間，合符行中",
+    "title": "晦朔之間，合符行中 / Haishutsu no aida, Gofu gyochū",
+    "summary": "The pivotal interval between dark and new moon when the 合符 mechanism operates at the center of the cyclical transformation.",
+    "tags": [
+      "晦朔",
+      "合符",
+      "週期",
+      "陰陽迭運",
+      "周易參同契",
+      "部:子",
+      "部:子/道家類",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "晦朔合符",
@@ -177846,9 +178516,9 @@
       "長久",
       "帛書",
       "根本",
+      "治身",
       "部:子",
-      "部:子/法家類",
-      "治身"
+      "部:子/法家類"
     ],
     "sources": [
       {
@@ -178117,6 +178787,20 @@
         "work": "周易"
       }
     ]
+  },
+  {
+    "slug": "有孚惠我德",
+    "title": "有孚惠我德 / Yǒu Fú Huì Wǒ Dé",
+    "summary": "A phrase from Hexagram Yi (益), Line 5, describing genuine trust and the rewarding of virtue.",
+    "tags": [
+      "易經",
+      "益卦",
+      "九五",
+      "儒家哲學",
+      "誠信",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "有孚攣如",
@@ -178772,7 +179456,9 @@
     "tags": [
       "道家",
       "解脫",
-      "免罪"
+      "免罪",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -181833,7 +182519,11 @@
       "遊方道士",
       "辟穀",
       "隱化",
-      "部:子"
+      "道家",
+      "治道",
+      "守微",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -181842,6 +182532,13 @@
         "title": "歷世真仙體道通鑑 · 43",
         "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/43",
         "work": "歷世真仙體道通鑑"
+      },
+      {
+        "chapter": "守微",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 守微",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -190310,9 +191007,30 @@
     ]
   },
   {
+    "slug": "欲上民必以下",
+    "title": "欲上民必以下",
+    "summary": "欲居民上者，必以言辭自卑。",
+    "tags": [
+      "治道",
+      "謙德",
+      "河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "欲不可從",
     "title": "欲不可從",
-    "summary": "",
+    "summary": "欲为人之常，但纵欲害德，修身当寡欲，节制而非绝欲，方能养心明德。",
     "tags": [
       "修身",
       "曲禮",
@@ -190405,6 +191123,9 @@
       "知足",
       "子罕",
       "去欲",
+      "崇儉",
+      "守真",
+      "聖人之操",
       "部:子",
       "部:子/法家類"
     ],
@@ -190422,6 +191143,34 @@
         "title": "老子 (帛書校勘版) · 第四十七章 安民",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "守微",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 守微",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
+    "slug": "欲先民必身後",
+    "title": "欲先民必身後",
+    "summary": "欲為民先者，必以身居後。",
+    "tags": [
+      "治道",
+      "聖人",
+      "河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -191247,7 +191996,7 @@
   {
     "slug": "正名之說",
     "title": "正名之說",
-    "summary": "",
+    "summary": "本文阐述墨子《经说下",
     "tags": [
       "墨學",
       "邏輯學",
@@ -191592,6 +192341,9 @@
       "老子",
       "禍福",
       "辨證",
+      "治道",
+      "變化",
+      "順化",
       "部:子",
       "部:子/道家類"
     ],
@@ -191602,6 +192354,13 @@
         "title": "老子 (帛書校勘版) · 第二十一章 為正",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "順化",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 順化",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -191717,7 +192476,7 @@
   {
     "slug": "正氣與邪氣",
     "title": "正氣與邪氣",
-    "summary": "",
+    "summary": "本文闡述道家心性修養中正氣與邪氣的對立關係，強調正氣源於循理合義、心治氣順，邪氣生於嗜欲任情、心亂氣逆，二者此消彼長，唯有透過治心、捐欲、虛靜之道，方能扶正祛邪、體道合自然。",
     "tags": [
       "正氣",
       "邪氣",
@@ -191776,6 +192535,9 @@
     "tags": [
       "道家",
       "去私",
+      "為政",
+      "修身",
+      "順化",
       "部:子",
       "部:子/道家類"
     ],
@@ -191785,6 +192547,13 @@
         "plugin": "wikisource",
         "title": "老子河上公章句 · 還淳",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      },
+      {
+        "chapter": "順化",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 順化",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
       }
     ]
@@ -199234,6 +200003,8 @@
       "聖人治道",
       "謙德",
       "不爭",
+      "聖人",
+      "河上公章句",
       "部:子",
       "部:子/道家類"
     ],
@@ -199258,6 +200029,27 @@
         "title": "道德經 (王弼本) · 六十六章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
+    "slug": "江海為百谷王",
+    "title": "江海為百谷王",
+    "summary": "聖人法江海卑下之德以王天下。",
+    "tags": [
+      "治道",
+      "謙德",
+      "河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -201049,7 +201841,7 @@
   {
     "slug": "治天下若治一家",
     "title": "治天下若治一家",
-    "summary": "",
+    "summary": "The article expounds Mozi’s “治天下若治一家” teaching that governing the world follows the same principles as managing a family—emphasizing unified will (尚同)—and links it to",
     "tags": [
       "墨學",
       "政治哲學",
@@ -201537,7 +202329,7 @@
   {
     "slug": "泉水",
     "title": "泉水",
-    "summary": "",
+    "summary": "诗中以泉水与淇水分列左右象征故土恩情，女子远行离乡、思归不得，深切表达了思乡之情。",
     "tags": [
       "部:經",
       "部:經/詩類"
@@ -203127,7 +203919,7 @@
   {
     "slug": "洛書",
     "title": "洛書",
-    "summary": "",
+    "summary": "洛書是天赐的神圣图符，或自然显现或由神鸟携带，旨在补足古代圣贤的不足，记载于《太平经·09》。",
     "tags": [
       "部:子",
       "部:子/道家類"
@@ -204710,7 +205502,7 @@
   {
     "slug": "淫佚",
     "title": "淫佚",
-    "summary": "",
+    "summary": "A summary of this article could be:\n\n**\"淫佚\" (yin-yi) refers to indulgence and excess without restraint, which Mohist philosophy condemns as a characteristic of the \"small person\" that leads to ruin—the opposite of moderation (儉節)—and is demonstrated in five areas (housing, clothing, food, transport, and private possessions) where the sage-kings practiced restraint",
     "tags": [
       "墨學",
       "倫理學",
@@ -210601,6 +211393,29 @@
       "守微",
       "未然",
       "無為之治",
+      "先事",
+      "圖難",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "守微",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 守微",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
+    "slug": "為之於未有治之於未亂",
+    "title": "為之於未有治之於未亂",
+    "summary": "聖人自治於未有形，治亂於未萌。",
+    "tags": [
+      "豫防",
+      "無為",
+      "未然",
       "部:子",
       "部:子/道家類"
     ],
@@ -210698,7 +211513,7 @@
   {
     "slug": "為人臣下者",
     "title": "為人臣下者",
-    "summary": "",
+    "summary": "The article outlines the ethical duties of a minister toward a ruler, stressing careful judgment, respectful loyalty, prudent counsel, and proper conduct to avoid impropriety and maintain integrity.",
     "tags": [
       "修身",
       "儒學",
@@ -210998,7 +211813,9 @@
     "summary": "欲為大事，必作於小，禍亂從小來",
     "tags": [
       "慎微",
-      "老子河上公章句"
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -211146,10 +211963,10 @@
       "天下",
       "貴",
       "至尊",
-      "部:子",
-      "部:子/道家類",
       "貴道",
-      "功用"
+      "功用",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -211667,9 +212484,9 @@
       "老子",
       "帛書",
       "河上公章句",
+      "老子河上公章句",
       "部:子",
-      "部:子/雜家類",
-      "老子河上公章句"
+      "部:子/雜家類"
     ],
     "sources": [
       {
@@ -211844,6 +212661,26 @@
     ]
   },
   {
+    "slug": "為者敗之",
+    "title": "為者敗之",
+    "summary": "有為廢自然",
+    "tags": [
+      "無為",
+      "老子",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "守微",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 守微",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "為者敗之執者失之",
     "title": "為者敗之執者失之",
     "summary": "強為者必敗，強執者必失，自然之理也。",
@@ -211933,6 +212770,13 @@
         "plugin": "wikisource",
         "title": "老子河上公章句 · 能為",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
+      },
+      {
+        "chapter": "守微",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 守微",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
       }
     ]
@@ -213491,6 +214335,26 @@
     ]
   },
   {
+    "slug": "無兵刃可持",
+    "title": "無兵刃可持",
+    "summary": "欲持若無可持",
+    "tags": [
+      "兵事",
+      "玄用",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "無冬無夏",
     "title": "無冬無夏",
     "summary": "祭祀之禮不因寒暑而輟，以刺陳侯以祭代政。",
@@ -213548,7 +214412,9 @@
     "tags": [
       "老子河上公章句",
       "重德",
-      "不爭"
+      "不爭",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -214343,6 +215209,9 @@
       "兵機",
       "道術",
       "無為之治",
+      "兵事",
+      "無形",
+      "玄用",
       "部:子",
       "部:子/道家類"
     ],
@@ -214360,6 +215229,13 @@
         "title": "道德經 (王弼本) · 六十九章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -214382,6 +215258,26 @@
         "title": "管子 · 爲兵之數",
         "url": "https://zh.wikisource.org/wiki/管子/七法/爲兵之數",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "無敵可仍",
+    "title": "無敵可仍",
+    "summary": "欲援若無敵可援",
+    "tags": [
+      "兵事",
+      "玄用",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -215303,6 +216199,26 @@
         "title": "詩經 · 角弓",
         "url": "https://zh.wikisource.org/wiki/詩經/角弓",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "無臂可攘",
+    "title": "無臂可攘",
+    "summary": "威怒若無形",
+    "tags": [
+      "兵事",
+      "玄用",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -218226,10 +219142,10 @@
       "靜觀",
       "靜德",
       "柔弱勝剛強",
-      "部:子",
-      "部:子/道家類",
       "柔弱",
-      "謙德"
+      "謙德",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -220696,6 +221612,8 @@
       "老子",
       "悖論",
       "大順",
+      "治身",
+      "河上公章句",
       "部:子",
       "部:子/道家類"
     ],
@@ -220956,7 +221874,7 @@
   {
     "slug": "玄道",
     "title": "玄道",
-    "summary": "",
+    "summary": "玄道是《抱朴子》所阐释的宇宙根本之理，强调内得而外守、神用而器忘，超越声色滋味，以达身心与自然合一的神秘境界。",
     "tags": [
       "道家",
       "玄學",
@@ -222096,7 +223014,7 @@
   {
     "slug": "玉藻",
     "title": "天子玉藻",
-    "summary": "",
+    "summary": "本文概述《禮記·玉藻》篇，詳細記載天子至士各級貴族的服飾、朝儀、史官職責、庖廚之禮及佩玉制度，以服飾儀容明貴賤之分，聲音步趨養中和之德，體現古代中國禮制中修身治國的核心精神。",
     "tags": [
       "冕服",
       "周禮",
@@ -224279,6 +225197,24 @@
     ]
   },
   {
+    "slug": "王霸之辨-之",
+    "title": "王霸之辨-之",
+    "summary": "",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "王靈輿九江",
     "title": "王靈輿九江",
     "summary": "王靈輿居五老峰，神人告以當得福地，遷衡嶽一紀，天監十一年七月十三日昇天。",
@@ -226082,6 +227018,8 @@
       "治術",
       "為政",
       "聖人",
+      "君臣",
+      "為下",
       "部:子",
       "部:子/道家類"
     ],
@@ -226222,6 +227160,28 @@
         "title": "三略",
         "url": "https://zh.wikisource.org/wiki/三略",
         "work": "三略"
+      }
+    ]
+  },
+  {
+    "slug": "用兵有言",
+    "title": "用兵有言",
+    "summary": "兵道尚讓，老子疾用兵者之貪，故託古誼以設義。",
+    "tags": [
+      "兵事",
+      "老子言",
+      "玄用",
+      "玄用三十",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "玄用",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 玄用",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -232059,6 +233019,28 @@
     ]
   },
   {
+    "slug": "百姓親附一心",
+    "title": "百姓親附一心",
+    "summary": "百姓一心",
+    "tags": [
+      "老子",
+      "河上公章句",
+      "慈",
+      "歸附",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "百姓足君孰與不足",
     "title": "百姓足君孰與不足",
     "summary": "百姓富則君自足，藏富於民之義。",
@@ -233408,7 +234390,10 @@
     "slug": "益生之祥",
     "title": "益生之祥",
     "summary": "",
-    "tags": [],
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
     "sources": [
       {
         "chapter": "玄符",
@@ -234535,6 +235520,7 @@
       "聖人",
       "順化",
       "德行",
+      "修身",
       "部:子",
       "部:子/道家類"
     ],
@@ -241712,6 +242698,27 @@
     ]
   },
   {
+    "slug": "福倚禍伏",
+    "title": "倚伏",
+    "summary": "福禍相根，倚以待時也。",
+    "tags": [
+      "禍福",
+      "天道",
+      "順化",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "順化",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 順化",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "福履綏將成",
     "title": "福履綏將成",
     "summary": "福履之來，由逮下而漸至於成也。",
@@ -243587,7 +244594,7 @@
   {
     "slug": "秉心塞淵",
     "title": "秉心塞淵",
-    "summary": "",
+    "summary": "本文阐释了《诗经·定之方中》中“秉心塞淵”的深意，指出",
     "tags": [
       "部:經",
       "部:經/詩類"
@@ -246501,7 +247508,8 @@
       "天子",
       "三公",
       "官制",
-      "部:子"
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -253749,7 +254757,7 @@
   {
     "slug": "縣火防守",
     "title": "縣火防守",
-    "summary": "",
+    "summary": "縣火防守是墨家獨特的城牆火攻防御術，利用懸掛火具配合鼓聲信號，從高處投放以形成火牆阻截攻城敵軍。",
     "tags": [
       "墨家",
       "防禦術",
@@ -253772,7 +254780,7 @@
   {
     "slug": "縣脾",
     "title": "縣脾",
-    "summary": "",
+    "summary": "The article details the design, dimensions, operation, deployment",
     "tags": [
       "墨學",
       "防禦器械",
@@ -254229,6 +255237,27 @@
         "title": "管子 · 第84篇輕重戊",
         "url": "https://zh.wikisource.org/wiki/管子/第84篇輕重戊",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "缺缺日以踈薄",
+    "title": "缺缺",
+    "summary": "民失所養日以迫蹙也。",
+    "tags": [
+      "治道",
+      "為政",
+      "順化",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "順化",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 順化",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -258304,7 +259333,9 @@
     "summary": "聖人動作舉事猶進退，重難之，欲塞其源",
     "tags": [
       "慎行",
-      "老子河上公章句"
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -258446,6 +259477,13 @@
         "title": "老子河上公章句 · 淳風",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "守微",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 守微",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -258509,6 +259547,28 @@
         "title": "管子 · 勢",
         "url": "https://zh.wikisource.org/wiki/管子/勢",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "聖人在上不重",
+    "title": "聖人在上不重",
+    "summary": "聖人在上不以尊貴虐下，故民戴而不為重。",
+    "tags": [
+      "治民",
+      "聖人",
+      "老子",
+      "河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "後己",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -259133,9 +260193,9 @@
       "治道",
       "無為",
       "實質",
+      "[[寡慾]]",
       "部:子",
-      "部:子/道家類",
-      "[[寡慾]]"
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -259163,6 +260223,26 @@
         "chapter": "謙德",
         "plugin": "wikisource",
         "title": "老子河上公章句 · 謙德",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
+    "slug": "聖人無執故無失",
+    "title": "聖人無執故無失",
+    "summary": "聖人無所執藏",
+    "tags": [
+      "聖人",
+      "無執",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "守微",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 守微",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
       }
@@ -259216,6 +260296,26 @@
         "title": "關尹子 · 9",
         "url": "https://zh.wikisource.org/wiki/關尹子/9",
         "work": "關尹子"
+      }
+    ]
+  },
+  {
+    "slug": "聖人無為故無敗",
+    "title": "聖人無為故無敗",
+    "summary": "聖人不為華文色利殘賊",
+    "tags": [
+      "聖人",
+      "無為",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "守微",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 守微",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -259572,7 +260672,9 @@
     "summary": "聖人終生無患難之事，猶避害深也",
     "tags": [
       "無患",
-      "老子河上公章句"
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -261815,7 +262917,7 @@
   {
     "slug": "聽穴",
     "title": "聽穴之法",
-    "summary": "",
+    "summary": "以甕置井中、伏聽地下挖掘之聲，憑土壤傳導音效偵測敵人地道位置的古法城防技術。",
     "tags": [
       "墨子",
       "軍事技術",
@@ -264306,7 +265408,9 @@
       "治道",
       "治家",
       "治國",
-      "治天下"
+      "治天下",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -264328,11 +265432,11 @@
       "治道",
       "道德",
       "修身",
-      "部:子",
-      "部:子/道家類",
       "脩德",
       "子孫",
-      "祭祀"
+      "祭祀",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -265294,9 +266398,9 @@
       "一體",
       "春秋公羊傳",
       "治道",
+      "人倫",
       "部:史",
-      "部:史/正史類",
-      "人倫"
+      "部:史/正史類"
     ],
     "sources": [
       {
@@ -265925,7 +267029,7 @@
   {
     "slug": "自卑尊人",
     "title": "自卑而尊人",
-    "summary": "",
+    "summary": "礼的核心在于自卑谦逊、尊重他人，且不论贫富贵贱，唯有上下相敬才能实现社会和谐。",
     "tags": [
       "修身",
       "曲禮",
@@ -265966,6 +267070,20 @@
         "work": "荀子"
       }
     ]
+  },
+  {
+    "slug": "自外來也",
+    "title": "Coming from Without / 自外來也",
+    "summary": "A Yijing 小象 term indicating benefits or influences arriving from outside, not sought by human effort.",
+    "tags": [
+      "yijing",
+      "易學",
+      "小象",
+      "益卦",
+      "周易",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "自天佑之",
@@ -266361,6 +267479,27 @@
         "plugin": "wikisource",
         "title": "文心雕龍 · 隱秀",
         "url": "https://zh.wikisource.org/wiki/文心雕龍/隱秀"
+      }
+    ]
+  },
+  {
+    "slug": "自營助",
+    "title": "自營助",
+    "summary": "自營自助",
+    "tags": [
+      "老子",
+      "河上公章句",
+      "自強",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -270100,7 +271239,7 @@
   {
     "slug": "良才難令",
     "title": "良才難令",
-    "summary": "",
+    "summary": "优秀贤才因独立人格难以被命令，但若能善加驾驭，便能助",
     "tags": [
       "墨學",
       "人才",
@@ -273132,7 +274271,9 @@
     "tags": [
       "老子河上公章句",
       "重德",
-      "玄德"
+      "玄德",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -280248,7 +281389,7 @@
   {
     "slug": "虧人自利",
     "title": "虧人自利",
-    "summary": "",
+    "summary": "墨子以「虧人自利」（損害他人以利己）為不義之根本原則，強調無論竊桃李或攻國之罪，害人愈甚則不義愈深，批判世人能識別小害之非卻忽略大害之非的認知混亂。",
     "tags": [
       "墨學",
       "正義",
@@ -282529,6 +283670,9 @@
       "玄用",
       "老子言兵",
       "老子",
+      "兵事",
+      "老子言",
+      "玄德",
       "部:子",
       "部:子/道家類"
     ],
@@ -283610,7 +284754,7 @@
   {
     "slug": "衡與挈引",
     "title": "衡與挈引",
-    "summary": "",
+    "summary": "《墨",
     "tags": [
       "墨學",
       "力學",
@@ -287297,7 +288441,9 @@
     "summary": "以五事觀人，知脩悖之驗。",
     "tags": [
       "觀人",
-      "老子言"
+      "老子言",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -296518,7 +297664,7 @@
   {
     "slug": "賞於祖僇於社",
     "title": "賞於祖僇於社",
-    "summary": "",
+    "summary": "古聖王在祖廟行賞、在社稷行罰，借鬼神監察以確保賞罰公正。",
     "tags": [
       "祭祀",
       "社稷",
@@ -296782,7 +297928,7 @@
   {
     "slug": "賞罰以勸賢",
     "title": "賞罰以勸賢",
-    "summary": "",
+    "summary": "Mozi advocated that effective governance hinges on using rewards and punishments to promote virtue and deter vice, rejecting fatalism to maintain societal order.",
     "tags": [
       "墨學",
       "政治哲學",
@@ -297965,6 +299111,27 @@
         "title": "管子 · 第64篇形勢解",
         "url": "https://zh.wikisource.org/wiki/管子/第64篇形勢解",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "賦斂取之於己",
+    "title": "賦斂取之於己",
+    "summary": "斂取若出己身",
+    "tags": [
+      "老子",
+      "河上公章句",
+      "愛民",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -301318,7 +302485,7 @@
   {
     "slug": "躬自厚而薄責於人",
     "title": "躬自厚而薄責於人",
-    "summary": "",
+    "summary": "A concise teaching that one should be strict with oneself and lenient toward others, thus avoiding resentment.",
     "tags": [
       "部:經",
       "部:經/四書類"
@@ -302353,6 +303520,11 @@
       "兵法",
       "輕敵",
       "修身",
+      "兵事",
+      "玄用",
+      "老子",
+      "河上公章句",
+      "三寶",
       "部:子",
       "部:子/道家類"
     ],
@@ -302370,6 +303542,13 @@
         "title": "道德經 (王弼本) · 六十九章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -302528,7 +303707,9 @@
     "summary": "不重言也",
     "tags": [
       "信",
-      "老子河上公章句"
+      "老子河上公章句",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -305331,6 +306512,27 @@
         "title": "周易 · 復",
         "url": "https://zh.wikisource.org/wiki/周易/復",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "迷惑失正由來固久",
+    "title": "人之迷",
+    "summary": "人之迷惑失正道，由來已久，非一旦也。",
+    "tags": [
+      "治道",
+      "人事",
+      "順化",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "順化",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 順化",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -308560,6 +309762,10 @@
       "道德經",
       "道體",
       "玄覽",
+      "老子",
+      "河上公章句",
+      "三寶",
+      "大道",
       "部:子",
       "部:子/道家類"
     ],
@@ -308570,6 +309776,13 @@
         "title": "道德經 (王弼本) · 六十七章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "三寶",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 三寶",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -309605,7 +310818,8 @@
       "道",
       "萬物",
       "奧",
-      "部:子"
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -313242,6 +314456,8 @@
       "天道",
       "德行",
       "老子河上公章句",
+      "道家",
+      "德治",
       "部:子",
       "部:子/道家類"
     ],
@@ -313407,6 +314623,9 @@
       "德行",
       "醇厚",
       "醇謹",
+      "治道",
+      "為政",
+      "順化",
       "部:史",
       "部:史/正史類"
     ],
@@ -313417,6 +314636,34 @@
         "title": "史記 · 卷103",
         "url": "https://zh.wikisource.org/wiki/史記/卷103",
         "work": "史記"
+      },
+      {
+        "chapter": "順化",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 順化",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
+    "slug": "醇厚富厚醇醇",
+    "title": "醇",
+    "summary": "醇厚之醇，無邪之稱也。",
+    "tags": [
+      "治道",
+      "為政",
+      "順化",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "順化",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 順化",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -313457,6 +314704,27 @@
         "title": "史記 · 卷103",
         "url": "https://zh.wikisource.org/wiki/史記/卷103",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "醇醇富厚",
+    "title": "醇醇",
+    "summary": "政寬民富相親和睦也。",
+    "tags": [
+      "治道",
+      "為政",
+      "順化",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "順化",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 順化",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -320475,6 +321743,20 @@
     ]
   },
   {
+    "slug": "陽以三立，陰以八通",
+    "title": "Yang Establishes Through Three, Yin Connects Through Eight / 陽以三立，陰以八通",
+    "summary": "A principle from Zhouyi Cantong Qi describing the timing of yang's rise on the third day and yin's emergence on the eighth day of the lunar month.",
+    "tags": [
+      "zhouyi cantong qi",
+      "daoist alchemy",
+      "yin-yang theory",
+      "lunar phases",
+      "ninefold method",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "陽侯之波",
     "title": "陽侯之波",
     "summary": "陽侯之波，因人主之志而逆流或止，喻天地之應出於心誠。",
@@ -320705,6 +321987,20 @@
         "work": "周易參同契"
       }
     ]
+  },
+  {
+    "slug": "陽數已訖，訖則復起",
+    "title": "Yang Numbers Have Ended, and When Ended They Rise Again / 陽數已訖，訖則復起",
+    "summary": "A principle from Zhouyi Cantongqi describing the cyclical alternation of yin and yang in the cosmos and alchemy.",
+    "tags": [
+      "迭運",
+      "循環",
+      "陽數",
+      "晦朔合符",
+      "周易參同契",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "陽明脈解",
@@ -325411,6 +326707,27 @@
         "title": "春秋公羊傳 · 哀公",
         "url": "https://zh.wikisource.org/wiki/春秋公羊傳/哀公",
         "work": "春秋公羊傳"
+      }
+    ]
+  },
+  {
+    "slug": "非以明民",
+    "title": "非以明民",
+    "summary": "善為道者不以智巧教民，而以道德樸愚。",
+    "tags": [
+      "治道",
+      "老子",
+      "河上公章句",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "淳德",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 淳德",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -332086,7 +333403,7 @@
   {
     "slug": "高以下為基",
     "title": "高以下為基",
-    "summary": "",
+    "summary": "The article explains that true elevation or power must be grounded in humility, as the Laozi and its commentaries (e.g., the “He‑Shang‑Gong” commentary) teach that a solid, lasting high position can only be built on a strong, humble foundation.",
     "tags": [
       "部:子",
       "部:子/道家類"
@@ -333106,6 +334423,24 @@
         "work": "詩經"
       }
     ]
+  },
+  {
+    "slug": "鬼谷子",
+    "title": "Guiguzi / 鬼谷子",
+    "summary": "A Warring States period philosophical work on strategy, diplomacy, and political manipulation attributed to the hermit strategist Wang Xu.",
+    "tags": [
+      "鬼谷子",
+      "兵法",
+      "縱橫家",
+      "先秦哲學",
+      "雜家",
+      "法家",
+      "治道",
+      "聖人",
+      "部:子",
+      "stub"
+    ],
+    "sources": []
   },
   {
     "slug": "鬼谷子不可毀",
