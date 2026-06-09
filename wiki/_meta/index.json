@@ -12095,13 +12095,23 @@
       "聖人",
       "河上公章句",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "天道",
+      "無為",
+      "任為"
     ],
     "sources": [
       {
         "chapter": "後己",
         "plugin": "wikisource",
         "title": "老子河上公章句 · 後己",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      },
+      {
+        "chapter": "任為",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 任為",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
       }
@@ -27295,6 +27305,25 @@
     ]
   },
   {
+    "slug": "人之死也堅強",
+    "title": "人之死也堅強",
+    "summary": "和氣竭，精神亡，故死時堅強。",
+    "tags": [
+      "道家",
+      "堅強",
+      "生死"
+    ],
+    "sources": [
+      {
+        "chapter": "戒強",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 戒強",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "人之為言",
     "title": "人之為言",
     "summary": "偽言、讒言也。詩人戒人勿信浮言。",
@@ -27345,7 +27374,9 @@
       "生死",
       "柔弱",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "道家",
+      "養生"
     ],
     "sources": [
       {
@@ -27354,6 +27385,13 @@
         "title": "老子 (帛書校勘版) · 第四十一章 柔弱",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "戒強",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 戒強",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -29992,7 +30030,8 @@
       "越俎",
       "自傷",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "僭越"
     ],
     "sources": [
       {
@@ -39096,7 +39135,9 @@
       "治道",
       "民性",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "愛民",
+      "安土"
     ],
     "sources": [
       {
@@ -44406,7 +44447,8 @@
       "xiaoxiang",
       "hexagram 益",
       "confucian classics",
-      "stub"
+      "stub",
+      "部:其他"
     ],
     "sources": []
   },
@@ -52199,7 +52241,9 @@
       "兵事",
       "柔弱",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "道家",
+      "柔弱勝剛強"
     ],
     "sources": [
       {
@@ -52208,6 +52252,13 @@
         "title": "老子 (帛書校勘版) · 第四十一章 柔弱",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      },
+      {
+        "chapter": "戒強",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 戒強",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -60319,7 +60370,8 @@
       "禍福",
       "帛書本",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "任為"
     ],
     "sources": [
       {
@@ -69276,6 +69328,13 @@
         "title": "道德經 (王弼本) · 七十八章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "任信",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 任信",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -71495,7 +71554,10 @@
       "無為",
       "自然",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "道家哲學",
+      "天道觀",
+      "刑賞"
     ],
     "sources": [
       {
@@ -79167,7 +79229,8 @@
     "title": "Zhou Liu Liu Yao / 周流六爻",
     "summary": "The cyclical movement through the six lines of a hexagram, as described in the context of the celestial mechanism (璇璣) and the alternation of yin and yang.",
     "tags": [
-      "stub"
+      "stub",
+      "部:其他"
     ],
     "sources": []
   },
@@ -89488,7 +89551,9 @@
       "易學",
       "益",
       "古典哲學",
-      "stub"
+      "stub",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": []
   },
@@ -102183,6 +102248,13 @@
         "title": "老子河上公章句 · 德經",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
+      },
+      {
+        "chapter": "任信",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 任信",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -102514,7 +102586,9 @@
       "賞罰",
       "禍福",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "敬畏",
+      "任為"
     ],
     "sources": [
       {
@@ -106027,13 +106101,23 @@
       "天道",
       "報應",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "任為",
+      "天道觀",
+      "因果"
     ],
     "sources": [
       {
         "chapter": "任為",
         "plugin": "wikisource",
         "title": "老子河上公章句 · 任為",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      },
+      {
+        "chapter": "制惑",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 制惑",
         "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
         "work": "老子河上公章句"
       }
@@ -129201,7 +129285,11 @@
       "政治理想",
       "無為之治",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "政治",
+      "無為",
+      "治道",
+      "小邦"
     ],
     "sources": [
       {
@@ -140617,6 +140705,13 @@
         "title": "道德經 (王弼本) · 七十八章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "任信",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 任信",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -142098,6 +142193,25 @@
         "title": "老子 (帛書本) · 章七十六",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      }
+    ]
+  },
+  {
+    "slug": "強大處下",
+    "title": "強大處下，柔弱處上",
+    "summary": "天道抑強扶弱，自然之效。",
+    "tags": [
+      "道家",
+      "強弱",
+      "天道"
+    ],
+    "sources": [
+      {
+        "chapter": "戒強",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 戒強",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -146212,7 +146326,9 @@
       "上古之風",
       "反樸歸真",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "反樸",
+      "文質"
     ],
     "sources": [
       {
@@ -161587,9 +161703,9 @@
       "迭運",
       "璇璣",
       "周易參同契",
-      "部:子",
-      "部:子/道家類",
-      "stub"
+      "stub",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": []
   },
@@ -175550,9 +175666,9 @@
       "週期",
       "陰陽迭運",
       "周易參同契",
-      "部:子",
-      "部:子/道家類",
-      "stub"
+      "stub",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": []
   },
@@ -178798,7 +178914,9 @@
       "九五",
       "儒家哲學",
       "誠信",
-      "stub"
+      "stub",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": []
   },
@@ -181312,7 +181430,9 @@
       "柔弱",
       "強弱",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "道家",
+      "自然"
     ],
     "sources": [
       {
@@ -181321,6 +181441,13 @@
         "title": "道德經 (王弼本) · 七十六章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "戒強",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 戒強",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -184824,6 +184951,13 @@
         "title": "道德經 (王弼本) · 七十八章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "任信",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 任信",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -185027,7 +185161,8 @@
       "柔弱",
       "強弱",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "道家"
     ],
     "sources": [
       {
@@ -185036,6 +185171,13 @@
         "title": "老子 (帛書本) · 章七十六",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "戒強",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 戒強",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -192795,6 +192937,13 @@
         "title": "道德經 (王弼本) · 七十八章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "任信",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 任信",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -196689,7 +196838,8 @@
       "生死",
       "無為",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "治民"
     ],
     "sources": [
       {
@@ -197712,7 +197862,8 @@
       "重死",
       "無為之治",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "自化"
     ],
     "sources": [
       {
@@ -199410,6 +199561,13 @@
         "title": "道德經 (王弼本) · 七十五章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "貪損",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 貪損",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -212015,7 +212173,9 @@
       "賞罰",
       "老子",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "治道",
+      "刑罰"
     ],
     "sources": [
       {
@@ -226006,7 +226166,9 @@
       "恬淡",
       "自足",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "知足",
+      "安土"
     ],
     "sources": [
       {
@@ -228937,7 +229099,9 @@
       "偃武",
       "道家",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "止戈",
+      "無爭"
     ],
     "sources": [
       {
@@ -267081,7 +267245,9 @@
       "小象",
       "益卦",
       "周易",
-      "stub"
+      "stub",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": []
   },
@@ -271053,7 +271219,8 @@
       "治道",
       "交通",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "崇儉"
     ],
     "sources": [
       {
@@ -273353,6 +273520,25 @@
         "title": "管子 · 第58篇地員",
         "url": "https://zh.wikisource.org/wiki/管子/第58篇地員",
         "work": "管子"
+      }
+    ]
+  },
+  {
+    "slug": "草木柔脆",
+    "title": "萬物草木之生也柔脆",
+    "summary": "萬物草木生意亦稟和氣，和氣存則柔脆，和氣去則枯槁。",
+    "tags": [
+      "道家",
+      "生死",
+      "物類"
+    ],
+    "sources": [
+      {
+        "chapter": "戒強",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 戒強",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -285354,7 +285540,9 @@
       "帛書",
       "內美",
       "部:子",
-      "部:子/道家類"
+      "部:子/道家類",
+      "內外",
+      "藏德"
     ],
     "sources": [
       {
@@ -289886,6 +290074,13 @@
         "title": "道德經 (王弼本) · 七十章",
         "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
         "work": "道德經 (王弼本)"
+      },
+      {
+        "chapter": "知難",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 知難",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
       }
     ]
   },
@@ -314168,6 +314363,25 @@
     ]
   },
   {
+    "slug": "鄰國相望雞犬之聲相聞",
+    "title": "鄰國相望雞犬之聲相聞",
+    "summary": "境界近而無所往來。",
+    "tags": [
+      "治道",
+      "自治",
+      "無為"
+    ],
+    "sources": [
+      {
+        "chapter": "獨立",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 獨立",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/德經",
+        "work": "老子河上公章句"
+      }
+    ]
+  },
+  {
     "slug": "鄰邦相望",
     "title": "鄰邦相望",
     "summary": "鄰近之邦，雞犬相聞，遙遙相望，而不相侵。",
@@ -321752,7 +321966,8 @@
       "yin-yang theory",
       "lunar phases",
       "ninefold method",
-      "stub"
+      "stub",
+      "部:其他"
     ],
     "sources": []
   },
@@ -321998,7 +322213,9 @@
       "陽數",
       "晦朔合符",
       "周易參同契",
-      "stub"
+      "stub",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": []
   },
@@ -334437,8 +334654,9 @@
       "法家",
       "治道",
       "聖人",
+      "stub",
       "部:子",
-      "stub"
+      "部:子/兵家類"
     ],
     "sources": []
   },
