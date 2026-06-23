@@ -251,7 +251,9 @@
       "周易",
       "易學",
       "六十四卦",
-      "儒學"
+      "儒學",
+      "部:經",
+      "部:經/易類"
     ],
     "sources": [
       {
@@ -10537,7 +10539,9 @@
       "無為",
       "老子",
       "部:子",
-      "部:子/墨家類"
+      "部:子/墨家類",
+      "道家",
+      "政治哲學"
     ],
     "sources": [
       {
@@ -13671,6 +13675,24 @@
     ]
   },
   {
+    "slug": "不見可欲使民心不亂",
+    "title": "不見可欲使民心不亂",
+    "summary": "不見可欲則心無所亂。",
+    "tags": [
+      "道家",
+      "政治哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "三章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
     "slug": "不見子都",
     "title": "不見子都",
     "summary": "詩人欲見美士而不得，反遇狂且，以寓所美非美之歎。",
@@ -14090,6 +14112,24 @@
         "title": "尚書 · 旅獒",
         "url": "https://zh.wikisource.org/wiki/尚書/旅獒",
         "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "不貴難得之貨使民不為盜",
+    "title": "不貴難得之貨使民不為盜",
+    "summary": "不貴難得之貨則盜不作。",
+    "tags": [
+      "道家",
+      "政治哲學"
+    ],
+    "sources": [
+      {
+        "chapter": "三章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -35818,6 +35858,26 @@
     ]
   },
   {
+    "slug": "伍被告變",
+    "title": "伍被告變",
+    "summary": "臣證其主必反遂致族",
+    "tags": [
+      "淮南王",
+      "伍被",
+      "證告",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
     "slug": "伏戎于莽",
     "title": "伏戎于莽",
     "summary": "潛藏戎兵，伺隙而動，終不能興",
@@ -38995,6 +39055,24 @@
         "title": "莊子 · 天運",
         "url": "https://zh.wikisource.org/wiki/莊子/天運",
         "work": "莊子"
+      }
+    ]
+  },
+  {
+    "slug": "使夫智者不敢為",
+    "title": "使夫智者不敢為",
+    "summary": "知者知為，不敢妄作。",
+    "tags": [
+      "道家",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "三章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -48174,6 +48252,28 @@
     ]
   },
   {
+    "slug": "八公",
+    "title": "八公",
+    "summary": "八仙變童以驗道術",
+    "tags": [
+      "神仙",
+      "方術",
+      "淮南王",
+      "化身",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
     "slug": "八公變童",
     "title": "八公變童",
     "summary": "八公往詣淮南王，露髻青鬢色如桃花，授以丹經而仙去。",
@@ -48182,6 +48282,9 @@
       "八公",
       "淮南王",
       "仙去",
+      "神仙",
+      "幻化",
+      "方術",
       "部:經"
     ],
     "sources": [
@@ -48191,6 +48294,13 @@
         "title": "歷世真仙體道通鑑 · 5",
         "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/5",
         "work": "歷世真仙體道通鑑"
+      },
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -59433,6 +59543,27 @@
         "title": "歷世真仙體道通鑑 · 31",
         "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/31",
         "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
+    "slug": "劉綱激火",
+    "title": "劉綱激火",
+    "summary": "與夫人鬬術",
+    "tags": [
+      "劉綱",
+      "樊夫人",
+      "鬬法",
+      "神仙",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -109411,6 +109542,26 @@
     ]
   },
   {
+    "slug": "夫人唾成獺",
+    "title": "夫人唾成獺",
+    "summary": "唾盤之物制鯽",
+    "tags": [
+      "樊夫人",
+      "變化",
+      "神仙",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
     "slug": "夫人姜氏孫于邾婁",
     "title": "夫人姜氏孫于邾婁",
     "summary": "哀姜出奔，慶父之亂成矣。",
@@ -109716,6 +109867,27 @@
         "title": "詩經 · 關雎",
         "url": "https://zh.wikisource.org/wiki/詩經/關雎",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "夫婦上昇",
+    "title": "夫婦上昇",
+    "summary": "夫人平坐冉冉如雲",
+    "tags": [
+      "劉綱",
+      "樊夫人",
+      "昇天",
+      "神仙",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -116492,6 +116664,26 @@
     ]
   },
   {
+    "slug": "孔元持杖倒立",
+    "title": "孔元持杖倒立",
+    "summary": "持酒倒飮",
+    "tags": [
+      "孔元",
+      "服食",
+      "神仙",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
     "slug": "孔元方",
     "title": "孔元方",
     "summary": "記孔元方服脂卻穀、年百七十而顏如四十之事。",
@@ -120058,6 +120250,27 @@
     ]
   },
   {
+    "slug": "孫登撫琴",
+    "title": "孫登撫琴",
+    "summary": "撫弦琴無恚怒",
+    "tags": [
+      "孫登",
+      "神仙",
+      "音樂",
+      "隱淪",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
     "slug": "孫綽為文",
     "title": "孫綽為文",
     "summary": "孫綽志在碑誄，然其時作者辭多枝雜，唯桓彝一篇最為辨裁。",
@@ -122376,6 +122589,28 @@
         "title": "抱朴子 · 卷13",
         "url": "https://zh.wikisource.org/wiki/抱朴子/卷13",
         "work": "抱朴子"
+      }
+    ]
+  },
+  {
+    "slug": "安期授道",
+    "title": "安期授道",
+    "summary": "別師當迎汝六百年",
+    "tags": [
+      "安期生",
+      "李少君",
+      "別離",
+      "神仙",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -127763,6 +127998,26 @@
     ]
   },
   {
+    "slug": "封隅穴居",
+    "title": "封隅穴居",
+    "summary": "斷穀一月兩月而出",
+    "tags": [
+      "孔元",
+      "辟穀",
+      "神仙",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
     "slug": "射之射非不射之射",
     "title": "射之射非不射之射",
     "summary": "技術之射與無心之射，截然有間。",
@@ -130428,6 +130683,67 @@
         "title": "老子 (帛書校勘版) · 第六十七章 執一",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書校勘版)",
         "work": "老子 (帛書校勘版)"
+      }
+    ]
+  },
+  {
+    "slug": "少君占器",
+    "title": "少君占器",
+    "summary": "望古器知齊桓所陳",
+    "tags": [
+      "李少君",
+      "占驗",
+      "博物",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
+    "slug": "少君夢太一請",
+    "title": "少君夢太一請",
+    "summary": "太一乘龍持節從雲中下",
+    "tags": [
+      "李少君",
+      "夢",
+      "太一",
+      "神仙",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
+    "slug": "少君尸解",
+    "title": "少君尸解",
+    "summary": "棺中無所復有唯履在耳",
+    "tags": [
+      "李少君",
+      "尸解",
+      "神仙",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -133500,6 +133816,26 @@
         "title": "禮記 · 曲禮下",
         "url": "https://zh.wikisource.org/wiki/禮記/曲禮下",
         "work": "禮記"
+      }
+    ]
+  },
+  {
+    "slug": "嵇康從遊",
+    "title": "嵇康從遊",
+    "summary": "三年所圖終不答",
+    "tags": [
+      "孫登",
+      "嵇康",
+      "神仙",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -136775,6 +137111,24 @@
         "title": "尚書 · 立政",
         "url": "https://zh.wikisource.org/wiki/尚書/立政",
         "work": "尚書"
+      }
+    ]
+  },
+  {
+    "slug": "常使民無知無欲",
+    "title": "常使民無知無欲",
+    "summary": "守其真則無知無欲。",
+    "tags": [
+      "道家",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "三章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -141038,6 +141392,25 @@
     ]
   },
   {
+    "slug": "弱志強骨",
+    "title": "弱志強骨",
+    "summary": "志弱骨強，志生事以亂，骨無知以幹。",
+    "tags": [
+      "道家",
+      "養生",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "三章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
     "slug": "弱民",
     "title": "弱民",
     "summary": "民弱則國強，務在削民之志使歸於耕戰",
@@ -143505,6 +143878,26 @@
         "plugin": "wikisource",
         "title": "性命圭旨 · 貞集",
         "url": "https://zh.wikisource.org/wiki/性命圭旨/貞集"
+      }
+    ]
+  },
+  {
+    "slug": "形累事充",
+    "title": "形累事充",
+    "summary": "形雖大不能累其體，事雖殷不能充其量",
+    "tags": [
+      "王弼",
+      "形而上",
+      "形而下",
+      "道與物"
+    ],
+    "sources": [
+      {
+        "chapter": "四章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 四章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -160915,6 +161308,26 @@
         "title": "詩經 · 子衿",
         "url": "https://zh.wikisource.org/wiki/詩經/子衿",
         "work": "詩經"
+      }
+    ]
+  },
+  {
+    "slug": "挫銳無損",
+    "title": "挫銳無損",
+    "summary": "銳挫而無損，紛解而不勞",
+    "tags": [
+      "挫銳",
+      "王弼",
+      "解分",
+      "不爭"
+    ],
+    "sources": [
+      {
+        "chapter": "四章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 四章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -183065,6 +183478,27 @@
     ]
   },
   {
+    "slug": "李少君不死之方",
+    "title": "李少君不死之方",
+    "summary": "臣已食之逮先師授臣口傳",
+    "tags": [
+      "李少君",
+      "不死之藥",
+      "神仙",
+      "方術",
+      "部:史"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
     "slug": "李廣",
     "title": "李廣",
     "summary": "漢之名將，善射，終身不封侯。",
@@ -184554,6 +184988,27 @@
         "title": "史記 · 卷053",
         "url": "https://zh.wikisource.org/wiki/史記/卷053",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "東陵聖母監所",
+    "title": "東陵聖母監所",
+    "summary": "青鳥集盜物人之上",
+    "tags": [
+      "東陵聖母",
+      "青鳥",
+      "禁戒",
+      "神仙",
+      "部:集"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -190355,6 +190810,27 @@
         "title": "歷世真仙體道通鑑 · 20",
         "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/20",
         "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
+    "slug": "樊夫人符檄",
+    "title": "樊夫人符檄",
+    "summary": "禁蛇虎如持繩",
+    "tags": [
+      "樊夫人",
+      "禁制",
+      "神仙",
+      "符籲",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -205690,7 +206166,11 @@
       "真仙",
       "巴束",
       "閉目",
-      "部:子"
+      "涉正",
+      "神仙",
+      "靜默",
+      "部:子",
+      "部:子/道家類"
     ],
     "sources": [
       {
@@ -205699,6 +206179,13 @@
         "title": "歷世真仙體道通鑑 · 5",
         "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/5",
         "work": "歷世真仙體道通鑑"
+      },
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -206394,6 +206881,27 @@
         "title": "淮南子 · 敘目",
         "url": "https://zh.wikisource.org/wiki/淮南子/敘目",
         "work": "淮南子"
+      }
+    ]
+  },
+  {
+    "slug": "淮南王丹竈",
+    "title": "淮南王丹竈",
+    "summary": "煮藥丹竈使王上昇",
+    "tags": [
+      "神仙",
+      "淮南王",
+      "昇天",
+      "丹竈",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -213141,6 +213649,25 @@
     ]
   },
   {
+    "slug": "為無為則無不治",
+    "title": "為無為則無不治",
+    "summary": "為無為，則天下無不治。",
+    "tags": [
+      "道家",
+      "無為",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "三章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
     "slug": "為王休",
     "title": "為王休",
     "summary": "成王之美也。",
@@ -217342,6 +217869,26 @@
         "title": "歷世真仙體道通鑑 · 15",
         "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/15",
         "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
+    "slug": "焦先河渚",
+    "title": "焦先河渚",
+    "summary": "食草飲水無衣履",
+    "tags": [
+      "焦先",
+      "隱淪",
+      "神仙",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -224968,6 +225515,27 @@
     ]
   },
   {
+    "slug": "王烈服石髓",
+    "title": "王烈服石髓",
+    "summary": "青泥如髓搏之成石",
+    "tags": [
+      "王烈",
+      "神仙",
+      "服食",
+      "石髓",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
     "slug": "王猶允塞",
     "title": "王猶允塞",
     "summary": "天子之謀誠實充盈，天道相符。",
@@ -227736,6 +228304,26 @@
         "plugin": "wikisource",
         "title": "文心雕龍 · 事類",
         "url": "https://zh.wikisource.org/wiki/文心雕龍/事類"
+      }
+    ]
+  },
+  {
+    "slug": "用光得薪",
+    "title": "用光得薪",
+    "summary": "保其體用才在識貞",
+    "tags": [
+      "孫登",
+      "嵇康",
+      "哲言",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -236964,6 +237552,10 @@
       "仙人",
       "巾服",
       "真人",
+      "神仙",
+      "存思",
+      "養生",
+      "方術",
       "部:子",
       "部:子/道家類"
     ],
@@ -236974,6 +237566,13 @@
         "title": "黃庭內景經 · 僊人章第二十八",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/僊人章第二十八",
         "work": "黃庭內景經"
+      },
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -259770,6 +260369,24 @@
     ]
   },
   {
+    "slug": "聖人之治虛心實腹",
+    "title": "聖人之治虛心實腹",
+    "summary": "虛其心以守道，實其腹以全生。",
+    "tags": [
+      "道家",
+      "治道"
+    ],
+    "sources": [
+      {
+        "chapter": "三章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 三章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
+      }
+    ]
+  },
+  {
     "slug": "聖人之生也天行",
     "title": "聖人之生也天行",
     "summary": "聖人法天之運行，順陰陽之節，生死皆與物化。",
@@ -265032,6 +265649,27 @@
         "plugin": "wikisource",
         "title": "神仙傳 · 卷七",
         "url": "https://zh.wikisource.org/wiki/神仙傳/卷七",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
+    "slug": "胎息胎食",
+    "title": "胎息胎食",
+    "summary": "閉炁吞之胎食漱咽之",
+    "tags": [
+      "胎息",
+      "胎食",
+      "神仙",
+      "方術",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
         "work": "神仙傳"
       }
     ]
@@ -277580,6 +278218,27 @@
     ]
   },
   {
+    "slug": "董仲悔不服藥",
+    "title": "董仲悔不服藥",
+    "summary": "試之未半齒重生",
+    "tags": [
+      "董仲",
+      "李少君",
+      "藥",
+      "悔恨",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
     "slug": "董南運",
     "title": "董南運",
     "summary": "道行高潔，預言羽化之期",
@@ -278128,6 +278787,28 @@
         "title": "周易 · 明夷",
         "url": "https://zh.wikisource.org/wiki/周易/明夷",
         "work": "周易"
+      }
+    ]
+  },
+  {
+    "slug": "蒯子順",
+    "title": "蒯子順",
+    "summary": "受少君密法得仙",
+    "tags": [
+      "蒯子順",
+      "李少君",
+      "神仙",
+      "授法",
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -296729,6 +297410,13 @@
         "title": "老子 (帛書本) · 章四",
         "url": "https://zh.wikisource.org/wiki/老子 (帛書本)",
         "work": "老子 (帛書本)"
+      },
+      {
+        "chapter": "四章",
+        "plugin": "wikisource",
+        "title": "道德經 (王弼本) · 四章",
+        "url": "https://zh.wikisource.org/wiki/道德經 (王弼本)",
+        "work": "道德經 (王弼本)"
       }
     ]
   },
@@ -311524,6 +312212,23 @@
     ]
   },
   {
+    "slug": "道生求方",
+    "title": "道生求方",
+    "summary": "",
+    "tags": [
+      "部:子"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
     "slug": "道生物德畜物",
     "title": "道生物德畜物",
     "summary": "道生之，德畜之，物形之，勢成之，萬物莫不尊道而貴德。",
@@ -313681,6 +314386,27 @@
     ]
   },
   {
+    "slug": "郊間人歌",
+    "title": "郊間人歌",
+    "summary": "巾金巾入天門之術",
+    "tags": [
+      "郊間人",
+      "歌謠",
+      "存思",
+      "神仙",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
+      }
+    ]
+  },
+  {
     "slug": "郎宗佔候遁去",
     "title": "郎宗",
     "summary": "北海人，精道術佔候，能預知京師大火，恥以佔事就徵，懸印遁去，隱華山服食得道。",
@@ -313780,6 +314506,27 @@
         "title": "史記 · 卷032",
         "url": "https://zh.wikisource.org/wiki/史記/卷032",
         "work": "史記"
+      }
+    ]
+  },
+  {
+    "slug": "郤孟節",
+    "title": "郤孟節",
+    "summary": "閉氣不息身不動搖若死人",
+    "tags": [
+      "郤孟節",
+      "王真",
+      "胎息",
+      "神仙",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -322403,6 +323150,27 @@
         "title": "歷世真仙體道通鑑 · 21",
         "url": "https://zh.wikisource.org/wiki/歷世真仙體道通鑑/21",
         "work": "歷世真仙體道通鑑"
+      }
+    ]
+  },
+  {
+    "slug": "陳長祭水",
+    "title": "陳長祭水",
+    "summary": "四時設祭水飲皆愈",
+    "tags": [
+      "陳長",
+      "祭水",
+      "治病",
+      "神仙",
+      "部:其他"
+    ],
+    "sources": [
+      {
+        "chapter": "卷六",
+        "plugin": "wikisource",
+        "title": "神仙傳 · 卷六",
+        "url": "https://zh.wikisource.org/wiki/神仙傳/卷六",
+        "work": "神仙傳"
       }
     ]
   },
@@ -334240,6 +335008,24 @@
         "title": "黃庭內景經 · 口為章第三",
         "url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經/口為章第三",
         "work": "黃庭內景經"
+      }
+    ]
+  },
+  {
+    "slug": "體道-之",
+    "title": "體道-之",
+    "summary": "",
+    "tags": [
+      "部:子",
+      "部:子/道家類"
+    ],
+    "sources": [
+      {
+        "chapter": "上",
+        "plugin": "wikisource",
+        "title": "老子河上公章句 · 上",
+        "url": "https://zh.wikisource.org/wiki/老子河上公章句/上",
+        "work": "老子河上公章句"
       }
     ]
   },
